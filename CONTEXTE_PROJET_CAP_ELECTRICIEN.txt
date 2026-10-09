@@ -1,0 +1,590 @@
+CONTEXTE DU PROJET — BANQUE DE RESSOURCES DE MATHÉMATIQUES
+CAP ÉLECTRICIEN — GROUPEMENT 1
+
+==================================================
+
+1. OBJECTIF DU PROJET
+   ==================================================
+
+Construire un tableau HTML complet de ressources permettant à des élèves de CAP Électricien de travailler les mathématiques en autonomie.
+
+Le tableau doit couvrir le programme officiel de mathématiques du CAP Électricien, groupement 1, sans ajouter d'objectifs qui ne figurent pas dans ce programme.
+
+Le tableau doit permettre à l'élève de :
+
+* comprendre une notion grâce à un cours ou une vidéo ;
+* s'entraîner grâce à des exercices adaptés ;
+* revoir les connaissances antérieures nécessaires grâce à des ressources de prérequis ;
+* progresser de manière autonome.
+
+Le projet concerne la banque de ressources en autonomie. Il ne faut pas organiser les quatre séances en présentiel de l'enseignant.
+
+Dépôt GitHub du projet :
+https://github.com/maristudy/divers/tree/master
+
+Fichier HTML principal :
+tableau_CAP_Electricien_maths.html
+
+Le fichier HTML existant est la base de travail. Il faut le corriger et le compléter, et non le remplacer arbitrairement par un nouveau tableau qui perdrait le travail déjà effectué.
+
+==================================================
+2. RÉFÉRENCE OFFICIELLE DU PROGRAMME
+====================================
+
+Programme officiel :
+https://eduscol.education.fr/document/25954/download
+
+Périmètre strict :
+
+* Mathématiques du CAP Électricien.
+* Groupement 1 uniquement.
+* Ne pas intégrer le domaine commercial et financier réservé au groupement 2.
+* Respecter les connaissances et capacités du programme officiel.
+* Les prérequis peuvent être ajoutés pour faciliter l'apprentissage, mais ils doivent être clairement identifiés comme prérequis et ne doivent pas être présentés comme des objectifs supplémentaires du CAP.
+
+Domaines à couvrir :
+
+* Statistique à une variable.
+* Probabilités.
+* Proportionnalité.
+* Premier degré.
+* Fonctions.
+* Géométrie du groupement 1.
+* Calculs numériques transversaux.
+* Algorithmique et programmation.
+* Automatismes.
+
+Les automatismes doivent être identifiés conformément au programme. Les sous-compétences pédagogiques peuvent être séparées en plusieurs lignes pour faciliter l'entraînement, mais cette décomposition ne doit pas modifier le programme officiel.
+
+==================================================
+3. RÈGLE ABSOLUE : LE BON LIEN AU BON ENDROIT
+=============================================
+
+La pertinence pédagogique du lien est prioritaire sur le remplissage du tableau.
+
+Un lien mal classé peut empêcher un élève de travailler efficacement en autonomie.
+
+Chaque ressource doit être classée selon sa fonction réelle, et non selon le nom du site qui l'héberge.
+
+COLONNE COURS :
+
+* Cours rédigé.
+* Définitions.
+* Propriétés.
+* Méthodes expliquées.
+* Fiche de synthèse ou PDF de cours.
+* Page de référence dont la partie visée permet effectivement d'apprendre la notion.
+
+COLONNE VIDÉO :
+
+* Vidéo qui explique réellement la notion.
+* La vidéo doit être adaptée au contenu de la ligne.
+* Une vidéo simplement liée au thème général, mais qui ne traite pas la compétence visée, ne suffit pas.
+
+COLONNE EXERCICE :
+
+* Exercice interactif.
+* Entraînement.
+* Questionnaire.
+* Application d'une méthode.
+* Activité numérique destinée à faire pratiquer l'élève.
+* Générateur d'exercices avec correction.
+
+COLONNE PRÉREQUIS :
+
+* Connaissance antérieure nécessaire pour réussir la notion.
+* Lien interne vers une autre ligne ou une section de prérequis clairement identifiée.
+* Ne pas confondre prérequis et objectif officiel du programme.
+
+Exemple de classement impératif :
+https://manuel.sesamath.net/numerique/diapo.php?atome=67245&ordre=1
+
+Cette ressource Sésamath est un exercice de rangement de fractions. Elle doit figurer dans la colonne EXERCICE et jamais dans la colonne COURS.
+
+Une ressource peut être utile sans être adaptée à la colonne dans laquelle elle se trouve. Dans ce cas, il faut la déplacer ou la retirer.
+
+Si aucune ressource satisfaisante n'est trouvée, laisser la cellule vide plutôt que d'insérer un lien inadapté.
+
+==================================================
+4. MÉTHODE DE VÉRIFICATION DES RESSOURCES
+=========================================
+
+Pour chaque ligne du tableau :
+
+1. Identifier précisément la connaissance ou la capacité officielle visée.
+2. Déterminer si l'élève a besoin d'un cours, d'une vidéo, d'un exercice ou d'un prérequis.
+3. Ouvrir le lien lorsque cela est possible.
+4. Vérifier le contenu réel de la page ou de la ressource.
+5. Vérifier que la ressource traite bien la notion attendue.
+6. Vérifier qu'elle n'introduit pas inutilement des notions hors programme.
+7. Vérifier que le lien mène directement à la ressource, et non simplement à la page d'accueil du site, lorsqu'un lien direct est disponible.
+8. Vérifier que le lien n'est pas manifestement cassé ou obsolète.
+9. Classer la ressource dans la bonne colonne.
+10. En cas de doute, ne pas prétendre que la ressource a été vérifiée.
+
+Ne jamais inventer un lien, un titre de ressource ou un contenu supposé.
+
+Ne pas considérer qu'un lien est adapté simplement parce que son adresse contient le nom d'une notion.
+
+Les liens non vérifiés doivent être distingués des liens vérifiés. Si le tableau ne permet pas cette distinction, il faut conserver une liste de contrôle séparée.
+
+Privilégier la qualité et la précision plutôt que le nombre de liens.
+
+==================================================
+5. SOURCES À PRIVILÉGIER
+========================
+
+Vidéos :
+
+* Yvan Monka / Maths-et-Tiques.
+* J'ai Compris Maths.
+* Les Bons Profs.
+
+Exercices interactifs :
+
+* MathALÉA / Coopmaths.
+* Mathenpoche.
+* Sésamath.
+* Le Livre Scolaire lorsque les autres sources ne proposent pas de ressource suffisamment adaptée.
+
+Cours et fiches :
+
+* Maths-et-Tiques / Yvan Monka.
+* Sésamath.
+* Le Livre Scolaire.
+* Autres sources fiables si elles proposent une ressource plus précise et adaptée.
+
+Ne pas imposer une source unique à toutes les notions. Le choix doit dépendre du contenu réel de la ressource.
+
+Ne pas utiliser les ressources « Maths et Jeux – Juliette Hernando » ni « Papa des Maths ».
+
+Éviter les pages trop générales si un lien direct vers le cours ou l'exercice existe.
+
+==================================================
+6. RÈGLES PARTICULIÈRES POUR MATHALÉA
+=====================================
+
+MathALÉA est une source privilégiée pour les exercices interactifs lorsque le générateur correspond réellement à la compétence visée.
+
+Format de lien à privilégier :
+https://coopmaths.fr/alea/?id=CODE
+
+Utiliser le code stable correspondant à l'exercice, et non un lien temporaire contenant des paramètres générés ou un identifiant éphémère.
+
+Les exercices MathALÉA permettent généralement de générer de nouvelles valeurs et de consulter une correction. Ils peuvent donc être utilisés pour le diagnostic et les tentatives répétées.
+
+Ne pas placer un PDF MathALÉA dans la colonne Exercice lorsqu'un exercice interactif correspondant est disponible.
+
+Si MathALÉA ne propose pas d'exercice adapté :
+
+1. rechercher dans Mathenpoche ;
+2. rechercher dans Sésamath ;
+3. examiner Le Livre Scolaire ;
+4. laisser la cellule vide si aucune ressource pertinente n'est trouvée.
+
+Le fichier de référence des exercices MathALÉA est :
+https://github.com/maristudy/divers/blob/master/asideMatalea.txt
+
+==================================================
+7. FICHIERS DE RÉFÉRENCE DÉJÀ DISPONIBLES
+=========================================
+
+Corpus de vidéos Yvan Monka :
+https://github.com/maristudy/divers/blob/master/ym.txt
+
+Corpus de vidéos J'ai Compris Maths :
+https://github.com/maristudy/divers/blob/master/jaicomprismath.txt
+
+Corpus de vidéos Les Bons Profs :
+https://github.com/maristudy/divers/blob/master/lbp.txt
+
+Références MathALÉA :
+https://github.com/maristudy/divers/blob/master/asideMatalea.txt
+
+Ces fichiers servent à rechercher les ressources existantes et à éviter de refaire inutilement le même travail.
+
+Pour les fichiers HTML des corpus, vérifier le titre réel de la vidéo et son URL. Pour J'ai Compris Maths, le titre se trouve notamment dans l'attribut aria-label et le lien dans l'élément span, selon la structure du fichier fourni.
+
+Ne pas supposer que toutes les vidéos présentes dans ces fichiers sont adaptées au CAP. Il faut les sélectionner en fonction de la notion visée.
+
+==================================================
+8. RESSOURCES SÉSAMATH DÉJÀ REPÉRÉES
+====================================
+
+Les liens ci-dessous sont des pistes de travail. Leur pertinence exacte doit être vérifiée pour chaque ligne du tableau.
+
+Écritures décimales :
+https://manuel.sesamath.net/numerique/diapo.php?atome=60270&ordre=1
+
+Fractions décimales et écritures décimales :
+https://manuel.sesamath.net/numerique/diapo.php?atome=60262&ordre=1
+https://manuel.sesamath.net/numerique/diapo.php?atome=35016&ordre=1
+
+Comparer ou décomposer des fractions :
+https://manuel.sesamath.net/numerique/diapo.php?atome=12138
+
+Ranger des fractions — EXERCICE :
+https://manuel.sesamath.net/numerique/diapo.php?atome=67245&ordre=1
+
+Fractions égales :
+https://manuel.sesamath.net/numerique/diapo.php?atome=60433
+
+Opérations sur les fractions :
+https://manuel.sesamath.net/numerique/diapo.php?atome=18005&ordre=1
+
+Conversions de longueurs :
+https://manuel.sesamath.net/numerique/diapo.php?atome=35403
+
+Conversions d'unités :
+https://manuel.sesamath.net/numerique/diapo.php?atome=41695
+
+Conversions d'aires :
+https://manuel.sesamath.net/numerique/diapo.php?atome=54409
+https://manuel.sesamath.net/numerique/diapo.php?atome=61170&ordre=1
+
+Reconnaître une situation de proportionnalité :
+https://manuel.sesamath.net/numerique/diapo.php?atome=35817&ordre=1
+
+Tableau de proportionnalité et coefficient :
+https://manuel.sesamath.net/numerique/diapo.php?atome=35836
+
+Effectifs et fréquences :
+https://manuel.sesamath.net/numerique/diapo.php?atome=11631&ordre=1
+
+Calculer une moyenne :
+https://manuel.sesamath.net/numerique/diapo.php?atome=16346&ordre=1
+https://manuel.sesamath.net/numerique/diapo.php?atome=5211
+
+Volumes :
+https://manuel.sesamath.net/numerique/diapo.php?atome=61206&ordre=1
+
+Théorème de Pythagore :
+https://manuel.sesamath.net/numerique/diapo.php?atome=36576&ordre=2
+
+Découverte ou construction de Pythagore :
+https://manuel.sesamath.net/numerique/diapo.php?atome=36569
+
+Réciproque de Pythagore :
+https://manuel.sesamath.net/numerique/diapo.php?atome=42358&ordre=1
+
+Équations du premier degré, dont ax=b et x+a=b :
+https://manuel.sesamath.net/numerique/index.php?ouvrage=ms4_2011&page_gauche=98
+
+Équations et inéquations — ressource plus générale :
+https://manuel.sesamath.net/numerique/diapo.php?atome=66013
+
+Fonctions et variations — ressource à contrôler :
+https://manuel.sesamath.net/numerique/diapo.php?atome=66100&ordre=1
+
+Reconnaître parallèles et perpendiculaires :
+https://manuel.sesamath.net/numerique/index.php?ouvrage=ms6_2013&page_gauche=139
+
+Construction de médiatrices, parallèles et perpendiculaires :
+https://manuel.sesamath.net/numerique/index.php?ouvrage=ms6_2013&page_gauche=143
+
+Manuel numérique Sésamath 3e, à explorer pour certaines notions de fonctions ou de Thalès :
+https://manuel.sesamath.net/numerique/?ouvrage=ms3_2012
+
+Ne pas attribuer automatiquement ces ressources à la colonne Cours. Les diaporamas interactifs sont souvent des exercices ou des activités ; vérifier leur fonction réelle.
+
+==================================================
+9. AUTRES RESSOURCES DÉJÀ REPÉRÉES
+==================================
+
+Mathenpoche :
+https://mathenpoche.sesamath.net/
+https://mathenpoche.sesamath.net/?lt=&page=sixieme
+https://mathenpoche.sesamath.net/?page=quatrieme
+https://mathenpoche.sesamath.net/?page=secondepro
+
+Le Livre Scolaire :
+https://www.lelivrescolaire.fr/manuels/mathematiques-6eme-2025
+
+Aires et volumes :
+https://www.lelivrescolaire.fr/page/32429310
+https://www.lelivrescolaire.fr/page/32429314
+
+Symétrie axiale :
+https://www.lelivrescolaire.fr/page/32429290?num=1
+
+Conversions de durées :
+https://www.lelivrescolaire.fr/page/32429210
+
+Repérage et lecture d'abscisses :
+https://www.lelivrescolaire.fr/page/32429169
+
+Probabilités :
+https://www.lelivrescolaire.fr/page/32429223
+
+Ressources Scratch :
+https://scratchblocks.github.io/
+https://c2i-tice.forge.apps.education.fr/03_algo-prog/01_Scratch/
+
+Ces adresses sont des pistes à vérifier, et non une garantie que chaque page est parfaitement adaptée à la ligne qui lui sera associée.
+
+==================================================
+10. VIDÉOS ET FICHES MATHS-ET-TIQUES DÉJÀ REPÉRÉES
+==================================================
+
+Les URL suivantes constituent un corpus de recherche. Elles doivent être associées à une ligne seulement après vérification de leur contenu.
+
+Pythagore :
+https://www.maths-et-tiques.fr/telech/Pyth.pdf
+https://maths-et-tiques.fr/telech/TPythT.pdf
+https://youtu.be/M9sceJ8gzNc
+
+Proportionnalité :
+https://www.maths-et-tiques.fr/telech/19Proportion.pdf
+https://maths-et-tiques.fr/telech/19Prop1.pdf
+https://youtu.be/O91-Dq06k0U
+https://www.maths-et-tiques.fr/telech/19ProportionsTM.pdf
+https://youtu.be/r8S46rk9x9k
+https://maths-et-tiques.fr/telech/19Prop3e.pdf
+
+Statistiques :
+https://www.maths-et-tiques.fr/telech/3A-stat.pdf
+https://www.maths-et-tiques.fr/telech/13_Statistiques.pdf
+
+Fractions :
+https://www.maths-et-tiques.fr/telech/16Fract.pdf
+https://www.maths-et-tiques.fr/telech/16Fractions1.pdf
+https://www.maths-et-tiques.fr/telech/16Fractions2.pdf
+https://www.maths-et-tiques.fr/telech/16Fra2.pdf
+https://maths-et-tiques.fr/telech/Fra2.pdf
+https://youtu.be/IdQhhA3s140
+https://youtu.be/5RYCdvawmGc
+https://youtu.be/9nwZMLmoag8
+
+Nombres relatifs :
+https://www.maths-et-tiques.fr/telech/19Nomb_rel1.pdf
+https://youtu.be/AHNYuKCoCvU
+
+Fonctions :
+https://www.maths-et-tiques.fr/telech/19FonctionVariationsM.pdf
+https://youtu.be/i8aYSIidNIk
+https://www.maths-et-tiques.fr/telech/3_Fonctions_generalites.pdf
+https://youtu.be/yGqqoBMq8Fw
+https://www.maths-et-tiques.fr/telech/19FctGenTM.pdf
+https://youtu.be/8j_4DHWnRJU
+
+Longueurs :
+https://www.maths-et-tiques.fr/telech/16Long.pdf
+https://youtu.be/aKy4obIcRCI
+https://www.maths-et-tiques.fr/telech/19Long.pdf
+https://youtu.be/tUzoATZrAmc
+
+Angles :
+https://www.maths-et-tiques.fr/telech/25Angles.pdf
+https://youtu.be/nBkYby81HuM
+
+Pourcentages :
+https://www.maths-et-tiques.fr/telech/16Pourcent.pdf
+https://youtu.be/Ce6E56gsbY0
+
+Solides :
+https://maths-et-tiques.fr/telech/19Espace_3e.pdf
+
+Divisions :
+https://www.maths-et-tiques.fr/telech/25Divisions1.pdf
+https://youtu.be/RbkDd_p_EVU
+
+Nombres :
+https://www.maths-et-tiques.fr/telech/25Nombres1.pdf
+https://youtu.be/70UhgN2FssQ
+https://www.maths-et-tiques.fr/telech/25Nombres2.pdf
+https://youtu.be/KvYvKm70y00
+
+Opérations :
+https://www.maths-et-tiques.fr/telech/16Operations.pdf
+https://youtu.be/ZV7VG7NzDwE
+https://www.maths-et-tiques.fr/telech/19Operations.pdf
+
+Équations :
+https://www.maths-et-tiques.fr/telech/19Eq4e.pdf
+
+Parallèles et perpendiculaires :
+https://www.maths-et-tiques.fr/telech/19Para_Perp.pdf
+https://youtu.be/0Clm1i4HfEQ
+
+Racines carrées :
+https://www.maths-et-tiques.fr/telech/Rac_carr1.pdf
+https://www.maths-et-tiques.fr/telech/3A-racines.pdf
+
+Cours par niveau :
+https://www.maths-et-tiques.fr/index.php?Itemid=144&id=88&option=com_content&view=article
+https://www.maths-et-tiques.fr/index.php/cours-maths/niveau-cinquieme
+https://maths-et-tiques.fr/index.php/cours-maths/niveau-quatrieme
+
+Attention : ne pas multiplier artificiellement les vidéos par notion. Une ressource pertinente vaut mieux que cinq liens redondants ou inadaptés.
+
+==================================================
+11. CONCEPTION PÉDAGOGIQUE DES PRÉREQUIS
+========================================
+
+Les prérequis doivent aider l'élève à identifier et réparer ses lacunes.
+
+Organisation recommandée :
+
+1. Petit exercice diagnostic.
+2. Si réussite : passer à l'automatisme ou à la notion visée.
+3. Si échec : regarder une courte vidéo explicative et lire un cours ou une fiche PDF.
+4. Refaire le même diagnostic, si possible avec de nouvelles valeurs.
+5. Autoriser autant de tentatives que nécessaire.
+
+Pour chaque prérequis, rechercher si possible :
+
+* un exercice diagnostic ;
+* une vidéo explicative ;
+* un cours ou PDF.
+
+Ne pas rendre artificiellement obligatoire une ressource inexistante. Si une ressource manque, le signaler ou laisser la cellule vide.
+
+Les liens de prérequis doivent renvoyer vers les lignes correspondantes du tableau grâce à des ancres HTML internes. Ils ne doivent pas être confondus avec des liens externes.
+
+==================================================
+12. AUTOMATISMES
+================
+
+Le tableau des automatismes est une décomposition pédagogique destinée à faciliter l'entraînement. Il ne doit pas être présenté comme une modification du programme officiel.
+
+Les 48 automatismes de travail prévus sont :
+
+1. Multiplications par 10, 100, 0,1 et 0,01.
+2. Addition mentale simple.
+3. Multiplication mentale simple.
+4. Signe d'un produit.
+5. Signe d'un quotient.
+6. Addition de fractions simples.
+7. Multiplication de fractions.
+8. Passage d'une fraction à une écriture décimale.
+9. Comparaison de nombres décimaux.
+10. Comparaison de fractions.
+11. Comparaison de nombres en notation scientifique.
+12. Valeur arrondie.
+13. Conversion d'heures et minutes en écriture décimale.
+14. Conversion d'une écriture décimale en heures et minutes.
+15. Conversion de longueurs.
+16. Conversion d'aires.
+17. Conversion de volumes.
+18. Proportion sous forme décimale.
+19. Proportion sous forme fractionnaire.
+20. Proportion sous forme de pourcentage.
+21. Quatrième proportionnelle.
+22. Valeur manquante dans un problème de pourcentage.
+23. Valeur manquante dans un problème d'échelle.
+24. Transformation de formule.
+25. Équation ax = b.
+26. Équation a + x = b.
+27. Équation ax + b = c.
+28. Carré d'un entier inférieur ou égal à 10.
+29. Racine carrée d'un carré parfait inférieur ou égal à 100.
+30. Mesure d'un segment.
+31. Construction d'une médiatrice.
+32. Construction d'une parallèle.
+33. Construction d'une perpendiculaire.
+34. Construction d'un angle donné.
+35. Identification de droites parallèles ou perpendiculaires.
+36. Distance d'un point à une droite.
+37. Distance entre deux droites parallèles.
+38. Reconnaissance de figures planes usuelles.
+39. Reconnaissance de solides usuels.
+40. Effectif total.
+41. Fréquence.
+42. Calcul mental d'une fréquence dans un cas simple.
+43. Moyenne.
+44. Calcul mental d'une moyenne dans un cas simple.
+45. Placement d'un point par coordonnées.
+46. Lecture de l'image d'un nombre sur un graphique.
+47. Lecture des antécédents sur un graphique.
+48. Lecture des variations d'une fonction.
+
+Les automatismes marqués d'une étoile dans la liste de travail correspondent aux compétences particulièrement liées aux capacités signalées dans le programme. Vérifier la correspondance exacte avec le document officiel avant de reprendre ces marqueurs dans une version définitive.
+
+==================================================
+13. EXIGENCES TECHNIQUES DU TABLEAU HTML
+========================================
+
+Le tableau doit être fourni dans un seul fichier HTML autonome, avec le CSS intégré dans une balise style.
+
+Ne pas créer de fichiers JavaScript séparés si aucun comportement interactif ne le nécessite.
+
+Le fichier doit être compatible avec un usage dans Moodle, sans dépendance à une bibliothèque externe.
+
+Présentation :
+
+* Une colonne unique pour les vidéos, quelle que soit leur source.
+* Une colonne Cours.
+* Une colonne Exercice.
+* Une colonne Prérequis.
+* Les colonnes officielles de domaine, de type et de capacité doivent être conservées selon la structure déjà présente dans le fichier existant.
+* Conserver autant que possible la mise en page et les fonctionnalités existantes.
+
+Badges :
+
+* Couleur propre à chaque source.
+* Forme propre au type de ressource.
+* Vidéo : badge carré.
+* Exercice : badge rond.
+* Cours ou PDF : badge triangulaire.
+* Prérequis : forme différente, avec lien interne.
+* Afficher le nom de la source avant le type de ressource, par exemple « Sésamath · Exercice interactif ».
+* Pas d'émojis ni d'icônes décoratives.
+
+Ouverture des liens :
+
+* Tous les liens externes doivent ouvrir un nouvel onglet.
+* Utiliser target="_blank" et rel="noopener noreferrer" pour les liens externes.
+* Les ancres internes de prérequis doivent rester dans le même document.
+
+Les URL doivent rester visibles et faciles à copier si cela correspond à la présentation existante.
+
+Ne pas ajouter de colonne MathALÉA distincte si les exercices MathALÉA doivent être regroupés dans la colonne Exercice.
+
+==================================================
+14. MÉTHODE DE TRAVAIL ATTENDUE
+===============================
+
+Travailler à partir du fichier HTML existant :
+https://github.com/maristudy/divers/blob/master/tableau_CAP_Electricien_maths.html
+
+Procéder par étapes :
+
+1. Lire la structure complète du fichier.
+2. Vérifier le nombre et le contenu des lignes.
+3. Vérifier les ressources déjà présentes.
+4. Identifier les liens mal classés, cassés, redondants ou trop généraux.
+5. Corriger ces liens.
+6. Rechercher les ressources manquantes.
+7. Vérifier la conformité au programme officiel.
+8. Préserver le style et la structure du tableau.
+9. Vérifier les liens externes et les ancres internes.
+10. Fournir le code HTML complet corrigé, ou une version de fichier complète si l'utilisateur le demande explicitement.
+
+Ne pas se contenter de proposer des exemples isolés lorsque l'utilisateur attend la correction du tableau entier.
+
+Ne pas annoncer qu'un fichier a été modifié sur GitHub si aucune modification effective n'a été réalisée.
+
+Si l'accès au dépôt est impossible, expliquer précisément ce qui manque et demander le fichier HTML ou son contenu plutôt que prétendre l'avoir lu.
+
+Si des ressources ne peuvent pas être vérifiées, le dire explicitement.
+
+La priorité est la fiabilité pédagogique, pas la quantité de liens.
+
+==================================================
+15. ÉTAT DU PROJET ET POINTS DE VIGILANCE
+=========================================
+
+Le tableau HTML principal existe déjà dans le dépôt GitHub.
+
+Une erreur de classement a été repérée par l'utilisateur :
+le lien Sésamath « Ranger des fractions » était placé dans la colonne Cours alors qu'il s'agit d'un exercice.
+
+Cette erreur doit servir d'exemple pour contrôler l'ensemble du tableau : ne jamais déduire le type de ressource du seul nom du site.
+
+Une ancienne version d'un classeur Excel a également été créée, mais elle est incomplète et ne constitue pas la version de référence. Le fichier HTML du dépôt est prioritaire.
+
+L'utilisateur souhaite que le travail de vérification et de remplissage du tableau continue sans devoir redonner toutes les consignes dans chaque nouvelle conversation.
+
+Il faut être transparent sur ce qui a réellement été vérifié, ce qui reste à faire et ce qui a été effectivement modifié.
+
+Fin du contexte du projet.
