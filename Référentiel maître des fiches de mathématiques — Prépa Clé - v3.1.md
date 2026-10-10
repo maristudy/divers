@@ -2,12 +2,7 @@
 
 **Version documentaire : 3.1**  
 **Date : 10 octobre 2026**  
-**Statut :** gel éditorial du périmètre et des règles de gestion ; catalogue et graphe à maintenir selon les contrôles ci-dessous.  
-Source de vérité : le présent référentiel pour la gouvernance et l’état global des contrôles ; le catalogue maître pour les identifiants, familles et objectifs ; le graphe des prérequis pour les dépendances ; la matrice de traçabilité pour les correspondances avec les référentiels sources. Les documents historiques sont conservés pour la traçabilité, mais ne constituent pas des sources courantes.
-- ce référentiel pour les règles de gestion, le périmètre documentaire, les décisions et le registre de contrôle ;
-- la matrice de traçabilité pour les correspondances détaillées avec les référentiels ;
-- le catalogue maître pour les identifiants et les objectifs des fiches ;
-- le graphe des prérequis pour les dépendances entre fiches.
+**Statut :** gel de structure visé ; périmètre et règles de gestion stabilisés. Les contrôles techniques et la traçabilité exhaustive restent à compléter.
 
 Les listes d’identifiants et de dépendances reproduites dans ce référentiel sont des éléments de migration ou de contrôle. Elles ne constituent pas une seconde version du catalogue ou du graphe.
 
@@ -23,8 +18,8 @@ Les listes d’identifiants et de dépendances reproduites dans ce référentiel
 | 2.1 | Archive de travail | Ne pas utiliser comme source de vérité |
 | 2.2 | Brouillon remplacé | Références incomplètes ou incohérentes |
 | 2.3 | Brouillon remplacé | Références croisées non fiables |
-|3.0 — gel de structure | Référence du catalogue et du graphe | Identifiants, familles, objectifs et dépendances stabilisés ; contrôles techniques exhaustifs restant à consigner |
-|3.1 | Référence de gouvernance | Règles de gestion, périmètre, traçabilité et état global des contrôles| 3.1 | Référence de gouvernance | Règles de gestion, périmètre, compléments de couverture, traçabilité et état des contrôles |
+| 3.0 — gel de structure | Référence du catalogue et du graphe | Identifiants, familles, objectifs et dépendances stabilisés ; contrôles techniques exhaustifs restant à consigner |
+|3.1 | version documentaire de gouvernance | Règles de gestion, périmètre, traçabilité et état global des contrôles| 3.1 | Référence de gouvernance | Règles de gestion, périmètre, compléments de couverture, traçabilité et état des contrôles |
 
 **Attention :** la version 3.1 ne signifie pas que chaque ancienne fiche a déjà été comparée individuellement à son équivalent actuel. Le gel éditorial des règles n’efface pas le travail de migration historique restant.
 
@@ -81,36 +76,23 @@ La politique est décidée selon l’objectif évalué. Si l’objectif est la t
 
 ---
 
-# Documents B et C — Périmètre des compléments intégrés
+# Documents B et C — Périmètre des compléments et gouvernance du graphe
 
-Les familles complémentaires PUI, FONC, STAT, GEO3 et ALGO ont été intégrées au catalogue maître et leurs dépendances au graphe des prérequis.
-
-Le référentiel conserve la justification de leur présence et les règles de priorité :
-
-- les notions de collège élargissent la couverture de la bibliothèque ;
-- leur présence ne signifie pas qu’elles sont prioritaires pour tous les apprenants ;
-- la priorité dépend du diagnostic, du diplôme visé et de la trajectoire de formation ;
-- les applications professionnelles doivent rester distinguées des exigences explicites des référentiels scolaires ou professionnels.
-
-Les identifiants et dépendances canoniques sont ceux du catalogue et du graphe. Toute modification future doit être effectuée dans ces fichiers, puis consignée dans le registre de contrôle.
-
-
-# Document B — Périmètre des compléments intégrés
+## B. Périmètre des compléments intégrés
 
 Les familles complémentaires PUI, FONC, STAT, GEO3 et ALGO sont intégrées au catalogue maître et leurs dépendances au graphe des prérequis.
 
-Leur présence élargit la couverture de la bibliothèque ; elle ne signifie pas qu’elles sont prioritaires pour tous les apprenants.
+Leur présence élargit la couverture de la bibliothèque ; elle ne signifie pas qu’elles sont prioritaires pour tous les apprenants. La priorité dépend du diagnostic, du diplôme visé et de la trajectoire de formation.
 
-La priorité dépend du diagnostic, du diplôme visé et de la trajectoire de formation. Les applications professionnelles doivent rester distinguées des exigences explicites des référentiels scolaires ou professionnels.
+Les applications professionnelles doivent rester distinguées des exigences explicites des référentiels scolaires ou professionnels.
 
-Les identifiants et objectifs canoniques sont définis dans le catalogue. Les dépendances canoniques sont définies dans le graphe. Toute modification future doit être effectuée dans ces fichiers, puis consignée dans le registre des contrôles.
----
+Les identifiants, objectifs et types canoniques sont définis dans le catalogue. Les dépendances canoniques sont définies dans le graphe. Le présent référentiel conserve la justification de ces choix et les règles de gouvernance, sans reproduire les listes détaillées.
 
-# Document C — Gouvernance du graphe des prérequis
+## C. Gouvernance du graphe des prérequis
 
-Le graphe des prérequis est la référence unique pour les dépendances entre les fiches du catalogue maître. Le présent référentiel n’en reproduit pas la liste détaillée.
+Le graphe des prérequis est la référence unique pour les dépendances entre les fiches du catalogue maître.
 
-À chaque modification du catalogue ou du graphe, les contrôles suivants doivent être effectués :
+À chaque modification du catalogue ou du graphe, les contrôles suivants doivent être réalisés :
 
 1. vérifier que chaque prérequis correspond à un identifiant existant ;
 2. vérifier l’unicité des identifiants du catalogue ;
@@ -121,7 +103,8 @@ Le graphe des prérequis est la référence unique pour les dépendances entre l
 
 Une dépendance circulaire doit être examinée : elle peut signaler une erreur de modélisation ou la nécessité de décomposer une notion en étapes plus élémentaires.
 
-Le statut des contrôles et les preuves obtenues sont consignés dans le Document F.
+Les résultats des contrôles sont consignés dans le Document F. Le présent référentiel ne constitue pas une seconde version du catalogue ou du graphe.
+
 
 # Document D — Matrice de couverture et traçabilité
 
@@ -304,13 +287,21 @@ Le catalogue et le graphe sont gelés au sens documentaire lorsqu’aucun change
 Le statut « à vérifier » ne doit jamais être remplacé par « validé » pour des raisons de présentation.
 
 ---
-## F3. Décision de gel de structure
+### Décision de gel de structure
 
-Le gel de structure porte sur la stabilisation du périmètre, des familles, des identifiants, des objectifs et des dépendances, ainsi que sur la désignation des documents canoniques.
+Le périmètre documentaire, les familles, les identifiants, les objectifs principaux et les dépendances du catalogue Prépa Clé sont stabilisés pour la phase de validation technique et pédagogique.
 
-Cette décision ne vaut pas validation technique. Les contrôles automatiques d’unicité des identifiants, de validité des références et d’absence de cycles restent à exécuter et à consigner. La matrice de traçabilité demeure en cours de vérification ; la migration historique et la validation pédagogique sont des chantiers distincts.
+Les documents canoniques sont :
+- le référentiel maître pour la gouvernance et l’état global des contrôles ;
+- le catalogue maître pour les identifiants, les familles et les objectifs ;
+- le graphe des prérequis pour les dépendances ;
+- la matrice de traçabilité v0.2 pour les correspondances avec les référentiels sources.
 
-Toute correction ultérieure d’une anomalie doit être tracée et répercutée dans les documents concernés.
+La matrice maîtresse v1.0 et les autres documents historiques sont conservés pour la traçabilité, sans constituer des sources concurrentes.
+
+Ce gel de structure ne vaut pas validation technique : les contrôles automatiques d’unicité des identifiants, de validité des références et d’absence de cycles restent à exécuter. La vérification exhaustive de la matrice, la migration historique et la validation pédagogique demeurent des travaux distincts.
+
+Toute modification ultérieure touchant aux identifiants, aux familles, aux objectifs ou aux dépendances devra être justifiée, tracée et répercutée dans les documents canoniques concernés.
 
 ## F3. Contrôles métier et limites de couverture
 
@@ -391,28 +382,31 @@ Les textes officiels fixent les attendus de leurs périmètres respectifs. Les f
 | Élément | État documentaire |
 |---|---|
 | Périmètre pédagogique général | Défini ; la traçabilité exhaustive des référentiels reste à établir |
-| Catalogue maître v3.0-candidate | Base de référence pour les identifiants et objectifs ; périmètre consolidé, gel de structure visé |
-| Familles complémentaires PUI, FONC, STAT, GEO3 et ALGO | Intégrées au catalogue maître ; leurs dépendances figurent dans le graphe |
-| Graphe des prérequis v3.0-candidate | Base de référence pour les dépendances ; les contrôles techniques exhaustifs doivent être consignés avant validation technique |
-| Matrice de traçabilité | Fichier dédié existant ; les correspondances et leur état de vérification restent à contrôler ligne par ligne |
-| Registre de contrôle | Le présent document conserve les règles de gel et l’état général des contrôles ; les résultats détaillés doivent rester cohérents avec le fichier de contrôle qualité tant que celui-ci est maintenu |
+| Catalogue maître v3.0 | Structure stabilisée ; contrôles techniques restant à exécuter |
+| Familles complémentaires PUI, FONC, STAT, GEO3 et ALGO | Intégrées au catalogue maître et au graphe |
+| Graphe des prérequis v3.0 | Structure stabilisée ; validité exhaustive des références et absence de cycles restant à vérifier |
+| Matrice de traçabilité v0.2 | Document actif de référence pour les correspondances ; examen partiel, vérification à poursuivre |
+| Matrice maîtresse v1.0 | Document distinct conservé pour comparaison historique jusqu’à vérification de son contenu ; ne pas utiliser comme source concurrente |
+| Contrôles techniques | Non exécutés pour l’unicité des identifiants, les références du graphe et les cycles |
+| Archive qualité | Conservée à titre historique ; ne pas modifier ni utiliser comme registre actif |
 | Migration des anciennes versions | Non finalisée ; aucune équivalence historique ne doit être présumée sans comparaison |
 | Validation pédagogique en situation réelle | À réaliser au fil des tests des fiches |
 
-## 3. Documents historiques à consolider puis à archiver
+## 3. Documents historiques et archives
 
-Les documents suivants ne doivent plus être entretenus séparément une fois leurs éléments utiles transférés et vérifiés :
+Les documents suivants sont conservés pour préserver la traçabilité historique. Ils ne constituent pas des sources de vérité courantes :
 
-- Matrice des référentiels V0.2 ;
-- Matrice maîtresse V1.0 ;
+- Matrice maîtresse des référentiels mathématiques v1.0, jusqu’à vérification de son contenu et comparaison avec la matrice v0.2 ;
 - Bloc 1 — matrice de traçabilité V2.3 ;
 - Bloc 2 — contrôle des programmes et contextes professionnels V2.3 ;
 - Bloc 3 — migration des identifiants V1.1 vers V2.2 ;
 - Bloc 5 — registre de validation V2.3 ;
-- Contrôle qualité du catalogue et du graphe V3.0-candidate ;
+- Archive qualité du catalogue et du graphe ;
 - Carte des prérequis V2.2.
 
-Leur archivage ne vaut pas validation de leur contenu. Les informations transférées doivent être vérifiées, et les anciens identifiants doivent rester consultables pour préserver la traçabilité historique.
+La matrice des référentiels v0.2 reste le document actif de traçabilité. Sa vérification n’est pas achevée.
+
+L’archivage d’un document ne vaut pas validation de son contenu. Les informations historiques utiles doivent rester consultables et les correspondances entre anciens et nouveaux identifiants ne peuvent être déclarées validées qu’après comparaison.
 
 ## 4. Conditions de validation finale
 

@@ -1,8 +1,9 @@
 # Prépa Clé — Matrice des référentiels mathématiques - v0.2
+**Version :** v0.2 — structure documentaire stabilisée
 
-**Version :** V0.2 — structuration par domaines  
-**Statut :** matrice de travail à vérifier et compléter  
-**Objectif :** recenser les connaissances, compétences et prérequis utiles pour construire une bibliothèque de fiches mathématiques à la carte, adaptée aux adultes en reprise de formation.
+**Statut :** matrice active de traçabilité ; correspondances en cours de vérification.
+
+**Objectif :** documenter les correspondances entre les référentiels sources et les objectifs du catalogue maître Prépa Clé, en distinguant les correspondances vérifiées, partielles et restant à vérifier.
 
 ## 1. Périmètre et règles de lecture
 

@@ -1,4 +1,3 @@
-# Graphe des prérequis — v3.0-candidate
 # Graphe des prérequis — v3.0
 
 Statut : gel de structure ; référence des dépendances entre les fiches du catalogue maître. La vérification technique exhaustive des références et des cycles reste à consigner.

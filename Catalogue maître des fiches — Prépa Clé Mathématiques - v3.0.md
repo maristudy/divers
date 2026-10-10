@@ -1,5 +1,4 @@
 # Catalogue maître des fiches — Prépa Clé Mathématiques - v3.0
-# Catalogue maître des fiches — Prépa Clé Mathématiques - v3.0
 
 Version : 3.0 — gel de structure
 
