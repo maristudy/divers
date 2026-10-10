@@ -3,7 +3,7 @@
 **Version documentaire : 3.1**  
 **Date : 10 octobre 2026**  
 **Statut :** gel éditorial du périmètre et des règles de gestion ; catalogue et graphe à maintenir selon les contrôles ci-dessous.  
-**Source de vérité :** 
+Source de vérité : le présent référentiel pour la gouvernance et l’état global des contrôles ; le catalogue maître pour les identifiants, familles et objectifs ; le graphe des prérequis pour les dépendances ; la matrice de traçabilité pour les correspondances avec les référentiels sources. Les documents historiques sont conservés pour la traçabilité, mais ne constituent pas des sources courantes.
 - ce référentiel pour les règles de gestion, le périmètre documentaire, les décisions et le registre de contrôle ;
 - la matrice de traçabilité pour les correspondances détaillées avec les référentiels ;
 - le catalogue maître pour les identifiants et les objectifs des fiches ;
@@ -23,8 +23,8 @@ Les listes d’identifiants et de dépendances reproduites dans ce référentiel
 | 2.1 | Archive de travail | Ne pas utiliser comme source de vérité |
 | 2.2 | Brouillon remplacé | Références incomplètes ou incohérentes |
 | 2.3 | Brouillon remplacé | Références croisées non fiables |
-| 3.0 — gel de structure | Version de référence du catalogue et du graphe | Identifiants, objectifs et dépendances stabilisés ; validation technique exhaustive encore à consigner |
-| 3.1 | Référence de gouvernance | Règles de gestion, périmètre, compléments de couverture, traçabilité et état des contrôles |
+|3.0 — gel de structure | Référence du catalogue et du graphe | Identifiants, familles, objectifs et dépendances stabilisés ; contrôles techniques exhaustifs restant à consigner |
+|3.1 | Référence de gouvernance | Règles de gestion, périmètre, traçabilité et état global des contrôles| 3.1 | Référence de gouvernance | Règles de gestion, périmètre, compléments de couverture, traçabilité et état des contrôles |
 
 **Attention :** la version 3.1 ne signifie pas que chaque ancienne fiche a déjà été comparée individuellement à son équivalent actuel. Le gel éditorial des règles n’efface pas le travail de migration historique restant.
 
@@ -95,164 +95,33 @@ Le référentiel conserve la justification de leur présence et les règles de p
 Les identifiants et dépendances canoniques sont ceux du catalogue et du graphe. Toute modification future doit être effectuée dans ces fichiers, puis consignée dans le registre de contrôle.
 
 
-# Document B — Compléments obligatoires au catalogue
+# Document B — Périmètre des compléments intégrés
 
-## B1. PUI — Puissances et notation scientifique
+Les familles complémentaires PUI, FONC, STAT, GEO3 et ALGO sont intégrées au catalogue maître et leurs dépendances au graphe des prérequis.
 
-| ID | Objectif principal | Type |
-|---|---|---|
-| PUI-01 | Comprendre une puissance comme produit de facteurs identiques | PR |
-| PUI-02 | Calculer des puissances d’exposants entiers positifs dans des cas simples | PR |
-| PUI-03 | Utiliser les puissances de 10 pour écrire des grands nombres | PR |
-| PUI-04 | Utiliser les puissances de 10 pour écrire de petits nombres | PR |
-| PUI-05 | Lire et écrire une notation scientifique dans des cas accessibles | PR |
-| PUI-06 | Comparer des ordres de grandeur exprimés avec des puissances de 10 | REN |
+Leur présence élargit la couverture de la bibliothèque ; elle ne signifie pas qu’elles sont prioritaires pour tous les apprenants.
 
-**Prérequis directs indicatifs :**
-- PUI-01 : CAL-03.
-- PUI-02 : PUI-01, CAL-03.
-- PUI-03 : NUM-03, CAL-10.
-- PUI-04 : DEC-02, CAL-10.
-- PUI-05 : PUI-03, PUI-04, DEC-04.
-- PUI-06 : PUI-05, CAL-12.
+La priorité dépend du diagnostic, du diplôme visé et de la trajectoire de formation. Les applications professionnelles doivent rester distinguées des exigences explicites des référentiels scolaires ou professionnels.
 
-**Règle de périmètre :** les puissances sont intégrées au catalogue, mais la priorité donnée à chaque fiche dépend du besoin de formation et du diplôme visé.
-
-## B2. FONC — Fonctions et relations entre grandeurs
-
-| ID | Objectif principal | Type |
-|---|---|---|
-| FONC-01 | Comprendre qu’une grandeur dépend d’une autre dans une situation concrète | PR |
-| FONC-02 | Lire un tableau de valeurs associant deux grandeurs | PR |
-| FONC-03 | Lire un graphique représentant une relation entre deux grandeurs | PR |
-| FONC-04 | Calculer une valeur à partir d’une règle de calcul donnée | PR |
-| FONC-05 | Comparer deux évolutions représentées dans un tableau ou un graphique | REN |
-| FONC-06 | Distinguer une situation proportionnelle d’une relation non proportionnelle | PR |
-
-**Prérequis directs indicatifs :**
-- FONC-01 : PROP-01, DATA-01.
-- FONC-02 : DATA-01, DATA-02.
-- FONC-03 : DATA-04.
-- FONC-04 : ALG-03, ALG-04.
-- FONC-05 : DATA-05, FONC-02 ou FONC-03.
-- FONC-06 : PROP-01, PROP-07.
-
-Les fonctions ne sont pas un préalable général aux fiches professionnelles. Elles sont proposées lorsque leur étude est pertinente pour la trajectoire de formation.
-
-## B3. STAT — Probabilités et hasard
-
-| ID | Objectif principal | Type |
-|---|---|---|
-| STAT-01 | Identifier une expérience aléatoire dans une situation simple | PR |
-| STAT-02 | Distinguer les issues possibles d’une expérience aléatoire | PR |
-| STAT-03 | Comprendre une probabilité comme mesure de chance dans un cas simple | PR |
-| STAT-04 | Calculer une probabilité dans une situation équiprobable simple | PR |
-| STAT-05 | Interpréter une fréquence à partir de données observées | PR |
-| STAT-06 | Distinguer fréquence observée et probabilité théorique | REN |
-
-**Prérequis directs indicatifs :**
-- STAT-01 : PROB-01.
-- STAT-02 : STAT-01, NUM-10.
-- STAT-03 : STAT-02, FRA-01.
-- STAT-04 : STAT-03, CAL-04.
-- STAT-05 : DATA-01, DATA-02.
-- STAT-06 : STAT-04, STAT-05.
-
-Ces fiches sont intégrées pour la couverture du programme du collège. Elles ne doivent pas être présentées comme des prérequis à la numératie professionnelle courante.
-
-## B4. GEO3 — Géométrie dans l’espace
-
-| ID | Objectif principal | Type |
-|---|---|---|
-| GEO3-01 | Reconnaître cube, pavé droit, prisme, cylindre, cône et sphère | PR |
-| GEO3-02 | Identifier faces, arêtes et sommets d’un solide | PR |
-| GEO3-03 | Relier un solide à une représentation plane simple | PR |
-| GEO3-04 | Lire ou compléter un patron de cube ou de pavé droit | PR |
-| GEO3-05 | Identifier les dimensions utiles au calcul d’un volume | PR |
-
-**Prérequis directs indicatifs :**
-- GEO3-01 : GEO-04, GEO-07.
-- GEO3-02 : GEO3-01.
-- GEO3-03 : GEO3-01, DATA-01 utile selon la représentation.
-- GEO3-04 : GEO3-01, GEO3-02.
-- GEO3-05 : GEO3-01, VOL-01.
-
-Les solides et volumes sont distingués : reconnaître un solide n’implique pas de savoir calculer son volume.
-
-## B5. ALGO — Algorithmique et procédures
-
-| ID | Objectif principal | Type |
-|---|---|---|
-| ALGO-01 | Décrire une procédure sous forme d’étapes ordonnées | ACT |
-| ALGO-02 | Identifier une répétition dans une procédure simple | PR |
-| ALGO-03 | Comprendre une variable dans une procédure ou un programme simple | PR |
-| ALGO-04 | Suivre un algorithme court et déterminer son résultat | PR |
-| ALGO-05 | Repérer une erreur dans une procédure séquentielle simple | REN |
-
-**Prérequis directs indicatifs :**
-- ALGO-01 : COMM-03.
-- ALGO-02 : ALGO-01.
-- ALGO-03 : NUM-01, ALG-01.
-- ALGO-04 : ALGO-01, CAL-01 à CAL-04 selon la procédure.
-- ALGO-05 : ALGO-04, ACT-06.
-
-L’algorithmique est une famille de couverture du programme scolaire ; elle ne doit être priorisée en Prépa Clé que selon les besoins identifiés.
-
+Les identifiants et objectifs canoniques sont définis dans le catalogue. Les dépendances canoniques sont définies dans le graphe. Toute modification future doit être effectuée dans ces fichiers, puis consignée dans le registre des contrôles.
 ---
 
-# Document C — Graphe des dépendances : règles et compléments
+# Document C — Gouvernance du graphe des prérequis
 
-## C1. Dépendances PUI
-- PUI-01 dépend de CAL-03.
-- PUI-02 dépend de PUI-01 et CAL-03.
-- PUI-03 dépend de NUM-03 et CAL-10.
-- PUI-04 dépend de DEC-02 et CAL-10.
-- PUI-05 dépend de PUI-03, PUI-04 et DEC-04.
-- PUI-06 dépend de PUI-05 et CAL-12.
+Le graphe des prérequis est la référence unique pour les dépendances entre les fiches du catalogue maître. Le présent référentiel n’en reproduit pas la liste détaillée.
 
-## C2. Dépendances FONC
-- FONC-01 dépend de PROP-01 et DATA-01.
-- FONC-02 dépend de DATA-01 et DATA-02.
-- FONC-03 dépend de DATA-04.
-- FONC-04 dépend de ALG-03 et ALG-04.
-- FONC-05 dépend de DATA-05 et de FONC-02 ou FONC-03.
-- FONC-06 dépend de PROP-01 et PROP-07.
+À chaque modification du catalogue ou du graphe, les contrôles suivants doivent être effectués :
 
-## C3. Dépendances STAT
-- STAT-01 dépend de PROB-01.
-- STAT-02 dépend de STAT-01 et NUM-10.
-- STAT-03 dépend de STAT-02 et FRA-01.
-- STAT-04 dépend de STAT-03 et CAL-04.
-- STAT-05 dépend de DATA-01 et DATA-02.
-- STAT-06 dépend de STAT-04 et STAT-05.
-
-## C4. Dépendances GEO3
-- GEO3-01 dépend de GEO-04 et GEO-07.
-- GEO3-02 dépend de GEO3-01.
-- GEO3-03 dépend de GEO3-01.
-- GEO3-04 dépend de GEO3-01 et GEO3-02.
-- GEO3-05 dépend de GEO3-01 et VOL-01.
-
-## C5. Dépendances ALGO
-- ALGO-01 dépend de COMM-03.
-- ALGO-02 dépend de ALGO-01.
-- ALGO-03 dépend de NUM-01 et ALG-01.
-- ALGO-04 dépend de ALGO-01 et des opérations utilisées.
-- ALGO-05 dépend de ALGO-04 et ACT-06.
-
-## C6. Contrôle des cycles
-
-À chaque changement du catalogue ou du graphe :
-1. vérifier que chaque prérequis existe ;
-2. vérifier qu’aucun identifiant n’est dupliqué ;
+1. vérifier que chaque prérequis correspond à un identifiant existant ;
+2. vérifier l’unicité des identifiants du catalogue ;
 3. rechercher les cycles dans le graphe orienté ;
 4. vérifier qu’une fiche SIT ne devient pas un prérequis universel ;
 5. vérifier que les supports PLURI ne deviennent pas des prérequis mathématiques ;
-6. vérifier que les prérequis sont nécessaires ou utiles et ne sont pas seulement des associations thématiques.
+6. vérifier que les dépendances sont pédagogiquement justifiées et ne correspondent pas à de simples associations thématiques.
 
-Une dépendance circulaire indique soit une erreur de modélisation, soit une notion qui doit être décomposée en étapes plus élémentaires.
+Une dépendance circulaire doit être examinée : elle peut signaler une erreur de modélisation ou la nécessité de décomposer une notion en étapes plus élémentaires.
 
----
+Le statut des contrôles et les preuves obtenues sont consignés dans le Document F.
 
 # Document D — Matrice de couverture et traçabilité
 
@@ -435,6 +304,14 @@ Le catalogue et le graphe sont gelés au sens documentaire lorsqu’aucun change
 Le statut « à vérifier » ne doit jamais être remplacé par « validé » pour des raisons de présentation.
 
 ---
+## F3. Décision de gel de structure
+
+Le gel de structure porte sur la stabilisation du périmètre, des familles, des identifiants, des objectifs et des dépendances, ainsi que sur la désignation des documents canoniques.
+
+Cette décision ne vaut pas validation technique. Les contrôles automatiques d’unicité des identifiants, de validité des références et d’absence de cycles restent à exécuter et à consigner. La matrice de traçabilité demeure en cours de vérification ; la migration historique et la validation pédagogique sont des chantiers distincts.
+
+Toute correction ultérieure d’une anomalie doit être tracée et répercutée dans les documents concernés.
+
 ## F3. Contrôles métier et limites de couverture
 
 ### Implantation et dénombrement
@@ -502,16 +379,13 @@ Les textes officiels fixent les attendus de leurs périmètres respectifs. Les f
 
 ## 1. Documents de référence retenus
 
-Les quatre documents actifs du dispositif sont :
+- **Catalogue maître** : source canonique des identifiants, familles et objectifs des fiches.
+- **Graphe des prérequis** : source canonique des dépendances entre les fiches.
+- **Matrice de traçabilité v0.2** : source de référence pour les correspondances entre les référentiels sources et les objectifs du catalogue ; correspondances en cours de vérification.
+- **Matrice maîtresse v1.0** : document distinct conservé pour comparaison historique jusqu’à vérification de son contenu ; ne pas l’utiliser comme source concurrente du catalogue ou de la matrice v0.2.
+- **Archive qualité** : document historique conservé sans modification ; les décisions et statuts courants sont consignés dans le référentiel maître.
 
-1. **Référentiel maître** : gouvernance, périmètre, sources, décisions, règles de gel, registre de contrôle et migration historique.
-2. **Catalogue maître des fiches** : identifiants canoniques, objectifs, familles, types et niveaux.
-3. **Graphe des prérequis** : dépendances entre les fiches du catalogue et parcours possibles.
-4. **Matrice de traçabilité des référentiels** : correspondances entre les compétences sources et les objectifs du catalogue, avec leur état de vérification.
 
-Le référentiel maître est la source de vérité pour les règles de gestion et l’état global des contrôles. Le catalogue, le graphe et la matrice sont chacun la source de vérité dans leur domaine respectif.
-
-Aucun fichier de travail parallèle ne doit maintenir une seconde version de ces informations. Les documents historiques peuvent rester archivés pour préserver la traçabilité, mais ne doivent plus être utilisés comme sources courantes.
 ## 2. État actuel
 
 | Élément | État documentaire |

@@ -1,7 +1,7 @@
 # Graphe des prérequis — v3.0-candidate
 # Graphe des prérequis — v3.0
 
-**Statut :** gel de structure ; référence des dépendances entre les fiches du catalogue maître. La vérification technique exhaustive des références et des cycles reste à consigner.
+Statut : gel de structure ; référence des dépendances entre les fiches du catalogue maître. La vérification technique exhaustive des références et des cycles reste à consigner.
 
 Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, diffable dans Git et exploitable pour construire des parcours individualisés. Une fiche indiquée comme « entrée possible » peut être proposée sans prérequis formel, notamment pour un diagnostic.
 ## 1. Numération, décimaux et calcul
