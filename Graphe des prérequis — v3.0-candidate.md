@@ -75,7 +75,7 @@ Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, di
 - FRA-05 : FRA-01, FRA-03.
 - FRA-06 : FRA-02, FRA-03.
 - FRA-07 : FRA-02, DIV-01.
-- FRA-08 : FRA-02, CAL-03, CAL-04.
+- FRA-08 : FRA-02, FRA-06, CAL-03, CAL-04.
 - FRA-09 : FRA-02, FRA-06.
 - FRA-10 : FRA-08, CAL-04.
 - FRA-11 : FRA-02, FRA-06.
@@ -181,7 +181,7 @@ Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, di
 - AIR-02 : AIR-01, GEO-05, CAL-03.
 - AIR-03 : AIR-01, GEO-05, CAL-03.
 - AIR-04 : AIR-01, GEO-04, CAL-03, CAL-04.
-- AIR-05 : AIR-02 ou AIR-03 ; calculs d’addition et de soustraction.
+- AIR-05 : AIR-02 ou AIR-03 ; CAL-01 et CAL-02 pour additionner ou soustraire les aires.
 - AIR-06 : AIR-02 ou AIR-03, UNIT-04.
 - AIR-07 : AIR-02 ou AIR-03 ou AIR-05, UNIT-04, PROP-03 selon la commande.
 - AIR-08 : PER-01, AIR-01.
@@ -212,7 +212,7 @@ Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, di
 
 ### FONC — Fonctions et relations entre grandeurs
 
-- FONC-01 : PROP-01, DATA-01.
+- FONC-01 : DATA-01 ; PROP-01 utile si la situation est proportionnelle.
 - FONC-02 : DATA-01, DATA-02.
 - FONC-03 : DATA-04.
 - FONC-04 : ALG-03, ALG-04.
@@ -330,7 +330,7 @@ Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, di
 - AGR-11 : ESP-02, ESP-09.
 - AGR-12 : ESP-07, UNIT-01.
 - AGR-13 : PROP-05 ou PROP-06, UNIT-03 ; PCT-04 si le dosage est exprimé en pourcentage.
-- AGR-14 : VOL-02 ou VOL-03 ou VOL-04 selon la forme, UNIT-03 ou UNIT-05 selon les données.
+- AGR-14 : VOL-02 ou VOL-03 ou VOL-04 selon la forme, UNIT-03 ou UNIT-07 selon les données.
 - AGR-15 : TEM-08 ou TEM-11 ; unités de débit à définir selon le contexte.
 - AGR-16 : UNIT-01 à UNIT-05 selon les mesures du chantier.
 - AGR-17 : MES-05, DATA-01.
