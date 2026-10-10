@@ -1,0 +1,294 @@
+# Prépa Clé — Contexte général du projet
+
+**Version :** 1.0
+**Date :** 9 octobre 2026
+**Statut :** document de référence — cadrage pédagogique et architecture en cours de finalisation
+
+## 1. Présentation du projet
+
+Prépa Clé est un dispositif de remise à niveau en mathématiques destiné à des adultes engagés dans un projet professionnel ou une démarche de formation.
+
+Les apprenants peuvent notamment préparer une entrée en CAP, reprendre une formation, consolider leurs acquis ou retrouver confiance dans leurs compétences mathématiques.
+
+Le dispositif accueille des personnes aux parcours scolaires, professionnels et linguistiques variés. Certains apprenants présentent des difficultés durables d'apprentissage, des troubles dys ou une maîtrise limitée du français.
+
+Les séances durent généralement environ trois heures, avec une pause. Les apprenants travaillent de manière relativement autonome et sollicitent l'enseignant lorsqu'ils rencontrent une difficulté.
+
+Le dispositif repose sur une bibliothèque de fiches autonomes, sélectionnées selon les besoins, les acquis, le projet professionnel et le parcours de chaque apprenant.
+
+Il ne s'agit pas d'un cours linéaire que tous les apprenants suivraient dans le même ordre.
+
+## 2. Finalité de la bibliothèque
+
+La bibliothèque doit permettre de construire des parcours individualisés à partir de ressources cohérentes, identifiables et réutilisables.
+
+Un apprenant peut suivre plusieurs séances, réaliser plusieurs fiches au cours d'une séance et progresser rapidement dans les domaines qu'il maîtrise déjà.
+
+La bibliothèque doit donc être suffisamment détaillée pour permettre une sélection précise, sans devenir une collection excessive de microfiches.
+
+Le nombre de fiches ne constitue pas un objectif en soi. Il doit résulter des besoins réels d'apprentissage et d'une organisation pédagogique pertinente.
+
+Principe directeur :
+
+> On ne cherche pas à enseigner toutes les mathématiques utiles quelque part. On cherche à donner à chaque apprenant les mathématiques dont il a besoin pour atteindre son prochain objectif réel.
+
+## 3. Horizon mathématique et référentiels
+
+Le référentiel régional constitue le socle de référence du dispositif. Il inclut les compétences relevant de CléA.
+
+La bibliothèque est élargie :
+
+* au programme de mathématiques du collège ;
+* aux mathématiques mobilisées dans les formations de niveau CAP ;
+* à des extensions professionnelles ciblées lorsque celles-ci répondent à un besoin réel.
+
+Ces élargissements ne signifient pas que chaque apprenant doit suivre l'ensemble des programmes concernés. Les fiches sont sélectionnées en fonction de son parcours et de ses objectifs.
+
+Une extension professionnelle est acceptable si elle augmente la capacité de l'apprenant à réussir son projet sans transformer Prépa Clé en programme de lycée.
+
+Exemples :
+
+* la dilution peut constituer une application professionnelle de la proportionnalité ;
+* le calcul d'un volume de cylindre peut être pertinent lorsqu'il répond à un besoin de formation ;
+* une notion nouvelle, comme le raisonnement sur des intervalles de plantation, peut être proposée si elle est justifiée par une situation professionnelle.
+
+Les notions trop éloignées des besoins visés ne doivent pas être ajoutées simplement parce qu'elles existent dans les mathématiques scolaires.
+
+## 4. Principes de conception des fiches
+
+### 4.1. Une notion principale clairement identifiée
+
+Chaque fiche est centrée sur une notion mathématique principale.
+
+Il faut éviter de réunir plusieurs notions nouvelles dans une même fiche. Si deux apprentissages distincts sont nécessaires, on examine la possibilité de créer deux fiches liées.
+
+Une fiche peut toutefois proposer plusieurs exemples, méthodes, exercices et applications relevant de la même notion.
+
+Elle peut également mobiliser des prérequis déjà étudiés.
+
+### 4.2. Distinguer apprentissage et mobilisation
+
+Une fiche-notion vise l'apprentissage ou la maîtrise d'un outil mathématique.
+
+Une fiche-situation peut mobiliser plusieurs notions déjà étudiées dans un contexte concret.
+
+Une activité peut conduire à construire, produire, explorer ou réinvestir plusieurs notions.
+
+Un problème peut autoriser plusieurs méthodes de résolution.
+
+Principe :
+
+> Une situation n'est pas nécessairement associée à un seul théorème ou à une seule méthode.
+
+### 4.3. Autonomie et adaptabilité
+
+Les fiches sont conçues pour un travail relativement autonome. Elles doivent expliciter l'objectif, fournir les connaissances et méthodes nécessaires, proposer des exercices et permettre à l'apprenant de vérifier sa progression.
+
+Aucune durée fixe n'est imposée à une fiche.
+
+La longueur et la granularité doivent rester compatibles avec une utilisation réelle sur papier. Une fiche doit rester un objet pédagogique utilisable, pas un chapitre de manuel ni une simple microcarte.
+
+### 4.4. Accessibilité
+
+La conception doit tenir compte :
+
+* des difficultés de lecture et de compréhension des consignes ;
+* des obstacles liés au français langue seconde ;
+* des besoins éventuels liés aux troubles dys ;
+* de la charge cognitive ;
+* des aides visuelles, procédurales ou matérielles pertinentes.
+
+Il ne faut pas attribuer automatiquement une erreur à l'origine linguistique ou au parcours de la personne. La démarche de l'apprenant doit être explicitée avant de choisir une remédiation.
+
+### 4.5. Correction pédagogique
+
+Le corrigé enseignant est distinct du document apprenant.
+
+La correction doit permettre de comprendre les démarches et les erreurs, pas seulement de vérifier un résultat.
+
+Les erreurs peuvent notamment provenir :
+
+* d'une mauvaise compréhension de l'énoncé ;
+* d'une confusion sur la notion ou la formule ;
+* d'une erreur de calcul ;
+* d'une conversion incorrecte ;
+* d'une unité oubliée ;
+* d'une erreur de raisonnement ou de procédure ;
+* d'une réponse différente mais mathématiquement valide.
+
+La correction doit rester non stigmatisante. L'objectif est de comprendre l'origine du désaccord et de permettre à l'apprenant de progresser.
+
+## 5. Catégories de fiches
+
+Les catégories de travail retenues sont les suivantes.
+
+| Code  | Catégorie                                      | Fonction                                                                       |
+| ----- | ---------------------------------------------- | ------------------------------------------------------------------------------ |
+| PR    | Fiche principale                               | Apprentissage d'une notion ciblée                                              |
+| REN   | Fiche de renforcement                          | Consolidation d'un acquis ou reprise d'un prérequis                            |
+| PRO-R | Extension professionnelle par réinvestissement | Application de mathématiques déjà travaillées à un contexte professionnel      |
+| PRO-N | Extension professionnelle avec notion nouvelle | Introduction d'une notion supplémentaire justifiée par un besoin professionnel |
+| SIT   | Fiche-situation                                | Mobilisation de plusieurs notions dans une situation concrète                  |
+| ACT   | Activité                                       | Construction, production, exploration ou réinvestissement                      |
+| PLURI | Fiche en contexte plurilingue                  | Médiation autour de la langue, de la numération ou des conventions             |
+
+REN est préféré à CONS, abréviation écartée.
+
+Ces catégories sont à distinguer des fonctions pédagogiques et des caractéristiques transversales. Par exemple, une fiche de renforcement peut également nécessiter une médiation plurilingue. PLURI ne doit donc pas obligatoirement constituer une catégorie exclusive.
+
+Fonctions pédagogiques possibles :
+
+* apprentissage ;
+* entraînement ;
+* transfert ;
+* défi ;
+* réinvestissement ;
+* activité autonome ;
+* activité à emporter.
+
+## 6. Exercices et badges RECTEC+
+
+Les exercices d'une fiche peuvent être répartis en trois niveaux visibles :
+
+* 🟢 Socle ;
+* 🟠 Renforcement ;
+* 🔵 Approfondissement.
+
+Ces niveaux ne correspondent pas uniquement à la difficulté numérique. Ils doivent également tenir compte de la stratégie, de l'autonomie, de la distance par rapport à l'exemple, du contrôle et de la communication.
+
+Les exercices doivent comporter les badges ou niveaux RECTEC+ prévus dans le dispositif.
+
+Le niveau de difficulté mathématique et le positionnement RECTEC+ sont deux informations distinctes. L'attribution d'un badge RECTEC+ doit être justifiée par les compétences effectivement mobilisées, et non décidée mécaniquement à partir de la difficulté du calcul.
+
+Les consignes précisent si la calculatrice est interdite, autorisée ou recommandée, ainsi que les unités et les conditions particulières de résolution lorsque cela est pertinent.
+
+Les problèmes à chemins multiples peuvent proposer plusieurs méthodes valides, demander de choisir une méthode, d'en comparer plusieurs ou de justifier un choix.
+
+## 7. Architecture matérielle indicative d'une fiche
+
+Format de travail privilégié :
+
+* Feuille 1 recto : présentation, titre, objectif et repères utiles ;
+* Feuille 1 verso : cours ;
+* Feuille 2 recto-verso : exercices ;
+* Feuille 3 recto-verso : ressources, flashcards ou prolongements si nécessaire ;
+* corrigé enseignant séparé, avec autant de pages que nécessaire.
+
+Ce format est un cadre de conception, pas une obligation rigide. Une fiche peut être plus courte lorsque le contenu le justifie.
+
+Les ressources externes ne doivent pas être ajoutées artificiellement à chaque fiche. Elles peuvent être gérées dans une base documentaire commune.
+
+## 8. Architecture du catalogue
+
+Le catalogue maître doit contenir une ligne par fiche, avec un identifiant stable et unique.
+
+Champs envisagés :
+
+* référence ;
+* titre ;
+* catégorie ;
+* fonction pédagogique ;
+* notion principale ;
+* objectif observable ;
+* prérequis indispensables ;
+* prérequis utiles ;
+* liens avec les référentiels ;
+* niveau mathématique indicatif ;
+* formations ou contextes professionnels concernés ;
+* charge linguistique ;
+* aides et adaptations disponibles ;
+* ressources associées ;
+* état de production ;
+* liens vers le document apprenant et le corrigé enseignant.
+
+Les exercices, les erreurs observées, les sources, les supports, les flashcards et les parcours peuvent disposer de tables distinctes reliées par des identifiants.
+
+Les badges RECTEC+ doivent être prévus dans les données d'exercices et accompagnés de leur justification.
+
+## 9. Ressources et médiations transversales
+
+Les ressources externes, supports alternatifs et outils de remédiation doivent être recensés dans des bases communes plutôt que répétés systématiquement dans chaque fiche.
+
+Le dispositif pourra notamment comporter :
+
+* une banque d'exercices ;
+* une banque d'erreurs observées et de micro-exercices ;
+* une base de ressources documentaires ;
+* une base de supports et médiations ;
+* une banque de flashcards ;
+* un catalogue des professions et formations ;
+* une matrice des référentiels ;
+* des parcours et historiques de séances.
+
+Les activités de géométrie créative, les constructions codées et les problèmes à chemins multiples font partie des possibilités de réinvestissement, sans être artificiellement assimilés à des fiches-notions.
+
+## 10. Démarche de développement
+
+Le projet est développé progressivement.
+
+La méthode retenue est :
+
+1. formaliser le cadrage pédagogique ;
+2. consolider la matrice des référentiels ;
+3. finaliser l'architecture du catalogue ;
+4. produire une fiche pilote complète ;
+5. la tester et la réviser ;
+6. stabiliser le modèle ;
+7. produire les fiches par familles cohérentes ;
+8. contrôler progressivement la couverture des référentiels.
+
+Il ne faut pas lancer une production massive avant d'avoir testé le modèle sur une fiche réelle. En revanche, les recherches documentaires ne doivent pas retarder indéfiniment le passage à la production.
+
+## 11. Outils numériques et formats
+
+Le contenu pédagogique doit rester indépendant autant que possible de l'outil utilisé pour le produire.
+
+Les formats envisagés comprennent :
+
+* LibreOffice : ODT, ODS, ODP ;
+* HTML, CSS et JavaScript ;
+* SVG pour les schémas géométriques et pédagogiques ;
+* PDF pour l'impression ;
+* paquets SCORM pour une éventuelle intégration dans une plateforme de formation.
+
+Pour les figures mathématiques précises, privilégier les constructions géométriques déterministes et les SVG contrôlables plutôt que les générateurs d'images susceptibles de produire des erreurs visuelles.
+
+La génération automatisée de fichiers est un chantier technique distinct de la définition pédagogique. Elle doit servir le projet sans devenir un préalable à la conception des fiches.
+
+## 12. État d'avancement au 9 octobre 2026
+
+### Cadrage pédagogique
+
+Les grands principes sont définis. Le périmètre repose sur le référentiel régional, qui inclut CléA, avec un élargissement au collège et au CAP.
+
+La règle d'une notion principale par fiche est confirmée.
+
+### Référentiels
+
+Les référentiels à croiser sont identifiés. La matrice consolidée reste à produire et à vérifier point par point.
+
+### Architecture
+
+Les familles de fiches et les principes de classement sont définis dans leurs grandes lignes. Le catalogue maître et ses champs doivent encore être stabilisés.
+
+### Production
+
+Une première réflexion a été menée sur la fiche « Conventions d'écriture des nombres », ainsi que sur les difficultés de lecture des nombres en contexte plurilingue. Le modèle définitif de fiche n'est pas encore validé.
+
+### Prochaine priorité
+
+Finaliser le catalogue maître et la matrice des référentiels, puis reprendre la fiche pilote pour tester les choix pédagogiques sur un document complet.
+
+## 13. Règle de continuité des travaux
+
+Avant de créer une nouvelle catégorie, une nouvelle fiche ou un nouveau dispositif, vérifier :
+
+* le besoin auquel il répond ;
+* son lien avec les objectifs de Prépa Clé ;
+* son éventuelle présence dans le catalogue ;
+* les ressources existantes qui peuvent être réutilisées ;
+* le coût de maintenance supplémentaire qu'il entraîne.
+
+Les décisions validées ne doivent pas être rediscutées sans raison concrète. Les éléments provisoires doivent rester identifiés comme tels.
+
+Le but est de construire une bibliothèque pédagogique cohérente, durable, accessible et réellement utilisable par les apprenants et l'enseignant.
