@@ -188,7 +188,7 @@ Les prérequis ci-dessous sont indicatifs et seront rendus explicites dans le gr
 | TEM-03 | Passer de l’heure en heures-minutes à une durée en minutes | PR |
 | TEM-04 | Calculer une heure de fin à partir d’une heure de début et d’une durée | PR |
 | TEM-05 | Calculer une heure de début à partir d’une heure de fin et d’une durée | PR |
-| TEM-06 | Calculer une durée entre deux horaires, y compris avec changement d’heure | PR |
+| TEM-06 | Calculer une durée entre deux horaires, y compris avec passage de minuit | PR |
 | TEM-07 | Additionner des durées, par exemple \(15\,h\,30+2\,h\) | PR |
 | TEM-08 | Multiplier une durée par un nombre de tâches ou d’objets | PR |
 | TEM-09 | Calculer une durée totale de travail à partir d’un planning | PRO-R |
@@ -243,7 +243,7 @@ Les prérequis ci-dessous sont indicatifs et seront rendus explicites dans le gr
 | AIR-06 | Utiliser les unités d’aire et convertir des aires | PR |
 | AIR-07 | Résoudre des problèmes de revêtement, peinture ou surface à couvrir | PRO-R |
 | AIR-08 | Distinguer longueur, périmètre et aire | REN |
-| AIR-09 | Calculer l’aire d’un disque dans des cas accessibles | PR | AIR-01 ; GEO-07 |
+| AIR-09 | Calculer l’aire d’un disque dans des cas accessibles | PR |
 
 ### VOL — Volumes
 | ID | Objectif principal | Type dominant |
@@ -256,7 +256,7 @@ Les prérequis ci-dessous sont indicatifs et seront rendus explicites dans le gr
 | VOL-06 | Résoudre un problème concret mobilisant l’équivalence entre volume et capacité | PRO-R |
 | VOL-07 | Résoudre des problèmes de remplissage, stockage ou contenant | PRO-R |
 | VOL-08 | Distinguer aire d’une face, aire totale et volume | REN |
-| VOL-09 | Calculer le volume d’une sphère lorsque la formule est fournie ou connue | PR | VOL-01 ; calcul numérique ; unités de volume |
+| VOL-09 | Calculer le volume d’une sphère lorsque la formule est fournie ou connue | PR |
 
 
 ### ESP — Repérage dans l’espace, plans et cartes
@@ -274,8 +274,8 @@ Les prérequis ci-dessous sont indicatifs et seront rendus explicites dans le gr
 | ESP-10 | Utiliser un plan ou un quadrillage pour localiser une zone de travail | PRO-R |
 | ESP-11 | Interpréter des coordonnées ou un quadrillage dans un plan d’implantation | PRO-R |
 | ESP-12 | Préparer un trajet en tenant compte de distances et de contraintes | PRO-R |
-| ESP-13 | Repérer une région ou un département sur une carte de France | PR | ESP-02 ; ESP-08 ; ESP-09 ; lecture de légende |
-| ESP-14 | Utiliser des informations géographiques simples pour situer ou décrire un déplacement | PRO-R | ESP-08 ; ESP-13 |
+| ESP-13 | Repérer une région ou un département sur une carte de France | PR |
+| ESP-14 | Utiliser des informations géographiques simples pour situer ou décrire un déplacement | PRO-R | 
 
 ### DATA — Tableaux, diagrammes et graphiques
 | ID | Objectif principal | Type dominant |

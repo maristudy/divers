@@ -244,11 +244,6 @@ Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, di
 - ALGO-04 : ALGO-01 et les opérations utilisées dans la procédure.
 - ALGO-05 : ALGO-04, ACT-06.
 
-### Corrections des dépendances de l’addendum existant
-
-- VOL-09 : VOL-01 ; calcul numérique et unités de volume ; formule fournie ou mémorisée selon l’objectif.
-- ESP-13 : ESP-08, ESP-09.
-- ESP-14 : ESP-08, ESP-13 ; ESP-04 si l’itinéraire doit être décrit.
 
 ### ESP — Plans et cartes
 - ESP-01 : entrée possible.
