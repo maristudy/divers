@@ -316,6 +316,65 @@ Aucun ancien identifiant ne doit être transformé automatiquement à partir de 
 | 2.2 | À relever dans l’archive | À comparer | À établir | Conservation / scission / fusion / retrait | À vérifier |
 | 2.3 | À relever dans l’archive | À comparer | À établir | Conservation / scission / fusion / retrait | À vérifier |
 
+## E2 bis. Migration ciblée des anciennes familles GAV et ESP
+
+**Règle :** les identifiants de la matrice V1.0 ci-dessous sont des identifiants historiques. Ils ne doivent pas être utilisés comme identifiants canoniques du catalogue V3.0.
+
+### Ancienne famille GAV — périmètres, aires et volumes
+
+| Ancien ID V1.0 | Objectif ancien | Identifiants cibles proposés | État |
+|---|---|---|---|
+| GAV-01 | Calculer le périmètre d’un polygone | PER-03 | À vérifier |
+| GAV-02 | Calculer le périmètre d’un carré ou d’un rectangle | PER-02 | À vérifier |
+| GAV-03 | Calculer la circonférence d’un cercle | PER-04 | À vérifier |
+| GAV-04 | Calculer l’aire d’un carré ou d’un rectangle | AIR-02, AIR-03 | À vérifier |
+| GAV-05 | Calculer l’aire d’un triangle | AIR-04 | À vérifier |
+| GAV-06 | Calculer l’aire d’un disque | AIR-09 | À vérifier |
+| GAV-07 | Décomposer une figure complexe en figures simples | AIR-05 | À vérifier |
+| GAV-08 | Calculer le volume d’un cube ou d’un pavé droit | VOL-02, VOL-03 | À vérifier |
+| GAV-09 | Calculer le volume d’un cylindre | VOL-04 | À vérifier |
+| GAV-10 | Comprendre le volume d’une sphère | VOL-09 | À vérifier |
+| GAV-11 | Relier volume et capacité | VOL-06, UNIT-07 | À vérifier |
+| GAV-12 | Calculer une longueur, une aire ou un volume manquant | ALG-05 ou ALG-07 et famille géométrique concernée | Correspondance à décomposer |
+| GAV-13 | Estimer et contrôler un résultat géométrique | CAL-12, CAL-13, PROB-07 | À vérifier |
+| GAV-14 | Calculer des surfaces de terrain | AIR-02, AIR-03, AIR-05, AGR-09 | À vérifier |
+| GAV-15 | Calculer des volumes de terre, de paillage ou de matériaux | AGR-14 et VOL-02 ou VOL-04 selon la forme | À vérifier |
+| GAV-16 | Calculer une longueur de clôture ou de bordure | PER-05, AGR-10 | À vérifier |
+| GAV-17 | Déterminer un nombre d’objets à répartir sur une longueur ou une surface | AGR-03 à AGR-08 selon la situation | À vérifier |
+
+### Ancienne famille ESP de la matrice V1.0 — intervalles et implantation
+
+**Attention :** cette famille ESP historique ne correspond pas à la famille `ESP` du catalogue actuel, qui concerne le repérage, les plans et les cartes.
+
+| Ancien ID V1.0 | Objectif ancien | Identifiants cibles proposés | État |
+|---|---|---|---|
+| ESP-01 | Calculer le nombre d’intervalles sur une ligne | AGR-03 | À vérifier |
+| ESP-02 | Déterminer le nombre d’arbres alignés, arbre aux deux extrémités | AGR-04 | À vérifier |
+| ESP-03 | Déterminer le nombre d’arbres avec retrait aux extrémités | AGR-06 | À vérifier |
+| ESP-04 | Planter autour d’un lac ou d’un contour fermé | AGR-05 | À vérifier |
+| ESP-05 | Comparer plusieurs écartements possibles | AGR-07, AGR-19 | Correspondance à confirmer |
+| ESP-06 | Répartir des piquets, lampes, bornes ou supports | AGR-03, AGR-04 ou AGR-07 selon la situation | Correspondance à confirmer |
+| ESP-07 | Calculer le nombre de rangées sur une parcelle | AGR-02 | À vérifier |
+| ESP-08 | Calculer le nombre de plants par rangée puis sur la parcelle | AGR-01, AGR-04 | Correspondance à confirmer |
+| ESP-09 | Calculer une densité de plantation | AGR-08 | À vérifier |
+| ESP-10 | Calculer une longueur de rangée ou une distance entre plants | AGR-03, AGR-07 | Correspondance à confirmer |
+| ESP-11 | Prévoir une quantité de plants avec marge | PCT-04, AGR-19 ou SIT-09 selon la situation | Correspondance à confirmer |
+| ESP-12 | Lire un plan de plantation ou d’implantation | AGR-11, AGR-12 | À vérifier |
+
+### Conditions de validation
+
+Une correspondance ne devient « vérifiée » qu’après comparaison de l’objectif ancien avec l’objectif cible et contrôle des éléments suivants :
+
+- la compétence mathématique réellement travaillée ;
+- les conditions de la situation, notamment ligne ouverte, boucle fermée et retraits aux extrémités ;
+- les prérequis ;
+- la fonction pédagogique de la fiche ;
+- les éventuelles notions présentes dans l’ancien objectif mais absentes de la fiche cible.
+
+Si une ancienne fiche couvre plusieurs objectifs désormais séparés, la migration doit mentionner une scission. Si plusieurs anciens objectifs sont réunis dans une seule fiche actuelle, la fusion doit être justifiée.
+
+Cette table est une aide à la migration et non une preuve de couverture exhaustive des anciennes matrices.
+
 ## E3. Critères d’acceptation d’une migration
 
 Une ligne est marquée « vérifiée » uniquement si :

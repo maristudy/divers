@@ -45,6 +45,7 @@ Les prérequis ci-dessous sont indicatifs et seront rendus explicites dans le gr
 | NUM-09 | Encadrer un entier et le placer sur une droite graduée | PR |
 | NUM-10 | Dénombrer des objets et organiser un comptage sans oubli ni doublon | PR |
 | NUM-11 | Lire, écrire et comprendre les grands nombres dans des contextes concrets | REN |
+| NUM-12 | Lire et écrire les nombres en toutes lettres et appliquer les règles orthographiques | PR |
 
 ### DEC — Nombres décimaux
 | ID | Objectif principal | Type dominant |
@@ -236,6 +237,7 @@ Les prérequis ci-dessous sont indicatifs et seront rendus explicites dans le gr
 | AIR-06 | Utiliser les unités d’aire et convertir des aires | PR |
 | AIR-07 | Résoudre des problèmes de revêtement, peinture ou surface à couvrir | PRO-R |
 | AIR-08 | Distinguer longueur, périmètre et aire | REN |
+| AIR-09 | Calculer l’aire d’un disque dans des cas accessibles | PR | AIR-01 ; GEO-07 |
 
 ### VOL — Volumes
 | ID | Objectif principal | Type dominant |
@@ -248,6 +250,8 @@ Les prérequis ci-dessous sont indicatifs et seront rendus explicites dans le gr
 | VOL-06 | Relier volume et capacité dans des cas usuels | PR |
 | VOL-07 | Résoudre des problèmes de remplissage, stockage ou contenant | PRO-R |
 | VOL-08 | Distinguer aire d’une face, aire totale et volume | REN |
+| VOL-09 | Calculer le volume d’une sphère lorsque la formule est fournie ou connue | PR | VOL-01 ; calcul numérique ; unités de volume |
+
 
 ### ESP — Repérage dans l’espace, plans et cartes
 | ID | Objectif principal | Type dominant |
@@ -264,6 +268,8 @@ Les prérequis ci-dessous sont indicatifs et seront rendus explicites dans le gr
 | ESP-10 | Utiliser un plan ou un quadrillage pour localiser une zone de travail | PRO-R |
 | ESP-11 | Interpréter des coordonnées ou un quadrillage dans un plan d’implantation | PRO-R |
 | ESP-12 | Préparer un trajet en tenant compte de distances et de contraintes | PRO-R |
+| ESP-13 | Repérer une région ou un département sur une carte de France | PR | ESP-02 ; ESP-08 ; ESP-09 ; lecture de légende |
+| ESP-14 | Utiliser des informations géographiques simples pour situer ou décrire un déplacement | PRO-R | ESP-08 ; ESP-13 |
 
 ### DATA — Tableaux, diagrammes et graphiques
 | ID | Objectif principal | Type dominant |
@@ -289,6 +295,69 @@ Les prérequis ci-dessous sont indicatifs et seront rendus explicites dans le gr
 | ALG-06 | Résoudre une équation du premier degré dans un cas accessible | PR |
 | ALG-07 | Réorganiser une formule simple pour isoler une grandeur | PRO-N |
 
+### PUI — Puissances et notation scientifique
+
+| ID | Objectif principal | Type dominant |
+|---|---|---|
+| PUI-01 | Comprendre une puissance comme produit de facteurs identiques | PR |
+| PUI-02 | Calculer des puissances d’exposants entiers positifs dans des cas simples | PR |
+| PUI-03 | Utiliser les puissances de 10 pour écrire des grands nombres | PR |
+| PUI-04 | Utiliser les puissances de 10 pour écrire de petits nombres | PR |
+| PUI-05 | Lire et écrire une notation scientifique dans des cas accessibles | PR |
+| PUI-06 | Comparer des ordres de grandeur exprimés avec des puissances de 10 | REN |
+
+La priorité de ces fiches dépend du diplôme visé et des besoins diagnostiqués. Elles élargissent la couverture du collège sans constituer un préalable général à la numératie professionnelle.
+
+### FONC — Fonctions et relations entre grandeurs
+
+| ID | Objectif principal | Type dominant |
+|---|---|---|
+| FONC-01 | Comprendre qu’une grandeur dépend d’une autre dans une situation concrète | PR |
+| FONC-02 | Lire un tableau de valeurs associant deux grandeurs | PR |
+| FONC-03 | Lire un graphique représentant une relation entre deux grandeurs | PR |
+| FONC-04 | Calculer une valeur à partir d’une règle de calcul donnée | PR |
+| FONC-05 | Comparer deux évolutions représentées dans un tableau ou un graphique | REN |
+| FONC-06 | Distinguer une situation proportionnelle d’une relation non proportionnelle | PR |
+
+Les fonctions sont proposées lorsque leur étude est pertinente pour la trajectoire de formation. Elles ne sont pas un préalable général aux fiches professionnelles.
+
+### STAT — Probabilités et hasard
+
+| ID | Objectif principal | Type dominant |
+|---|---|---|
+| STAT-01 | Identifier une expérience aléatoire dans une situation simple | PR |
+| STAT-02 | Distinguer les issues possibles d’une expérience aléatoire | PR |
+| STAT-03 | Comprendre une probabilité comme mesure de chance dans un cas simple | PR |
+| STAT-04 | Calculer une probabilité dans une situation équiprobable simple | PR |
+| STAT-05 | Interpréter une fréquence à partir de données observées | PR |
+| STAT-06 | Distinguer fréquence observée et probabilité théorique | REN |
+
+Ces fiches contribuent à la couverture du programme du collège. Elles ne doivent pas être présentées comme des prérequis à la numératie professionnelle courante.
+
+### GEO3 — Géométrie dans l’espace
+
+| ID | Objectif principal | Type dominant |
+|---|---|---|
+| GEO3-01 | Reconnaître cube, pavé droit, prisme, cylindre, cône et sphère | PR |
+| GEO3-02 | Identifier faces, arêtes et sommets d’un solide | PR |
+| GEO3-03 | Relier un solide à une représentation plane simple | PR |
+| GEO3-04 | Lire ou compléter un patron de cube ou de pavé droit | PR |
+| GEO3-05 | Identifier les dimensions utiles au calcul d’un volume | PR |
+
+Reconnaître un solide, en lire une représentation et calculer son volume sont des compétences distinctes. Leur apprentissage doit être organisé en conséquence.
+
+### ALGO — Algorithmique et procédures
+
+| ID | Objectif principal | Type dominant |
+|---|---|---|
+| ALGO-01 | Décrire une procédure sous forme d’étapes ordonnées | ACT |
+| ALGO-02 | Identifier une répétition dans une procédure simple | PR |
+| ALGO-03 | Comprendre une variable dans une procédure ou un programme simple | PR |
+| ALGO-04 | Suivre un algorithme court et déterminer son résultat | PR |
+| ALGO-05 | Repérer une erreur dans une procédure séquentielle simple | REN |
+
+L’algorithmique élargit la couverture du programme scolaire. Elle est priorisée selon les besoins identifiés et le parcours de formation, et non imposée comme préalable universel.
+
 ### PROB — Problèmes et stratégies
 | ID | Objectif principal | Type dominant |
 |---|---|---|
@@ -300,7 +369,7 @@ Les prérequis ci-dessous sont indicatifs et seront rendus explicites dans le gr
 | PROB-06 | Représenter un problème par un schéma, un tableau ou une droite | PR |
 | PROB-07 | Estimer puis vérifier la cohérence d’une réponse | REN |
 | PROB-08 | Distinguer information utile, inutile et manquante | REN |
-| PROB-09 | Résoudre un problème ouvert en explicitant les hypothèses | 🔵 Approfondissement |
+| PROB-09 | Résoudre un problème ouvert en explicitant les hypothèses | SIT |
 
 ### COMM — Communication et raisonnement mathématiques
 | ID | Objectif principal | Type dominant |
@@ -413,10 +482,8 @@ Les prérequis ci-dessous sont indicatifs et seront rendus explicites dans le gr
 
 | ID | Famille | Objectif principal | Type dominant | Prérequis direct indicatif |
 |---|---|---|---|---|
-| AIR-09 | AIR | Calculer l’aire d’un disque dans des cas accessibles | PR | AIR-01 ; GEO-07 |
-| VOL-09 | VOL | Calculer le volume d’une sphère lorsque la formule est fournie ou connue | PR | VOL-01 ; calcul numérique ; unités de volume |
-| ESP-13 | ESP | Repérer une région ou un département sur une carte de France | PR | ESP-02 ; lecture de légende |
-| ESP-14 | ESP | Utiliser des informations géographiques simples pour situer ou décrire un déplacement | PRO-R | ESP-08 ; ESP-13 |
+
+
 
 ## Corrections éditoriales
 - Dans la famille PROB, la colonne « Type dominant » de PROB-09 doit être lue **SIT** ; « approfondissement » décrit son niveau, pas son type.

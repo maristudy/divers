@@ -17,6 +17,7 @@ Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, di
 - NUM-09 : NUM-07.
 - NUM-10 : entrée possible.
 - NUM-11 : NUM-03.
+- NUM-12 : NUM-01 ; COMM-04 utile pour le vocabulaire et la formulation.
 
 ### DEC — Nombres décimaux
 - DEC-01 : NUM-01, NUM-02.
@@ -198,6 +199,56 @@ Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, di
 - VOL-09 : VOL-01, calcul numérique ; formule fournie ou mémorisée selon l’objectif.
 
 ## 4. Espace, données et algèbre
+
+### PUI — Puissances et notation scientifique
+
+- PUI-01 : CAL-03.
+- PUI-02 : PUI-01, CAL-03.
+- PUI-03 : NUM-03, CAL-10.
+- PUI-04 : DEC-02, CAL-10.
+- PUI-05 : PUI-03, PUI-04, DEC-04.
+- PUI-06 : PUI-05, CAL-12.
+
+### FONC — Fonctions et relations entre grandeurs
+
+- FONC-01 : PROP-01, DATA-01.
+- FONC-02 : DATA-01, DATA-02.
+- FONC-03 : DATA-04.
+- FONC-04 : ALG-03, ALG-04.
+- FONC-05 : DATA-05, et FONC-02 ou FONC-03 selon la représentation.
+- FONC-06 : PROP-01, PROP-07.
+
+### STAT — Probabilités et hasard
+
+- STAT-01 : entrée possible ; lecture accompagnée de la situation si nécessaire.
+- STAT-02 : STAT-01, NUM-10.
+- STAT-03 : STAT-02, FRA-01.
+- STAT-04 : STAT-03, CAL-04.
+- STAT-05 : DATA-01, DATA-02.
+- STAT-06 : STAT-04, STAT-05.
+
+### GEO3 — Géométrie dans l’espace
+
+- GEO3-01 : GEO-04, GEO-07.
+- GEO3-02 : GEO3-01.
+- GEO3-03 : GEO3-01 ; DATA-01 utile selon la représentation.
+- GEO3-04 : GEO3-01, GEO3-02.
+- GEO3-05 : GEO3-01, VOL-01.
+
+### ALGO — Algorithmique et procédures
+
+- ALGO-01 : COMM-03.
+- ALGO-02 : ALGO-01.
+- ALGO-03 : NUM-01, ALG-01.
+- ALGO-04 : ALGO-01 et les opérations utilisées dans la procédure.
+- ALGO-05 : ALGO-04, ACT-06.
+
+### Corrections des dépendances de l’addendum existant
+
+- AIR-09 : AIR-01, GEO-07 ; calcul numérique et formule fournie ou mémorisée selon l’objectif.
+- VOL-09 : VOL-01 ; calcul numérique et unités de volume ; formule fournie ou mémorisée selon l’objectif.
+- ESP-13 : ESP-08, ESP-09.
+- ESP-14 : ESP-08, ESP-13 ; ESP-04 si l’itinéraire doit être décrit.
 
 ### ESP — Plans et cartes
 - ESP-01 : entrée possible.
