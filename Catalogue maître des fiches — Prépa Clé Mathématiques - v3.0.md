@@ -45,7 +45,7 @@ Les prérequis ci-dessous sont indicatifs et seront rendus explicites dans le gr
 | NUM-09 | Encadrer un entier et le placer sur une droite graduée | PR |
 | NUM-10 | Dénombrer des objets et organiser un comptage sans oubli ni doublon | PR |
 | NUM-11 | Lire, écrire et comprendre les grands nombres dans des contextes concrets | REN |
-| NUM-12 | Lire et écrire les nombres en toutes lettres et appliquer les règles orthographiques | PR |
+| NUM-12 | Lire et écrire les nombres en toutes lettres en appliquant les règles orthographiques | PR |
 
 ### DEC — Nombres décimaux
 | ID | Objectif principal | Type dominant |
@@ -168,11 +168,11 @@ Les prérequis ci-dessous sont indicatifs et seront rendus explicites dans le gr
 |---|---|---|
 | UNIT-01 | Convertir des longueurs | PR |
 | UNIT-02 | Convertir des masses | PR |
-| UNIT-03 | Convertir des capacités et volumes | PR |
+| UNIT-03 | Convertir les unités usuelles de capacité (L, dL, cL, mL) | PR |
 | UNIT-04 | Convertir des aires | PR |
 | UNIT-05 | Convertir des durées | PR |
 | UNIT-06 | Choisir et écrire correctement une unité dans une réponse | REN |
-| UNIT-07 | Relier les unités de volume et de capacité dans des cas usuels | PR |
+| UNIT-07 | Convertir les unités usuelles de volume (m³, dm³, cm³) et les relier aux unités de capacité correspondantes | PR |
 
 ### TEM — Temps et durées
 | ID | Objectif principal | Type dominant |
@@ -247,7 +247,7 @@ Les prérequis ci-dessous sont indicatifs et seront rendus explicites dans le gr
 | VOL-03 | Calculer le volume d’un cube | PR |
 | VOL-04 | Calculer le volume d’un cylindre | PR |
 | VOL-05 | Convertir des unités de volume adaptées à la situation | PR |
-| VOL-06 | Relier volume et capacité dans des cas usuels | PR |
+| VOL-06 | Résoudre un problème concret mobilisant l’équivalence entre volume et capacité | PRO-R |
 | VOL-07 | Résoudre des problèmes de remplissage, stockage ou contenant | PRO-R |
 | VOL-08 | Distinguer aire d’une face, aire totale et volume | REN |
 | VOL-09 | Calculer le volume d’une sphère lorsque la formule est fournie ou connue | PR | VOL-01 ; calcul numérique ; unités de volume |

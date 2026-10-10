@@ -17,7 +17,7 @@ Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, di
 - NUM-09 : NUM-07.
 - NUM-10 : entrée possible.
 - NUM-11 : NUM-03.
-- NUM-12 : NUM-01 ; COMM-04 utile pour le vocabulaire et la formulation.
+- NUM-12 : NUM-01 ; PLURI-01 peut être proposé en soutien lexical, sans être un prérequis obligatoire.
 
 ### DEC — Nombres décimaux
 - DEC-01 : NUM-01, NUM-02.
@@ -124,11 +124,11 @@ Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, di
 ### UNIT — Conversions
 - UNIT-01 : NUM-01, DEC-01 ; MES-02 utile.
 - UNIT-02 : NUM-01, DEC-01 ; MES-03 utile.
-- UNIT-03 : NUM-01, DEC-01 ; MES-04 utile.
+- UNIT-03 : NUM-01, DEC-01 ; MES-04 utile selon les instruments et contenants utilisés.
 - UNIT-04 : UNIT-01 ; comprendre le lien entre longueur et aire.
 - UNIT-05 : TEM-03.
 - UNIT-06 : UNIT-01 à UNIT-05 selon l’unité visée.
-- UNIT-07 : UNIT-03, VOL-01.
+- UNIT-07 : UNIT-03, UNIT-01 à titre de repère de lecture des tableaux de conversion ; VOL-01 utile pour le sens des unités de volume.
 
 ### TEM — Temps
 - TEM-01 : entrée possible.
@@ -188,12 +188,12 @@ Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, di
 - AIR-09 : AIR-01, GEO-07, calcul numérique ; formule fournie ou mémorisée selon l’objectif.
 
 ### VOL — Volumes
-- VOL-01 : UNIT-03 ; manipulation de contenants possible.
+- VOL-01 : entrée possible par manipulation de contenants, comparaison de volumes ou pavage de solides ; UNIT-03 utile selon le contexte.
 - VOL-02 : VOL-01, CAL-03.
 - VOL-03 : VOL-01, VOL-02.
 - VOL-04 : VOL-01, CAL-03, CAL-04, GEO-07 ; formule du cylindre disponible si nécessaire.
-- VOL-05 : VOL-01, UNIT-03.
-- VOL-06 : VOL-01, UNIT-03.
+- VOL-05 : VOL-01, UNIT-07.
+- VOL-06 : VOL-01, UNIT-03, UNIT-07 ; proposer une situation concrète de remplissage ou de contenant.
 - VOL-07 : VOL-02 ou VOL-03 ou VOL-04 ou VOL-06, UNIT-03.
 - VOL-08 : AIR-01, VOL-01.
 - VOL-09 : VOL-01, calcul numérique ; formule fournie ou mémorisée selon l’objectif.
@@ -220,7 +220,7 @@ Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, di
 
 ### STAT — Probabilités et hasard
 
-- STAT-01 : entrée possible ; lecture accompagnée de la situation si nécessaire.
+- STAT-01 : entrée possible ; l’identification d’une expérience aléatoire peut être travaillée sur une situation concrète sans exiger au préalable une fiche générale de résolution de problèmes.
 - STAT-02 : STAT-01, NUM-10.
 - STAT-03 : STAT-02, FRA-01.
 - STAT-04 : STAT-03, CAL-04.

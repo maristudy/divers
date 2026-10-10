@@ -3,7 +3,13 @@
 **Version documentaire : 3.1**  
 **Date : 10 octobre 2026**  
 **Statut :** gel éditorial du périmètre et des règles de gestion ; catalogue et graphe à maintenir selon les contrôles ci-dessous.  
-**Source de vérité :** ce document, le catalogue maître v3.0-candidate et ses addenda, le graphe v3.0-candidate, la matrice de couverture et le registre de migration.
+**Source de vérité :** 
+- ce référentiel pour les règles de gestion, le périmètre documentaire, les décisions et le registre de contrôle ;
+- la matrice de traçabilité pour les correspondances détaillées avec les référentiels ;
+- le catalogue maître pour les identifiants et les objectifs des fiches ;
+- le graphe des prérequis pour les dépendances entre fiches.
+
+Les listes d’identifiants et de dépendances reproduites dans ce référentiel sont des éléments de migration ou de contrôle. Elles ne constituent pas une seconde version du catalogue ou du graphe.
 
 ---
 
@@ -75,11 +81,21 @@ La politique est décidée selon l’objectif évalué. Si l’objectif est la t
 
 ---
 
+# Documents B et C — Périmètre des compléments intégrés
+
+Les familles complémentaires PUI, FONC, STAT, GEO3 et ALGO ont été intégrées au catalogue maître et leurs dépendances au graphe des prérequis.
+
+Le référentiel conserve la justification de leur présence et les règles de priorité :
+
+- les notions de collège élargissent la couverture de la bibliothèque ;
+- leur présence ne signifie pas qu’elles sont prioritaires pour tous les apprenants ;
+- la priorité dépend du diagnostic, du diplôme visé et de la trajectoire de formation ;
+- les applications professionnelles doivent rester distinguées des exigences explicites des référentiels scolaires ou professionnels.
+
+Les identifiants et dépendances canoniques sont ceux du catalogue et du graphe. Toute modification future doit être effectuée dans ces fichiers, puis consignée dans le registre de contrôle.
+
+
 # Document B — Compléments obligatoires au catalogue
-
-Le catalogue maître v3.0-candidate contient les familles NUM, DEC, REL, DIV, CAL, FRA, PROP, PCT, MES, UNIT, TEM, GEO, TRA, PER, AIR, VOL, ESP, DATA, ALG, PROB, COMM, GEST, AGR, SIT, ACT et PLURI.
-
-Pour assurer une couverture plus cohérente du programme de collège, les familles suivantes sont ajoutées. Elles ne modifient pas les identifiants existants.
 
 ## B1. PUI — Puissances et notation scientifique
 
@@ -185,8 +201,6 @@ L’algorithmique est une famille de couverture du programme scolaire ; elle ne 
 ---
 
 # Document C — Graphe des dépendances : règles et compléments
-
-Le graphe détaillé du document précédent reste la base. Les dépendances ci-dessous complètent le graphe pour les nouvelles familles.
 
 ## C1. Dépendances PUI
 - PUI-01 dépend de CAL-03.
