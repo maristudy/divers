@@ -9,6 +9,7 @@ Périmètre : référentiel régional Prépa Clé, domaine 2 du CléA, programme
 Principe : une fiche principale introduit ou structure une notion ; une fiche de renforcement reprend une compétence ciblée ; une fiche de réinvestissement mobilise des acquis dans un contexte professionnel ; une fiche-situation combine plusieurs notions.
 
 Règle de gel : toute modification d’identifiant, de famille ou d’objectif principal doit être justifiée, consignée dans le journal des changements et répercutée dans le graphe et la matrice de traçabilité.
+
 ## 1. Identifiants, types et niveaux
 
 ### Types de fiches
@@ -476,21 +477,8 @@ L’algorithmique élargit la couverture du programme scolaire. Elle est prioris
 10. La maîtrise peut être validée par la réussite répétée sur des variantes ; une autoévaluation n’est pas obligatoire sur chaque fiche.
 
 ## 4. Statut des identifiants
-- Les identifiants de ce catalogue sont les identifiants canoniques de la base v3.0-candidate.
+- Les identifiants de ce catalogue sont les identifiants canoniques de la base v3.0.
 - Les anciennes versions 1.1, 2.1, 2.2 et 2.3 sont conservées comme archives, pas comme catalogues de référence.
 - Aucun identifiant ancien ne doit être renommé ou redirigé automatiquement sans vérification de l’objectif exact.
 - Toute nouvelle fiche reçoit un nouvel identifiant disponible dans sa famille ; tout changement substantiel d’objectif est documenté comme une scission ou un remplacement.
 
-
-# Addendum au catalogue maître v3.0-candidate
-
-## Entrées ajoutées après contrôle de couverture
-
-| ID | Famille | Objectif principal | Type dominant | Prérequis direct indicatif |
-|---|---|---|---|---|
-
-
-
-## Corrections éditoriales
-- Les niveaux 🟢, 🟠 et 🔵 seront affectés à chaque fiche puis ajustés aux exercices lors de la conception. Le catalogue ne fixe pas un niveau unique et immuable à une fiche entière.
-- Les formules de l’aire du disque, du volume du cylindre et du volume de la sphère devront être accompagnées de leurs unités et de l’identification des grandeurs utilisées. La formule fournie peut être une aide pédagogique : sa présence ne doit pas masquer l’objectif réel de l’exercice.
