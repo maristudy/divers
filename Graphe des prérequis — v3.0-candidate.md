@@ -274,7 +274,7 @@ Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, di
 
 ### ALG — Algèbre
 - ALG-01 : NUM-01, COMM-04.
-- ALG-02 : ALG-01, PROB-01.
+- ALG-02 : ALG-01.
 - ALG-03 : ALG-01, CAL-01 à CAL-07 selon l’expression.
 - ALG-04 : ALG-03, compréhension des unités si la formule en comporte.
 - ALG-05 : CAL-01 à CAL-04 ; ALG-01 utile.
