@@ -35,8 +35,7 @@ La politique est indiquée **exercice par exercice** : interdite, autorisée ou 
 
 ## 2. Catalogue par familles
 
-Les prérequis ci-dessous sont indicatifs et seront rendus explicites dans le graphe. « Aucun » signifie qu’une entrée par diagnostic, manipulation ou exemples simples est possible.
-
+Les prérequis ne sont pas détaillés dans les tableaux du catalogue. Ils sont décrits dans le graphe des prérequis, qui constitue la référence des dépendances entre les fiches.
 ### NUM — Nombres entiers et numération
 | ID | Objectif principal | Type dominant |
 |---|---|---|
