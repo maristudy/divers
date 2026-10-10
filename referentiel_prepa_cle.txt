@@ -1,0 +1,150 @@
+********** référentiel prépa clé région **********
+domaine 1 : CALCULER, RAISONNER  SE REPERER DANS L'UNIVERS DES NOMBRES 
+
+Découvrir les nombres 
+Nombres entiers : lire et écrire 
+Ecriture des entiers : règles d’orthographe 
+Nombres décimaux : lire et écrire, ordonner et comparer 
+Nombres relatifs : les découvrir pour ordonner et classer 
+Dénombrer au travers de tests logiques 
+
+Maitriser la  technique opératoire 
+Les 4 opérations : addition, soustraction, multiplication, division 
+Utiliser les ordres de grandeurs pour s’assurer de la cohérence des résultats 
+
+Calculer facilement, rapidement 
+Calculer mental 
+Multiplier, diviser par 10, 100, 1000 
+Arrondir un nombre 
+
+Se familiariser avec la proportionnalité 
+Notions de fraction 
+Situations de proportionnalité 
+Notions de proportionnalités : ressources d’apprentissage (CRAN) 
+
+domaine 2 : RESOUDRE UN PROBLEME METTANT EN JEU PLUSIEURS OPERATIONS 
+
+S’approprier un énoncé 
+Le vocabulaire mathématique 
+Choisir la bonne opération 
+
+Maitriser les 4 opérations dans des situations problèmes 
+Les 4 opérations : addition, soustraction, multiplication, division 
+Les situations de la vie courante 
+Utiliser les ordres de grandeurs pour s’assurer de la cohérence des résultats 
+
+Calculer avec les nombres relatifs 
+Addition des nombres relatifs 
+Soustraction de nombres relatifs 
+Multiplication et division de nombres relatifs
+
+Calculer avec des fractions 
+Notion de fractions 
+Simplification de fractions (critères de divisibilité, trouver les facteurs premiers, simplifier des fractions) 
+Résolution de problèmes (comparer, ajouter, soustraire) 
+
+domaine 3 : LIRE ET CALCULER LES UNITES DE MESURE DE TEMPS ET DE QUANTITE 
+
+Convertir différentes unités 
+Unités de mesure (longueurs, masses, aires, volumes, durée) 
+Convertir des unités de mesure 
+
+Lire et interpréter des tableaux et graphiques simples 
+Lecture de graphiques et tableaux 
+Mise en situation sur un planning et détection d'erreur 
+Connaître les  figures géométriques  de base 
+Les bases de la géométrie (éléments de géométrie, savoir reconnaitre les différentes figures planes) 
+Les quadrilatères (le parallélogramme, le rectangle, le carré, les quadrilatères particuliers) 
+Les triangles (les différents triangles, construire des triangles) 
+
+Calculer en géométrie 
+Notions de longueur et de périmètre 
+Notions d'aires 
+Notion de volume entier 
+
+domaine 4 : SE REPERER DANS L'ESPACE 
+
+S’orienter pour se repérer 
+Notion de géographie (France, régions, départements) 
+Notion d'orientation (points cardinaux, boussole) 
+
+Convertir les unités de longueur et d’aire 
+Unités de mesure de longueurs et d'aires (dont les instruments de mesure) 
+Conversion d'unités 
+Notion d'échelle 
+
+Lire un plan et en extraire des informations utiles 
+Retrouver un lieu sur un plan, une carte 
+Nommer un lieu à partir de coordonnées 
+Établir un itinéraire afin de rejoindre un lieu sur un plan, une carte 
+Effectuer un parcours sur un plan, une carte à partir d'indications 
+Lire une carte et en tirer des informations utiles 
+Répertorier des éléments sur une carte (cours d'eau, rues, parcs, monuments, etc.), les retrouver à partir de coordonnées 
+
+Lire un schéma et en extraire des informations utiles 
+Retrouver un lieu sur un schéma (exemple : schéma du réseau des transports en commun) 
+Nommer un lieu à partir de coordonnées/ d'une grille 
+Établir un itinéraire afin de rejoindre un lieu sur un schéma 
+Effectuer un parcours sur un schéma à partir d'indications 
+
+
+domaine 5 : RESTITUER ORALEMENT UN RAISONNEMENT MATHÉMATIQUE 
+
+Restituer oralement un raisonnement mathématique 
+S'approprier un énoncé 
+Structurer les différentes étapes de la résolution du problème 
+Utiliser à bon escient le langage mathématique 
+Communiquer des résultats à l'oral et/ou à l'écrit 
+
+
+********** référentiel Cléa **********
+
+pdf avec le referentiel : https://www.certificat-clea.fr/media/2021/07/Referentiel-Clea_2021.pdf
+
+Domaine 2 : Utiliser les règles de base de calcul et du raisonnement mathématique
+
+Sous-domaine 1. Se repérer dans l’univers des nombres
+
+réaliser les 4 opérations à la main ou avec une calculette [Le résultat d’un calcul simple réalisé à la main (nombres entiers) ou à la calculette (nombres décimaux) est exact.]
+compter, dénombrer [Parmi un ensemble d’objets de nature et de quantité variables, le nombre exact d’objets de chaque catégorie est déterminé. ]
+comparer, classer, sérier [Une liste de nombres, classés par ordre croissant (du plus petit au plus grand), est exacte.]
+évaluer un ordre de grandeur [Des exemples d'ordre de grandeur (Centaine/millier/million/milliard, gramme / kilogramme / tonne, etc.) sont compris et expliqués]
+utiliser les techniques élémentaires de calcul mental [Les techniques élémentaires du calcul mental sont utilisées pour effectuer correctement des opérations simples (multiplications ou divisions par 2 et 3, additions ou soustractions de deux nombres entiers inférieurs à 100, multiplications ou divisions de nombres décimaux ou entiers avec des nombres multiples de 10).]
+contrôler la cohérence des résultats obtenus [La valeur du résultat obtenu est logique vis–à-vis du calcul, des données de départ et du contexte. La cohérence des résultats obtenus est vérifiée.]
+réaliser un calcul proportionnel simple [Le principe de proportionnalité est compris et appliqué dans le cadre d’un calcul simple (application règle de 3 sur de petits nombres entiers, détermination d'un coefficient de proportionnalité).]
+
+Sous-domaine 2. Résoudre un problème mettant en jeu une ou plusieurs opérations
+
+résoudre un problème en mettant en jeu une ou plusieurs des 4 opérations [Le raisonnement choisi pour résoudre un problème utilise la ou les bonne(s) opération(s) : addition, soustraction, division, multiplication. Le calcul réalisé à partir de petits nombres entiers, simple ou combiné, produit un résultat exact.]
+comprendre et utiliser les pourcentages [L’identification d’un pourcentage (par exemple 10%; 0,1; 10/100) et sa signification sont maîtrisées ; son utilisation dans les calculs est adaptée, le résultat est exact.]
+
+Sous-domaine 3. Lire et calculer les unités de mesures, de temps et des quantités
+
+utiliser les unités de temps [La lecture de l’heure sur une pendule digitale ou à aiguille est correcte, les calculs (durée, conversion) sont exacts.]
+lire et comprendre un planning de travail [Un planning de travail est compris (identification d'horaires, calculs simples de durées).]
+renseigner correctement les horaires [Les horaires (ex : de travail) sont transcrits sans erreur dans un formulaire ou sur un planning.]
+utiliser les unités de mesures ainsi que les instruments de mesure [Les 3 types d’unités de mesures (longueur, masse, capacité) ainsi que les instruments de mesure associés sont identifiés correctement. Les conversions effectuées (à l'aide d'un tableau de conversion) sont exactes.]
+utiliser et comprendre des tableaux, des diagrammes, des graphiques [Le sens de lecture de tableaux, de diagrammes, ou de graphiques est identifié, la signification de leurs données est comprise. Les réponses aux questions relatives à ces représentations sont justes.)]
+identifier les erreurs [Les erreurs sont repérées et sont différenciées selon leur nature (erreur d’écriture des unités, d’opérations, de résultat, de signification des données, de représentation…).]
+effectuer des calculs simples de périmètres et surfaces (carré, rectangle, triangle, cercle), et volumes (cube, parallélépipède rectangle, cylindre, sphère). [A partir de la formule, les calculs simples de périmètres, de surfaces et de volumes sont exacts.]
+
+Sous-domaine 4. Se repérer dans l’espace
+
+lire un plan, une carte, un schéma, et en extraire des informations utiles. [Les réponses aux questions relatives à la lecture et à la compréhension d'un plan, d'une carte ou d'un schéma sont justes. Les informations utiles en sont extraites.]
+
+Sous-domaine 5.  Restituer oralement un raisonnement mathématique
+
+reformuler un calcul (opérations sur des nombres entiers) exposé par quelqu’un d’autre [La reformulation d’un calcul exposé par quelqu’un d’autre est adaptée et présente les différentes étapes de ce calcul en reprenant les explications données sans interpréter, ni modifier.]
+transmettre ses calculs ou les calculs à effectuer (opérations sur des nombre entiers) [Les calculs à transmettre ou à effectuer sont restitués oralement dans un langage clair et précis. ]
+employer un langage mathématique de base (vocabulaire courant pour les compétences mathématiques de CléA) [Le langage mathématique de base est compris et utilisé de manière adaptée]
+
+********** autres référentiels **********
+référentiels de l'éducation nationale niveau CAP (tous groupements confondus)
+référentiels de l'éducation nationale du primaire et du collège
+pour approfondissement, ou pour trouver des situations professionnelles, on peut utiliser les référentiels de l'éducation nationale et du ministère de l'agriculture jusqu'à un niveau fin bac pro.
+
+********** autres ressources utiles **********
+anciens sujets de CAP (maths / sciences / matières professionnelles) et de brevet
+livres de mathématiques anciens ( https://manuelsanciens.blogspot.com/2016/04/chatelet-condevaux-arithmetique.html )
+
+
