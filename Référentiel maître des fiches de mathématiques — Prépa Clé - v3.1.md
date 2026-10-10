@@ -407,22 +407,19 @@ Tant que les archives ne sont pas comparées ligne par ligne, la migration histo
 
 ## F1. État des contrôles
 
-| Contrôle | État | Preuve attendue |
-|---|---|---|
-| Unicité des identifiants du catalogue | À vérifier automatiquement sur le fichier consolidé | Liste des doublons, résultat nul attendu |
-| Existence de toutes les références du graphe | À vérifier automatiquement | Liste des identifiants inconnus, résultat nul attendu |
-| Absence de cycles dans le graphe | À vérifier automatiquement | Rapport de parcours du graphe |
-| Correspondance catalogue / matrice | Partielle | Chaque ID de matrice doit exister dans le catalogue |
-| Couverture thématique du référentiel régional | Représentée | Relecture des cinq domaines |
-| Couverture du CléA 2021 domaine 2 | Représentée | Comparaison critère par critère |
-| Couverture des programmes officiels collège | Familles élargies ; correspondance détaillée à vérifier | Tableau de traçabilité par programme et par cycle |
-| Couverture des groupements CAP | À préciser selon les diplômes cibles | Matrice par groupement de spécialités |
-| Applications agricoles et paysagères | Représentées | Comparaison avec les capacités et modules du référentiel professionnel |
-| Calculatrice par exercice | À renseigner lors de la rédaction | Champ obligatoire dans chaque exercice |
-| RECTEC+ par exercice | À renseigner lors de la rédaction | Badge accompagné d’une justification |
-| Migration des anciens identifiants | Non finalisée | Table E2 remplie et contrôlée |
-| Validation par les apprenants | À réaliser sur le terrain | Journal d’observations et versions révisées |
+### État des contrôles avant gel de structure
 
+| Contrôle | État | Suite prévue |
+|---|---|---|
+| Unicité des identifiants du catalogue | Contrôle automatique non exécuté | À exécuter lors de la phase de validation technique |
+| Validité des références du graphe | Contrôle automatique non exécuté | À exécuter lors de la phase de validation technique |
+| Détection des cycles du graphe | Contrôle non exécuté | À exécuter lors de la phase de validation technique |
+| Cohérence catalogue–graphe | Cohérence documentaire examinée, contrôle exhaustif non exécuté | À confirmer lors des contrôles techniques |
+| Matrice de traçabilité | Examen partiel | Poursuivre la vérification des correspondances |
+| Migration des anciennes versions | Non finalisée | Traiter séparément, sans présumer d’équivalences historiques |
+| Validation pédagogique en situation réelle | À réaliser | Tester les fiches avec les apprenants |
+
+Le gel de structure porte sur l’organisation du référentiel et la stabilisation de ses documents de référence. Il ne vaut ni validation technique des contrôles non exécutés, ni validation exhaustive de la traçabilité, ni validation pédagogique.
 ## F2. Critères de gel définitif
 
 Le catalogue et le graphe sont gelés au sens documentaire lorsqu’aucun changement de périmètre ou d’identifiant n’est en cours. Ils ne sont déclarés **entièrement vérifiés** qu’après obtention des preuves suivantes :

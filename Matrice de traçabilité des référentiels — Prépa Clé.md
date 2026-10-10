@@ -3,7 +3,9 @@
 **Version :** 0.2 — structure gelée ; correspondances en cours de vérification
 **Catalogue cible :** catalogue maître Prépa Clé v3.0 — gel de structure
 **Objet :** documenter les liens entre les compétences des référentiels sources et les objectifs des fiches du catalogue actuel.
+**Statut :** structure stabilisée ; correspondances en cours de vérification.
 
+**Règle de lecture :** une correspondance proposée entre un critère source et un objectif du catalogue ne prouve pas, à elle seule, que les exercices couvrent toutes les exigences de ce critère. La validation doit s’appuyer sur le contenu effectif des fiches et sur des tâches observables.
 ## 1. Règles de lecture
 
 ### 1.1 Nature de la correspondance
