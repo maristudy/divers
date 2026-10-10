@@ -496,11 +496,11 @@ Aucun autre document ne doit servir de source de vérité concurrente pour ces i
 | Élément | État documentaire |
 |---|---|
 | Périmètre pédagogique général | Défini ; traçabilité exhaustive encore à établir |
-| Catalogue V3.0-candidate | Base de travail existante, avec addendum intégré |
-| Familles supplémentaires PUI, FONC, STAT, GEO3 et ALGO | Définies dans ce référentiel ; intégration au catalogue à effectuer |
-| Graphe des prérequis | Base détaillée existante ; intégration des familles supplémentaires et contrôles complets à effectuer |
-| Matrice de traçabilité | Plusieurs versions disponibles ; correspondances à remapper vers les identifiants retenus |
-| Migration des anciennes versions | Non finalisée |
+| Catalogue v3.0-candidate | Base consolidée ; familles principales et complémentaires intégrées ; validation finale à effectuer |
+| Familles supplémentaires PUI, FONC, STAT, GEO3 et ALGO | Intégrées au catalogue et au graphe ; contrôle croisé à maintenir |
+| Graphe des prérequis v3.0-candidate | Base détaillée existante ; vérification complète des dépendances et des cycles à consigner |
+| Matrice de traçabilité | Fichier dédié existant ; correspondances détaillées en cours de vérification |
+| Migration des anciennes versions | Non finalisée ; aucune équivalence historique ne doit être présumée sans comparaison |
 | Validation pédagogique en situation réelle | À réaliser au fil des tests des fiches |
 
 ## 3. Documents historiques à consolider puis à archiver

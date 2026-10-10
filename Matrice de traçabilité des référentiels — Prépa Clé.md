@@ -90,7 +90,7 @@ La migration historique et la validation des fiches sont deux travaux distincts 
 | Compétence reprise du Bloc 1 | ID cible proposé | Nature | Contrôle / décision |
 |---|---|---|---|
 | Lire et écrire les nombres entiers | NUM-01, NUM-02, NUM-03 | E proposée | Vérifier la distinction entre lecture-écriture, valeur de position et classes de nombres. |
-| Maîtriser l’orthographe des nombres entiers | NUM-12 | E proposée | NUM-03 actuel ne couvre pas explicitement l’orthographe. Proposition antérieure : NUM-12, à confirmer après contrôle des identifiants libres. |
+| Maîtriser l’orthographe des nombres entiers | NUM-12 | E proposée | NUM-12 existe dans le catalogue. Vérifier la correspondance avec le libellé officiel et le contenu effectif de la fiche. |
 | Lire, écrire, ordonner et comparer les décimaux | DEC-01, DEC-04, DEC-05, DEC-06 | E proposée | Vérifier que les quatre actions sont réellement travaillées. |
 | Découvrir les nombres relatifs pour ordonner et classer | REL-01, REL-02, REL-03 | E proposée | Vérifier les nombres positifs et négatifs et leur placement. |
 | Dénombrer au travers de tests logiques | NUM-10 ; éventuellement ACT et SIT selon l’activité | E/A proposées | Vérifier le comptage organisé, les classements et l’absence de doublons. |
@@ -245,7 +245,7 @@ La migration historique et la validation des fiches sont deux travaux distincts 
 |---|---|---|
 | Couverture proposée au niveau des objectifs | La majorité des critères du domaine 2 | Vérifier le contenu des fiches et la présence de tâches observables. |
 | Couverture à rendre plus explicite | 2-1-1, selon les modalités de calculatrice ; 2-5-2 | Préciser les modalités d’exercice et compléter l’objectif de transmission orale. |
-| Compléments présents uniquement dans l’addendum du catalogue | 2-3-7, notamment aire du disque et volume de la sphère | Intégrer AIR-09 et VOL-09 aux tables principales du catalogue et vérifier leur présence dans le graphe. |
+| Couverture à vérifier dans le catalogue principal | 2-3-7, notamment aire du disque et volume de la sphère | AIR-09 et VOL-09 sont intégrés aux tables principales du catalogue et leurs dépendances figurent dans le graphe. Vérifier le contenu des fiches et la couverture effective des formes et formules attendues. |
 
 La matrice décrit la contribution des fiches à la préparation des compétences. Les seuils et les règles de validation de la certification CléA restent ceux du référentiel officiel et ne doivent pas être transformés en seuils de réussite propres aux fiches Prépa Clé.
 
