@@ -1,7 +1,7 @@
 # Matrice de traçabilité des référentiels — Prépa Clé
 
-**Version :** 0.1 — structure consolidée et correspondances en cours de vérification  
-**Catalogue cible :** catalogue maître Prépa Clé v3.x  
+**Version :** 0.2 — structure gelée ; correspondances en cours de vérification
+**Catalogue cible :** catalogue maître Prépa Clé v3.0 — gel de structure
 **Objet :** documenter les liens entre les compétences des référentiels sources et les objectifs des fiches du catalogue actuel.
 
 ## 1. Règles de lecture
@@ -236,7 +236,7 @@ La migration historique et la validation des fiches sont deux travaux distincts 
 | Critère CléA | Fiches du catalogue actuel | Nature proposée | État et contrôle restant |
 |---|---|---|---|
 | 2-5-1 — Reformuler un calcul présenté par quelqu’un d’autre | COMM-06 ; ACT-05 | E | Correspondance proposée ; prévoir une tâche d’écoute et de reformulation fidèle des étapes. |
-| 2-5-2 — Transmettre ses calculs ou les calculs à effectuer | COMM-02, COMM-03 ; proposition de création de COMM-08 | E | **Couverture à compléter :** les objectifs actuels portent sur l’explication et la présentation d’un raisonnement, mais la transmission fidèle d’un calcul ou d’une consigne de calcul doit être explicite. |
+| 2-5-2 — Transmettre ses calculs ou les calculs à effectuer | COMM-08 | E | Correspondance proposée au niveau de l’objectif du catalogue. Vérifier que les exercices permettent de transmettre fidèlement les données et les opérations, sans altération. |
 | 2-5-3 — Employer un langage mathématique de base | COMM-04 ; PLURI-01, PLURI-02, PLURI-03, PLURI-05, PLURI-06 | E | Correspondance proposée ; les supports de vocabulaire peuvent faciliter l’accès à la tâche, mais ne remplacent pas la vérification de la compétence mathématique. |
 
 ### 8.6 Bilan de couverture CléA
@@ -246,8 +246,4 @@ La migration historique et la validation des fiches sont deux travaux distincts 
 | Couverture proposée au niveau des objectifs | La majorité des critères du domaine 2 | Vérifier le contenu des fiches et la présence de tâches observables. |
 | Couverture à rendre plus explicite | 2-1-1, selon les modalités de calculatrice ; 2-5-2 | Préciser les modalités d’exercice et compléter l’objectif de transmission orale. |
 | Couverture à vérifier dans le catalogue principal | 2-3-7, notamment aire du disque et volume de la sphère | AIR-09 et VOL-09 sont intégrés aux tables principales du catalogue et leurs dépendances figurent dans le graphe. Vérifier le contenu des fiches et la couverture effective des formes et formules attendues. |
-
-La matrice décrit la contribution des fiches à la préparation des compétences. Les seuils et les règles de validation de la certification CléA restent ceux du référentiel officiel et ne doivent pas être transformés en seuils de réussite propres aux fiches Prépa Clé.
-
-
 

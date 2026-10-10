@@ -23,8 +23,8 @@ Les listes d’identifiants et de dépendances reproduites dans ce référentiel
 | 2.1 | Archive de travail | Ne pas utiliser comme source de vérité |
 | 2.2 | Brouillon remplacé | Références incomplètes ou incohérentes |
 | 2.3 | Brouillon remplacé | Références croisées non fiables |
-| 3.0-candidate | Base du catalogue et du graphe | Catalogue principal et dépendances détaillées |
-| 3.1 | Version documentaire de référence | Règles de gestion, compléments de couverture et statut des contrôles |
+| 3.0 — gel de structure | Version de référence du catalogue et du graphe | Identifiants, objectifs et dépendances stabilisés ; validation technique exhaustive encore à consigner |
+| 3.1 | Référence de gouvernance | Règles de gestion, périmètre, compléments de couverture, traçabilité et état des contrôles |
 
 **Attention :** la version 3.1 ne signifie pas que chaque ancienne fiche a déjà été comparée individuellement à son équivalent actuel. Le gel éditorial des règles n’efface pas le travail de migration historique restant.
 
@@ -438,7 +438,30 @@ Le catalogue et le graphe sont gelés au sens documentaire lorsqu’aucun change
 Le statut « à vérifier » ne doit jamais être remplacé par « validé » pour des raisons de présentation.
 
 ---
+## F3. Contrôles métier et limites de couverture
 
+### Implantation et dénombrement
+
+Les situations d’implantation doivent distinguer :
+
+- **Ligne ouverte avec les deux extrémités occupées :** le nombre de plants est égal au nombre d’intervalles augmenté d’un.
+- **Contour fermé :** lorsque le dernier intervalle rejoint le premier plant, le nombre de plants est égal au nombre d’intervalles ; il ne faut pas compter deux fois le point de départ.
+- **Retrait aux extrémités :** calculer d’abord la longueur disponible entre les retraits, puis déterminer le nombre d’intervalles et de plants.
+- **Rangées et densité :** distinguer le nombre de plants sur une rangée, le nombre de rangées et la quantité calculée à partir d’une densité surfacique.
+
+Les fiches concernées doivent conserver ces distinctions dans leurs objectifs et leurs exercices.
+
+### Parcours et couverture
+
+Le graphe sert à construire des parcours individualisés. Il ne définit pas un cursus linéaire obligatoire. Le point d’entrée doit être déterminé à partir des acquis constatés, du diagnostic, du diplôme visé et des besoins de formation.
+
+La couverture thématique signifie que les familles de notions pertinentes sont représentées. Elle ne prouve pas que chaque critère d’un référentiel officiel est intégralement couvert, ni que les fiches ont été testées en situation réelle.
+
+### Statut des contrôles
+
+Aucun contrôle automatique ne doit être déclaré réussi sans conserver son résultat. Les vérifications d’unicité des identifiants, d’existence des références du graphe et d’absence de cycles doivent être consignées avec la date, la version contrôlée et le résultat obtenu.
+
+La migration historique, la traçabilité officielle et la validation pédagogique en situation réelle restent des chantiers distincts du gel de structure.
 # Document G — Sources officielles et portée de leur usage
 
 1. **CléA 2021 — Référentiel du domaine 2**  
@@ -482,24 +505,26 @@ Les textes officiels fixent les attendus de leurs périmètres respectifs. Les f
 
 ## 1. Documents de référence retenus
 
-À l’issue de la consolidation, les quatre documents actifs seront :
+Les quatre documents actifs du dispositif sont :
 
-1. **Référentiel maître** : périmètre, sources, matrice de traçabilité et règles de conception.
+1. **Référentiel maître** : gouvernance, périmètre, sources, décisions, règles de gel, registre de contrôle et migration historique.
 2. **Catalogue maître des fiches** : identifiants canoniques, objectifs, familles, types et niveaux.
-3. **Graphe des prérequis** : dépendances entre les fiches du catalogue et vue fonctionnelle des parcours.
-4. **Registre de contrôle et de migration** : résultats des contrôles, anomalies, décisions, historique des identifiants et validation terrain.
+3. **Graphe des prérequis** : dépendances entre les fiches du catalogue et parcours possibles.
+4. **Matrice de traçabilité des référentiels** : correspondances entre les compétences sources et les objectifs du catalogue, avec leur état de vérification.
 
-Aucun autre document ne doit servir de source de vérité concurrente pour ces informations.
+Le référentiel maître est la source de vérité pour les règles de gestion et l’état global des contrôles. Le catalogue, le graphe et la matrice sont chacun la source de vérité dans leur domaine respectif.
 
+Aucun fichier de travail parallèle ne doit maintenir une seconde version de ces informations. Les documents historiques peuvent rester archivés pour préserver la traçabilité, mais ne doivent plus être utilisés comme sources courantes.
 ## 2. État actuel
 
 | Élément | État documentaire |
 |---|---|
-| Périmètre pédagogique général | Défini ; traçabilité exhaustive encore à établir |
-| Catalogue v3.0-candidate | Base consolidée ; familles principales et complémentaires intégrées ; validation finale à effectuer |
-| Familles supplémentaires PUI, FONC, STAT, GEO3 et ALGO | Intégrées au catalogue et au graphe ; contrôle croisé à maintenir |
-| Graphe des prérequis v3.0-candidate | Base détaillée existante ; vérification complète des dépendances et des cycles à consigner |
-| Matrice de traçabilité | Fichier dédié existant ; correspondances détaillées en cours de vérification |
+| Périmètre pédagogique général | Défini ; la traçabilité exhaustive des référentiels reste à établir |
+| Catalogue maître v3.0-candidate | Base de référence pour les identifiants et objectifs ; périmètre consolidé, gel de structure visé |
+| Familles complémentaires PUI, FONC, STAT, GEO3 et ALGO | Intégrées au catalogue maître ; leurs dépendances figurent dans le graphe |
+| Graphe des prérequis v3.0-candidate | Base de référence pour les dépendances ; les contrôles techniques exhaustifs doivent être consignés avant validation technique |
+| Matrice de traçabilité | Fichier dédié existant ; les correspondances et leur état de vérification restent à contrôler ligne par ligne |
+| Registre de contrôle | Le présent document conserve les règles de gel et l’état général des contrôles ; les résultats détaillés doivent rester cohérents avec le fichier de contrôle qualité tant que celui-ci est maintenu |
 | Migration des anciennes versions | Non finalisée ; aucune équivalence historique ne doit être présumée sans comparaison |
 | Validation pédagogique en situation réelle | À réaliser au fil des tests des fiches |
 

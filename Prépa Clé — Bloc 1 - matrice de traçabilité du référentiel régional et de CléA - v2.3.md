@@ -128,7 +128,7 @@ Le repérage géographique de la France est explicitement inscrit au catalogue. 
 | Structurer les étapes de résolution | PROB-04, PROB-05 | D | Ordre des étapes explicite |
 | Employer le vocabulaire mathématique adapté | COMM-01 | D | Vocabulaire relié à des exemples |
 | Expliquer oralement un calcul | COMM-02 | D | Dire les étapes sans altérer le calcul |
-| Transmettre une consigne de calcul oralement | COMM-03 | D | Vérifier la fidélité de la transmission |
+| Transmettre une consigne de calcul oralement | COMM-08 | E proposée | Objectif du catalogue : transmettre oralement un calcul ou une consigne de calcul sans modifier les données ni les opérations. Vérifier la correspondance avec le libellé exact du référentiel régional. |
 | Présenter un raisonnement par écrit | COMM-04 | D | Procédure, calcul, unité et réponse |
 | Justifier une méthode | COMM-05, COMM-06 | D | Explication de la stratégie et contrôle |
 

@@ -1,8 +1,11 @@
 # Catalogue maître des fiches — Prépa Clé Mathématiques - v3.0
-**Version : 3.0-candidate**  
-**Statut :** base consolidée proposée pour validation finale  
-**Périmètre :** référentiel régional Prépa Clé, domaine 2 du CléA, programmes de mathématiques du collège et du CAP, prolongements professionnels pertinents.  
-**Principe :** une fiche principale introduit ou structure une notion ; une fiche de renforcement reprend une compétence ciblée ; une fiche de réinvestissement mobilise des acquis dans un contexte professionnel ; une fiche-situation combine plusieurs notions.
+# Catalogue maître des fiches — Prépa Clé Mathématiques - v3.0
+
+**Version :** 3.0 — gel de structure
+**Statut :** périmètre, familles, identifiants et objectifs stabilisés pour la phase de validation technique et pédagogique.
+**Périmètre :** référentiel régional Prépa Clé, domaine 2 du CléA, programmes de mathématiques du collège et du CAP, prolongements professionnels pertinents.
+
+**Règle de gel :** toute modification d’identifiant, de famille ou d’objectif principal doit être justifiée, inscrite au journal des changements et répercutée dans le graphe ainsi que dans la matrice de traçabilité.
 
 ## 1. Identifiants, types et niveaux
 
