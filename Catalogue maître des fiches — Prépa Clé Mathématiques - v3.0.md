@@ -381,6 +381,7 @@ L’algorithmique élargit la couverture du programme scolaire. Elle est prioris
 | COMM-05 | Écrire une réponse avec calcul, unité et phrase de conclusion | PR |
 | COMM-06 | Reformuler fidèlement le calcul ou la procédure d’une autre personne | ACT |
 | COMM-07 | Présenter une méthode et justifier un choix de procédure | REN |
+| COMM-08 | Transmettre oralement un calcul ou une consigne de calcul sans modifier les données ni les opérations | ACT |
 
 ### GEST — Gestion, facturation et comptabilité élémentaire
 | ID | Objectif principal | Type dominant |

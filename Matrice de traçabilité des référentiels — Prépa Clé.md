@@ -186,3 +186,68 @@ La migration historique et la validation des fiches sont deux travaux distincts 
 4. Les objectifs à créer, élargir ou clarifier doivent être décidés avant de marquer une correspondance comme vérifiée.
 5. Les correspondances vers les programmes scolaires, CléA, CAP et référentiels professionnels doivent être traitées dans des sections distinctes, avec leurs références précises.
 
+## 8. CléA 2021 — domaine 2 : calcul et raisonnement mathématique
+
+**Source primaire :** [Référentiel CléA 2021, domaine 2, pages 1 à 3](https://www.certificat-clea.fr/media/2021/07/Referentiel-Clea_2021.pdf).
+
+**Règle de lecture :** les correspondances ci-dessous sont proposées après comparaison des critères CléA avec les objectifs du catalogue v3.0-candidate. Elles attestent une couverture au niveau des objectifs annoncés, pas la validation du contenu d’une fiche ni l’acquisition de la compétence.
+
+### 8.1 Sous-domaine 2.1 — Se repérer dans l’univers des nombres
+
+| Critère CléA | Fiches du catalogue actuel | Nature proposée | État et contrôle restant |
+|---|---|---|---|
+| 2-1-1 — Réaliser les quatre opérations à la main ou avec une calculatrice | CAL-01 à CAL-08 | E | Partiel : les opérations sont couvertes au niveau des objectifs ; vérifier les modalités de calculatrice dans les exercices. |
+| 2-1-2 — Compter et dénombrer | NUM-10 ; ACT-01 | E | Correspondance proposée ; vérifier les tâches de dénombrement par catégories. |
+| 2-1-3 — Comparer, classer et ordonner | NUM-07, NUM-08, DEC-04, DEC-05, REL-03 | E | Correspondance proposée ; contrôler les types de nombres effectivement travaillés. |
+| 2-1-4 — Évaluer un ordre de grandeur | NUM-11, CAL-12 | E | Correspondance proposée ; inclure des ordres de grandeur numériques et des unités usuelles. |
+| 2-1-5 — Utiliser les techniques élémentaires du calcul mental | CAL-09, CAL-10, CAL-11 | E | Correspondance proposée ; vérifier doubles, moitiés, calculs simples et multiplications ou divisions par des multiples de 10. |
+| 2-1-6 — Contrôler la cohérence des résultats obtenus | CAL-12, CAL-13, PROB-07 | E | Correspondance proposée ; le contrôle doit être une tâche explicite. |
+| 2-1-7 — Réaliser un calcul proportionnel simple | PROP-01 à PROP-06 | E | Correspondance proposée ; vérifier passage à l’unité, coefficient et règle de trois dans des cas accessibles. |
+
+### 8.2 Sous-domaine 2.2 — Résoudre un problème mettant en jeu une ou plusieurs opérations
+
+| Critère CléA | Fiches du catalogue actuel | Nature proposée | État et contrôle restant |
+|---|---|---|---|
+| 2-2-1 — Résoudre un problème mettant en jeu une ou plusieurs des quatre opérations | PROB-01 à PROB-07 ; CAL-01 à CAL-07 ; SIT-01 selon le contexte | E | Correspondance proposée ; vérifier les problèmes à une et plusieurs opérations, avec des calculs adaptés au critère. |
+| 2-2-2 — Comprendre et utiliser les pourcentages | PCT-01 à PCT-06 ; PCT-07 à PCT-13 pour les applications | E | Correspondance proposée ; couvrir le sens du pourcentage, ses écritures équivalentes et les calculs de partie ou de total. |
+
+### 8.3 Sous-domaine 2.3 — Lire et calculer les unités de mesure, de temps et de quantité
+
+| Critère CléA | Fiches du catalogue actuel | Nature proposée | État et contrôle restant |
+|---|---|---|---|
+| 2-3-1 — Utiliser les unités de temps | TEM-01 à TEM-07 ; UNIT-05 | E | Correspondance proposée ; vérifier lecture de l’heure, conversions et calculs de durée. |
+| 2-3-2 — Lire et comprendre un planning de travail | TEM-09, TEM-10 | E | Correspondance proposée ; prévoir l’identification d’horaires et le calcul de durées simples. |
+| 2-3-3 — Renseigner correctement les horaires | TEM-10 | E | Correspondance proposée ; inclure une tâche de saisie ou de transcription sans erreur. |
+| 2-3-4 — Utiliser les unités de mesure et les instruments de mesure | MES-01 à MES-05 ; UNIT-01, UNIT-02, UNIT-03, UNIT-06 | E | Correspondance proposée ; vérifier explicitement longueur, masse, capacité, instruments associés et conversions au moyen d’un tableau. |
+| 2-3-5 — Utiliser et comprendre tableaux, diagrammes et graphiques | DATA-01 à DATA-05 | E | Correspondance proposée ; vérifier lecture des données, interprétation et réponses à des questions. |
+| 2-3-6 — Identifier les erreurs | DATA-06, CAL-13, UNIT-06 | E | Correspondance proposée ; distinguer erreur d’unité, de calcul, de résultat, de signification ou de représentation. |
+| 2-3-7 — Effectuer des calculs simples de périmètres, surfaces et volumes à partir d’une formule | PER-02, PER-03, PER-04 ; AIR-02, AIR-03, AIR-04, AIR-09 ; VOL-02, VOL-03, VOL-04, VOL-09 | E | **Partiel dans la structure actuelle :** AIR-09 et VOL-09 figurent dans l’addendum et doivent être intégrés aux tables principales. Vérifier explicitement carré, rectangle, triangle, cercle/disque, cube, pavé droit, cylindre et sphère. |
+
+**Précision sur le critère 2-3-7 :** le référentiel indique que les calculs sont effectués à partir de formules. La matrice ne doit donc pas imposer, par défaut, la mémorisation de toutes les formules. Les fiches doivent rendre explicites la formule utilisée, les grandeurs, les unités et le calcul demandé.
+
+### 8.4 Sous-domaine 2.4 — Se repérer dans l’espace
+
+| Critère CléA | Fiches du catalogue actuel | Nature proposée | État et contrôle restant |
+|---|---|---|---|
+| 2-4-1 — Lire un plan, une carte ou un schéma et en extraire des informations utiles | ESP-02, ESP-03, ESP-06, ESP-09 ; ESP-07 si une échelle est mobilisée | E | Correspondance proposée ; vérifier que les exercices demandent bien d’extraire une information utile, et pas seulement d’effectuer un calcul de distance. |
+
+### 8.5 Sous-domaine 2.5 — Restituer oralement un raisonnement mathématique
+
+| Critère CléA | Fiches du catalogue actuel | Nature proposée | État et contrôle restant |
+|---|---|---|---|
+| 2-5-1 — Reformuler un calcul présenté par quelqu’un d’autre | COMM-06 ; ACT-05 | E | Correspondance proposée ; prévoir une tâche d’écoute et de reformulation fidèle des étapes. |
+| 2-5-2 — Transmettre ses calculs ou les calculs à effectuer | COMM-02, COMM-03 ; proposition de création de COMM-08 | E | **Couverture à compléter :** les objectifs actuels portent sur l’explication et la présentation d’un raisonnement, mais la transmission fidèle d’un calcul ou d’une consigne de calcul doit être explicite. |
+| 2-5-3 — Employer un langage mathématique de base | COMM-04 ; PLURI-01, PLURI-02, PLURI-03, PLURI-05, PLURI-06 | E | Correspondance proposée ; les supports de vocabulaire peuvent faciliter l’accès à la tâche, mais ne remplacent pas la vérification de la compétence mathématique. |
+
+### 8.6 Bilan de couverture CléA
+
+| État | Critères concernés | Décision |
+|---|---|---|
+| Couverture proposée au niveau des objectifs | La majorité des critères du domaine 2 | Vérifier le contenu des fiches et la présence de tâches observables. |
+| Couverture à rendre plus explicite | 2-1-1, selon les modalités de calculatrice ; 2-5-2 | Préciser les modalités d’exercice et compléter l’objectif de transmission orale. |
+| Compléments présents uniquement dans l’addendum du catalogue | 2-3-7, notamment aire du disque et volume de la sphère | Intégrer AIR-09 et VOL-09 aux tables principales du catalogue et vérifier leur présence dans le graphe. |
+
+La matrice décrit la contribution des fiches à la préparation des compétences. Les seuils et les règles de validation de la certification CléA restent ceux du référentiel officiel et ne doivent pas être transformés en seuils de réussite propres aux fiches Prépa Clé.
+
+
+

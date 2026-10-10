@@ -185,7 +185,8 @@ Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, di
 - AIR-06 : AIR-02 ou AIR-03, UNIT-04.
 - AIR-07 : AIR-02 ou AIR-03 ou AIR-05, UNIT-04, PROP-03 selon la commande.
 - AIR-08 : PER-01, AIR-01.
-- AIR-09 : AIR-01, GEO-07, calcul numérique ; formule fournie ou mémorisée selon l’objectif.
+- AIR-09 : AIR-01, GEO-07 ; calcul numérique et formule fournie ou mémorisée selon l’objectif.
+
 
 ### VOL — Volumes
 - VOL-01 : entrée possible par manipulation de contenants, comparaison de volumes ou pavage de solides ; UNIT-03 utile selon le contexte.
@@ -196,7 +197,7 @@ Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, di
 - VOL-06 : VOL-01, UNIT-03, UNIT-07 ; proposer une situation concrète de remplissage ou de contenant.
 - VOL-07 : VOL-02 ou VOL-03 ou VOL-04 ou VOL-06, UNIT-03.
 - VOL-08 : AIR-01, VOL-01.
-- VOL-09 : VOL-01, calcul numérique ; formule fournie ou mémorisée selon l’objectif.
+- VOL-09 : VOL-01 ; calcul numérique ; unités de volume.
 
 ## 4. Espace, données et algèbre
 
@@ -245,7 +246,6 @@ Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, di
 
 ### Corrections des dépendances de l’addendum existant
 
-- AIR-09 : AIR-01, GEO-07 ; calcul numérique et formule fournie ou mémorisée selon l’objectif.
 - VOL-09 : VOL-01 ; calcul numérique et unités de volume ; formule fournie ou mémorisée selon l’objectif.
 - ESP-13 : ESP-08, ESP-09.
 - ESP-14 : ESP-08, ESP-13 ; ESP-04 si l’itinéraire doit être décrit.
@@ -307,6 +307,7 @@ Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, di
 - COMM-05 : COMM-02, UNIT-06 si une unité est attendue.
 - COMM-06 : COMM-02, COMM-04.
 - COMM-07 : COMM-03, PROB-03, PROB-07.
+- COMM-08 : COMM-04, COMM-06.
 
 ## 6. Réinvestissements professionnels et situations intégrées
 
