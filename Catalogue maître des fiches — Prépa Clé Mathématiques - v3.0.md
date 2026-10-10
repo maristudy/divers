@@ -487,6 +487,5 @@ L’algorithmique élargit la couverture du programme scolaire. Elle est prioris
 
 
 ## Corrections éditoriales
-- Dans la famille PROB, la colonne « Type dominant » de PROB-09 doit être lue **SIT** ; « approfondissement » décrit son niveau, pas son type.
 - Les niveaux 🟢, 🟠 et 🔵 seront affectés à chaque fiche puis ajustés aux exercices lors de la conception. Le catalogue ne fixe pas un niveau unique et immuable à une fiche entière.
 - Les formules de l’aire du disque, du volume du cylindre et du volume de la sphère devront être accompagnées de leurs unités et de l’identification des grandeurs utilisées. La formule fournie peut être une aide pédagogique : sa présence ne doit pas masquer l’objectif réel de l’exercice.
