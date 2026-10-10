@@ -41,17 +41,17 @@ Un code E, P, A ou C décrit la nature de la correspondance ; il ne signifie pas
 
 Les références officielles doivent être accompagnées, lorsque c’est possible, du titre exact, de la section ou du critère concerné. Une simple mention d’un programme ne suffit pas à prouver une correspondance précise.
 
-## 2. Matrice de correspondance
+## 2. Organisation des tableaux de correspondance
 
-Une ligne correspond à une compétence source et à une ou plusieurs fiches cibles.
+Les correspondances détaillées sont organisées par référentiel et par domaine dans les sections suivantes :
 
-| Source et référence précise | Compétence ou libellé source | ID du catalogue actuel | Nature E/P/A/C | Contribution de la fiche | État | Justification ou contrôle restant |
-|---|---|---|---|---|---|---|
-| REG — domaine à préciser | À reprendre fidèlement de la source | À établir à partir du catalogue actuel | À établir | Enseignement / entraînement / transfert / évaluation | À vérifier | Comparer le libellé source et l’objectif exact de chaque fiche. |
-| CLEA21 — critère à préciser | À reprendre fidèlement du référentiel | À établir à partir du catalogue actuel | À établir | Enseignement / entraînement / transfert / évaluation | À vérifier | Vérifier le critère CléA concerné ; ne pas déduire une validation CléA de la seule présence d’une fiche. |
-| C2, C3 ou C4 — section à préciser | À reprendre du programme applicable | À établir à partir du catalogue actuel | À établir | Complément de couverture | À vérifier | Distinguer l’attendu du programme, le prérequis et l’approfondissement. |
-| CAP — diplôme et groupement à préciser | À reprendre du programme applicable | À établir à partir du catalogue actuel | À établir | Application ou apprentissage selon le programme | À vérifier | Vérifier le diplôme et le groupement de mathématiques applicables. |
-| AGR-JP ou PRO — référence à préciser | À reprendre du référentiel professionnel | À établir à partir du catalogue actuel | À établir | Réinvestissement professionnel | À vérifier | Ne pas présenter une situation professionnelle illustrative comme une prescription du référentiel. |
+- **Section 6** : référentiel régional Prépa Clé ;
+- **Section 8** : CléA 2021, domaine 2.
+
+Chaque ligne relie une compétence source à un ou plusieurs identifiants du catalogue actuel. Les tableaux doivent permettre de distinguer la nature de la correspondance, son état de vérification et les contrôles restant à effectuer.
+
+Les programmes du collège, les programmes de CAP et les référentiels professionnels feront l’objet de sections distinctes lorsqu’ils seront traités de manière suffisamment précise pour identifier les sources et les attendus concernés.
+
 
 ## 3. Règles de correspondance
 
@@ -90,7 +90,7 @@ La migration historique et la validation des fiches sont deux travaux distincts 
 | Compétence reprise du Bloc 1 | ID cible proposé | Nature | Contrôle / décision |
 |---|---|---|---|
 | Lire et écrire les nombres entiers | NUM-01, NUM-02, NUM-03 | E proposée | Vérifier la distinction entre lecture-écriture, valeur de position et classes de nombres. |
-| Maîtriser l’orthographe des nombres entiers | **ID à créer ou objectif à redéfinir** | E proposée | NUM-03 actuel ne couvre pas explicitement l’orthographe. Proposition antérieure : NUM-12, à confirmer après contrôle des identifiants libres. |
+| Maîtriser l’orthographe des nombres entiers | NUM-12 | E proposée | NUM-03 actuel ne couvre pas explicitement l’orthographe. Proposition antérieure : NUM-12, à confirmer après contrôle des identifiants libres. |
 | Lire, écrire, ordonner et comparer les décimaux | DEC-01, DEC-04, DEC-05, DEC-06 | E proposée | Vérifier que les quatre actions sont réellement travaillées. |
 | Découvrir les nombres relatifs pour ordonner et classer | REL-01, REL-02, REL-03 | E proposée | Vérifier les nombres positifs et négatifs et leur placement. |
 | Dénombrer au travers de tests logiques | NUM-10 ; éventuellement ACT et SIT selon l’activité | E/A proposées | Vérifier le comptage organisé, les classements et l’absence de doublons. |
@@ -98,7 +98,7 @@ La migration historique et la validation des fiches sont deux travaux distincts 
 | Soustraire des nombres | CAL-02, CAL-05 | E proposée | Vérifier que CAL-05 comprend bien la soustraction décimale, ou corriger l’objectif si nécessaire. |
 | Multiplier des nombres | CAL-03, CAL-06 | E proposée | Entiers et décimaux à distinguer explicitement. |
 | Diviser des nombres | CAL-04, CAL-07 | E proposée | Vérifier quotient, reste, sens de la division et division décimale. |
-| Utiliser les ordres de grandeur pour contrôler un résultat | CAL-12, CAL-13 | E proposée | L’estimation et la vérification doivent être explicites. |
+| Utiliser les ordres de grandeur pour contrôler un résultat | CAL-12 | E proposée | CAL-12 couvre l’estimation et le contrôle de plausibilité. Ajouter CAL-13 seulement si la compétence source inclut aussi la vérification par une opération inverse ou une autre méthode. |
 | Calcul mental | CAL-09, CAL-11 | E proposée | Vérifier la variété des stratégies et le niveau attendu. |
 | Multiplier ou diviser par 10, 100 et 1 000 | CAL-10 | E proposée | Vérifier séparément entiers et décimaux. |
 | Arrondir un nombre | DEC-09 ; couverture de l’arrondi des entiers à décider | E proposée | NUM-11 actuel concerne les grands nombres en contexte, pas l’arrondi. Déterminer s’il faut élargir un objectif ou créer une fiche dédiée. |
@@ -115,7 +115,7 @@ La migration historique et la validation des fiches sont deux travaux distincts 
 | Choisir la bonne opération | PROB-03 | E proposée | Ne pas fonder le choix uniquement sur des mots-clés. |
 | Résoudre des problèmes avec les quatre opérations | PROB-04, PROB-05 et fiches CAL concernées | E proposée | Prévoir des problèmes à une puis plusieurs étapes. |
 | Résoudre des problèmes de vie courante | PROB-04, PROB-05 et fiches SIT pertinentes | A proposée | Identifier les situations effectivement présentes dans le catalogue ; ne pas supposer qu’une fiche générique couvre tous les contextes. |
-| Contrôler un résultat à l’aide d’un ordre de grandeur | CAL-12, CAL-13, PROB-07 | E proposée | Vérifier estimation, unité et cohérence contextuelle. |
+| Contrôler un résultat à l’aide d’un ordre de grandeur | CAL-12, PROB-07 | E proposée | CAL-12 couvre l’estimation ; PROB-07 couvre l’estimation puis la vérification de la cohérence d’une réponse. Conserver cette correspondance si le contrôle porte aussi sur la cohérence de la réponse en contexte. |
 | Additionner des nombres relatifs | REL-07 | E proposée | Vérifier le travail sur les signes et les représentations utiles. |
 | Soustraire des nombres relatifs | REL-08 | E proposée | Distinguer signe du nombre et signe de l’opération. |
 | Multiplier et diviser des nombres relatifs | REL-09, REL-10 | E proposée | Vérifier que multiplication et division sont toutes deux couvertes. |
@@ -144,8 +144,8 @@ La migration historique et la validation des fiches sont deux travaux distincts 
 | Reconnaître les triangles | GEO-04, GEO-06 | E proposée | Vérifier les classifications par côtés et par angles. |
 | Construire des triangles | TRA-06 | E proposée | Vérifier données disponibles, instruments et précision. |
 | Calculer une longueur ou un périmètre | PER-01 à PER-05 | E proposée | Vérifier les formes effectivement exigées et la distinction entre longueur et périmètre. |
-| Calculer une aire | AIR-01 à AIR-07 selon les figures et situations | E proposée | Vérifier les formules et les unités ; la couverture du disque est dans l’addendum AIR-09. |
-| Calculer un volume | VOL-01 à VOL-04, VOL-07 selon l’objectif ; VOL-09 pour la sphère | E/A proposées | Intégrer VOL-09 à la table principale. VOL-06 actuel porte sur le lien volume-capacité. |
+| Calculer une aire | AIR-01 à AIR-07 selon les figures et situations ; AIR-09 pour l’aire du disque | E proposée | Vérifier les formules et les unités ; AIR-09 est intégré à la table principale AIR. |
+| Calculer un volume | VOL-01 à VOL-04, VOL-07 selon l’objectif ; VOL-09 pour le volume de la sphère | E/A proposées | Vérifier les formules et les unités ; VOL-06 porte sur le lien volume-capacité. VOL-09 est intégré à la table principale VOL. |
 
 ### 6.4 Domaine 4 — Repérage dans l’espace
 
@@ -174,7 +174,7 @@ La migration historique et la validation des fiches sont deux travaux distincts 
 | Structurer les étapes de résolution | PROB-05, COMM-03 | E proposée | Vérifier que l’ordre des étapes est explicité. |
 | Employer le vocabulaire mathématique adapté | COMM-04 | E proposée | Relier les mots mathématiques à des exemples et actions. |
 | Expliquer oralement un calcul | COMM-02 | E proposée | Vérifier la verbalisation fidèle des étapes. |
-| Transmettre une consigne de calcul oralement | COMM-06, à confirmer | E proposée | L’objectif actuel concerne la reformulation fidèle d’un calcul ou d’une procédure ; vérifier que la transmission de consigne est réellement couverte. |
+| Transmettre une consigne de calcul oralement | COMM-02, COMM-03 ; COMM-08 si créé | E proposée | COMM-02 et COMM-03 couvrent l’explication et la présentation d’un raisonnement, mais pas explicitement la transmission fidèle d’une consigne. Maintenir la couverture comme partielle tant que l’objectif n’est pas défini. |
 | Présenter un raisonnement par écrit | COMM-05 | E proposée | Vérifier procédure, calcul, unité et réponse. |
 | Justifier une méthode | COMM-07 | E proposée | Vérifier la justification d’un choix de procédure et le contrôle du résultat. |
 
@@ -199,7 +199,7 @@ La migration historique et la validation des fiches sont deux travaux distincts 
 | 2-1-1 — Réaliser les quatre opérations à la main ou avec une calculatrice | CAL-01 à CAL-08 | E | Partiel : les opérations sont couvertes au niveau des objectifs ; vérifier les modalités de calculatrice dans les exercices. |
 | 2-1-2 — Compter et dénombrer | NUM-10 ; ACT-01 | E | Correspondance proposée ; vérifier les tâches de dénombrement par catégories. |
 | 2-1-3 — Comparer, classer et ordonner | NUM-07, NUM-08, DEC-04, DEC-05, REL-03 | E | Correspondance proposée ; contrôler les types de nombres effectivement travaillés. |
-| 2-1-4 — Évaluer un ordre de grandeur | NUM-11, CAL-12 | E | Correspondance proposée ; inclure des ordres de grandeur numériques et des unités usuelles. |
+| 2-1-4 — Évaluer un ordre de grandeur | CAL-12 | E | Correspondance proposée ; vérifier que les tâches couvrent l’estimation de résultats numériques et, lorsque nécessaire, l’estimation avec des unités usuelles. |
 | 2-1-5 — Utiliser les techniques élémentaires du calcul mental | CAL-09, CAL-10, CAL-11 | E | Correspondance proposée ; vérifier doubles, moitiés, calculs simples et multiplications ou divisions par des multiples de 10. |
 | 2-1-6 — Contrôler la cohérence des résultats obtenus | CAL-12, CAL-13, PROB-07 | E | Correspondance proposée ; le contrôle doit être une tâche explicite. |
 | 2-1-7 — Réaliser un calcul proportionnel simple | PROP-01 à PROP-06 | E | Correspondance proposée ; vérifier passage à l’unité, coefficient et règle de trois dans des cas accessibles. |
@@ -221,7 +221,7 @@ La migration historique et la validation des fiches sont deux travaux distincts 
 | 2-3-4 — Utiliser les unités de mesure et les instruments de mesure | MES-01 à MES-05 ; UNIT-01, UNIT-02, UNIT-03, UNIT-06 | E | Correspondance proposée ; vérifier explicitement longueur, masse, capacité, instruments associés et conversions au moyen d’un tableau. |
 | 2-3-5 — Utiliser et comprendre tableaux, diagrammes et graphiques | DATA-01 à DATA-05 | E | Correspondance proposée ; vérifier lecture des données, interprétation et réponses à des questions. |
 | 2-3-6 — Identifier les erreurs | DATA-06, CAL-13, UNIT-06 | E | Correspondance proposée ; distinguer erreur d’unité, de calcul, de résultat, de signification ou de représentation. |
-| 2-3-7 — Effectuer des calculs simples de périmètres, surfaces et volumes à partir d’une formule | PER-02, PER-03, PER-04 ; AIR-02, AIR-03, AIR-04, AIR-09 ; VOL-02, VOL-03, VOL-04, VOL-09 | E | **Partiel dans la structure actuelle :** AIR-09 et VOL-09 figurent dans l’addendum et doivent être intégrés aux tables principales. Vérifier explicitement carré, rectangle, triangle, cercle/disque, cube, pavé droit, cylindre et sphère. |
+| 2-3-7 — Effectuer des calculs simples de périmètres, surfaces et volumes à partir d’une formule | PER-02, PER-03, PER-04 ; AIR-02, AIR-03, AIR-04, AIR-09 ; VOL-02, VOL-03, VOL-04, VOL-09 | E | Partiel dans la couverture à vérifier : contrôler explicitement les formes et formules effectivement traitées : carré, rectangle, triangle, cercle/disque, cube, pavé droit, cylindre et sphère. Les fiches AIR-09 et VOL-09 sont intégrées aux tables principales du catalogue. |
 
 **Précision sur le critère 2-3-7 :** le référentiel indique que les calculs sont effectués à partir de formules. La matrice ne doit donc pas imposer, par défaut, la mémorisation de toutes les formules. Les fiches doivent rendre explicites la formule utilisée, les grandeurs, les unités et le calcul demandé.
 

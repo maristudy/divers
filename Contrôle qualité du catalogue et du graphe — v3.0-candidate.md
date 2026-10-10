@@ -5,7 +5,7 @@
 | Contrôle | Résultat | Décision |
 |---|---|---|
 | Identifiants du catalogue | Les identifiants du catalogue et de l’addendum sont uniques | Validé pour cette version |
-| Références du graphe | Les références utilisées correspondent aux familles et identifiants déclarés, y compris les quatre ajouts | Validé sur la liste de dépendances |
+| Références du graphe | Les références utilisées correspondent aux familles et identifiants déclarés dans le catalogue principal et les compléments conservés dans l’addendum. | À recontrôler après chaque modification du catalogue ou du graphe |
 | Dépendances sans définition | Aucune référence inconnue repérée dans le graphe présenté | Validé |
 | Cohérence type / niveau | Le type de PROB-09 a été corrigé : SIT est son type ; approfondissement est son niveau | Corrigé |
 | Couverture des cinq domaines régionaux | Toutes les grandes compétences décrites dans les éléments régionaux fournis sont représentées | Couverture thématique validée |
