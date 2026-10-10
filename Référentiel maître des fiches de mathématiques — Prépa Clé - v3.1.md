@@ -405,12 +405,56 @@ Les textes officiels fixent les attendus de leurs périmètres respectifs. Les f
 
 ---
 
-# Décision de gouvernance
+# Décision de gouvernance — état de consolidation
 
-- Le catalogue maître v3.0-candidate et ses addenda constituent la base des fiches déjà définies.
-- Les familles PUI, FONC, STAT, GEO3 et ALGO complètent le catalogue dans la version documentaire 3.1.
-- Les identifiants existants sont conservés ; aucun remappage historique automatique n’est autorisé.
-- Le graphe de dépendances est la base de conception des parcours ; les dépendances doivent être contrôlées à chaque modification.
-- La matrice actuelle est une matrice de couverture thématique, pas encore une preuve de conformité exhaustive ligne par ligne.
-- La migration des versions historiques reste ouverte tant que la comparaison individuelle des anciens objectifs n’est pas consignée.
-- Le gel documentaire ne vaut pas validation terrain : les fiches restent susceptibles d’être révisées à partir des observations d’usage, avec versionnage explicite.
+## 1. Documents de référence retenus
+
+À l’issue de la consolidation, les quatre documents actifs seront :
+
+1. **Référentiel maître** : périmètre, sources, matrice de traçabilité et règles de conception.
+2. **Catalogue maître des fiches** : identifiants canoniques, objectifs, familles, types et niveaux.
+3. **Graphe des prérequis** : dépendances entre les fiches du catalogue et vue fonctionnelle des parcours.
+4. **Registre de contrôle et de migration** : résultats des contrôles, anomalies, décisions, historique des identifiants et validation terrain.
+
+Aucun autre document ne doit servir de source de vérité concurrente pour ces informations.
+
+## 2. État actuel
+
+| Élément | État documentaire |
+|---|---|
+| Périmètre pédagogique général | Défini ; traçabilité exhaustive encore à établir |
+| Catalogue V3.0-candidate | Base de travail existante, avec addendum intégré |
+| Familles supplémentaires PUI, FONC, STAT, GEO3 et ALGO | Définies dans ce référentiel ; intégration au catalogue à effectuer |
+| Graphe des prérequis | Base détaillée existante ; intégration des familles supplémentaires et contrôles complets à effectuer |
+| Matrice de traçabilité | Plusieurs versions disponibles ; correspondances à remapper vers les identifiants retenus |
+| Migration des anciennes versions | Non finalisée |
+| Validation pédagogique en situation réelle | À réaliser au fil des tests des fiches |
+
+## 3. Documents historiques à consolider puis à archiver
+
+Les documents suivants ne doivent plus être entretenus séparément une fois leurs éléments utiles transférés et vérifiés :
+
+- Matrice des référentiels V0.2 ;
+- Matrice maîtresse V1.0 ;
+- Bloc 1 — matrice de traçabilité V2.3 ;
+- Bloc 2 — contrôle des programmes et contextes professionnels V2.3 ;
+- Bloc 3 — migration des identifiants V1.1 vers V2.2 ;
+- Bloc 5 — registre de validation V2.3 ;
+- Contrôle qualité du catalogue et du graphe V3.0-candidate ;
+- Carte des prérequis V2.2.
+
+Leur archivage ne vaut pas validation de leur contenu. Les informations transférées doivent être vérifiées, et les anciens identifiants doivent rester consultables pour préserver la traçabilité historique.
+
+## 4. Conditions de validation finale
+
+Le catalogue et le graphe ne pourront être déclarés techniquement vérifiés qu’après :
+
+1. contrôle de l’unicité des identifiants ;
+2. vérification de l’existence de chaque identifiant référencé dans le graphe ;
+3. recherche de cycles dans les dépendances ;
+4. intégration et contrôle des familles supplémentaires ;
+5. rapprochement de la matrice avec les identifiants canoniques ;
+6. mise à jour du registre de migration ;
+7. conservation des résultats des contrôles effectués.
+
+La couverture exhaustive des référentiels et la validation pédagogique sur le terrain constituent des contrôles distincts. Le gel éditorial ne vaut pas preuve de leur achèvement.
