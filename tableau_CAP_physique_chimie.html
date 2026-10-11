@@ -1,0 +1,839 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CAP — Physique-chimie</title>
+  <style>
+    :root {
+      --border: #d5dce3;
+      --header: #edf2f7;
+      --section: #dce8f3;
+      --text: #202830;
+      --link: #245f9e;
+      --prerequisite: #536579;
+    }
+
+    * { box-sizing: border-box; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      margin: 0;
+      padding: 1.5rem;
+      color: var(--text);
+      font-family: Arial, Helvetica, sans-serif;
+      line-height: 1.5;
+    }
+
+    h1 { margin-bottom: 0.4rem; }
+
+    .intro {
+      max-width: 1000px;
+      margin-bottom: 1.5rem;
+    }
+
+    .table-container {
+      width: 100%;
+      overflow-x: auto;
+      margin-bottom: 2rem;
+    }
+
+    table {
+      width: 100%;
+      min-width: 1000px;
+      border-collapse: collapse;
+      table-layout: fixed;
+    }
+
+    th, td {
+      padding: 0.7rem;
+      border: 1px solid var(--border);
+      text-align: left;
+      vertical-align: top;
+    }
+
+    th {
+      position: sticky;
+      top: 0;
+      z-index: 1;
+      background: var(--header);
+    }
+
+    th:nth-child(1) { width: 34%; }
+    th:nth-child(2) { width: 24%; }
+    th:nth-child(3),
+    th:nth-child(4),
+    th:nth-child(5) { width: 14%; }
+
+    .theme-row td {
+      background: var(--section);
+      font-weight: bold;
+      font-size: 1.05rem;
+    }
+
+    td.empty {
+      min-width: 100px;
+    }
+
+    a {
+      color: var(--link);
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+
+    a:hover, a:focus {
+      text-decoration-thickness: 2px;
+    }
+
+    tr[id] {
+      scroll-margin-top: 3.5rem;
+    }
+
+    .prerequisites {
+      color: var(--prerequisite);
+      font-size: 0.95rem;
+    }
+
+    @media (max-width: 700px) {
+      body { padding: 0.75rem; }
+    }
+
+    @media print {
+      body { padding: 0; }
+      .table-container { overflow: visible; }
+      table { min-width: 0; }
+      th { position: static; }
+    }
+  </style>
+</head>
+
+<body>
+  <h1>CAP — Physique-chimie</h1>
+
+  <div class="intro">
+    <p>
+      Tableau des capacités et connaissances du programme de physique-chimie
+      en CAP, organisé selon une progression pédagogique.
+      Les liens de la deuxième colonne renvoient aux prérequis.
+    </p>
+    <p>
+      Les colonnes « Vidéos », « Cours / PDF » et « Exercices » sont
+      volontairement laissées vides pour permettre l'ajout ultérieur
+      de ressources.
+    </p>
+  </div>
+
+  <div class="table-container">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Capacités et connaissances</th>
+          <th scope="col">Prérequis</th>
+          <th scope="col">Vidéos</th>
+          <th scope="col">Cours / PDF</th>
+          <th scope="col">Exercices</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <!-- 1. SÉCURITÉ -->
+        <tr class="theme-row">
+          <td colspan="5">1. Sécurité — Comment travailler en toute sécurité ?</td>
+        </tr>
+
+        <tr id="securite-pictogrammes">
+          <td>
+            <strong>Identifier les dangers chimiques</strong>
+            <ul>
+              <li>Identifier un pictogramme sur l'étiquette d'un produit chimique de laboratoire ou d'usage domestique.</li>
+              <li>Connaître le rôle des pictogrammes et des informations figurant sur une étiquette.</li>
+              <li>Comprendre les indications relatives aux risques et à la prévention.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#chimie-matiere">Matière et produits chimiques</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <tr id="securite-protection-chimie">
+          <td>
+            <strong>Se protéger en chimie</strong>
+            <ul>
+              <li>Utiliser de façon raisonnée les équipements de protection individuelle adaptés à une manipulation.</li>
+              <li>Connaître les équipements de protection individuelle et leurs conditions d'utilisation.</li>
+              <li>Identifier et appliquer les règles de tri sélectif des déchets chimiques.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#securite-pictogrammes">Pictogrammes et risques chimiques</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <tr id="securite-installation-electrique">
+          <td>
+            <strong>Prévenir les risques électriques</strong>
+            <ul>
+              <li>Justifier la présence et les caractéristiques des dispositifs de protection des matériels et des personnes.</li>
+              <li>Connaître le rôle du coupe-circuit, du fusible, du disjoncteur, du disjoncteur différentiel et de la mise à la terre.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#electricite-circuit">Circuits électriques</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <tr id="securite-laser">
+          <td>
+            <strong>Prévenir les risques liés aux rayonnements lumineux</strong>
+            <ul>
+              <li>Identifier les dangers d'une exposition directe ou par réflexion au rayonnement d'une source lumineuse, visible ou non.</li>
+              <li>Utiliser les protections individuelles adaptées.</li>
+              <li>Connaître la monochromaticité, la puissance et la divergence d'un faisceau laser, l'existence de classes de laser et les risques pour les yeux et la peau.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#optique-rayonnements">Rayonnements lumineux</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <tr id="securite-bruit">
+          <td>
+            <strong>Prévenir les risques sonores</strong>
+            <ul>
+              <li>Utiliser les protections adaptées à l'environnement sonore de travail.</li>
+              <li>Connaître les seuils de dangerosité et de douleur pour l'oreille humaine, l'échelle des niveaux sonores étant fournie.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#acoustique-niveau">Niveau d'intensité acoustique</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <!-- 2. ÉLECTRICITÉ -->
+        <tr class="theme-row">
+          <td colspan="5">2. Électricité — Comment caractériser et exploiter un signal électrique ?</td>
+        </tr>
+
+        <tr id="electricite-circuit">
+          <td>
+            <strong>Lire, représenter et réaliser un circuit</strong>
+            <ul>
+              <li>Lire et représenter un schéma électrique.</li>
+              <li>Réaliser un montage à partir d'un schéma.</li>
+              <li>Identifier les grandeurs, unités et symboles indiqués sur la plaque signalétique d'un appareil.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#securite-installation-electrique">Sécurité électrique</a>
+            <br>
+            <a href="#mesures-unites">Grandeurs et unités</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <tr id="electricite-mesures">
+          <td>
+            <strong>Mesurer l'intensité et la tension</strong>
+            <ul>
+              <li>Mesurer l'intensité d'un courant électrique.</li>
+              <li>Mesurer la tension aux bornes d'un dipôle.</li>
+              <li>Connaître les appareils de mesure de l'intensité et de la tension ainsi que leurs unités.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#electricite-circuit">Schémas et circuits électriques</a>
+            <br>
+            <a href="#mesures-unites">Grandeurs et unités</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <tr id="electricite-lois">
+          <td>
+            <strong>Exploiter les lois électriques</strong>
+            <ul>
+              <li>Utiliser la loi des nœuds et la loi des mailles dans un circuit comportant au plus deux mailles.</li>
+              <li>Connaître la relation entre la tension U et l'intensité I pour un système à comportement ohmique.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#electricite-mesures">Mesure de U et I</a>
+            <br>
+            <a href="#proportionnalite-formules">Proportionnalité et formules</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <tr id="electricite-capteurs">
+          <td>
+            <strong>Étudier un capteur électrique</strong>
+            <ul>
+              <li>Identifier les grandeurs d'entrée et de sortie d'un capteur, avec leurs unités.</li>
+              <li>Réaliser et exploiter la caractéristique du dipôle électrique constitué par un capteur, modélisée par U = f(I).</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#electricite-mesures">Mesure de la tension et de l'intensité</a>
+            <br>
+            <a href="#graphiques">Lire et exploiter un graphique</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <tr id="electricite-signaux">
+          <td>
+            <strong>Caractériser une tension alternative</strong>
+            <ul>
+              <li>Distinguer une tension continue d'une tension alternative.</li>
+              <li>Reconnaître une tension alternative périodique.</li>
+              <li>Déterminer graphiquement la valeur maximale et la période d'une tension alternative sinusoïdale.</li>
+              <li>Exploiter la relation entre fréquence et période.</li>
+              <li>Décrire un signal périodique avec sa valeur efficace, sa valeur maximale, sa période et sa fréquence.</li>
+              <li>Connaître les unités de ces grandeurs et savoir que la tension du secteur en France est sinusoïdale, de valeur efficace 230 V et de fréquence 50 Hz.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#electricite-mesures">Grandeurs électriques et mesures</a>
+            <br>
+            <a href="#graphiques">Lecture de graphiques</a>
+            <br>
+            <a href="#calculs-durees">Calculs de durées et unités</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <!-- 3. MÉCANIQUE -->
+        <tr class="theme-row">
+          <td colspan="5">3. Mécanique — Comment décrire le mouvement ?</td>
+        </tr>
+
+        <tr id="mecanique-referentiel">
+          <td>
+            <strong>Décrire le mouvement d'un objet</strong>
+            <ul>
+              <li>Délimiter un système et choisir un référentiel adapté.</li>
+              <li>Reconnaître un état de repos ou de mouvement par rapport à un autre objet.</li>
+              <li>Différencier une trajectoire rectiligne, circulaire ou quelconque.</li>
+              <li>Identifier la nature d'un mouvement à partir d'un enregistrement.</li>
+              <li>Savoir qu'un mouvement se définit par rapport à un référentiel et distinguer mouvement uniforme et mouvement uniformément varié, accéléré ou ralenti.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#mesures-unites">Grandeurs et unités</a>
+            <br>
+            <a href="#graphiques">Lecture de représentations</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <tr id="mecanique-vitesse">
+          <td>
+            <strong>Mesurer et calculer une vitesse moyenne</strong>
+            <ul>
+              <li>Déterminer expérimentalement une vitesse moyenne dans le cas d'un mouvement rectiligne.</li>
+              <li>Utiliser la relation entre vitesse moyenne, distance parcourue et durée.</li>
+              <li>Connaître cette relation et les grandeurs qui y interviennent.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#mesures-unites">Grandeurs et unités</a>
+            <br>
+            <a href="#proportionnalite-formules">Formules et proportionnalité</a>
+            <br>
+            <a href="#calculs-durees">Calculs de durées</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <tr id="mecanique-actions">
+          <td>
+            <strong>Identifier les actions mécaniques</strong>
+            <ul>
+              <li>Faire l'inventaire des actions mécaniques exercées sur un solide.</li>
+              <li>Savoir qu'une action mécanique se modélise par une force.</li>
+              <li>Représenter et caractériser une action mécanique par une force.</li>
+              <li>Connaître les caractéristiques d'une force : droite d'action, sens et valeur en newtons.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#mecanique-referentiel">Système étudié et situation mécanique</a>
+            <br>
+            <a href="#vecteurs-schemas">Schémas et représentation d'une direction</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <tr id="mecanique-equilibre">
+          <td>
+            <strong>Étudier l'équilibre d'un solide</strong>
+            <ul>
+              <li>Vérifier expérimentalement les conditions d'équilibre d'un solide soumis à deux forces.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#mecanique-actions">Actions mécaniques et forces</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <tr id="mecanique-poids">
+          <td>
+            <strong>Mesurer le poids et le relier à la masse</strong>
+            <ul>
+              <li>Mesurer la valeur du poids d'un corps.</li>
+              <li>Connaître les caractéristiques du poids : direction verticale, sens du haut vers le bas et valeur en newtons.</li>
+              <li>Connaître et utiliser la relation entre le poids et la masse.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#mecanique-actions">Caractéristiques d'une force</a>
+            <br>
+            <a href="#proportionnalite-formules">Proportionnalité et formules</a>
+            <br>
+            <a href="#mesures-unites">Grandeurs et unités</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <!-- 4. CHIMIE -->
+        <tr class="theme-row">
+          <td colspan="5">4. Chimie — Comment caractériser une solution ?</td>
+        </tr>
+
+        <tr id="chimie-matiere">
+          <td>
+            <strong>Identifier les constituants de la matière</strong>
+            <ul>
+              <li>Associer les éléments à leur symbole à l'aide de la classification périodique.</li>
+              <li>Interpréter une formule chimique en termes atomiques.</li>
+              <li>Construire un modèle moléculaire à partir d'une formule chimique simple.</li>
+              <li>Connaître la différence entre ion, molécule et atome.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#securite-pictogrammes">Produits chimiques et étiquetage</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <tr id="chimie-materiel">
+          <td>
+            <strong>Utiliser le matériel de laboratoire</strong>
+            <ul>
+              <li>Reconnaître et nommer le matériel et la verrerie employés lors des manipulations.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#securite-protection-chimie">Sécurité en chimie</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <tr id="chimie-identification">
+          <td>
+            <strong>Identifier des espèces chimiques en solution aqueuse</strong>
+            <ul>
+              <li>Identifier expérimentalement des espèces chimiques en solution aqueuse.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#chimie-matiere">Atomes, molécules, ions et formules chimiques</a>
+            <br>
+            <a href="#chimie-materiel">Matériel de laboratoire</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <tr id="chimie-ph">
+          <td>
+            <strong>Caractériser l'acidité d'une solution</strong>
+            <ul>
+              <li>Reconnaître expérimentalement le caractère acide, basique ou neutre d'une solution.</li>
+              <li>Mesurer un pH.</li>
+              <li>Savoir qu'une solution acide a un pH inférieur à 7 et qu'une solution basique a un pH supérieur à 7.</li>
+              <li>Connaître les effets de la dilution sur la valeur du pH.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#chimie-matiere">Espèces chimiques et solutions</a>
+            <br>
+            <a href="#chimie-materiel">Matériel de laboratoire</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <tr id="chimie-dilution">
+          <td>
+            <strong>Réaliser une dilution</strong>
+            <ul>
+              <li>Réaliser expérimentalement une dilution.</li>
+              <li>Prendre en compte les effets de la dilution sur le pH d'une solution.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#chimie-ph">pH et solutions</a>
+            <br>
+            <a href="#proportionnalite-formules">Proportionnalité et calculs</a>
+            <br>
+            <a href="#chimie-materiel">Matériel de laboratoire</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <tr id="chimie-concentration">
+          <td>
+            <strong>Préparer une solution par dissolution</strong>
+            <ul>
+              <li>Préparer une solution de concentration massique donnée, par dissolution.</li>
+              <li>Connaître la notion de concentration massique d'un soluté et son unité (g/L).</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#chimie-matiere">Constitution de la matière</a>
+            <br>
+            <a href="#proportionnalite-formules">Proportionnalité et formules</a>
+            <br>
+            <a href="#mesures-unites">Grandeurs et unités</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <!-- 5. ACOUSTIQUE -->
+        <tr class="theme-row">
+          <td colspan="5">5. Acoustique — Comment caractériser et exploiter un signal sonore ?</td>
+        </tr>
+
+        <tr id="acoustique-frequence">
+          <td>
+            <strong>Caractériser un son par sa fréquence</strong>
+            <ul>
+              <li>Déterminer la période ou la fréquence d'un son pur.</li>
+              <li>Produire et classer des sons du plus grave au plus aigu.</li>
+              <li>Savoir qu'un son se caractérise notamment par sa fréquence.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#electricite-signaux">Période et fréquence d'un signal périodique</a>
+            <br>
+            <a href="#graphiques">Lecture de graphiques</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <tr id="acoustique-niveau">
+          <td>
+            <strong>Mesurer et exploiter le niveau sonore</strong>
+            <ul>
+              <li>Caractériser un son par son niveau d'intensité acoustique.</li>
+              <li>Mesurer le niveau d'intensité acoustique.</li>
+              <li>Exploiter une échelle de niveau d'intensité acoustique.</li>
+              <li>Connaître l'unité décibel et les seuils de dangerosité et de douleur, l'échelle étant fournie.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#mesures-unites">Grandeurs et unités</a>
+            <br>
+            <a href="#securite-bruit">Prévention des risques sonores</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <tr id="acoustique-isolation">
+          <td>
+            <strong>Étudier l'atténuation sonore</strong>
+            <ul>
+              <li>Comparer expérimentalement l'atténuation phonique de différents milieux traversés.</li>
+              <li>Savoir que les isolants phoniques absorbent une grande partie de l'énergie transportée par les signaux sonores.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#acoustique-niveau">Niveau sonore</a>
+            <br>
+            <a href="#energie-thermique">Transferts d'énergie</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <tr id="acoustique-transmission">
+          <td>
+            <strong>Transmettre une information par le son</strong>
+            <ul>
+              <li>Mettre en œuvre des émetteurs et des capteurs piézoélectriques.</li>
+              <li>Mettre en œuvre une chaîne de transmission d'informations par canal sonore.</li>
+              <li>Savoir que la transmission du son nécessite un émetteur, un milieu de propagation et un récepteur.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#acoustique-frequence">Caractéristiques d'un son</a>
+            <br>
+            <a href="#electricite-capteurs">Notion de capteur</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <!-- 6. THERMIQUE -->
+        <tr class="theme-row">
+          <td colspan="5">6. Thermique — Comment caractériser les échanges d'énergie sous forme thermique ?</td>
+        </tr>
+
+        <tr id="thermique-temperature">
+          <td>
+            <strong>Mesurer une température</strong>
+            <ul>
+              <li>Mesurer des températures.</li>
+              <li>Utiliser un capteur de température.</li>
+              <li>Connaître les échelles Celsius et Kelvin et différents types de thermomètres.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#mesures-unites">Grandeurs et unités</a>
+            <br>
+            <a href="#electricite-capteurs">Fonctionnement d'un capteur</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <tr id="thermique-equilibre">
+          <td>
+            <strong>Étudier l'équilibre thermique</strong>
+            <ul>
+              <li>Vérifier expérimentalement que deux corps en contact évoluent vers un état d'équilibre thermique.</li>
+              <li>Savoir qu'une élévation ou une diminution de température nécessite un apport ou une perte d'énergie.</li>
+              <li>Distinguer la température de la chaleur, qui est un mode de transfert d'énergie entre deux corps à températures différentes.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#thermique-temperature">Mesure de la température</a>
+            <br>
+            <a href="#energie-thermique">Énergie et transferts</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <tr id="thermique-changements-etat">
+          <td>
+            <strong>Étudier les changements d'état</strong>
+            <ul>
+              <li>Étudier expérimentalement l'évolution de la température d'un corps pur puis d'un mélange lors de différents changements d'état.</li>
+              <li>Savoir qu'un changement d'état nécessite un transfert thermique sous forme de chaleur.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#chimie-matiere">Matière et états de la matière</a>
+            <br>
+            <a href="#thermique-temperature">Température</a>
+            <br>
+            <a href="#graphiques">Lecture de graphiques</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <tr id="energie-thermique">
+          <td>
+            <strong>Comprendre les transferts d'énergie</strong>
+            <ul>
+              <li>Identifier les sources, transferts, conversions et formes d'énergie mobilisés dans une situation.</li>
+              <li>Relier les échanges thermiques à l'évolution de la température et aux changements d'état.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#thermique-temperature">Température</a>
+            <br>
+            <a href="#thermique-equilibre">Équilibre thermique</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <!-- 7. OPTIQUE -->
+        <tr class="theme-row">
+          <td colspan="5">7. Optique — Comment caractériser un signal lumineux ?</td>
+        </tr>
+
+        <tr id="optique-reflexion">
+          <td>
+            <strong>Étudier la réflexion de la lumière</strong>
+            <ul>
+              <li>Vérifier expérimentalement la loi de la réflexion.</li>
+              <li>Connaître cette loi.</li>
+              <li>Savoir tracer un rayon incident et un rayon réfléchi.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#vecteurs-schemas">Tracer et lire un schéma</a>
+            <br>
+            <a href="#optique-rayonnements">Rayons lumineux</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <tr id="optique-refraction">
+          <td>
+            <strong>Étudier la réfraction de la lumière</strong>
+            <ul>
+              <li>Mettre en évidence expérimentalement le phénomène de réfraction.</li>
+              <li>Mesurer un angle d'incidence et un angle de réfraction.</li>
+              <li>Relier qualitativement l'angle de réfraction à l'indice de réfraction d'un milieu transparent.</li>
+              <li>Savoir tracer un rayon réfracté et que l'angle de réfraction dépend de l'indice du milieu.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#optique-reflexion">Rayons lumineux et réflexion</a>
+            <br>
+            <a href="#mesure-angles">Mesure des angles</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <tr id="optique-rayonnements">
+          <td>
+            <strong>Caractériser la lumière et son spectre</strong>
+            <ul>
+              <li>Décomposer expérimentalement la lumière blanche.</li>
+              <li>Réaliser le spectre de la lumière visible.</li>
+              <li>Savoir que la lumière blanche est constituée de rayonnements de différentes couleurs, dont certains sont invisibles à l'œil nu.</li>
+              <li>Connaître l'existence des rayonnements infrarouges et ultraviolets ainsi que leurs effets sur la santé en cas d'exposition excessive.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#securite-laser">Sécurité liée aux rayonnements</a>
+            <br>
+            <a href="#optique-reflexion">Propagation de la lumière</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <tr id="optique-couleurs">
+          <td>
+            <strong>Réaliser une synthèse additive des couleurs</strong>
+            <ul>
+              <li>Réaliser expérimentalement une synthèse additive des couleurs.</li>
+              <li>Savoir que trois lumières colorées rouge, verte et bleue suffisent pour créer toutes les couleurs par synthèse additive.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#optique-rayonnements">Lumière blanche et couleurs</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <!-- PRÉREQUIS TRANSVERSAUX -->
+        <tr class="theme-row">
+          <td colspan="5">8. Outils transversaux — Mesures, calculs et représentations</td>
+        </tr>
+
+        <tr id="mesures-unites">
+          <td>
+            <strong>Utiliser les grandeurs et les unités</strong>
+            <ul>
+              <li>Identifier une grandeur physique et son unité.</li>
+              <li>Lire une valeur mesurée et exprimer un résultat avec son unité.</li>
+              <li>Choisir un appareil de mesure adapté à l'ordre de grandeur attendu.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <span>Prérequis général : nombres, calculs et unités usuelles.</span>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <tr id="proportionnalite-formules">
+          <td>
+            <strong>Utiliser la proportionnalité et transformer une formule</strong>
+            <ul>
+              <li>Reconnaître une situation de proportionnalité.</li>
+              <li>Utiliser une relation entre grandeurs.</li>
+              <li>Isoler une grandeur dans une formule pour effectuer un calcul.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#mesures-unites">Grandeurs et unités</a>
+            <br>
+            <span>Calcul numérique et résolution d'équations simples.</span>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <tr id="graphiques">
+          <td>
+            <strong>Lire et exploiter un graphique</strong>
+            <ul>
+              <li>Lire les axes, les échelles et les valeurs d'un graphique.</li>
+              <li>Représenter des données sous forme de tableau ou de graphique.</li>
+              <li>Exploiter une représentation graphique pour décrire l'évolution d'une grandeur.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#mesures-unites">Grandeurs et unités</a>
+            <br>
+            <span>Repérage dans un plan et lecture de tableaux.</span>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <tr id="calculs-durees">
+          <td>
+            <strong>Effectuer des calculs avec des durées et des fréquences</strong>
+            <ul>
+              <li>Utiliser les unités de durée.</li>
+              <li>Effectuer les conversions nécessaires à un calcul de vitesse ou à l'exploitation d'un signal périodique.</li>
+              <li>Utiliser une relation entre période et fréquence.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#mesures-unites">Grandeurs et unités</a>
+            <br>
+            <a href="#proportionnalite-formules">Calculs et formules</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <tr id="vecteurs-schemas">
+          <td>
+            <strong>Représenter une situation scientifique</strong>
+            <ul>
+              <li>Lire et produire un schéma légendé.</li>
+              <li>Utiliser une représentation adaptée pour décrire une force ou un phénomène lumineux.</li>
+              <li>Respecter les conventions graphiques nécessaires à la compréhension d'un résultat.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#mesures-unites">Grandeurs et unités</a>
+            <br>
+            <a href="#graphiques">Représentations graphiques</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+
+        <tr id="mesure-angles">
+          <td>
+            <strong>Mesurer et construire un angle</strong>
+            <ul>
+              <li>Utiliser un rapporteur pour mesurer un angle.</li>
+              <li>Tracer un angle sur un schéma optique.</li>
+            </ul>
+          </td>
+          <td class="prerequisites">
+            <a href="#vecteurs-schemas">Schémas et tracés géométriques</a>
+          </td>
+          <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <p>
+    Référentiel officiel :
+    <a href="https://eduscol.education.gouv.fr/sites/default/files/document/spe631annexe1104748pdf-85623.pdf"
+       target="_blank" rel="noopener noreferrer">
+      Programme de physique-chimie des classes préparant au CAP (Éduscol)
+    </a>.
+  </p>
+</body>
+</html>
