@@ -265,14 +265,14 @@ Tant que les archives ne sont pas comparées ligne par ligne, la migration histo
 
 | Contrôle | État | Suite prévue |
 |---|---|---|
-| Unicité des identifiants du catalogue | Réussi pour les lignes analysées — aucun doublon détecté | Conserver `rapport_controle_integrite.md` comme preuve ; catalogue v3.0 ; contrôle du 12/10/2026 à 21:08:02 (+02:00). |
 | Unicité des définitions du graphe | Réussi pour les définitions reconnues par le script | Après explicitation des fiches PLURI, relancer le contrôle et vérifier le nombre de définitions distinctes. |
-| Validité des références du graphe | Aucune référence inconnue détectée ; contrôle du périmètre des définitions à finaliser | Expliciter les huit définitions PLURI, puis relancer le script et vérifier qu’aucun identifiant du catalogue ne manque au graphe. |
-| Absence de cycles dans le graphe | Aucun cycle détecté par le contrôle automatisé | Conserver le rapport daté du 12/10/2026 ; poursuivre la revue manuelle des alternatives et dépendances conditionnelles. |
 | Cohérence catalogue–graphe | Contrôle automatique initial satisfaisant sur les références extraites ; contrôle à relancer après correction PLURI | Vérifier les 287 identifiants du catalogue et leurs définitions ou statuts explicites dans le graphe. |
 | Matrice de traçabilité | Examen partiel ; correspondances à vérifier | Contrôler les objectifs et les tâches réelles, notamment les critères CléA 2-3-7 et 2-5-2. |
 | Migration des anciennes versions | Non finalisée | Comparer les anciennes matrices et archives ligne par ligne ; documenter les conservations, scissions, fusions et retraits. |
 | Validation pédagogique en situation réelle | À réaliser | Tester les fiches avec les apprenants et consigner les résultats. |
+| Unicité des identifiants du catalogue | Réussi — 287 identifiants distincts ; aucun doublon détecté par le contrôle automatisé | `rapport_controle_integrite.md` ; contrôle du 12/10/2026 à 21:19:20 (+02:00). |
+| Validité des références du graphe | Réussi pour les références et définitions analysées — 287 définitions distinctes ; aucun identifiant absent ou inconnu détecté | `rapport_controle_integrite.md` ; catalogue et graphe v3.0 ; contrôle du 12/10/2026 à 21:19:20 (+02:00). |
+| Absence de cycles dans le graphe | Aucun cycle détecté par le contrôle automatisé ; revue pédagogique à poursuivre | `rapport_controle_integrite.md` ; graphe v3.0 ; contrôle du 12/10/2026 à 21:19:20 (+02:00). |
 
 Le gel de structure porte sur l’organisation du référentiel et la stabilisation de ses documents de référence. Il ne vaut ni validation technique des contrôles non exécutés, ni validation exhaustive de la traçabilité, ni validation pédagogique.
 ## F2. Critères de gel définitif

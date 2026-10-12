@@ -76,7 +76,7 @@ Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, di
 - CAL-06 : DEC-01, CAL-03.
 - CAL-07 : DEC-01, CAL-04.
 - CAL-08 : CAL-01 à CAL-07, selon les opérations visées.
-- CAL-09 : NUM-01, CAL-01, CAL-03.
+- CAL-09 : NUM-01 ; CAL-01 à CAL-04 selon les opérations effectivement travaillées. L’introduction du calcul mental sur des nombres simples ne suppose pas la maîtrise préalable de toutes les techniques opératoires posées.
 - CAL-10 : NUM-02, DEC-02.
 - CAL-11 : NUM-02, CAL-09.
 - CAL-12 : NUM-07, DEC-04, CAL-09.
@@ -188,7 +188,7 @@ Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, di
 - PER-01 : GEO-01, NUM-10.
 - PER-02 : PER-01, GEO-05, CAL-03.
 - PER-03 : PER-01, CAL-01.
-- PER-04 : PER-01, GEO-07, PROP-04 ; utiliser une formule fournie si nécessaire.
+- PER-04 : PER-01, GEO-07 ; CAL-03 utile selon le calcul demandé ; PROP-04 utile uniquement si la tâche mobilise explicitement un coefficient de proportionnalité. Une formule peut être fournie : sa mémorisation n’est pas un prérequis obligatoire lorsque l’objectif porte sur le calcul à partir de cette formule.
 - PER-05 : PER-02 ou PER-03 ou PER-04, UNIT-01.
 - PER-06 : PER-01, AIR-01.
 

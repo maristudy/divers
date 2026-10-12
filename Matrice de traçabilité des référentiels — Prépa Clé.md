@@ -107,10 +107,6 @@ Une correspondance documentaire ne prouve ni que la fiche est finalisée ni que 
 
 | Compétence de travail à confronter à la source | Référence source régionale | Fiches à examiner | Statut |
 |---|---|---|---|
-| Lire et écrire les nombres entiers | `referentiel_prepa_cle.txt` — Domaine 1 — « Nombres entiers : lire et écrire » | NUM-01 à NUM-06 | À vérifier |
-| Maîtriser les règles d’écriture en lettres des nombres | `referentiel_prepa_cle.txt` — Domaine 1 — « Ecriture des entiers : règles d’orthographe » | NUM-01 à NUM-06 | À vérifier |
-| Lire, écrire, comparer et ranger les nombres décimaux | `referentiel_prepa_cle.txt` — Domaine 1 — « Nombres décimaux : lire et écrire, ordonner et comparer » | NUM-07 à NUM-12 ; DEC-01 à DEC-11 | À vérifier |
-| Utiliser les nombres relatifs pour repérer, comparer ou ranger des valeurs | `referentiel_prepa_cle.txt` — Domaine 1 — « Nombres relatifs : les découvrir pour ordonner et classer » | NUM-10 à NUM-12 | À vérifier |
 | Dénombrer et organiser un comptage | `referentiel_prepa_cle.txt` — Domaine 1 — « Dénombrer au travers de tests logiques » | NUM-01 à NUM-06 | À vérifier |
 | Effectuer les quatre opérations | `referentiel_prepa_cle.txt` — Domaine 1 — « Les 4 opérations : addition, soustraction, multiplication, division » | CAL-01 à CAL-14 | À vérifier |
 | Contrôler la cohérence d’un résultat par un ordre de grandeur | `referentiel_prepa_cle.txt` — Domaine 1 — « Utiliser les ordres de grandeurs pour s’assurer de la cohérence des résultats » | CAL-08 à CAL-14 ; NUM-07 à NUM-12 | À vérifier |
@@ -119,6 +115,10 @@ Une correspondance documentaire ne prouve ni que la fiche est finalisée ni que 
 | Arrondir un nombre | `referentiel_prepa_cle.txt` — Domaine 1 — « Arrondir un nombre » | NUM-07 à NUM-12 | À vérifier |
 | Comprendre les fractions | `referentiel_prepa_cle.txt` — Domaine 1 — « Notions de fraction » | FRA-01 à FRA-14 | À vérifier |
 | Résoudre une situation de proportionnalité | `referentiel_prepa_cle.txt` — Domaine 1 — « Situations de proportionnalité » | PROP-01 à PROP-09 ; PCT-01 à PCT-14 | À vérifier |
+| Lire et écrire les nombres entiers | `referentiel_prepa_cle.txt` — Domaine 1 — « Nombres entiers : lire et écrire » | NUM-01 à NUM-06 ; NUM-12 pour l’écriture en toutes lettres | À vérifier |
+| Maîtriser les règles d’écriture en lettres des nombres | `referentiel_prepa_cle.txt` — Domaine 1 — « Ecriture des entiers : règles d’orthographe » | NUM-12 | À vérifier |
+| Lire, écrire, comparer et ranger les nombres décimaux | `referentiel_prepa_cle.txt` — Domaine 1 — « Nombres décimaux : lire et écrire, ordonner et comparer » | DEC-01 à DEC-11 | À vérifier |
+| Utiliser les nombres relatifs pour repérer, comparer ou ranger des valeurs | `referentiel_prepa_cle.txt` — Domaine 1 — « Nombres relatifs : les découvrir pour ordonner et classer » | REL-01 à REL-05 ; REL-06 à REL-10 si les opérations sur les relatifs sont également travaillées | À vérifier |
 
 ### 6.2 Domaine 2 — Résolution de problèmes
 
