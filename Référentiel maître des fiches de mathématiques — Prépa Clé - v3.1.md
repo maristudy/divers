@@ -19,7 +19,9 @@ Les listes d’identifiants et de dépendances reproduites dans ce référentiel
 | 2.2 | Brouillon remplacé | Références incomplètes ou incohérentes |
 | 2.3 | Brouillon remplacé | Références croisées non fiables |
 | 3.0 — gel de structure | Référence du catalogue et du graphe | Identifiants, familles, objectifs et dépendances stabilisés ; contrôles techniques exhaustifs restant à consigner |
-|3.1 | version documentaire de gouvernance | Règles de gestion, périmètre, traçabilité et état global des contrôles| 3.1 | Référence de gouvernance | Règles de gestion, périmètre, compléments de couverture, traçabilité et état des contrôles |
+
+| 3.1 | Référence de gouvernance | Règles de gestion, périmètre, compléments de couverture, traçabilité et état des contrôles |
+
 
 **Attention :** la version 3.1 ne signifie pas que chaque ancienne fiche a déjà été comparée individuellement à son équivalent actuel. Le gel éditorial des règles n’efface pas le travail de migration historique restant.
 

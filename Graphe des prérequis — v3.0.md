@@ -6,25 +6,18 @@ Statut : gel de structure ; référence des dépendances entre les fiches du cat
 
 Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, diffable dans Git et exploitable pour construire des parcours individualisés. Une fiche indiquée comme « entrée possible » peut être proposée sans prérequis formel, notamment pour un diagnostic.
 
+
 ### Conventions de lecture des dépendances
 
-- **Virgule (`,`)** : les prérequis indiqués sont cumulatifs ; ils doivent être maîtrisés ou travaillés préalablement, sauf précision contraire.
-- **`ou`** : les prérequis constituent des voies alternatives ; une seule voie pertinente peut suffire.
-- **Prérequis conditionnel** : une dépendance assortie d’une condition ne s’applique que lorsque la tâche proposée mobilise effectivement la compétence concernée.
-- **Repère utile, soutien ou prérequis facultatif** : la compétence facilite l’apprentissage, mais son absence ne doit pas empêcher l’accès à la fiche.
-- **Prérequis non universel** : les fiches de situation (`SIT`) et les fiches pluridisciplinaires (`PLURI`) ne constituent pas, par défaut, des prérequis obligatoires pour l’ensemble du parcours. Elles sont mobilisées selon les besoins de la situation et les objectifs pédagogiques.
+- **Virgule (`,`)** : les prérequis sont cumulatifs, sauf indication contraire explicite.
+- **Alternative (`ou`)** : les prérequis reliés par « ou » constituent des voies alternatives ; une seule voie pertinente peut suffire.
+- **Lien conditionnel** : une dépendance assortie d’une condition, par exemple « selon la situation » ou « selon les opérations nécessaires », ne s’applique que si la tâche cible mobilise effectivement la compétence concernée.
+- **Lien facultatif** : les mentions « utile », « en soutien », « peut être proposé » et les formulations équivalentes signalent une aide possible, pas un prérequis bloquant.
+- **Formule fournie** : lorsqu’une formule est fournie dans l’exercice, sa mémorisation ne peut pas être exigée comme prérequis.
+- **SIT et PLURI** : aucune fiche de situation (`SIT`) ni aucun support plurilingue (`PLURI`) ne constitue un prérequis universel. Leur mobilisation dépend des besoins, de la situation et des objectifs pédagogiques.
+- **Progression pédagogique** : un ordre conseillé d’apprentissage ne constitue pas automatiquement une dépendance obligatoire dans le graphe.
+- **Justification** : toute dépendance obligatoire doit être justifiée par l’objectif et les tâches de la fiche cible.
 
-
-### Convention de lecture des prérequis
-
-- **Virgule** : les prérequis séparés par une virgule sont cumulatifs, sauf indication contraire explicite.
-- **OU** : les prérequis reliés par « OU » sont des alternatives ; il n'est pas nécessaire de maîtriser toutes les alternatives.
-- **Lien conditionnel** : une dépendance introduite par « selon la situation », « selon les opérations nécessaires » ou une formulation équivalente ne s'applique que lorsque la tâche concernée l'exige.
-- **Lien facultatif** : les mentions « utile », « en soutien », « peut être proposé » et équivalentes ne constituent pas des prérequis bloquants.
-- **Formule fournie** : lorsqu'une formule est fournie dans l'exercice, sa mémorisation ne peut pas être exigée comme prérequis.
-- **SIT et PLURI** : aucune fiche SIT ou PLURI ne constitue un prérequis universel. Les fiches SIT mobilisent des acquis ; les fiches PLURI peuvent accompagner toute fiche selon les besoins.
-- **Progression pédagogique** : un ordre conseillé d'apprentissage ne constitue pas automatiquement une dépendance obligatoire dans le graphe.
-- **Validation** : chaque dépendance obligatoire doit être justifiée par l'objectif et les tâches de la fiche cible.
 
 ## 1. Numération, décimaux et calcul
 
