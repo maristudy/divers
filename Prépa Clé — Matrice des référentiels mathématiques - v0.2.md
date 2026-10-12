@@ -332,134 +332,159 @@ Chaque exigence devra conserver un identifiant, une source, une formulation de r
 **Références à rattacher :** Prépa Clé domaines 3 et 4 ; CléA domaine 2, sous-domaine 3 ; programmes de l’école et du collège ; CAP et formations agricoles selon les spécialités.
 
 ---
+## 6. Référentiel régional Prépa Clé — traçabilité vers le catalogue v3.0
 
-## 6. Géométrie plane et repérage
+**Source contrôlée :** `referentiel_prepa_cle.txt`, fichier du dépôt du projet.  
+**Catalogue cible :** Catalogue maître des fiches — Prépa Clé Mathématiques v3.0.  
+**Date du contrôle documentaire :** 12 octobre 2026.
 
-### 6.1 Vocabulaire et objets géométriques
+### 6.1 Règles propres à cette section
 
-- Point, droite, segment et demi-droite.
-- Alignement et appartenance.
-- Droites parallèles et perpendiculaires.
-- Angle et mesure d’un angle.
-- Cercle, centre, rayon et diamètre.
-- Polygones et sommets.
-- Reconnaissance et description des figures.
-- Utilisation du vocabulaire géométrique pour expliquer une construction.
+Les formulations des compétences ci-dessous reprennent les intitulés et rubriques présents dans le fichier régional. La référence indique le domaine et la rubrique dans ce fichier ; elle ne constitue pas une référence à un texte réglementaire externe dont la provenance n’aurait pas été établie.
 
-### 6.2 Quadrilatères
+Les identifiants cibles sont des **correspondances documentaires proposées**. Ils doivent être retenus seulement lorsque l’objectif principal de la fiche correspond à la compétence régionale.
 
-- Reconnaître les quadrilatères usuels.
-- Reconnaître carré, rectangle, losange, parallélogramme et trapèze selon le programme visé.
-- Identifier les propriétés utiles.
-- Construire une figure à partir de consignes.
-- Utiliser règle, équerre, compas et rapporteur lorsque nécessaire.
+- **E — Exigence explicite :** l’objectif de la fiche correspond directement à une compétence nommée dans le référentiel régional.
+- **P — Prérequis :** la fiche contribue à une connaissance nécessaire, mais ne prouve pas la maîtrise de la compétence cible.
+- **A — Application :** la fiche mobilise une compétence déjà travaillée dans une situation contextualisée.
+- **C — Complément :** la fiche apporte un approfondissement ou un support sans constituer, à elle seule, une exigence régionale.
 
-### 6.3 Triangles
+Ces codes indiquent la nature proposée du lien. Ils ne signifient pas que les tâches de la fiche ont été validées.
 
-- Reconnaître les différents types de triangles.
-- Identifier les côtés et les angles.
-- Construire un triangle à partir de données.
-- Utiliser les propriétés de triangles particuliers.
-- Comprendre les conditions nécessaires à une construction.
+### 6.2 Domaine 1 — Calculer, raisonner, se repérer dans l’univers des nombres
 
-### 6.4 Cercle et figures composées
+| Compétence régionale et rubrique source | Fiches cibles proposées | Nature | Décision de traçabilité |
+|---|---|---|---|
+| « Découvrir les nombres » — domaine 1 | À préciser selon l’objectif concret ; ne pas rattacher automatiquement toute la famille NUM | À déterminer | Rubrique générale trop large pour justifier à elle seule une correspondance fiche par fiche. |
+| « Nombres entiers : lire et écrire » | NUM-01 | E | Correspondance directe avec l’objectif de lecture et d’écriture des entiers. |
+| « Écriture des entiers : règles d’orthographe » | NUM-12 | E | Correspondance directe avec l’écriture en toutes lettres et les règles orthographiques. |
+| « Nombres décimaux : lire et écrire, ordonner et comparer » | DEC-01, DEC-04, DEC-05 | E, à répartir par action | DEC-01 pour lire et écrire ; DEC-04 pour comparer ; DEC-05 pour ranger. Ne pas attribuer les trois compétences à une fiche unique sans preuve. |
+| « Nombres relatifs : les découvrir pour ordonner et classer » | REL-01 à REL-03, à répartir selon les objectifs | E, à répartir par action | Limiter le rattachement à la découverte, au repérage, à la comparaison et au classement. Cette rubrique ne justifie pas à elle seule les opérations sur les relatifs. |
+| « Dénombrer au travers de tests logiques » | NUM-10 ; ACT-01 uniquement si la tâche de manipulation contribue explicitement au dénombrement | E pour NUM-10 ; P ou A pour ACT-01 | Vérifier que la tâche porte sur le comptage exact et l’absence d’oubli ou de doublon. |
+| « Maîtriser la technique opératoire » ; « Les 4 opérations : addition, soustraction, multiplication, division » | CAL-01 à CAL-08, en distinguant l’opération et le type de nombre | E, à répartir fiche par fiche | Ne pas considérer la plage CAL-01 à CAL-08 comme une preuve globale de couverture. Vérifier chaque opération et chaque type de nombre. |
+| « Utiliser les ordres de grandeurs pour s’assurer de la cohérence des résultats » | CAL-12 ; CAL-13 si une vérification par une autre méthode est explicitement demandée | E, à répartir par action | Distinguer estimation préalable, contrôle de plausibilité et vérification du calcul. |
+| « Calculer facilement, rapidement » ; « Calculer mental » | CAL-09 et CAL-11 ; CAL-10 uniquement pour les calculs par 10, 100 ou 1 000 | E, à répartir par action | Vérifier les opérations mentales effectivement travaillées et les types de nombres concernés. |
+| « Multiplier, diviser par 10, 100, 1000 » | CAL-10 | E | Vérifier séparément multiplication et division et les types de nombres concernés. |
+| « Arrondir un nombre » | DEC-09 | E | Correspondance avec l’arrondi d’un nombre décimal à un rang donné. Ne pas étendre automatiquement à tous les types de nombres. |
+| « Se familiariser avec la proportionnalité » ; « Notions de fraction » | FRA-01 à FRA-06, à répartir selon les objectifs exacts | E, à répartir par action | Distinguer sens de la fraction, représentation, équivalence, comparaison et partage. |
+| « Situations de proportionnalité » | PROP-01 à PROP-07, uniquement selon la méthode réellement visée | E, à répartir par action | Distinguer reconnaissance d’une situation, tableau, valeur unitaire, coefficient, retour à l’unité et autres méthodes. |
+| « Notions de proportionnalités : ressources d’apprentissage (CRAN) » | Aucun rattachement direct à une fiche au seul motif de cette mention | C éventuel, à justifier | Référence bibliographique non identifiée. La mention est traitée dans la section 7.1 et ne constitue pas une compétence autonome. |
 
-- Reconnaître et construire un cercle.
-- Identifier rayon, diamètre et centre.
-- Décomposer une figure complexe en figures simples.
-- Repérer les dimensions nécessaires à un calcul.
+### 6.3 Domaine 2 — Résoudre un problème mettant en jeu plusieurs opérations
 
-### 6.5 Symétrie et transformations
+| Compétence régionale et rubrique source | Fiches cibles proposées | Nature | Décision de traçabilité |
+|---|---|---|---|
+| « S’approprier un énoncé » | PROB-01, PROB-02 ; COMM-01 si une reformulation linguistique est demandée | E, à répartir par action | Distinguer compréhension de l’énoncé, identification des données et reformulation. |
+| « Le vocabulaire mathématique » | COMM-04 | E | La correspondance porte sur la compréhension ou l’emploi du vocabulaire mathématique. |
+| « Choisir la bonne opération » | PROB-03 | E | Correspondance directe au niveau de l’objectif ; vérifier que les tâches demandent effectivement de choisir une opération. |
+| « Maîtriser les 4 opérations dans des situations problèmes » | PROB-03 à PROB-05 selon la tâche ; CAL-01 à CAL-08 comme prérequis opératoires | E pour la résolution ; P pour les prérequis | Distinguer le choix et l’organisation des opérations de l’exécution du calcul. |
+| « Les situations de la vie courante » | SIT-01 ou une autre fiche SIT seulement si son objectif correspond à la situation étudiée | A, à justifier | Une mise en contexte ne prouve pas à elle seule la maîtrise de la résolution de problèmes. |
+| « Utiliser les ordres de grandeurs pour s’assurer de la cohérence des résultats » | CAL-12 ; CAL-13 si un contrôle par une autre méthode est demandé ; PROB-07 si la plausibilité contextuelle est évaluée | E, à répartir par action | Distinguer cohérence numérique et pertinence de la réponse dans le contexte. |
+| « Calculer avec les nombres relatifs » ; « Addition des nombres relatifs » ; « Soustraction de nombres relatifs » ; « Multiplication et division de nombres relatifs » | REL-07 à REL-09 selon les opérations couvertes ; REL-10 si des problèmes contextualisés sont effectivement proposés | E, à répartir par opération | Ne pas considérer une fiche ou une plage comme couvrant toutes les opérations sans examen de ses objectifs. |
+| « Calculer avec des fractions » ; « Notion de fractions » | FRA-01 à FRA-13 selon les opérations effectivement couvertes | E, à répartir par action | La présence de fiches sur les fractions ne prouve pas que toutes les opérations sur les fractions sont couvertes. |
+| « Simplification de fractions (critères de divisibilité, trouver les facteurs premiers, simplifier des fractions) » | FRA-07 ; DIV-02, DIV-03 ou DIV-04 uniquement pour les objectifs explicitement concernés | E pour la simplification ; P ou C pour les autres fiches selon la tâche | Distinguer critères de divisibilité, identification des nombres premiers, décomposition en facteurs premiers et simplification effective. |
+| « Résolution de problèmes (comparer, ajouter, soustraire) » | FRA-09 à FRA-12 selon l’action ; FRA-14 ou PROB-04/PROB-05 si la tâche est un problème contextualisé correspondant | E pour l’action mathématique ; A pour le réinvestissement | Vérifier séparément comparaison, addition et soustraction de fractions. Ne pas inférer multiplication ou division de fractions. |
 
-- Reconnaître une symétrie axiale et une symétrie centrale lorsque requises.
-- Construire une image par symétrie.
-- Identifier les propriétés conservées par une transformation.
-- Comprendre les agrandissements et réductions simples.
+### 6.4 Domaine 3 — Lire et calculer les unités de mesure de temps et de quantité
 
-### 6.6 Repérage dans le plan
+| Compétence régionale et rubrique source | Fiches cibles proposées | Nature | Décision de traçabilité |
+|---|---|---|---|
+| « Convertir différentes unités » ; « Unités de mesure (longueurs, masses, aires, volumes, durée) » ; « Convertir des unités de mesure » | UNIT-01 à UNIT-07, selon la grandeur et l’action | E, à répartir par grandeur | Contrôler séparément longueurs, masses, aires, volumes, capacités et durées. Une conversion d’une grandeur ne prouve pas la maîtrise des autres. |
+| « Lire et interpréter des tableaux et graphiques simples » ; « Lecture de graphiques et tableaux » | DATA-01 à DATA-05 selon la représentation et l’action | E, à répartir par représentation | Distinguer lecture d’un tableau, extraction de données, lecture d’un diagramme et interprétation d’un graphique. Ne pas ajouter DATA-07 sauf si la construction d’un tableau est demandée. |
+| « Mise en situation sur un planning et détection d’erreur » | TEM-09 et TEM-10 pour le planning ; DATA-06 si l’erreur porte sur des données ou une représentation ; CAL-13 si elle porte sur un calcul | E, à répartir par action | Le rattachement dépend de la nature de l’erreur et de la tâche réelle. |
+| « Connaître les figures géométriques de base » ; « Les bases de la géométrie (éléments de géométrie, savoir reconnaître les différentes figures planes) » | GEO-04 à GEO-07 selon les figures et propriétés ciblées | E, à répartir par figure | Vérifier les figures explicitement travaillées. Ne pas considérer la reconnaissance comme une preuve de capacité à construire ou à calculer. |
+| « Les quadrilatères (le parallélogramme, le rectangle, le carré, les quadrilatères particuliers) » | GEO-04 et GEO-05, selon les objectifs précis | E, à répartir par objectif | Vérifier explicitement les quadrilatères nommés et les propriétés effectivement étudiées. |
+| « Les triangles (les différents triangles, construire des triangles) » | GEO-06 et GEO-08 pour reconnaissance/propriétés ; TRA-06 pour la construction, selon la tâche | E, à répartir par action | Distinguer classification, propriétés et construction instrumentée. |
+| « Notions de longueur et de périmètre » | MES-02 ou MES-05 pour mesure/tracé ; PER-01 à PER-04 selon la figure ; PER-05 si un problème contextualisé correspond | E pour la compétence visée ; A pour le réinvestissement | Distinguer mesurer une longueur, tracer un segment, calculer un périmètre et résoudre un problème de périmètre. |
+| « Notions d’aires » | AIR-01 à AIR-06 et AIR-09, selon le contenu exact | E, à répartir par notion | Distinguer sens de l’aire, formules, aire d’une figure composée et conversion d’unités. |
+| « Notion de volume entier » | VOL-01 à VOL-05 et UNIT-07 uniquement si les tâches et le sens du critère sont clarifiés | À déterminer | Le libellé source est ambigu. Ne pas interpréter « entier » comme une exigence portant sur tous les solides. La décision est consignée en section 7.2. |
 
-- Lire des coordonnées sur une grille.
-- Repérer un point.
-- Nommer un point à partir de ses coordonnées.
-- Lire un quadrillage ou un schéma.
-- Suivre un itinéraire à partir d’instructions.
-- Décrire une position à l’aide du vocabulaire spatial.
+### 6.5 Domaine 4 — Se repérer dans l’espace
 
-### 6.7 Prérequis
+| Compétence régionale et rubrique source | Fiches cibles proposées | Nature | Décision de traçabilité |
+|---|---|---|---|
+| « Notion de géographie (France, régions, départements) » | ESP-08 et ESP-13 si leurs objectifs couvrent bien ces repères géographiques | E, à confirmer par objectif | Vérifier que régions et départements sont explicitement traités. |
+| « Notion d’orientation (points cardinaux, boussole) » | ESP-01 | E | Vérifier que les tâches couvrent les points cardinaux et, si exigé, l’utilisation d’une boussole. |
+| « Unités de mesure de longueurs et d’aires (dont les instruments de mesure) » ; « Conversion d’unités » | MES-01 à MES-05, UNIT-01 et UNIT-04 selon la tâche | E, à répartir par action | Distinguer utilisation des instruments, mesure, conversion des longueurs et conversion des aires. |
+| « Notion d’échelle » | ESP-07 | E | Vérifier que les tâches relient une distance représentée à une distance réelle. |
+| « Lire un plan et en extraire des informations utiles » ; « Retrouver un lieu sur un plan, une carte » | ESP-02 ; ESP-09 ou ESP-13 si leurs objectifs correspondent au support utilisé | E, à répartir par support | Distinguer plan, carte, carte géographique et plan d’implantation professionnel. |
+| « Nommer un lieu à partir de coordonnées » ; « Nommer un lieu à partir de coordonnées/d’une grille » | ESP-03 ; ESP-11 uniquement pour un plan d’implantation professionnel | E, à répartir par support | Vérifier le type de coordonnées et le support. Ne pas assimiler automatiquement une grille simple à un plan professionnel. |
+| « Établir un itinéraire afin de rejoindre un lieu sur un plan, une carte » ; « Effectuer un parcours sur un plan, une carte à partir d’indications » | ESP-04 et ESP-05 selon l’action | E, à répartir par action | Distinguer suivre des instructions, décrire un itinéraire et ordonner les étapes d’un trajet. |
+| « Lire une carte et en tirer des informations utiles » ; « Répertorier des éléments sur une carte (…) et les retrouver à partir de coordonnées » | ESP-08, ESP-09 et ESP-13 selon l’objectif réel | E, à répartir par action | Vérifier séparément lecture de légende, extraction d’informations, repérage d’éléments et localisation de régions/départements. |
+| « Lire un schéma et en extraire des informations utiles » ; « Retrouver un lieu sur un schéma » ; « Établir un itinéraire » ; « Effectuer un parcours sur un schéma à partir d’indications » | ESP-06, ESP-03, ESP-04 ou ESP-05 selon la tâche | E, à répartir par action | Vérifier la lecture des lignes, nœuds, correspondances et indications du réseau concerné. |
 
-- Vocabulaire spatial.
-- Lecture de consignes.
-- Mesure de longueurs et d’angles.
-- Utilisation des instruments.
-- Repérage sur une grille.
+### 6.6 Domaine 5 — Restituer oralement un raisonnement mathématique
 
-**Références à rattacher :** Prépa Clé domaine 3 ; CléA domaine 2, sous-domaines 3 et 4 ; programmes du collège ; domaine géométrie des CAP concernés.
+| Compétence régionale et rubrique source | Fiches cibles proposées | Nature | Décision de traçabilité |
+|---|---|---|---|
+| « Restituer oralement un raisonnement mathématique » | COMM-02 et COMM-03 si les tâches demandent une restitution orale du raisonnement | E, à confirmer par les tâches | Une réponse numérique exacte ne prouve pas la capacité à exposer le raisonnement. |
+| « S’approprier un énoncé » | COMM-01 ; PROB-01 ou PROB-02 pour l’analyse mathématique si les objectifs correspondent | E, à répartir par action | Distinguer reformulation linguistique, identification des données et identification de la question. |
+| « Structurer les différentes étapes de la résolution du problème » | COMM-03 ; PROB-04 ou PROB-05 pour la résolution mathématique selon la tâche | E, à répartir par action | Distinguer l’organisation de l’explication de l’exécution des opérations. |
+| « Utiliser à bon escient le langage mathématique » | COMM-04 | E | Vérifier que les tâches demandent effectivement de comprendre ou d’employer le vocabulaire mathématique. |
+| « Communiquer des résultats à l’oral et/ou à l’écrit » | COMM-02/COMM-03 pour l’oral ; COMM-05 ou COMM-08 uniquement si l’objectif de la fiche correspond à la production écrite ou à la transmission d’une consigne | E, à répartir par action | Distinguer communication orale, compte rendu écrit, justification, reformulation et transmission d’instructions. |
 
----
+## 7. Réserves et décisions de clôture
 
-## 7. Périmètres, aires, volumes et dimensionnement
+### 7.1 Référence « CRAN »
 
-### 7.1 Périmètres et longueurs
+Le fichier régional source contient exactement la mention « Notions de proportionnalités : ressources d’apprentissage (CRAN) ». Il ne fournit ni développement du sigle, ni titre de ressource, ni auteur ou organisme clairement identifié, ni date, ni URL.
 
-- Comprendre le périmètre comme longueur du contour.
-- Calculer le périmètre d’un carré.
-- Calculer le périmètre d’un rectangle.
-- Calculer le périmètre d’un triangle.
-- Calculer la circonférence d’un cercle lorsque requis.
-- Calculer le périmètre d’une figure composée.
-- Déterminer une longueur manquante.
-- Choisir une unité adaptée au résultat.
+La recherche menée ne permet pas de conclure que cette mention désigne une ressource précise sur la proportionnalité. L’hypothèse d’un ancien espace de mutualisation de ressources pédagogiques n’est pas une identification suffisamment fiable pour être inscrite comme fait dans la matrice.
 
-### 7.2 Aires
+**Décision :**
+- conserver la mention dans le registre des références documentaires non identifiées ;
+- ne pas développer le sigle par supposition ;
+- ne pas considérer CRAN comme une compétence ni comme une preuve de couverture ;
+- maintenir la traçabilité des compétences de proportionnalité à partir des objectifs mathématiques et des sources vérifiables ;
+- clôturer la recherche documentaire si aucune source primaire supplémentaire n’est retrouvée, avec le statut « référence d’origine non retrouvée ».
 
-- Comprendre l’aire comme mesure d’une surface.
-- Calculer l’aire d’un carré.
-- Calculer l’aire d’un rectangle.
-- Calculer l’aire d’un triangle.
-- Calculer l’aire d’un parallélogramme lorsque requis.
-- Calculer l’aire d’un disque lorsque requis.
-- Décomposer une surface complexe en figures simples.
-- Calculer une surface à partir d’un plan ou de dimensions.
-- Déterminer une dimension manquante à partir d’une aire.
-- Convertir le résultat dans une unité adaptée.
+### 7.2 Ambiguïté du libellé « Notion de volume entier »
 
-### 7.3 Volumes
+Le libellé exact du fichier régional est « Notion de volume entier ». Il n’est pas suffisamment précis pour déterminer s’il s’agit d’une erreur de rédaction, d’un terme propre au référentiel d’origine ou d’une exigence particulière.
 
-- Comprendre le volume comme mesure de l’espace occupé.
-- Reconnaître les solides usuels.
-- Calculer le volume d’un cube.
-- Calculer le volume d’un pavé droit.
-- Calculer le volume d’un cylindre.
-- Étudier les formules de volume des autres solides si le référentiel ou le projet l’exige.
-- Comprendre les unités cubiques.
-- Relier volume et capacité.
-- Déterminer une dimension manquante à partir d’un volume lorsque le calcul est accessible.
-- Distinguer formule, mesure et estimation.
+**Décision :**
+- conserver le libellé source entre guillemets ;
+- ne pas le remplacer silencieusement par « volumes de solides usuels » ;
+- ne pas conclure que la sphère, le cylindre, le cube et le pavé droit sont tous exigés par ce seul libellé ;
+- rattacher les fiches VOL uniquement selon les objectifs réellement présents et signaler l’ambiguïté tant qu’une clarification de la source n’est pas obtenue.
 
-### 7.4 Dimensionnement et contraintes
+### 7.3 Règles de non-surinterprétation
 
-- Choisir une formule à partir d’une figure.
-- Identifier les données nécessaires.
-- Convertir les unités avant le calcul si nécessaire.
-- Contrôler la cohérence dimensionnelle.
-- Arrondir selon la précision attendue.
-- Interpréter le résultat dans une situation concrète.
+1. Une fiche de calcul opératoire ne prouve pas la capacité à résoudre un problème à plusieurs opérations.
+2. Un contexte professionnel ne constitue pas automatiquement une exigence du référentiel régional ou de CléA.
+3. La découverte et le classement des nombres relatifs ne prouvent pas la maîtrise des opérations sur les relatifs.
+4. La reconnaissance d’une figure ne prouve pas la capacité à la construire ni à calculer son périmètre, son aire ou son volume.
+5. La lecture d’un plan, d’une carte, d’une grille de coordonnées et d’un schéma de transport doit rester distinguée lorsque les objectifs diffèrent.
+6. Les conversions de longueur, de masse, d’aire, de volume, de capacité et de durée doivent être vérifiées séparément.
+7. L’emploi du vocabulaire, la reformulation d’un énoncé, l’explication d’un calcul, la justification d’une méthode et la transmission d’une consigne sont des compétences distinctes.
+8. Une plage d’identifiants ne doit pas recevoir un code unique si les fiches remplissent des fonctions différentes.
+9. Les fiches d’apprentissage, de renforcement, de réinvestissement et les situations intégrées doivent être distinguées selon leur objectif réel.
+10. Un identifiant cible ne doit être conservé que si l’objectif décrit dans le catalogue v3.0 correspond à la compétence régionale considérée.
 
-### 7.5 Applications professionnelles
+### 7.4 Sources et périmètre de validation
 
-- Calcul de matériaux nécessaires.
-- Surface à couvrir, peindre, semer ou aménager.
-- Longueur de clôture ou de bordure.
-- Volume d’un bac, d’un réservoir ou d’un contenant.
-- Quantité de terre, de substrat ou de matériau.
-- Rendement d’une surface.
-- Estimation des pertes et des quantités supplémentaires.
+Le rapprochement documentaire a été réalisé à partir des fichiers suivants :
+- `referentiel_prepa_cle.txt` : libellés des cinq domaines régionaux et références CléA reproduites dans le dépôt ;
+- `Catalogue maître des fiches — Prépa Clé Mathématiques v3.0` : identifiants et objectifs des fiches ;
+- `Référentiel maître des fiches de mathématiques — Prépa Clé v3.1` : gouvernance, règles de versionnage et statut des documents ;
+- matrice régionale v1.0 : document historique utilisé pour comparer la structure et repérer les correspondances héritées.
 
-**Point de vigilance :** l’expression régionale « volume entier » doit être conservée dans la transcription de la source puis clarifiée. Elle ne doit pas être interprétée arbitrairement comme une notion mathématique précise.
+Le référentiel régional contenu dans le dépôt est la source documentaire contrôlée ici. Le seul fait qu’il soit présent dans le dépôt ne démontre pas sa provenance institutionnelle externe ni son éventuelle actualité réglementaire.
 
-**Références à rattacher :** Prépa Clé domaine 3 ; CléA domaine 2, sous-domaine 3 ; programmes du collège ; CAP concernés ; extensions professionnelles selon le projet.
+### 7.5 Statut final de la traçabilité régionale
 
----
+**Statut : traçabilité documentaire structurée ; validation pédagogique des fiches non certifiée.**
+
+Le contrôle a permis :
+- de relever les rubriques régionales exactes ;
+- de proposer des rattachements aux objectifs du catalogue v3.0 ;
+- de distinguer les compétences directes, les prérequis et les applications ;
+- d’identifier les deux réserves documentaires « CRAN » et « volume entier ».
+
+Il ne permet pas, à lui seul, d’affirmer que les exercices de toutes les fiches couvrent complètement les compétences correspondantes. Cette conclusion exige un contrôle des fiches et de leurs tâches observables.
+
+La validation finale devra être datée et indiquer les tâches effectivement examinées, les couvertures partielles, les lacunes constatées et les éventuelles extensions nécessaires. Aucune compétence ne sera déclarée couverte uniquement parce qu’un identifiant de fiche appartient à une famille pertinente.
+
 
 ## 8. Plans, cartes, échelles et orientation
 
