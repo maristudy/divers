@@ -11,3 +11,4 @@
 | Absence de cycles dans le graphe | À vérifier automatiquement | Rapport de parcours du graphe. |
 | Migration des anciennes matrices | Non finalisée | Correspondances historiques comparées ligne par ligne ; scissions et fusions documentées. |
 | Couverture du critère CléA 2-3-7 |Identifiants intégrés ; couverture pédagogique à vérifier |Vérifier séparément les tâches sur les périmètres, les aires et les volumes, les formules disponibles, les unités et les calculs demandés. Ne pas déclarer la matrice entièrement validée tant que les objectifs cibles ont été contrôlés et que les fiches concernées n’ont pas été examinées. La correspondance entre un critère et un objectif de catalogue ne prouve pas, à elle seule, que le contenu d’une fiche couvre toute la compétence. |
+| Couverture du critère CléA 2-3-7 | Identifiants présents ; couverture pédagogique à vérifier | Contrôler séparément les figures, formules, unités et calculs demandés dans les fiches concernées.|

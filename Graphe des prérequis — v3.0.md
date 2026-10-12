@@ -6,6 +6,15 @@ Statut : gel de structure ; référence des dépendances entre les fiches du cat
 
 Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, diffable dans Git et exploitable pour construire des parcours individualisés. Une fiche indiquée comme « entrée possible » peut être proposée sans prérequis formel, notamment pour un diagnostic.
 
+### Conventions de lecture des dépendances
+
+- **Virgule (`,`)** : les prérequis indiqués sont cumulatifs ; ils doivent être maîtrisés ou travaillés préalablement, sauf précision contraire.
+- **`ou`** : les prérequis constituent des voies alternatives ; une seule voie pertinente peut suffire.
+- **Prérequis conditionnel** : une dépendance assortie d’une condition ne s’applique que lorsque la tâche proposée mobilise effectivement la compétence concernée.
+- **Repère utile, soutien ou prérequis facultatif** : la compétence facilite l’apprentissage, mais son absence ne doit pas empêcher l’accès à la fiche.
+- **Prérequis non universel** : les fiches de situation (`SIT`) et les fiches pluridisciplinaires (`PLURI`) ne constituent pas, par défaut, des prérequis obligatoires pour l’ensemble du parcours. Elles sont mobilisées selon les besoins de la situation et les objectifs pédagogiques.
+
+
 ### Convention de lecture des prérequis
 
 - **Virgule** : les prérequis séparés par une virgule sont cumulatifs, sauf indication contraire explicite.
@@ -98,7 +107,7 @@ Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, di
 - FRA-14 : FRA-01, FRA-05 ; ajouter FRA-11 ou FRA-12 selon les opérations nécessaires.
 
 ### PROP — Proportionnalité
-- PROP-01 : entrée possible à partir de tableaux de valeurs concrets ; CAL-03 et CAL-04 utiles selon les procédures de calcul mobilisées, mais non obligatoires pour la reconnaissance initiale d’une situation de proportionnalité.
+- PROP-01 : CAL-03 et CAL-04 utiles selon les tâches ; une première lecture ou construction de tableau simple peut être proposée à partir de données concrètes, sans en faire des prérequis systématiques.
 - PROP-02 : PROP-01.
 - PROP-03 : CAL-04, PROP-01.
 - PROP-04 : CAL-03, PROP-02.
@@ -211,7 +220,7 @@ Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, di
 - VOL-06 : VOL-01, UNIT-03, UNIT-07 ; proposer une situation concrète de remplissage ou de contenant.
 - VOL-07 : VOL-02 ou VOL-03 ou VOL-04 ou VOL-06, UNIT-03.
 - VOL-08 : AIR-01, VOL-01.
-- VOL-09 : VOL-01 ; calcul numérique et unités de volume selon la tâche ; formule fournie ou connue selon l’objectif. La mémorisation de la formule n’est pas obligatoire lorsqu’elle est fournie dans l’exercice.
+- VOL-09 : VOL-01 ; calcul numérique et maîtrise des unités de volume ; la formule du volume de la sphère peut être fournie ou connue, selon l’objectif de la tâche. La mémorisation de la formule n’est pas un prérequis systématique lorsque celle-ci est fournie.
 
 ## 4. Espace, données et algèbre
 
@@ -316,7 +325,7 @@ Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, di
 - COMM-05 : COMM-02, UNIT-06 si une unité est attendue.
 - COMM-06 : COMM-02, COMM-04.
 - COMM-07 : COMM-03, PROB-03, PROB-07.
-- COMM-08 : COMM-04, COMM-06.
+- COMM-08 : COMM-04 ; COMM-06 utile selon la tâche, mais non obligatoire dans tous les cas. La transmission orale d’un calcul ou d’une consigne doit préserver les données et les opérations, sans imposer systématiquement la reformulation préalable du calcul d’une autre personne.
 
 ## 6. Réinvestissements professionnels et situations intégrées
 
