@@ -1,10 +1,10 @@
 # Rapport de contrôle d'intégrité
 
-- Date du contrôle : 2026-10-12T21:08:02+02:00
+- Date du contrôle : 2026-10-12T21:19:20+02:00
 - Catalogue contrôlé : `Catalogue maître des fiches — Prépa Clé Mathématiques - v3.0.md`
 - Graphe contrôlé : `Graphe des prérequis — v3.0.md`
 - Identifiants distincts du catalogue : 287
-- Définitions distinctes du graphe : 279
+- Définitions distinctes du graphe : 287
 
 ## 1. Unicité des identifiants du catalogue
 
@@ -26,14 +26,7 @@ Aucune définition répétée détectée dans le graphe.
 
 ### Identifiants du catalogue absents du graphe
 
-- `PLURI-01`
-- `PLURI-02`
-- `PLURI-03`
-- `PLURI-04`
-- `PLURI-05`
-- `PLURI-06`
-- `PLURI-07`
-- `PLURI-08`
+- Aucun élément détecté.
 
 ### Références extraites du graphe absentes du catalogue
 

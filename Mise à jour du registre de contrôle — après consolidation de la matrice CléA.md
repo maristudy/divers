@@ -4,7 +4,7 @@
 | Contrôle | État à enregistrer | Preuve attendue |
 |---|---|---|
 | Couverture des 20 critères du domaine 2 de CléA | Correspondances proposées ; contenu des fiches à vérifier | Matrice critère par critère et renvoi vers les objectifs actuels. |
-| Couverture du critère CléA 2-3-7 | Identifiants intégrés ; couverture pédagogique à vérifier | Examiner séparément les tâches relatives aux périmètres, aux aires et aux volumes, les formules disponibles, les unités et les calculs demandés. |
+| Couverture du critère CléA 2-3-7 | Identifiants intégrés ; couverture pédagogique à vérifier | Examiner séparément les périmètres, les aires et les volumes, les figures couvertes, les formules fournies ou attendues, les unités et les calculs demandés. |
 | Couverture du critère CléA 2-5-2 | Objectif COMM-08 identifié ; validation de la tâche à effectuer | Vérifier que la fiche demande explicitement de transmettre oralement un calcul ou une consigne sans modifier les données ni les opérations. |
 | Cohérence catalogue / matrice | À vérifier après consolidation des correspondances | Aucun identifiant inconnu dans la matrice ; chaque correspondance justifiée par l’objectif de la fiche. |
 | Unicité des identifiants du catalogue | Réussi pour les lignes analysées | `rapport_controle_integrite.md` ; catalogue v3.0 ; contrôle du 12/10/2026 à 21:08:02 (+02:00) ; aucun doublon détecté. |

@@ -265,13 +265,14 @@ Tant que les archives ne sont pas comparées ligne par ligne, la migration histo
 
 | Contrôle | État | Suite prévue |
 |---|---|---|
-| Unicité des identifiants du catalogue | Réussi — aucun doublon détecté par le contrôle automatisé | `rapport_controle_integrite.md` ; catalogue v3.0 ; contrôle du 12/10/2026 à 21:08:02 (+02:00). |
-| Validité des références du graphe | Partiellement vérifié — aucune référence inconnue ; 8 fiches PLURI absentes du graphe à examiner | `rapport_controle_integrite.md` ; catalogue v3.0 et graphe v3.0. |
-| Absence de cycles dans le graphe | Aucun cycle détecté par le contrôle automatisé ; revue manuelle à conserver | `rapport_controle_integrite.md` ; graphe v3.0 ; contrôle du 12/10/2026 à 21:08:02 (+02:00). |
-| Cohérence catalogue–graphe | Cohérence documentaire examinée, contrôle exhaustif non exécuté | À confirmer lors des contrôles techniques |
-| Matrice de traçabilité | Examen partiel | Poursuivre la vérification des correspondances |
-| Migration des anciennes versions | Non finalisée | Traiter séparément, sans présumer d’équivalences historiques |
-| Validation pédagogique en situation réelle | À réaliser | Tester les fiches avec les apprenants |
+| Unicité des identifiants du catalogue | Réussi pour les lignes analysées — aucun doublon détecté | Conserver `rapport_controle_integrite.md` comme preuve ; catalogue v3.0 ; contrôle du 12/10/2026 à 21:08:02 (+02:00). |
+| Unicité des définitions du graphe | Réussi pour les définitions reconnues par le script | Après explicitation des fiches PLURI, relancer le contrôle et vérifier le nombre de définitions distinctes. |
+| Validité des références du graphe | Aucune référence inconnue détectée ; contrôle du périmètre des définitions à finaliser | Expliciter les huit définitions PLURI, puis relancer le script et vérifier qu’aucun identifiant du catalogue ne manque au graphe. |
+| Absence de cycles dans le graphe | Aucun cycle détecté par le contrôle automatisé | Conserver le rapport daté du 12/10/2026 ; poursuivre la revue manuelle des alternatives et dépendances conditionnelles. |
+| Cohérence catalogue–graphe | Contrôle automatique initial satisfaisant sur les références extraites ; contrôle à relancer après correction PLURI | Vérifier les 287 identifiants du catalogue et leurs définitions ou statuts explicites dans le graphe. |
+| Matrice de traçabilité | Examen partiel ; correspondances à vérifier | Contrôler les objectifs et les tâches réelles, notamment les critères CléA 2-3-7 et 2-5-2. |
+| Migration des anciennes versions | Non finalisée | Comparer les anciennes matrices et archives ligne par ligne ; documenter les conservations, scissions, fusions et retraits. |
+| Validation pédagogique en situation réelle | À réaliser | Tester les fiches avec les apprenants et consigner les résultats. |
 
 Le gel de structure porte sur l’organisation du référentiel et la stabilisation de ses documents de référence. Il ne vaut ni validation technique des contrôles non exécutés, ni validation exhaustive de la traçabilité, ni validation pédagogique.
 ## F2. Critères de gel définitif
@@ -301,7 +302,9 @@ Les documents canoniques sont :
 
 La matrice maîtresse v1.0 et les autres documents historiques sont conservés pour la traçabilité, sans constituer des sources concurrentes.
 
-Ce gel de structure ne vaut pas validation technique : les contrôles automatiques d’unicité des identifiants, de validité des références et d’absence de cycles restent à exécuter. La vérification exhaustive de la matrice, la migration historique et la validation pédagogique demeurent des travaux distincts.
+Ce gel de structure ne vaut pas validation complète du référentiel. Le contrôle automatique du 12/10/2026 a détecté aucun doublon dans les lignes d’identifiants du catalogue, aucune référence inconnue parmi les références extraites et aucun cycle dans le graphe extrait. Le contrôle a toutefois signalé huit fiches PLURI du catalogue sans définition individuelle reconnue par le script ; cette anomalie de granularité doit être corrigée, puis le contrôle relancé.
+
+La validation exhaustive de la matrice, la migration historique et la validation pédagogique en situation réelle demeurent des travaux distincts. Aucun gel définitif de l’ensemble du référentiel ne doit être prononcé avant la clôture de ces contrôles.
 
 Toute modification ultérieure touchant aux identifiants, aux familles, aux objectifs ou aux dépendances devra être justifiée, tracée et répercutée dans les documents canoniques concernés.
 
@@ -384,15 +387,16 @@ Les textes officiels fixent les attendus de leurs périmètres respectifs. Les f
 | Élément | État documentaire |
 |---|---|
 | Périmètre pédagogique général | Défini ; la traçabilité exhaustive des référentiels reste à établir |
-| Catalogue maître v3.0 | Structure stabilisée ; contrôles techniques restant à exécuter |
 | Familles complémentaires PUI, FONC, STAT, GEO3 et ALGO | Intégrées au catalogue maître et au graphe |
-| Graphe des prérequis v3.0 | Structure stabilisée ; validité exhaustive des références et absence de cycles restant à vérifier |
 | Matrice de traçabilité v0.2 | Document actif de référence pour les correspondances ; examen partiel, vérification à poursuivre |
 | Matrice maîtresse v1.0 | Document distinct conservé pour comparaison historique jusqu’à vérification de son contenu ; ne pas utiliser comme source concurrente |
-| Contrôles techniques | Non exécutés pour l’unicité des identifiants, les références du graphe et les cycles |
 | Archive qualité | Conservée à titre historique ; ne pas modifier ni utiliser comme registre actif |
 | Migration des anciennes versions | Non finalisée ; aucune équivalence historique ne doit être présumée sans comparaison |
 | Validation pédagogique en situation réelle | À réaliser au fil des tests des fiches |
+| Catalogue maître v3.0 | Structure stabilisée ; aucun doublon détecté dans les lignes d’identifiants analysées le 12/10/2026 |
+| Graphe des prérequis v3.0 | Aucun cycle ni référence inconnue détectés dans l’extraction initiale ; explicitation individuelle des fiches PLURI et relance du contrôle requises |
+| Contrôles techniques | Rapport initial conservé dans `rapport_controle_integrite.md` ; unicité du catalogue vérifiée sur les lignes analysées ; contrôle d’intégrité à relancer après correction des définitions PLURI |
+
 
 ## 3. Documents historiques et archives
 

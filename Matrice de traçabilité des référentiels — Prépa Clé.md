@@ -248,9 +248,8 @@ Le répertoire d’hébergement porte une date de 2021 ; le document indique une
 
 **Statut général :** correspondances proposées ; vérification documentaire et pédagogique individuelle non achevée.
 
-- **CléA 2-3-7 — périmètres, aires et volumes :** les identifiants AIR-09 et VOL-09 sont présents dans le catalogue maître v3.0. La couverture reste à confirmer par vérification du contenu des fiches, des formules utilisées, des unités et des exercices. Statut : partiellement validé.
-- **CléA 2-5-2 — transmission orale :** l'objectif COMM-08 est présent dans le catalogue maître v3.0. La couverture reste à confirmer par vérification d'une tâche demandant la transmission orale fidèle d'un calcul ou d'une consigne, sans modification des données ni des opérations. Statut : partiellement validé.
-
+- **CléA 2-3-7 — périmètres, aires et volumes :** les identifiants PER-02, PER-03, PER-04, AIR-02, AIR-03, AIR-04, AIR-09, VOL-02, VOL-03, VOL-04 et VOL-09 sont présents dans le catalogue maître v3.0. La couverture reste **à vérifier** par examen des tâches, des formules utilisées ou fournies, des unités et des calculs demandés. La présence des identifiants ne prouve pas que chaque figure et chaque calcul sont effectivement traités.
+- **CléA 2-5-2 — transmission orale :** l’objectif COMM-08 est formulé pour couvrir la transmission orale fidèle d’un calcul sur des nombres entiers ou d’une consigne de calcul. La couverture reste **à vérifier** par examen de la fiche et confirmation d’une tâche explicite préservant les données et les opérations.
 
 | Groupe de critères | Critères | État de vérification | Contrôle restant |
 |---|---|---|---|

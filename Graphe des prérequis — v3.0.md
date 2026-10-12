@@ -318,7 +318,7 @@ Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, di
 - COMM-05 : COMM-02, UNIT-06 si une unité est attendue.
 - COMM-06 : COMM-02, COMM-04.
 - COMM-07 : COMM-03, PROB-03, PROB-07.
-- COMM-08 : COMM-04 ; COMM-06 utile selon la tâche, mais non obligatoire dans tous les cas. La transmission orale d’un calcul ou d’une consigne doit préserver les données et les opérations, sans imposer systématiquement la reformulation préalable du calcul d’une autre personne.
+- COMM-08 : COMM-04 ; COMM-06 utile selon la tâche, mais non obligatoire dans tous les cas. La tâche cible porte sur la transmission orale fidèle d’un calcul sur des nombres entiers ou d’une consigne de calcul, sans modification des données ni des opérations.
 
 ## 6. Réinvestissements professionnels et situations intégrées
 
@@ -378,4 +378,14 @@ Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, di
 - ACT-06 : CAL-13, DATA-06, PROB-07.
 
 ### PLURI — Supports transversaux
-- PLURI-01 à PLURI-08 : utilisables à tout moment, en parallèle des fiches mathématiques correspondantes ; aucun n’est un prérequis obligatoire.
+### PLURI — Supports transversaux
+
+- PLURI-01 : aucun prérequis obligatoire ; support lexical sur les nombres, signes et opérations, utilisable en parallèle des fiches correspondantes.
+- PLURI-02 : aucun prérequis obligatoire ; support lexical sur les mesures, unités et instruments, utilisable en parallèle des fiches correspondantes.
+- PLURI-03 : aucun prérequis obligatoire ; support lexical sur les fractions, proportions et pourcentages, utilisable en parallèle des fiches correspondantes.
+- PLURI-04 : aucun prérequis obligatoire ; support lexical sur la géométrie et les tracés, utilisable en parallèle des fiches correspondantes.
+- PLURI-05 : aucun prérequis obligatoire ; support sur les verbes de consigne et les structures d’énoncés mathématiques, utilisable en parallèle des fiches correspondantes.
+- PLURI-06 : aucun prérequis obligatoire ; support pour expliquer un calcul, une méthode ou un résultat, utilisable en parallèle des fiches correspondantes.
+- PLURI-07 : aucun prérequis obligatoire ; support visuel et mise en page allégée pour soutenir la lecture, utilisable avec toute fiche qui en bénéficie.
+- PLURI-08 : aucun prérequis obligatoire ; support lexical professionnel pour les contextes de mesure, de chantier et de facturation, utilisable en parallèle des fiches correspondantes.
+
