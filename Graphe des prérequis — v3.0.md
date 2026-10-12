@@ -98,7 +98,7 @@ Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, di
 - FRA-14 : FRA-01, FRA-05 ; ajouter FRA-11 ou FRA-12 selon les opérations nécessaires.
 
 ### PROP — Proportionnalité
-- PROP-01 : CAL-03, CAL-04 ; tableaux simples possibles à partir de données concrètes.
+- PROP-01 : entrée possible à partir de tableaux de valeurs concrets ; CAL-03 et CAL-04 utiles selon les procédures de calcul mobilisées, mais non obligatoires pour la reconnaissance initiale d’une situation de proportionnalité.
 - PROP-02 : PROP-01.
 - PROP-03 : CAL-04, PROP-01.
 - PROP-04 : CAL-03, PROP-02.
@@ -211,7 +211,7 @@ Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, di
 - VOL-06 : VOL-01, UNIT-03, UNIT-07 ; proposer une situation concrète de remplissage ou de contenant.
 - VOL-07 : VOL-02 ou VOL-03 ou VOL-04 ou VOL-06, UNIT-03.
 - VOL-08 : AIR-01, VOL-01.
-- VOL-09 : VOL-01 ; calcul numérique ; unités de volume.
+- VOL-09 : VOL-01 ; calcul numérique et unités de volume selon la tâche ; formule fournie ou connue selon l’objectif. La mémorisation de la formule n’est pas obligatoire lorsqu’elle est fournie dans l’exercice.
 
 ## 4. Espace, données et algèbre
 
