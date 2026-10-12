@@ -103,115 +103,59 @@ Une correspondance documentaire ne prouve ni que la fiche est finalisée ni que 
 
 ### 6.1 Domaine 1 — Nombres et calcul
 
-#### 6.1.1 Numération et comparaison
-
-| Compétence de travail à confronter à la source | Référence source | ID cible proposé | Nature proposée | État | Contrôle / décision |
-|---|---|---|---|---|---|
-| Lire et écrire les nombres entiers | REG — critère exact à relever | NUM-01, NUM-02, NUM-03 ; NUM-12 pour l’écriture en lettres | E proposée, à répartir fiche par fiche | À vérifier | Distinguer lecture, écriture en chiffres, compréhension de la valeur de position et écriture en lettres. NUM-12 ne doit être retenu que pour l’écriture en toutes lettres. |
-| Maîtriser les règles d’écriture en lettres des nombres | REG — critère exact à relever | NUM-12 | E proposée | À vérifier | Vérifier que les conventions orthographiques attendues sont effectivement travaillées. |
-| Lire, écrire, comparer et ranger les nombres décimaux | REG — critère exact à relever | DEC-01, DEC-04, DEC-05 ; DEC-06 seulement si l’encadrement ou le placement sur une droite graduée est attendu | E proposée, à répartir fiche par fiche | À vérifier | DEC-01 porte sur la lecture et l’écriture, DEC-04 sur la comparaison et DEC-05 sur le rangement. Ne retenir DEC-06 que si le critère comprend l’encadrement ou le placement sur une droite graduée. |
-| Utiliser les nombres relatifs pour repérer, comparer ou ranger des valeurs | REG — critère exact à relever | REL-01, REL-02, REL-03 ; REL-07 à REL-09 seulement si des opérations sont exigées | E proposée, à répartir fiche par fiche | À vérifier | Distinguer repérage des signes, placement, comparaison et calcul. Ne pas déduire une exigence de calcul à partir d’un simple objectif de classement. |
-| Dénombrer et organiser un comptage | REG — critère exact à relever | NUM-10 | E proposée | À vérifier | Vérifier que les tâches portent sur le dénombrement et l’organisation d’un comptage sans oubli ni doublon. N’ajouter ACT-01 que si une tâche de manipulation contribue explicitement à la compétence. |
-| Comparer et ranger des nombres entiers | REG — critère exact à relever | NUM-07, NUM-08 | E proposée | À vérifier | NUM-07 porte sur la comparaison de deux entiers ; NUM-08 sur le rangement d’une liste d’entiers. |
-| Encadrer un entier ou le placer sur une droite graduée | REG — critère exact à relever | NUM-09 | E proposée | À vérifier | Vérifier que l’encadrement et le placement correspondent au critère source. Ne pas confondre cet objectif avec la comparaison ou le rangement. |
-
-#### 6.1.2 Opérations et calcul
-
-| Compétence de travail à confronter à la source | Référence source | ID cible proposé | Nature proposée | État | Contrôle / décision |
-|---|---|---|---|---|---|
-| Effectuer des additions de nombres entiers | REG — critère exact à relever | CAL-01 | E proposée | À vérifier | Contrôler l’opération, les nombres et la technique attendue. |
-| Effectuer des soustractions de nombres entiers | REG — critère exact à relever | CAL-02 | E proposée | À vérifier | Contrôler l’opération, les nombres et la technique attendue. |
-| Effectuer des multiplications de nombres entiers | REG — critère exact à relever | CAL-03 | E proposée | À vérifier | Vérifier les techniques de multiplication et les types de nombres couverts. |
-| Effectuer des divisions de nombres entiers | REG — critère exact à relever | CAL-04 | E proposée | À vérifier | Vérifier la division, l’interprétation du quotient et du reste ainsi que les modalités attendues. |
-| Poser une addition de nombres décimaux | REG — critère exact à relever | CAL-05 | E proposée | À vérifier | CAL-05 regroupe addition et soustraction décimales posées. Vérifier la présence effective de l’addition dans les tâches. |
-| Poser une soustraction de nombres décimaux | REG — critère exact à relever | CAL-05 | E proposée | À vérifier | Vérifier la présence effective de la soustraction dans les tâches. |
-| Effectuer des multiplications de nombres décimaux | REG — critère exact à relever | CAL-06 | E proposée | À vérifier | Vérifier que la multiplication décimale est explicitement travaillée. |
-| Effectuer des divisions de nombres décimaux | REG — critère exact à relever | CAL-07 | E proposée | À vérifier | Vérifier les cas de division effectivement couverts et préciser les limites éventuelles. |
-| Choisir une technique de calcul adaptée | REG — critère exact à relever | CAL-08, CAL-09, CAL-10, CAL-11 selon l’action attendue | E ou P selon le rôle réel | À vérifier | CAL-08 porte sur le choix entre calcul mental, calcul posé et calculatrice. Les autres fiches travaillent des techniques particulières : ne les assimiler au choix de méthode que si la tâche le demande. |
-| Effectuer des calculs mentaux | REG — critère exact à relever | CAL-09, CAL-11 ; CAL-10 si la multiplication ou division par 10, 100 ou 1 000 est visée | E proposée, à répartir fiche par fiche | À vérifier | Vérifier les opérations et stratégies mentales réellement travaillées. |
-| Multiplier ou diviser par 10, 100 ou 1 000 | REG — critère exact à relever | CAL-10 | E proposée | À vérifier | Vérifier séparément multiplication et division et les types de nombres concernés. |
-| Estimer un résultat ou utiliser un ordre de grandeur | REG — critère exact à relever | CAL-12 ; DEC-10 si l’estimation porte spécifiquement sur un résultat décimal avant calcul | E proposée, à répartir fiche par fiche | À vérifier | Distinguer estimation préalable, arrondi et contrôle de plausibilité d’un résultat exact. |
-| Arrondir un nombre | REG — critère exact à relever | DEC-09 ; NUM-11 uniquement si les tâches de grands nombres couvrent explicitement l’arrondi | E proposée | À vérifier | DEC-09 vise l’arrondi d’un nombre décimal à un rang demandé. Ne pas retenir NUM-11 comme preuve d’arrondi sans tâche explicite. |
-| Contrôler un calcul | REG — critère exact à relever | CAL-12, CAL-13 selon le contrôle attendu | E proposée, à répartir fiche par fiche | À vérifier | Distinguer estimation de plausibilité et vérification par opération inverse ou autre méthode. |
-
-#### 6.1.3 Fractions, divisibilité et proportionnalité
-
-| Compétence de travail à confronter à la source | Référence source | ID cible proposé | Nature proposée | État | Contrôle / décision |
-|---|---|---|---|---|---|
-| Comprendre les fractions | REG — critère exact à relever | FRA-01 à FRA-06, à répartir fiche par fiche | E proposée | À vérifier | Distinguer sens de la fraction, numérateur et dénominateur, représentation, placement, partage équitable et équivalence. |
-| Comparer des fractions | REG — critère exact à relever | FRA-09, FRA-10 ; FRA-06 si l’équivalence est nécessaire à la méthode | E proposée, à répartir fiche par fiche | À vérifier | Vérifier les cas couverts : même dénominateur, même numérateur ou dénominateur commun. |
-| Simplifier une fraction | REG — critère exact à relever | FRA-07 ; DIV-05 uniquement si les facteurs communs sont mobilisés dans la simplification | E proposée pour FRA-07 ; P ou A pour DIV-05 selon la tâche | À vérifier | Ne pas assimiler la simplification à la seule reconnaissance des facteurs communs. |
-| Effectuer des opérations sur les fractions | REG — critère exact à relever | FRA-08, FRA-11, FRA-12, FRA-13 uniquement pour les opérations explicitement attendues | E proposée, à répartir fiche par fiche | À vérifier | FRA-08 porte sur la réduction au même dénominateur ; FRA-11 et FRA-12 sur l’addition et la soustraction ; FRA-13 sur le passage à une écriture décimale usuelle. Le catalogue ne permet pas d’affirmer une couverture générale de la multiplication et de la division de fractions. Si la source les exige, consigner la lacune et décider d’une extension. |
-| Reconnaître une situation de proportionnalité | REG — critère exact à relever | PROP-01 ; PROP-07 en complément pour distinguer les situations proportionnelles et non proportionnelles | E proposée, à répartir fiche par fiche | À vérifier | Vérifier que la reconnaissance est explicitement travaillée, y compris si nécessaire par des contre-exemples. |
-| Résoudre une situation de proportionnalité | REG — critère exact à relever | PROP-02 à PROP-06, à répartir selon la méthode | E proposée | À vérifier | Distinguer tableau, valeur unitaire, coefficient, retour à l’unité et passage multiplicatif ou règle de trois. |
-| Utiliser une ressource complémentaire de proportionnalité désignée « CRAN » | Référence bibliographique exacte à relever | PROP-01 à PROP-07 uniquement selon les objectifs effectivement travaillés | C proposée | À vérifier | Relever le titre, l’auteur ou organisme, la version, la date, le lien et le statut de la ressource. Une ressource complémentaire ne constitue pas à elle seule une exigence du référentiel régional. |
+| Compétence de travail à confronter à la source | Référence source régionale | Identifiants du catalogue à examiner | Statut |
+|---|---|---|---|
+| Lire et écrire les nombres entiers | `referentiel_prepa_cle.txt` — Domaine 1 — « Nombres entiers : lire et écrire » | NUM-01 à NUM-06 | À vérifier |
+| Maîtriser les règles d’écriture en lettres des nombres | `referentiel_prepa_cle.txt` — Domaine 1 — « Ecriture des entiers : règles d’orthographe » | NUM-01 à NUM-06 | À vérifier |
+| Lire, écrire, comparer et ranger les nombres décimaux | `referentiel_prepa_cle.txt` — Domaine 1 — « Nombres décimaux : lire et écrire, ordonner et comparer » | NUM-07 à NUM-12 ; DEC-01 à DEC-11 | À vérifier |
+| Utiliser les nombres relatifs pour repérer, comparer ou ranger des valeurs | `referentiel_prepa_cle.txt` — Domaine 1 — « Nombres relatifs : les découvrir pour ordonner et classer » | NUM-10 à NUM-12 | À vérifier |
+| Dénombrer et organiser un comptage | `referentiel_prepa_cle.txt` — Domaine 1 — « Dénombrer au travers de tests logiques » | NUM-01 à NUM-06 | À vérifier |
+| Effectuer des additions, soustractions, multiplications ou divisions | `referentiel_prepa_cle.txt` — Domaine 1 — « Les 4 opérations : addition, soustraction, multiplication, division » | CAL-01 à CAL-14 | À vérifier |
+| Utiliser les ordres de grandeur pour contrôler la cohérence d’un résultat | `referentiel_prepa_cle.txt` — Domaine 1 — « Utiliser les ordres de grandeurs pour s’assurer de la cohérence des résultats » | CAL-08 à CAL-14 ; NUM-07 à NUM-12 | À vérifier |
+| Effectuer des calculs mentaux | `referentiel_prepa_cle.txt` — Domaine 1 — « Calculer mental » | CAL-01 à CAL-14 ; NUM-01 à NUM-12 | À vérifier |
+| Multiplier ou diviser par 10, 100 ou 1 000 | `referentiel_prepa_cle.txt` — Domaine 1 — « Multiplier, diviser par 10, 100, 1000 » | NUM-07 à NUM-12 ; CAL-01 à CAL-14 | À vérifier |
+| Arrondir un nombre | `referentiel_prepa_cle.txt` — Domaine 1 — « Arrondir un nombre » | NUM-07 à NUM-12 | À vérifier |
+| Comprendre les fractions | `referentiel_prepa_cle.txt` — Domaine 1 — « Notions de fraction » | FRA-01 à FRA-14 | À vérifier |
+| Résoudre une situation de proportionnalité | `referentiel_prepa_cle.txt` — Domaine 1 — « Situations de proportionnalité » | PROP-01 à PROP-09 ; PCT-01 à PCT-14 | À vérifier |
 
 ### 6.2 Domaine 2 — Résolution de problèmes
 
-| Compétence de travail à confronter à la source | Référence source | ID cible proposé | Nature proposée | État | Contrôle / décision |
-|---|---|---|---|---|---|
-| Comprendre un énoncé et identifier les données utiles | REG — critère exact à relever | PROB-01, PROB-02 | E proposée | À vérifier | Vérifier que les tâches exigent d’identifier la question, les données et le vocabulaire pertinent. |
-| Choisir une opération ou une stratégie de résolution | REG — critère exact à relever | PROB-03 ; PROB-06 si une représentation est demandée | E proposée | À vérifier | Vérifier que le choix de stratégie est réellement demandé et ne repose pas uniquement sur des mots-clés. |
-| Résoudre un problème à une opération | REG — critère exact à relever | PROB-04 | E proposée | À vérifier | Vérifier le type de problème et les opérations réellement mobilisées. |
-| Résoudre un problème à plusieurs opérations | REG — critère exact à relever | PROB-05 | E proposée | À vérifier | Vérifier l’enchaînement des opérations, l’organisation des étapes et la formulation de la réponse. |
-| Représenter un problème | REG — critère exact à relever | PROB-06 | E proposée | À vérifier | Vérifier que l’apprenant construit ou utilise effectivement un schéma, un tableau, une droite ou une autre représentation. |
-| Contrôler la plausibilité d’une réponse | REG — critère exact à relever | PROB-07 ; CAL-12 ou CAL-13 si le contrôle numérique est explicitement mobilisé | E proposée, à répartir fiche par fiche | À vérifier | Distinguer la validation du résultat dans le contexte de la vérification technique du calcul. |
-| Résoudre un problème de vie courante ou de budget | REG — critère exact à relever | SIT-01 pour les problèmes de budget à plusieurs opérations ; autres SIT uniquement si leur objectif correspond | A proposée | À vérifier | Vérifier que la situation mobilise réellement le raisonnement attendu. Une application en contexte ne remplace pas l’apprentissage de la méthode. |
-| Résoudre un problème faisant intervenir des fractions | REG — critère exact à relever | FRA-14 pour le partage, la quantité ou le reste ; PROB-04 ou PROB-05 uniquement si les objectifs de ces fiches correspondent au problème visé | E pour l’acquisition ciblée ; A pour le réinvestissement | À vérifier | Distinguer l’apprentissage des fractions, la résolution de problème et leur mobilisation en contexte. |
-| Simplifier une fraction dans une situation de résolution de problème | REG — critère exact à relever | FRA-07 ; DIV-05 en complément si les facteurs communs sont mobilisés | E pour la simplification ; P ou A pour le complément selon la tâche | À vérifier | Vérifier si la fiche enseigne la simplification ou l’utilise seulement dans une situation. |
-| Mobiliser les critères de divisibilité dans un problème | REG — critère exact à relever | DIV-02 ; DIV-01 si la notion de multiple et de diviseur est un prérequis | E pour DIV-02 ; P pour DIV-01 si nécessaire | À vérifier | Vérifier si les critères de divisibilité sont enseignés ou seulement réinvestis. |
-| Décomposer un nombre en facteurs premiers | REG — critère exact à relever | DIV-03 uniquement si les exercices couvrent la décomposition en facteurs premiers ; DIV-04 pour identifier les nombres premiers | C proposée ou E selon le critère source | À vérifier | DIV-03 porte sur la décomposition en facteurs simples et DIV-04 sur l’identification des nombres premiers. Ces objectifs ne prouvent pas automatiquement la maîtrise de la décomposition complète en facteurs premiers. |
+| Compétence de travail à confronter à la source | Référence source régionale | Identifiants du catalogue à examiner | Statut |
+|---|---|---|---|
+| Comprendre un énoncé et repérer les informations utiles | `referentiel_prepa_cle.txt` — Domaine 2 — « S’approprier un énoncé » | PROB-01 à PROB-09 | À vérifier |
+| Comprendre le vocabulaire mathématique d’un problème | `referentiel_prepa_cle.txt` — Domaine 2 — « Le vocabulaire mathématique » | COMM-01 à COMM-08 ; PROB-01 à PROB-09 | À vérifier |
+| Choisir l’opération adaptée à la situation | `referentiel_prepa_cle.txt` — Domaine 2 — « Choisir la bonne opération » | CAL-01 à CAL-14 ; PROB-01 à PROB-09 | À vérifier |
+| Résoudre des problèmes mobilisant les quatre opérations | `referentiel_prepa_cle.txt` — Domaine 2 — « Maîtriser les 4 opérations dans des situations problèmes » | CAL-01 à CAL-14 ; PROB-01 à PROB-09 | À vérifier |
+| Résoudre des problèmes issus de situations courantes | `referentiel_prepa_cle.txt` — Domaine 2 — « Les situations de la vie courante » | PROB-01 à PROB-09 ; GEST-01 à GEST-08 ; AGR-01 à AGR-24 | À vérifier |
 
-### 6.3 Domaine 3 — Mesures, données et géométrie
+### 6.3 Domaine 3 — Mesures, temps et quantité
 
-| Compétence de travail à confronter à la source | Référence source | ID cible proposé | Nature proposée | État | Contrôle / décision |
-|---|---|---|---|---|---|
-| Choisir une unité adaptée et utiliser des instruments de mesure | REG — critère exact à relever | MES-01 à MES-05, selon l’instrument et la grandeur | E proposée, à répartir fiche par fiche | À vérifier | Distinguer choix d’unité, utilisation d’un instrument, lecture de graduation et notation de la mesure. |
-| Convertir des unités de longueur | REG — critère exact à relever | UNIT-01 | E proposée | À vérifier | Vérifier les unités et les conversions effectivement travaillées. |
-| Convertir des unités de masse | REG — critère exact à relever | UNIT-02 | E proposée | À vérifier | Vérifier les unités et les conversions effectivement travaillées. |
-| Convertir des unités de capacité | REG — critère exact à relever | UNIT-03 | E proposée | À vérifier | Vérifier les unités de capacité couvertes. Ne pas assimiler automatiquement capacité et volume. |
-| Convertir des unités d’aire | REG — critère exact à relever | UNIT-04 ; AIR-06 si l’aire et ses unités sont mobilisées | E proposée, à répartir fiche par fiche | À vérifier | Distinguer la conversion d’unités du calcul d’aire. |
-| Convertir des unités de volume | REG — critère exact à relever | UNIT-07, VOL-05 selon la tâche | E proposée, à répartir fiche par fiche | À vérifier | Vérifier les unités cubiques et les conversions effectivement travaillées. UNIT-07 relie également les unités de volume et les unités de capacité correspondantes. |
-| Convertir des unités de durée | REG — critère exact à relever | UNIT-05 ; TEM-03 à TEM-07 selon la tâche | E proposée, à répartir fiche par fiche | À vérifier | Distinguer conversion d’unités de temps et calcul d’une heure ou d’une durée. |
-| Lire et exploiter des données dans un tableau | REG — critère exact à relever | DATA-01, DATA-02 ; DATA-07 si la construction du tableau est demandée | E proposée, à répartir fiche par fiche | À vérifier | Distinguer lecture d’une ligne ou colonne, extraction d’une information et construction d’un tableau. |
-| Lire et interpréter un diagramme ou un graphique | REG — critère exact à relever | DATA-03, DATA-04, DATA-05 selon la représentation | E proposée, à répartir fiche par fiche | À vérifier | Contrôler séparément diagramme en barres, axes, comparaison de données et description d’une évolution. |
-| Repérer une incohérence ou une erreur dans des données | REG — critère exact à relever | DATA-06 ; CAL-13 si une vérification de calcul est demandée | E proposée, à répartir fiche par fiche | À vérifier | Distinguer erreur de représentation, unité, donnée, interprétation et calcul. |
-| Reconnaître des figures géométriques | REG — critère exact à relever | GEO-04 à GEO-07, selon les figures | E proposée, à répartir fiche par fiche | À vérifier | Préciser les figures et propriétés visées : triangles, quadrilatères, cercle et disque. |
-| Construire un triangle | REG — critère exact à relever | TRA-06 ; GEO-08 en prérequis si des propriétés sont nécessaires | E pour TRA-06 ; P pour GEO-08 selon la tâche | À vérifier | Vérifier les données nécessaires, les instruments et la précision attendue. |
-| Mesurer ou tracer une longueur | REG — critère exact à relever | MES-02, MES-05, TRA-01 ou TRA-05 selon l’action | E proposée, à répartir fiche par fiche | À vérifier | Distinguer mesurer une longueur, tracer un segment et reporter une longueur. |
-| Calculer un périmètre | REG — critère exact à relever | PER-01 à PER-04 selon la figure ; PER-05 pour les problèmes contextualisés | E pour les calculs ; A pour les applications | À vérifier | PER-02 couvre carré et rectangle ; PER-03 les polygones à partir de leurs côtés ; PER-04 la circonférence du cercle. Vérifier séparément les figures et les formules. |
-| Calculer une aire | REG — critère exact à relever | AIR-01 à AIR-06 et AIR-09 selon la tâche | E pour le calcul ; A pour les problèmes contextualisés | À vérifier | Distinguer le concept d’aire, les formules du rectangle, du carré, du triangle, l’aire d’une figure composée, les unités et l’aire du disque. |
-| Calculer un volume | REG — critère exact à relever | VOL-01 à VOL-05 et VOL-09 selon la tâche | E pour le calcul ; A pour les applications contextualisées | À vérifier | Vérifier séparément pavé droit, cube, cylindre et sphère. VOL-09 précise que la formule de la sphère peut être fournie ou connue. |
-| Mobiliser des mesures ou des données dans une situation concrète | REG — critère exact à relever | Fiches MES, UNIT, DATA, PER, AIR ou VOL correspondant à la situation | A si une compétence acquise est réinvestie | À vérifier | Identifier chaque fiche et la tâche d’application. Ne pas attribuer automatiquement une nature A à une fiche d’apprentissage fondamental. |
+| Compétence de travail à confronter à la source | Référence source régionale | Identifiants du catalogue à examiner | Statut |
+|---|---|---|---|
+| Convertir des unités de mesure | `referentiel_prepa_cle.txt` — Domaine 3 — « Convertir différentes unités » | UNIT-01 à UNIT-07 ; MES-01 à MES-07 ; TEM-01 à TEM-11 | À vérifier |
+| Utiliser les unités de longueur, de masse, d’aire, de volume et de durée | `referentiel_prepa_cle.txt` — Domaine 3 — « Unités de mesure (longueurs, masses, aires, volumes, durée) » | MES-01 à MES-07 ; UNIT-01 à UNIT-07 ; TEM-01 à TEM-11 ; PER-01 à PER-06 ; AIR-01 à AIR-09 ; VOL-01 à VOL-09 | À vérifier |
+| Lire et interpréter des tableaux et graphiques simples | `referentiel_prepa_cle.txt` — Domaine 3 — « Lire et interpréter des tableaux et graphiques simples » | DATA-01 à DATA-09 ; PROP-01 à PROP-09 | À vérifier |
+| Lire un planning et détecter une erreur | `referentiel_prepa_cle.txt` — Domaine 3 — « Mise en situation sur un planning et détection d'erreur » | TEM-01 à TEM-11 ; DATA-01 à DATA-09 ; PROB-01 à PROB-09 | À vérifier |
+| Effectuer des calculs en géométrie | `referentiel_prepa_cle.txt` — Domaine 3 — « Calculer en géométrie » | GEO-01 à GEO-08 ; GEO3-01 à GEO3-05 ; TRA-01 à TRA-11 ; PER-01 à PER-06 ; AIR-01 à AIR-09 ; VOL-01 à VOL-09 | À vérifier |
 
 ### 6.4 Domaine 4 — Repérage dans l’espace
 
-| Compétence de travail à confronter à la source | Référence source | ID cible proposé | Nature proposée | État | Contrôle / décision |
-|---|---|---|---|---|---|
-| Utiliser des repères d’orientation et les points cardinaux | REG — critère exact à relever | ESP-01 | E proposée | À vérifier | Vérifier les repères et le vocabulaire d’orientation effectivement travaillés. Si l’usage d’une boussole est exigé, confirmer que les tâches le couvrent. |
-| Lire un plan simple et retrouver un lieu | REG — critère exact à relever | ESP-02 | E proposée | À vérifier | Vérifier que l’apprenant localise effectivement un lieu à partir du plan. |
-| Lire une grille et localiser une position par coordonnées | REG — critère exact à relever | ESP-03 ; ESP-11 uniquement pour un plan d’implantation professionnel | E proposée | À vérifier | Distinguer une grille de coordonnées générale d’un plan d’implantation professionnel. |
-| Suivre un itinéraire à partir d’instructions | REG — critère exact à relever | ESP-04 | E proposée | À vérifier | Vérifier que la tâche demande de suivre des instructions et non seulement de décrire un trajet. |
-| Décrire un itinéraire | REG — critère exact à relever | ESP-05 | E proposée | À vérifier | Vérifier la formulation compréhensible de l’itinéraire et l’ordre des étapes. |
-| Lire un plan de transport ou un schéma de réseau | REG — critère exact à relever | ESP-06 | E proposée | À vérifier | Vérifier la lecture des lignes, nœuds, correspondances ou informations propres au réseau. |
-| Lire une carte et extraire des informations | REG — critère exact à relever | ESP-08, ESP-09, ESP-13 selon la tâche | E proposée, à répartir fiche par fiche | À vérifier | Distinguer repérage d’éléments géographiques, lecture de légende et localisation d’une région ou d’un département. |
-| Comprendre et utiliser une échelle | REG — critère exact à relever | ESP-07 | E proposée | À vérifier | Vérifier que les tâches relient explicitement une distance sur le plan à une distance réelle. |
-| Convertir des longueurs dans une situation de plan ou d’itinéraire | REG — critère exact à relever | UNIT-01 ; ESP-07 si une échelle est utilisée | P pour la conversion préalable ; E ou A pour l’usage de l’échelle selon la tâche | À vérifier | Identifier la fiche qui enseigne la conversion et celle qui mobilise cette conversion dans un plan. |
-| Convertir des aires dans une situation spatiale | REG — critère exact à relever | UNIT-04 ; AIR-06 si l’aire ou ses unités sont mobilisées | P ou E selon l’objectif | À vérifier | Distinguer conversion d’unités, calcul d’aire et réinvestissement dans un plan. |
-| Préparer ou décrire un déplacement en tenant compte de contraintes | REG — critère exact à relever | ESP-12 ; ESP-14 si les informations géographiques sont mobilisées | A proposée | À vérifier | Vérifier les contraintes, distances et informations effectivement prises en compte. |
+| Compétence de travail à confronter à la source | Référence source régionale | Identifiants du catalogue à examiner | Statut |
+|---|---|---|---|
+| S’orienter et se repérer dans l’espace | `referentiel_prepa_cle.txt` — Domaine 4 — « S’orienter pour se repérer » | ESP-01 à ESP-14 ; GEO-01 à GEO-08 | À vérifier |
+| Comprendre et utiliser une échelle | `referentiel_prepa_cle.txt` — Domaine 4 — « Notion d’échelle » | ESP-01 à ESP-14 ; PROP-01 à PROP-09 | À vérifier |
+| Lire un plan et en extraire des informations utiles | `referentiel_prepa_cle.txt` — Domaine 4 — « Lire un plan et en extraire des informations utiles » | ESP-01 à ESP-14 ; GEO-01 à GEO-08 | À vérifier |
+| Lire une carte et en extraire des informations utiles | `referentiel_prepa_cle.txt` — Domaine 4 — « Lire une carte et en tirer des informations utiles » | ESP-01 à ESP-14 ; GEO-01 à GEO-08 | À vérifier |
+| Lire un schéma et en extraire des informations utiles | `referentiel_prepa_cle.txt` — Domaine 4 — « Lire un schéma et en extraire des informations utiles » | ESP-01 à ESP-14 ; GEO-01 à GEO-08 ; TRA-01 à TRA-11 | À vérifier |
 
-### 6.5 Domaine 5 — Restitution orale d’un raisonnement mathématique
+### 6.5 Domaine 5 — Communication orale
 
-| Compétence de travail à confronter à la source | Référence source | ID cible proposé | Nature proposée | État | Contrôle / décision |
-|---|---|---|---|---|---|
-| Comprendre et reformuler un énoncé | REG — critère exact à relever | COMM-01 ; PROB-01 pour l’identification des données et de la question | E proposée, à répartir fiche par fiche | À vérifier | Distinguer la reformulation de l’énoncé de l’analyse mathématique du problème. |
-| Expliquer oralement les étapes d’un calcul | REG — critère exact à relever | COMM-02 | E proposée | À vérifier | Vérifier que la tâche demande une explication orale des étapes et non une simple réponse numérique. |
-| Présenter un raisonnement dans un ordre compréhensible | REG — critère exact à relever | COMM-03 | E proposée | À vérifier | Vérifier l’organisation explicite des étapes du raisonnement. |
-| Justifier une méthode ou un choix de procédure | REG — critère exact à relever | COMM-07 | E proposée | À vérifier | Vérifier que la justification du choix de méthode est explicitement demandée. Une présentation claire ne prouve pas à elle seule cette compétence. |
-| Reformuler le calcul ou la procédure d’une autre personne | REG — critère exact à relever | COMM-06 ; ACT-05 en complément si l’activité correspond | E pour COMM-06 ; P ou A pour ACT-05 selon son rôle | À vérifier | Vérifier la fidélité de la reformulation et les types de calculs couverts. |
-| Transmettre oralement un calcul ou une consigne de calcul | REG — critère exact à relever | COMM-08 | E proposée | À vérifier | Vérifier la transmission fidèle des données et des opérations. Ne pas assimiler automatiquement transmission, présentation et explication d’un raisonnement. |
-| Employer un vocabulaire mathématique de base | REG — critère exact à relever | COMM-04 | E proposée | À vérifier | Vérifier que la tâche exige l’emploi ou la compréhension du vocabulaire mathématique visé. |
-| Mobiliser des supports langagiers pour faciliter la communication mathématique | REG — critère exact à relever | PLURI-01, PLURI-02, PLURI-03, PLURI-05, PLURI-06, selon les objectifs concernés | P ou C, à déterminer fiche par fiche | À vérifier | Préciser le rôle de chaque support. Ne pas compter une aide linguistique comme preuve directe de compétence mathématique si elle ne travaille pas elle-même l’action attendue. |
+| Compétence de travail à confronter à la source | Référence source régionale | Identifiants du catalogue à examiner | Statut |
+|---|---|---|---|
+| Structurer les différentes étapes de la résolution d’un problème | `referentiel_prepa_cle.txt` — Domaine 5 — « Structurer les différentes étapes de la résolution du problème » | PROB-01 à PROB-09 ; COMM-01 à COMM-08 | À vérifier |
+| Utiliser à bon escient le langage mathématique | `referentiel_prepa_cle.txt` — Domaine 5 — « Utiliser à bon escient le langage mathématique » | COMM-01 à COMM-08 ; PLURI-01 à PLURI-08 | À vérifier |
+| Communiquer des résultats à l’oral et/ou à l’écrit | `referentiel_prepa_cle.txt` — Domaine 5 — « Communiquer des résultats à l’oral et/ou à l’écrit » | COMM-01 à COMM-08 ; PLURI-01 à PLURI-08 | À vérifier |
+
 
 ## 7. Réserves et décisions avant clôture
 

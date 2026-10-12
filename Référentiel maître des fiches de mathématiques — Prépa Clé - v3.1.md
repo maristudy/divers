@@ -263,9 +263,9 @@ Tant que les archives ne sont pas comparées ligne par ligne, la migration histo
 
 | Contrôle | État | Suite prévue |
 |---|---|---|
-| Unicité des identifiants du catalogue | Contrôle automatique non exécuté | À exécuter lors de la phase de validation technique |
-| Validité des références du graphe | Contrôle automatique non exécuté | À exécuter lors de la phase de validation technique |
-| Détection des cycles du graphe | Contrôle non exécuté | À exécuter lors de la phase de validation technique |
+| Unicité des identifiants du catalogue | Réussi — aucun doublon détecté | Rapport de contrôle daté ; version du catalogue contrôlée. |
+| Validité des références du graphe | Réussi — aucune référence inconnue détectée | Rapport de contrôle daté ; version du catalogue et du graphe contrôlée. |
+| Détection des cycles du graphe | Réussi — aucun cycle détecté | Rapport de contrôle daté ; version du graphe contrôlée. |
 | Cohérence catalogue–graphe | Cohérence documentaire examinée, contrôle exhaustif non exécuté | À confirmer lors des contrôles techniques |
 | Matrice de traçabilité | Examen partiel | Poursuivre la vérification des correspondances |
 | Migration des anciennes versions | Non finalisée | Traiter séparément, sans présumer d’équivalences historiques |
