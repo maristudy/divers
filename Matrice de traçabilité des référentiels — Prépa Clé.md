@@ -225,12 +225,15 @@ Une correspondance documentaire ne prouve ni que la fiche est finalisée ni que 
 8. Une application professionnelle ne constitue pas automatiquement une exigence réglementaire. Le référentiel concerné doit l’établir explicitement.
 9. Les identifiants non retenus doivent être écartés avec une justification ; ils ne doivent pas être ajoutés uniquement parce qu’ils appartiennent à la même famille.
 10. La validation finale doit conserver une trace des sources, des objectifs comparés, de la décision prise et de la date du contrôle.
+- **Traçabilité régionale :** les correspondances proposées restent à vérifier sur les références officielles et sur les objectifs et tâches des fiches. Une correspondance d'identifiant seule ne vaut pas validation.
+
 
 ## 8. Référentiel CléA — domaine 2 : calcul et raisonnement mathématique
 
 **Source primaire retenue pour cette matrice :** [Référentiel CléA — version retravaillée et validée en septembre 2017, document hébergé sur le site Certificat CléA](https://www.certificat-clea.fr/media/2021/07/Referentiel-Clea_2021.pdf).
 
 Le répertoire d’hébergement porte une date de 2021 ; le document indique une version retravaillée et validée en septembre 2017. Cette date de version est conservée pour identifier la source utilisée. Si le projet adopte ultérieurement une autre version de référence, les correspondances devront être réexaminées.
+
 
 **Règle de lecture :** les correspondances proposées ci-dessous ne prouvent ni que les fiches sont finalisées ni que les tâches couvrent tous les attendus. Le contrôle documentaire et la validation pédagogique restent deux étapes distinctes.
 
@@ -287,6 +290,10 @@ Le répertoire d’hébergement porte une date de 2021 ; le document indique une
 ### 8.6 Bilan de traçabilité CléA
 
 **Statut général :** correspondances proposées ; vérification documentaire et pédagogique individuelle non achevée.
+
+- **CléA 2-3-7 — périmètres, aires et volumes :** les identifiants AIR-09 et VOL-09 sont présents dans le catalogue maître v3.0. La couverture reste à confirmer par vérification du contenu des fiches, des formules utilisées, des unités et des exercices. Statut : partiellement validé.
+- **CléA 2-5-2 — transmission orale :** l'objectif COMM-08 est présent dans le catalogue maître v3.0. La couverture reste à confirmer par vérification d'une tâche demandant la transmission orale fidèle d'un calcul ou d'une consigne, sans modification des données ni des opérations. Statut : partiellement validé.
+
 
 | Groupe de critères | Critères | État de vérification | Contrôle restant |
 |---|---|---|---|

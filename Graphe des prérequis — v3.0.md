@@ -2,7 +2,21 @@
 
 Statut : gel de structure ; référence des dépendances entre les fiches du catalogue maître. La vérification technique exhaustive des références et des cycles reste à consigner.
 
+
+
 Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, diffable dans Git et exploitable pour construire des parcours individualisés. Une fiche indiquée comme « entrée possible » peut être proposée sans prérequis formel, notamment pour un diagnostic.
+
+### Convention de lecture des prérequis
+
+- **Virgule** : les prérequis séparés par une virgule sont cumulatifs, sauf indication contraire explicite.
+- **OU** : les prérequis reliés par « OU » sont des alternatives ; il n'est pas nécessaire de maîtriser toutes les alternatives.
+- **Lien conditionnel** : une dépendance introduite par « selon la situation », « selon les opérations nécessaires » ou une formulation équivalente ne s'applique que lorsque la tâche concernée l'exige.
+- **Lien facultatif** : les mentions « utile », « en soutien », « peut être proposé » et équivalentes ne constituent pas des prérequis bloquants.
+- **Formule fournie** : lorsqu'une formule est fournie dans l'exercice, sa mémorisation ne peut pas être exigée comme prérequis.
+- **SIT et PLURI** : aucune fiche SIT ou PLURI ne constitue un prérequis universel. Les fiches SIT mobilisent des acquis ; les fiches PLURI peuvent accompagner toute fiche selon les besoins.
+- **Progression pédagogique** : un ordre conseillé d'apprentissage ne constitue pas automatiquement une dépendance obligatoire dans le graphe.
+- **Validation** : chaque dépendance obligatoire doit être justifiée par l'objectif et les tâches de la fiche cible.
+
 ## 1. Numération, décimaux et calcul
 
 ### NUM — Nombres entiers
