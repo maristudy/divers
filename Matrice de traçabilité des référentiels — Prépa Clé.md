@@ -97,21 +97,23 @@ La traçabilité documentaire et la validation pédagogique sont deux travaux di
 
 Une correspondance documentaire ne prouve ni que la fiche est finalisée ni que la compétence est acquise.
 
-## 6. Référentiel régional — correspondances proposées vers le catalogue actuel
+## 6. Traçabilité du référentiel régional
 
-**Statut général :** migration de travail. Les correspondances ci-dessous restent à vérifier contre le libellé exact du référentiel régional primaire et les objectifs du catalogue v3.0. Les formulations des compétences sont conservées comme formulations de travail tant que leur transcription depuis la source primaire n’a pas été confirmée.
+**Source de référence :** `referentiel_prepa_cle.txt`.
+
+**Règle de contrôle :** les intitulés ci-dessous servent à établir la correspondance avec la source régionale. La présence d’un identifiant dans la colonne « Fiches à examiner » ne vaut pas validation de couverture. La validation nécessite de comparer l’objectif et la tâche effective de chaque fiche à la compétence source. Les statuts restent `À vérifier` jusqu’à cette comparaison.
 
 ### 6.1 Domaine 1 — Nombres et calcul
 
-| Compétence de travail à confronter à la source | Référence source régionale | Identifiants du catalogue à examiner | Statut |
+| Compétence de travail à confronter à la source | Référence source régionale | Fiches à examiner | Statut |
 |---|---|---|---|
 | Lire et écrire les nombres entiers | `referentiel_prepa_cle.txt` — Domaine 1 — « Nombres entiers : lire et écrire » | NUM-01 à NUM-06 | À vérifier |
 | Maîtriser les règles d’écriture en lettres des nombres | `referentiel_prepa_cle.txt` — Domaine 1 — « Ecriture des entiers : règles d’orthographe » | NUM-01 à NUM-06 | À vérifier |
 | Lire, écrire, comparer et ranger les nombres décimaux | `referentiel_prepa_cle.txt` — Domaine 1 — « Nombres décimaux : lire et écrire, ordonner et comparer » | NUM-07 à NUM-12 ; DEC-01 à DEC-11 | À vérifier |
 | Utiliser les nombres relatifs pour repérer, comparer ou ranger des valeurs | `referentiel_prepa_cle.txt` — Domaine 1 — « Nombres relatifs : les découvrir pour ordonner et classer » | NUM-10 à NUM-12 | À vérifier |
 | Dénombrer et organiser un comptage | `referentiel_prepa_cle.txt` — Domaine 1 — « Dénombrer au travers de tests logiques » | NUM-01 à NUM-06 | À vérifier |
-| Effectuer des additions, soustractions, multiplications ou divisions | `referentiel_prepa_cle.txt` — Domaine 1 — « Les 4 opérations : addition, soustraction, multiplication, division » | CAL-01 à CAL-14 | À vérifier |
-| Utiliser les ordres de grandeur pour contrôler la cohérence d’un résultat | `referentiel_prepa_cle.txt` — Domaine 1 — « Utiliser les ordres de grandeurs pour s’assurer de la cohérence des résultats » | CAL-08 à CAL-14 ; NUM-07 à NUM-12 | À vérifier |
+| Effectuer les quatre opérations | `referentiel_prepa_cle.txt` — Domaine 1 — « Les 4 opérations : addition, soustraction, multiplication, division » | CAL-01 à CAL-14 | À vérifier |
+| Contrôler la cohérence d’un résultat par un ordre de grandeur | `referentiel_prepa_cle.txt` — Domaine 1 — « Utiliser les ordres de grandeurs pour s’assurer de la cohérence des résultats » | CAL-08 à CAL-14 ; NUM-07 à NUM-12 | À vérifier |
 | Effectuer des calculs mentaux | `referentiel_prepa_cle.txt` — Domaine 1 — « Calculer mental » | CAL-01 à CAL-14 ; NUM-01 à NUM-12 | À vérifier |
 | Multiplier ou diviser par 10, 100 ou 1 000 | `referentiel_prepa_cle.txt` — Domaine 1 — « Multiplier, diviser par 10, 100, 1000 » | NUM-07 à NUM-12 ; CAL-01 à CAL-14 | À vérifier |
 | Arrondir un nombre | `referentiel_prepa_cle.txt` — Domaine 1 — « Arrondir un nombre » | NUM-07 à NUM-12 | À vérifier |
@@ -120,7 +122,7 @@ Une correspondance documentaire ne prouve ni que la fiche est finalisée ni que 
 
 ### 6.2 Domaine 2 — Résolution de problèmes
 
-| Compétence de travail à confronter à la source | Référence source régionale | Identifiants du catalogue à examiner | Statut |
+| Compétence de travail à confronter à la source | Référence source régionale | Fiches à examiner | Statut |
 |---|---|---|---|
 | Comprendre un énoncé et repérer les informations utiles | `referentiel_prepa_cle.txt` — Domaine 2 — « S’approprier un énoncé » | PROB-01 à PROB-09 | À vérifier |
 | Comprendre le vocabulaire mathématique d’un problème | `referentiel_prepa_cle.txt` — Domaine 2 — « Le vocabulaire mathématique » | COMM-01 à COMM-08 ; PROB-01 à PROB-09 | À vérifier |
@@ -130,7 +132,7 @@ Une correspondance documentaire ne prouve ni que la fiche est finalisée ni que 
 
 ### 6.3 Domaine 3 — Mesures, temps et quantité
 
-| Compétence de travail à confronter à la source | Référence source régionale | Identifiants du catalogue à examiner | Statut |
+| Compétence de travail à confronter à la source | Référence source régionale | Fiches à examiner | Statut |
 |---|---|---|---|
 | Convertir des unités de mesure | `referentiel_prepa_cle.txt` — Domaine 3 — « Convertir différentes unités » | UNIT-01 à UNIT-07 ; MES-01 à MES-07 ; TEM-01 à TEM-11 | À vérifier |
 | Utiliser les unités de longueur, de masse, d’aire, de volume et de durée | `referentiel_prepa_cle.txt` — Domaine 3 — « Unités de mesure (longueurs, masses, aires, volumes, durée) » | MES-01 à MES-07 ; UNIT-01 à UNIT-07 ; TEM-01 à TEM-11 ; PER-01 à PER-06 ; AIR-01 à AIR-09 ; VOL-01 à VOL-09 | À vérifier |
@@ -140,7 +142,7 @@ Une correspondance documentaire ne prouve ni que la fiche est finalisée ni que 
 
 ### 6.4 Domaine 4 — Repérage dans l’espace
 
-| Compétence de travail à confronter à la source | Référence source régionale | Identifiants du catalogue à examiner | Statut |
+| Compétence de travail à confronter à la source | Référence source régionale | Fiches à examiner | Statut |
 |---|---|---|---|
 | S’orienter et se repérer dans l’espace | `referentiel_prepa_cle.txt` — Domaine 4 — « S’orienter pour se repérer » | ESP-01 à ESP-14 ; GEO-01 à GEO-08 | À vérifier |
 | Comprendre et utiliser une échelle | `referentiel_prepa_cle.txt` — Domaine 4 — « Notion d’échelle » | ESP-01 à ESP-14 ; PROP-01 à PROP-09 | À vérifier |
@@ -150,12 +152,23 @@ Une correspondance documentaire ne prouve ni que la fiche est finalisée ni que 
 
 ### 6.5 Domaine 5 — Communication orale
 
-| Compétence de travail à confronter à la source | Référence source régionale | Identifiants du catalogue à examiner | Statut |
+| Compétence de travail à confronter à la source | Référence source régionale | Fiches à examiner | Statut |
 |---|---|---|---|
-| Structurer les différentes étapes de la résolution d’un problème | `referentiel_prepa_cle.txt` — Domaine 5 — « Structurer les différentes étapes de la résolution du problème » | PROB-01 à PROB-09 ; COMM-01 à COMM-08 | À vérifier |
-| Utiliser à bon escient le langage mathématique | `referentiel_prepa_cle.txt` — Domaine 5 — « Utiliser à bon escient le langage mathématique » | COMM-01 à COMM-08 ; PLURI-01 à PLURI-08 | À vérifier |
+| Structurer les étapes de résolution d’un problème | `referentiel_prepa_cle.txt` — Domaine 5 — « Structurer les différentes étapes de la résolution du problème » | PROB-01 à PROB-09 ; COMM-01 à COMM-08 | À vérifier |
+| Utiliser correctement le langage mathématique | `referentiel_prepa_cle.txt` — Domaine 5 — « Utiliser à bon escient le langage mathématique » | COMM-01 à COMM-08 ; PLURI-01 à PLURI-08 | À vérifier |
 | Communiquer des résultats à l’oral et/ou à l’écrit | `referentiel_prepa_cle.txt` — Domaine 5 — « Communiquer des résultats à l’oral et/ou à l’écrit » | COMM-01 à COMM-08 ; PLURI-01 à PLURI-08 | À vérifier |
 
+### Conditions de validation des correspondances régionales
+
+Une correspondance ne peut être déclarée validée que si les conditions suivantes sont réunies :
+
+1. L’intitulé source a été relevé dans `referentiel_prepa_cle.txt`.
+2. L’objectif de la fiche a été comparé à la compétence source.
+3. La tâche proposée permet effectivement de travailler la compétence.
+4. L’identifiant de fiche est exact et existe dans le catalogue maître.
+5. Toute couverture partielle, indirecte ou conditionnelle est explicitement signalée.
+
+Les plages d’identifiants sont des listes de fiches à examiner. Elles ne signifient pas que chaque fiche de la plage couvre intégralement la compétence régionale.
 
 ## 7. Réserves et décisions avant clôture
 
