@@ -265,9 +265,9 @@ Tant que les archives ne sont pas comparées ligne par ligne, la migration histo
 
 | Contrôle | État | Suite prévue |
 |---|---|---|
-| Unicité des identifiants du catalogue | À exécuter — résultat non consigné | Rapport de contrôle : à renseigner après exécution ; version du catalogue contrôlée : à renseigner ; date : à renseigner. |
-| Validité des références du graphe | À exécuter — résultat non consigné | Rapport de contrôle : à renseigner après exécution ; versions du catalogue et du graphe contrôlées : à renseigner ; date : à renseigner. |
-| Absence de cycles dans le graphe | À exécuter — résultat non consigné | Rapport de contrôle : à renseigner après exécution ; version du graphe contrôlée : à renseigner ; date : à renseigner. |
+| Unicité des identifiants du catalogue | Réussi — aucun doublon détecté par le contrôle automatisé | `rapport_controle_integrite.md` ; catalogue v3.0 ; contrôle du 12/10/2026 à 21:08:02 (+02:00). |
+| Validité des références du graphe | Partiellement vérifié — aucune référence inconnue ; 8 fiches PLURI absentes du graphe à examiner | `rapport_controle_integrite.md` ; catalogue v3.0 et graphe v3.0. |
+| Absence de cycles dans le graphe | Aucun cycle détecté par le contrôle automatisé ; revue manuelle à conserver | `rapport_controle_integrite.md` ; graphe v3.0 ; contrôle du 12/10/2026 à 21:08:02 (+02:00). |
 | Cohérence catalogue–graphe | Cohérence documentaire examinée, contrôle exhaustif non exécuté | À confirmer lors des contrôles techniques |
 | Matrice de traçabilité | Examen partiel | Poursuivre la vérification des correspondances |
 | Migration des anciennes versions | Non finalisée | Traiter séparément, sans présumer d’équivalences historiques |
