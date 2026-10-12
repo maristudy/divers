@@ -910,21 +910,164 @@ Ces supports sont destinés à tous les apprenants qui en ont besoin. Ils ne con
 
 ---
 
-## 18. Contrôles indispensables avant validation de la matrice
+## 18. Matrice de traçabilité régionale Prépa Clé
 
-- [ ] Transcrire toutes les exigences du référentiel régional sans en perdre une.
-- [ ] Transcrire les critères CléA et les rattacher à leurs sous-domaines.
-- [ ] Inventorier les attendus officiels de l’école et du collège, en conservant leur source et leur niveau.
-- [ ] Vérifier les programmes de mathématiques de CAP et les groupements de spécialités.
-- [ ] Vérifier les programmes de seconde, première et terminale professionnelles et les groupements par spécialité.
-- [ ] Inventorier les référentiels agricoles retenus et justifier leur sélection.
-- [ ] Tracer les prérequis de chaque notion, en particulier fractions, proportionnalité, pourcentages, conversions et calculs de surface ou de volume.
-- [ ] Identifier les extensions professionnelles sans les présenter comme des exigences communes.
-- [ ] Maintenir les pourcentages comme un domaine transversal prioritaire.
-- [ ] Ajouter les supports de langue mathématique et les conventions de notation.
-- [ ] Vérifier les notions dont le niveau dépend fortement de la formation visée.
-- [ ] Documenter les notions non retenues ou non nécessaires, avec justification.
-- [ ] Ajouter les badges RECTEC+ au niveau pertinent une fois la matrice de compétences stabilisée.
-- [ ] Conserver l’historique des modifications et le statut de validation de chaque ligne.
+### 18.1 Règles de lecture et de validation
 
-**Condition de passage à la conception des fiches :** aucune exigence identifiée dans le périmètre retenu ne doit rester sans statut, source ou justification. Les prérequis doivent être assez détaillés pour qu’une personne ayant oublié les notions de base puisse être orientée vers les ressources nécessaires.
+La présente matrice rapproche les exigences du référentiel régional Prépa Clé et du référentiel CléA 2021 des objectifs du catalogue maître v3.0.
+
+Les identifiants entre crochets ci-dessous sont des repères de traçabilité propres à la matrice. Ils ne remplacent pas les identifiants officiels des référentiels sources.
+
+**Statuts de couverture**
+
+- **Repéré — correspondance candidate** : le catalogue comporte un objectif qui semble correspondre à l’exigence ; la couverture détaillée reste à examiner.
+- **Partiel** : une partie de l’exigence est couverte, mais un ou plusieurs éléments restent à confirmer ou à traiter.
+- **Vérifié** : la formulation source, l’objectif de fiche et le niveau de couverture ont été comparés et consignés.
+- **À vérifier** : la source exacte, le niveau attendu ou la correspondance reste incertain.
+- **Extension professionnelle** : application retenue pour un projet ou un métier, sans la présenter comme une exigence commune à tous les parcours.
+
+Une correspondance thématique ne suffit pas à établir le statut « vérifié ». Le statut ne peut être relevé qu’après comparaison de la formulation source avec l’objectif réel des fiches concernées.
+
+### 18.2 Référentiel régional Prépa Clé
+
+| Repère | Exigence source | Fiches candidates du catalogue v3.0 | Statut initial | Contrôle à effectuer |
+|---|---|---|---|---|
+| REG-D1-01 | Lire, écrire et dénombrer les nombres entiers ; écrire les nombres en lettres | NUM-01 à NUM-12 | Repéré | Vérifier la numération de position, les règles d’écriture et le dénombrement sans oubli |
+| REG-D1-02 | Lire, écrire, comparer et ordonner les nombres décimaux | DEC-01 à DEC-10 | Repéré | Vérifier lecture, comparaison, rangement, encadrement et arrondis |
+| REG-D1-03 | Découvrir, ordonner et classer les nombres relatifs | REL-01 à REL-06 | Repéré | Vérifier le sens des signes et la distinction entre signe du nombre et opération |
+| REG-D1-04 | Maîtriser les quatre opérations et les techniques opératoires | CAL-01 à CAL-08 | Repéré | Vérifier séparément les techniques, le choix de l’opération et l’interprétation du résultat |
+| REG-D1-05 | Calcul mental, multiplication et division par 10, 100 et 1 000, arrondis | CAL-09 à CAL-12 ; DEC-09 et DEC-10 | Repéré | Contrôler les automatismes attendus et les situations d’application |
+| REG-D1-06 | Fractions et premières situations de proportionnalité | FRA-01 à FRA-14 ; PROP-01 à PROP-09 | Repéré | Vérifier la compréhension des fractions, les calculs requis et le passage à l’unité |
+| REG-D2-01 | Comprendre un énoncé et son vocabulaire ; choisir l’opération adaptée | PROB-01 à PROB-03 ; COMM-01 ; COMM-04 | Repéré | Vérifier que les objectifs distinguent compréhension, sélection des données et choix opératoire |
+| REG-D2-02 | Résoudre des problèmes mobilisant plusieurs opérations et contrôler la cohérence | PROB-04 à PROB-09 ; CAL-12 et CAL-13 | Repéré | Vérifier les problèmes à plusieurs étapes, l’estimation et la validation du résultat |
+| REG-D2-03 | Calculer avec des nombres relatifs | REL-07 à REL-10 | Repéré | Vérifier les quatre opérations lorsque requises et les contextes d’application |
+| REG-D2-04 | Simplifier, comparer, additionner et soustraire des fractions dans des problèmes | DIV-01 à DIV-05 ; FRA-06 à FRA-14 | Repéré | Vérifier les critères de divisibilité, les facteurs communs et les différentes opérations sur les fractions |
+| REG-D3-01 | Convertir les unités de longueur, masse, aire, volume et durée | UNIT-01 à UNIT-07 ; MES-01 à MES-07 | Repéré | Vérifier que chaque grandeur est traitée séparément et que les unités sont explicites |
+| REG-D3-02 | Lire et interpréter des tableaux et graphiques ; utiliser un planning et détecter des erreurs | DATA-01 à DATA-09 ; TEM-09 et TEM-10 ; DATA-06 | Repéré | Distinguer lecture des données, calculs de durée, saisie d’horaires et identification d’erreurs |
+| REG-D3-03 | Reconnaître les figures planes, quadrilatères et triangles ; construire des triangles | GEO-01 à GEO-08 ; TRA-01 à TRA-11 | Repéré | Vérifier le vocabulaire, les propriétés et les compétences de construction |
+| REG-D3-04 | Calculer longueurs, périmètres, aires et volumes | PER-01 à PER-06 ; AIR-01 à AIR-09 ; VOL-01 à VOL-09 ; GEO3-01 à GEO3-05 | Partiel | Distinguer reconnaissance des solides, choix de formule, calcul, conversions et interprétation |
+| REG-D4-01 | S’orienter, utiliser les points cardinaux et repérer des régions et départements | ESP-01 ; ESP-08 ; ESP-13 ; ESP-14 | Repéré | Vérifier la présence des compétences géographiques et d’orientation demandées par la source |
+| REG-D4-02 | Mesurer et convertir des longueurs et des aires ; comprendre une échelle | MES-01 à MES-07 ; UNIT-01 ; UNIT-04 ; ESP-07 | Repéré | Vérifier les instruments, les conversions et le calcul de distances réelles ou représentées |
+| REG-D4-03 | Lire des plans, cartes et schémas ; localiser des lieux et suivre un itinéraire | ESP-02 à ESP-06 ; ESP-08 à ESP-14 | Repéré | Vérifier séparément coordonnées, légende, extraction d’information et parcours guidé |
+| REG-D5-01 | Restituer oralement un raisonnement mathématique et structurer les étapes | COMM-02 ; COMM-03 ; COMM-07 | Repéré | Vérifier l’explication de la procédure et l’ordre du raisonnement |
+| REG-D5-02 | S’approprier un énoncé et employer le langage mathématique | PROB-01 ; PROB-02 ; COMM-01 ; COMM-04 ; PLURI-01 à PLURI-06 | Repéré | Distinguer aide lexicale, reformulation et compétence mathématique elle-même |
+| REG-D5-03 | Communiquer des résultats à l’oral et à l’écrit | COMM-05 à COMM-08 | Repéré | Vérifier la rédaction d’une réponse, la justification et la transmission fidèle d’un calcul |
+
+**Réserve régionale — CRAN.** La source régionale mentionne « Notions de proportionnalités : ressources d’apprentissage (CRAN) », sans titre complet, organisme, date ou URL. La référence est conservée comme piste documentaire non identifiée. Elle ne constitue pas, à ce stade, une preuve de couverture ni une ressource vérifiée.
+
+**Réserve régionale — « volume entier ».** La formulation source est conservée telle quelle. Son sens pédagogique précis reste à confirmer auprès de la source régionale. Elle ne doit pas être interprétée arbitrairement comme une notion mathématique définie.
+
+### 18.3 Référentiel CléA 2021 — Domaine 2
+
+La source de référence est le [Référentiel CléA 2021](https://www.certificat-clea.fr/media/2021/07/Referentiel-Clea_2021.pdf). Les correspondances ci-dessous sont candidates et doivent être vérifiées au niveau des critères et indicateurs de réussite.
+
+| Repère | Critère CléA | Fiches candidates du catalogue v3.0 | Statut initial | Contrôle à effectuer |
+|---|---|---|---|---|
+| CLEA-2.1-A | Réaliser les quatre opérations à la main ou à la calculatrice selon le type de nombres | CAL-01 à CAL-08 | Repéré | Vérifier la distinction entre calcul manuel sur entiers et calculatrice pour les décimaux |
+| CLEA-2.1-B | Compter et dénombrer exactement | NUM-10 | Repéré | Vérifier les situations de comptage sans oubli ni doublon |
+| CLEA-2.1-C | Comparer, classer et ordonner des nombres | NUM-07 à NUM-08 ; DEC-04 à DEC-05 ; REL-03 | Repéré | Vérifier les familles de nombres effectivement requises |
+| CLEA-2.1-D | Évaluer un ordre de grandeur | CAL-12 ; DEC-10 ; NUM-03 ; MES-06 | Repéré | Vérifier les ordres de grandeur numériques et les exemples liés aux grandeurs |
+| CLEA-2.1-E | Utiliser les techniques élémentaires de calcul mental | CAL-09 à CAL-11 | Repéré | Vérifier explicitement additions et soustractions simples, multiplication ou division par 2 et 3 et calculs avec multiples de 10 |
+| CLEA-2.1-F | Contrôler la cohérence des résultats | CAL-12 ; CAL-13 ; PROB-07 ; DATA-06 | Repéré | Vérifier le contrôle du calcul, des données, des unités et du contexte |
+| CLEA-2.1-G | Réaliser un calcul proportionnel simple | PROP-01 à PROP-06 | Repéré | Vérifier la règle de trois sur des nombres simples et le coefficient de proportionnalité |
+| CLEA-2.2-A | Résoudre un problème avec une ou plusieurs opérations | PROB-01 à PROB-09 ; CAL-01 à CAL-08 | Repéré | Vérifier le choix des opérations et l’exactitude des calculs simples ou combinés |
+| CLEA-2.2-B | Comprendre et utiliser les pourcentages | PCT-01 à PCT-06 ; PCT-08 à PCT-10 | Repéré | Vérifier l’équivalence pourcentage, fraction sur 100 et écriture décimale, puis les calculs demandés |
+| CLEA-2.3-A | Utiliser les unités de temps | TEM-01 à TEM-08 ; UNIT-05 | Repéré | Vérifier lecture de l’heure, calcul de durée et conversion |
+| CLEA-2.3-B | Lire et comprendre un planning de travail | TEM-09 à TEM-11 | Repéré | Vérifier l’identification des horaires et les calculs de durée |
+| CLEA-2.3-C | Renseigner correctement les horaires | TEM-10 | Repéré | Vérifier la transcription sans erreur des horaires dans un planning ou formulaire |
+| CLEA-2.3-D | Utiliser les unités de mesure et les instruments | MES-01 à MES-07 ; UNIT-01 à UNIT-04 ; UNIT-06 à UNIT-07 | Repéré | Vérifier longueurs, masses, capacités, instruments et conversions effectivement demandées |
+| CLEA-2.3-E | Lire tableaux, diagrammes et graphiques | DATA-01 à DATA-09 | Repéré | Vérifier extraction et interprétation des données, et non seulement reconnaissance du support |
+| CLEA-2.3-F | Identifier les erreurs | CAL-13 ; DATA-06 ; ACT-06 | Repéré | Vérifier la distinction entre erreur d’unité, d’opération, de résultat et de représentation |
+| CLEA-2.3-G | Calculer des périmètres, surfaces et volumes à partir de formules | PER-01 à PER-06 ; AIR-01 à AIR-09 ; VOL-01 à VOL-09 ; GEO3-01 à GEO3-05 | Partiel | Vérifier les formes et solides explicitement cités par CléA, notamment le triangle, le cercle, le cylindre et la sphère |
+| CLEA-2.4-A | Lire un plan, une carte ou un schéma et en extraire des informations utiles | ESP-01 à ESP-14 | Repéré | Vérifier les situations et réponses attendues, pas uniquement le vocabulaire cartographique |
+| CLEA-2.5-A | Reformuler le calcul d’une autre personne sans le modifier | COMM-06 | Repéré | Vérifier la restitution fidèle des étapes et explications fournies |
+| CLEA-2.5-B | Transmettre des calculs ou les calculs à effectuer | COMM-08 | Repéré | Vérifier la transmission exacte des données, opérations et consignes |
+| CLEA-2.5-C | Employer un langage mathématique de base | COMM-04 ; PLURI-01 à PLURI-06 | Repéré | Vérifier le vocabulaire et distinguer compétence mathématique et aide lexicale |
+
+### 18.4 Programmes scolaires, CAP et référentiels professionnels
+
+Les sources officielles complémentaires sont inventoriées dans la section 17. Leur présence dans la liste des sources ne prouve pas que leurs attendus ont été transcrits et comparés à toutes les fiches.
+
+| Source | Périmètre à contrôler | Statut |
+|---|---|---|
+| Programme de mathématiques du cycle 2 — BO 2024 | Attendus pertinents pour les fondamentaux de numération, calcul, grandeurs et mesures | À inventorier précisément |
+| Programme de mathématiques du cycle 3 — BO 2025 | Attendus et progressivité pour les notions concernées | À inventorier précisément |
+| Programme de mathématiques du cycle 4 — BO 2026 | Attendus de collège et calendrier d’application | À inventorier précisément |
+| Programmes de mathématiques de CAP | Groupements de spécialités, exigences et modalités propres aux diplômes visés | À inventorier précisément |
+| Programmes de la voie professionnelle jusqu’au bac pro | Notions utiles au parcours, sans extension indue du socle Prépa Clé | À inventorier précisément |
+| Référentiels agricoles et de paysage | Diplômes et spécialités retenus, attendus professionnels et situations contextualisées | À inventorier précisément |
+| RECTEC+ | Correspondances avec les compétences transversales, une fois la matrice stabilisée | À traiter dans une passe distincte |
+
+Les liens officiels conservés en section 17 servent de point de départ. Pour chaque programme utilisé, la matrice finale devra indiquer le titre exact du texte, son niveau, sa date ou version, le diplôme ou groupement concerné et, lorsque cela est possible, le passage précis qui justifie la correspondance.
+
+### 18.5 Extensions professionnelles
+
+Les applications professionnelles ne doivent pas être présentées comme des exigences communes à tous les apprenants.
+
+| Domaine d’application | Fiches candidates | Statut |
+|---|---|---|
+| Facturation, prix, remises, taxes et comparaison d’offres | GEST-01 à GEST-06 ; GEST-08 ; PCT-07 ; PCT-11 | Extension professionnelle |
+| Amortissement et comptabilité appliquée | GEST-07 | Extension professionnelle ; conventions à préciser selon la formation |
+| Implantation, rangs, espacements et densité de plantation | AGR-01 à AGR-12 ; AGR-22 | Extension professionnelle |
+| Dosages, mélanges et dilutions | AGR-13 ; PROP-08 ; PCT-13 | Extension professionnelle |
+| Volumes de terre, de substrat ou de matériaux | AGR-14 ; VOL-01 à VOL-08 ; UNIT-03 ; UNIT-07 ; GEO3-01 à GEO3-05 | Extension professionnelle ; dépendances à contrôler |
+| Temps, débits et organisation d’un chantier | AGR-15 ; AGR-18 ; AGR-24 ; TEM-08 à TEM-11 | Extension professionnelle |
+| Rendements, relevés et données de production | AGR-17 ; AGR-23 ; DATA-01 à DATA-09 | Extension professionnelle |
+
+Pour AGR-14, les prérequis devront distinguer le calcul géométrique d’un volume, la conversion des unités cubiques et la relation entre volume et capacité. UNIT-05, qui concerne les durées, ne constitue pas à lui seul un prérequis pertinent pour calculer un volume.
+
+### 18.6 Registre des réserves à résoudre
+
+| Réserve | Décision provisoire | Condition de clôture |
+|---|---|---|
+| Ressource CRAN en proportionnalité | Conserver comme référence non identifiée ; ne pas lui attribuer d’organisme ni d’URL non confirmés | Retrouver une source identifiable ou documenter son caractère introuvable |
+| Expression « volume entier » | Conserver la formulation source et signaler son ambiguïté | Obtenir une clarification fiable ou documenter explicitement l’interprétation retenue |
+| Chevauchement tableaux, graphiques et données | Conserver les compétences de lecture, construction, interprétation et détection d’erreurs séparées lorsque nécessaire | Vérifier qu’aucun critère distinct n’est masqué par un regroupement |
+| Communication orale, reformulation et écrit | Maintenir les objectifs distincts de COMM-02, COMM-05, COMM-06 et COMM-08 | Vérifier que les exercices et corrections évaluent effectivement les compétences correspondantes |
+| Prérequis des volumes professionnels | Contrôler les liens entre géométrie dans l’espace, unités de volume, capacité et situations de remplissage | Vérifier le graphe des prérequis et les objectifs des fiches concernées |
+| Programmes officiels et diplômes | Ne pas déclarer la couverture exhaustive tant que l’inventaire précis n’est pas réalisé | Renseigner la source, le passage, la spécialité et le statut de chaque exigence |
+| Migration des anciens identifiants | Ne pas présumer d’équivalence entre anciennes et nouvelles versions | Vérifier chaque correspondance et consigner la décision dans le registre de migration |
+
+---
+
+## 19. Contrôles de cohérence avant gel
+
+Les contrôles ci-dessous sont des opérations à effectuer et à consigner ; leur présence dans cette liste ne signifie pas qu’ils ont été exécutés.
+
+- [ ] Vérifier l’unicité de tous les identifiants du catalogue maître v3.0.
+- [ ] Vérifier que chaque identifiant utilisé dans la matrice existe dans le catalogue.
+- [ ] Vérifier que chaque prérequis du graphe pointe vers un identifiant existant.
+- [ ] Vérifier l’absence de cycles dans le graphe des prérequis.
+- [ ] Vérifier la cohérence entre les objectifs du catalogue, les dépendances du graphe et les correspondances de la matrice.
+- [ ] Confirmer que SIT désigne une situation intégrée et n’est pas imposé comme prérequis universel.
+- [ ] Confirmer que PLURI constitue un support transversal et non un prérequis mathématique universel.
+- [ ] Vérifier les familles complémentaires PUI, FONC, STAT, GEO3 et ALGO dans le catalogue et le graphe.
+- [ ] Contrôler les prérequis des fiches AGR, notamment les calculs d’espacement, de surfaces, de volumes, de temps et de quantités.
+- [ ] Contrôler la migration des anciens identifiants sans supposer d’équivalences automatiques.
+- [ ] Vérifier chaque correspondance de la matrice à partir de la formulation source et de l’objectif exact de la fiche.
+- [ ] Conserver un résultat daté des contrôles techniques, avec la version des fichiers examinés.
+- [ ] Maintenir un statut explicite pour toute exigence non vérifiée, source manquante ou ambiguïté.
+
+## 20. Conditions de validation finale
+
+La matrice ne pourra être déclarée exhaustive dans le périmètre retenu qu’après :
+
+1. transcription complète et fidèle des cinq domaines régionaux et des critères CléA concernés ;
+2. rattachement des identifiants canoniques du catalogue à chaque exigence ;
+3. vérification des programmes officiels retenus, au niveau et dans la spécialité concernés ;
+4. traitement des réserves documentaires et pédagogiques ;
+5. exécution et consignation des contrôles techniques du catalogue et du graphe ;
+6. justification des lacunes, extensions professionnelles et compétences non retenues ;
+7. mise à jour du registre de migration et du référentiel maître.
+
+Le gel éditorial ne vaut ni validation technique, ni preuve de couverture exhaustive des référentiels, ni validation pédagogique des fiches en situation réelle.
+
+## 21. Historique de la matrice
+
+- **v0.2** : structure documentaire et inventaire thématique existants ; correspondances encore en cours de vérification.
+- **Prochaine révision** : à décider après contrôle des correspondances, des sources officielles et des résultats techniques. Le numéro de version ne sera changé qu’au moment où la modification sera effectivement intégrée au dépôt.
+
+
+
+
+
