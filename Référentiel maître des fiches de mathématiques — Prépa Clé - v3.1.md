@@ -127,14 +127,9 @@ Les résultats des contrôles sont consignés dans le Document F. Le présent r�
 
 | Domaine de compétence | Familles principales | Usage prioritaire |
 |---|---|---|
-| Nombres entiers, décimaux et relatifs | NUM, DEC, REL | REG, CLEA21, collège |
 | Divisibilité, facteurs et fractions | DIV, FRA | REG, collège, selon besoins |
-| Mesures, instruments et conversions | MES, UNIT | REG, CLEA21, CAP |
-| Temps et plannings | TEM | REG, CLEA21, CAP, métiers |
 | Géométrie plane et tracés | GEO, TRA | REG, collège, CAP selon spécialité |
-| Volumes et solides | VOL, GEO3 | REG, CLEA21, CAP selon spécialité |
 | Plans, échelles et orientation | ESP | REG, CAP, agriculture et paysage |
-| Tableaux, graphiques et données | DATA | REG, CLEA21, collège, CAP |
 | Calcul littéral et équations | ALG | Collège et parcours de formation pertinents |
 | Puissances et notation scientifique | PUI | Collège ; priorité à déterminer selon le parcours |
 | Fonctions | FONC | Collège ; priorité à déterminer selon le parcours |
@@ -144,11 +139,16 @@ Les résultats des contrôles sont consignés dans le Document F. Le présent r�
 | Gestion et comptabilité | GEST | Réinvestissement professionnel ciblé |
 | Agriculture et espaces verts | AGR | Réinvestissement professionnel ciblé |
 | Langue et accessibilité | PLURI | Transversal à toutes les familles |
+| Nombres entiers, décimaux et relatifs | NUM, DEC, REL | REG, CLEA17, collège |
 | Opérations et contrôle du résultat | CAL, PROB | REG, CLEA17, CAP |
-|---|---|---|
 | Proportionnalité et pourcentages | PROP, PCT | REG, CLEA17, CAP, métiers |
+| Mesures, instruments et conversions | MES, UNIT | REG, CLEA17, CAP |
+| Temps et plannings | TEM | REG, CLEA17, CAP, métiers |
 | Périmètres et aires | PER, AIR | REG, CLEA17, CAP, espaces verts |
+| Volumes et solides | VOL, GEO3 | REG, CLEA17, CAP selon spécialité |
+| Tableaux, graphiques et données | DATA | REG, CLEA17, collège, CAP |
 | Communication du raisonnement | COMM, ACT | REG, CLEA17 |
+|---|---|---|
 
 ## D3. Règles de traçabilité
 
@@ -189,6 +189,8 @@ Aucun ancien identifiant ne doit être transformé automatiquement à partir de 
 
 ### E2.1 Registre détaillé des décisions de migration
 
+Chaque ligne de ce tableau correspond à un ancien identifiant précis. Les données historiques sont transcrites depuis l’archive source ; la cible v3.0, la décision et sa justification sont renseignées après comparaison. La preuve doit identifier le fichier historique et, si possible, la section ou la page consultée.
+
 | Version source | Ancien ID | Ancien intitulé exact | Objectif principal historique | ID cible v3.0 | Liens secondaires | Décision | Justification de la correspondance | Preuve consultée | État |
 |---|---|---|---|---|---|---|---|---|---|
 | À renseigner | À relever dans l’archive | À transcrire sans modification | À comparer au contenu historique | À établir | Selon la tâche | Conservation / renommage / scission / fusion / retrait / à arbitrer | À documenter | Nom du fichier, version et section ou page | À vérifier |
@@ -199,7 +201,7 @@ Aucun ancien identifiant ne doit être transformé automatiquement à partir de 
 
 ### Ancienne famille GAV — périmètres, aires et volumes
 
-| Ancien ID V1.0 | Objectif ancien | Identifiants cibles proposés | État |
+| Ancien ID V1.0 | Objectif ancien | Identifiants cibles proposés | État et réserve de validation |
 |---|---|---|---|
 | GAV-01 | Calculer le périmètre d’un polygone | PER-03 | À vérifier |
 | GAV-02 | Calculer le périmètre d’un carré ou d’un rectangle | PER-02 | À vérifier |
@@ -226,7 +228,7 @@ Aucun ancien identifiant ne doit être transformé automatiquement à partir de 
 
 **Attention :** cette famille ESP historique ne correspond pas à la famille `ESP` du catalogue actuel, qui concerne le repérage, les plans et les cartes.
 
-| Ancien ID V1.0 | Objectif ancien | Identifiants cibles proposés | État |
+| Ancien ID V1.0 | Objectif ancien | Identifiants cibles proposés | État et réserve de validation |
 |---|---|---|---|
 | ESP-01 | Calculer le nombre d’intervalles sur une ligne | AGR-03 | À vérifier |
 | ESP-02 | Déterminer le nombre d’arbres alignés, arbre aux deux extrémités | AGR-04 | À vérifier |
