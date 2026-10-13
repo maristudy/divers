@@ -126,11 +126,12 @@ Une correspondance documentaire ne prouve ni que la fiche est finalisée ni que 
 
 | Compétence de travail à confronter à la source | Référence source régionale | Fiches à examiner | Statut |
 |---|---|---|---|
-| Comprendre un énoncé et repérer les informations utiles | `referentiel_prepa_cle.txt` — Domaine 2 — « S’approprier un énoncé » | PROB-01 à PROB-09 | À vérifier |
-| Comprendre le vocabulaire mathématique d’un problème | `referentiel_prepa_cle.txt` — Domaine 2 — « Le vocabulaire mathématique » | COMM-01 à COMM-08 ; PROB-01 à PROB-09 | À vérifier |
-| Choisir l’opération adaptée à la situation | `referentiel_prepa_cle.txt` — Domaine 2 — « Choisir la bonne opération » | CAL-01 à CAL-14 ; PROB-01 à PROB-09 | À vérifier |
-| Résoudre des problèmes mobilisant les quatre opérations | `referentiel_prepa_cle.txt` — Domaine 2 — « Maîtriser les 4 opérations dans des situations problèmes » | CAL-01 à CAL-14 ; PROB-01 à PROB-09 | À vérifier |
-| Résoudre des problèmes issus de situations courantes | `referentiel_prepa_cle.txt` — Domaine 2 — « Les situations de la vie courante » | PROB-01 à PROB-09 ; GEST-01 à GEST-08 ; AGR-01 à AGR-24 | À vérifier |
+| Comprendre un énoncé et repérer les informations utiles | `referentiel_prepa_cle.txt` — Domaine 2 — « S’approprier un énoncé » | PROB-01 ; PROB-08 si la tâche distingue les informations utiles, inutiles ou manquantes | À vérifier |
+| Comprendre le vocabulaire mathématique d’un problème | `referentiel_prepa_cle.txt` — Domaine 2 — « Le vocabulaire mathématique » | PROB-02 et COMM-04 ; PLURI-01 ou PLURI-05 si un support lexical est mobilisé | À vérifier |
+| Choisir l’opération adaptée à la situation | `referentiel_prepa_cle.txt` — Domaine 2 — « Choisir la bonne opération » | PROB-03 ; CAL-01 à CAL-07 uniquement pour les opérations effectivement mobilisées dans la tâche | À vérifier |
+| Résoudre des problèmes mobilisant les quatre opérations | `referentiel_prepa_cle.txt` — Domaine 2 — « Maîtriser les 4 opérations dans des situations problèmes » et « Les 4 opérations : addition, soustraction, multiplication, division » | PROB-04 pour un problème à une opération ; PROB-05 pour un problème à plusieurs opérations ; CAL-01 à CAL-07 selon les calculs requis | À vérifier |
+| Contrôler la cohérence d’un résultat en situation-problème | `referentiel_prepa_cle.txt` — Domaine 2 — « Utiliser les ordres de grandeurs pour s’assurer de la cohérence des résultats » | PROB-07 ; CAL-12 si la tâche demande d’estimer ou d’arrondir avant ou après le calcul ; CAL-13 si elle demande une vérification par une autre méthode | À vérifier |
+| Résoudre des problèmes issus de situations courantes | `referentiel_prepa_cle.txt` — Domaine 2 — « Les situations de la vie courante » | PROB-04 ou PROB-05 selon le nombre d’opérations ; SIT-01 à SIT-08 et GEST-01 à GEST-08 ou AGR-01 à AGR-24 uniquement lorsque le contexte et l’objectif de la tâche correspondent effectivement | À vérifier |
 | Résoudre des problèmes mobilisant les nombres relatifs | `referentiel_prepa_cle.txt` — Domaine 2 — « Calculer avec les nombres relatifs » | REL-10 ; PROB-01 à PROB-09 uniquement lorsque la tâche demande effectivement de résoudre un problème contextualisé avec des relatifs | À vérifier |
 | Calculer avec des fractions : simplifier, comparer, ajouter ou soustraire | `referentiel_prepa_cle.txt` — Domaine 2 — « Simplification de fractions (critères de divisibilité, trouver les facteurs premiers, simplifier des fractions) » et « Résolution de problèmes (comparer, ajouter, soustraire) » | FRA-01 à FRA-14 et DIV-01 à DIV-05, à répartir selon les objectifs réels ; ne pas considérer la plage entière comme une couverture acquise | À vérifier |
 
@@ -139,11 +140,11 @@ Une correspondance documentaire ne prouve ni que la fiche est finalisée ni que 
 
 | Compétence de travail à confronter à la source | Référence source régionale | Fiches à examiner | Statut |
 |---|---|---|---|
-| Convertir des unités de mesure | `referentiel_prepa_cle.txt` — Domaine 3 — « Convertir différentes unités » | UNIT-01 à UNIT-07 ; MES-01 à MES-07 ; TEM-01 à TEM-11 | À vérifier |
-| Utiliser les unités de longueur, de masse, d’aire, de volume et de durée | `referentiel_prepa_cle.txt` — Domaine 3 — « Unités de mesure (longueurs, masses, aires, volumes, durée) » | MES-01 à MES-07 ; UNIT-01 à UNIT-07 ; TEM-01 à TEM-11 ; PER-01 à PER-06 ; AIR-01 à AIR-09 ; VOL-01 à VOL-09 | À vérifier |
-| Lire et interpréter des tableaux et graphiques simples | `referentiel_prepa_cle.txt` — Domaine 3 — « Lire et interpréter des tableaux et graphiques simples » | DATA-01 à DATA-09 ; PROP-01 à PROP-09 | À vérifier |
-| Lire un planning et détecter une erreur | `referentiel_prepa_cle.txt` — Domaine 3 — « Mise en situation sur un planning et détection d'erreur » | TEM-01 à TEM-11 ; DATA-01 à DATA-09 ; PROB-01 à PROB-09 | À vérifier |
-| Effectuer des calculs en géométrie | `referentiel_prepa_cle.txt` — Domaine 3 — « Calculer en géométrie » | GEO-01 à GEO-08 ; GEO3-01 à GEO3-05 ; TRA-01 à TRA-11 ; PER-01 à PER-06 ; AIR-01 à AIR-09 ; VOL-01 à VOL-09 | À vérifier |
+| Convertir des unités de mesure | `referentiel_prepa_cle.txt` — Domaine 3 — « Convertir différentes unités » et « Convertir des unités de mesure » | UNIT-01 à UNIT-05 et UNIT-07, selon la grandeur convertie | À vérifier |
+| Utiliser les unités de longueur, de masse, d’aire, de volume et de durée | `referentiel_prepa_cle.txt` — Domaine 3 — « Unités de mesure (longueurs, masses, aires, volumes, durée) » | MES-01 à MES-07 ; UNIT-01, UNIT-02, UNIT-04, UNIT-05, UNIT-06 et UNIT-07 ; PER-01 à PER-06, AIR-01 à AIR-09 et VOL-01 à VOL-09 selon la tâche | À vérifier |
+| Lire et interpréter des tableaux et graphiques simples | `referentiel_prepa_cle.txt` — Domaine 3 — « Lire et interpréter des tableaux et graphiques simples » et « Lecture de graphiques et tableaux » | DATA-01 à DATA-06 ; DATA-09 si les données concernent une production, un stock ou un suivi d’activité | À vérifier |
+| Lire un planning et détecter une erreur | `referentiel_prepa_cle.txt` — Domaine 3 — « Mise en situation sur un planning et détection d'erreur » | TEM-09 à TEM-11 ; TEM-10 pour la lecture ou la transcription d’horaires ; DATA-06 si l’erreur porte sur un tableau ou une représentation de données | À vérifier |
+| Effectuer des calculs en géométrie | `referentiel_prepa_cle.txt` — Domaine 3 — « Calculer en géométrie », « Notions de longueur et de périmètre », « Notions d’aires » et « Notion de volume entier » | GEO-04 à GEO-07 pour les figures concernées ; PER-01 à PER-05 ; AIR-01 à AIR-07 et AIR-09 ; VOL-01 à VOL-07 et VOL-09 selon la grandeur, la figure et la tâche | À vérifier |
 
 ### 6.4 Domaine 4 — Repérage dans l’espace
 
@@ -254,6 +255,17 @@ Le répertoire d’hébergement porte une date de 2021 ; le document indique une
 
 - **CléA 2-3-7 — périmètres, aires et volumes :** les identifiants PER-02, PER-03, PER-04, AIR-02, AIR-03, AIR-04, AIR-09, VOL-02, VOL-03, VOL-04 et VOL-09 sont présents dans le catalogue maître v3.0. La couverture reste **à vérifier** par examen des tâches, des formules utilisées ou fournies, des unités et des calculs demandés. La présence des identifiants ne prouve pas que chaque figure et chaque calcul sont effectivement traités.
 - **CléA 2-5-2 — transmission orale :** l’objectif COMM-08 est formulé pour couvrir la transmission orale fidèle d’un calcul sur des nombres entiers ou d’une consigne de calcul. La couverture reste **à vérifier** par examen de la fiche et confirmation d’une tâche explicite préservant les données et les opérations.
+
+| Contrôle final | Éléments à examiner | Résultat attendu | État initial |
+|---|---|---|---|
+| CléA 2-1-1 — Opérations | Calculs à la main sur les entiers ; calculatrice pour les décimaux, selon le critère source | Chaque opération et chaque modalité sont représentées par une tâche observable | À vérifier |
+| CléA 2-1-4 à 2-1-6 — Estimation et contrôle | Estimation d’ordre de grandeur ; vérification par une autre méthode ; cohérence en contexte | Trois fonctions distinguées dans les objectifs ou les tâches | À vérifier |
+| CléA 2-2-1 — Résolution de problèmes | Problèmes à une opération et à plusieurs opérations ; choix justifié des opérations | Exemples de tâches identifiés pour chaque type | À vérifier |
+| CléA 2-3-4 — Mesures et instruments | Longueur, masse, capacité ; instruments associés ; conversions au tableau | Chaque grandeur et chaque instrument requis sont couverts ou la couverture partielle est décrite | À vérifier |
+| CléA 2-3-5 à 2-3-6 — Données et erreurs | Lecture et interprétation de représentations ; détection d’erreurs de nature différente | Les tâches d’interprétation et de détection d’erreur sont explicites | À vérifier |
+| CléA 2-3-7 — Géométrie | Périmètres, aires et volumes, figure par figure, formule fournie ou attendue, unités et calculs | Couverture justifiée pour chaque figure et opération demandées | À vérifier |
+| CléA 2-4-1 — Repérage spatial | Lecture d’un plan, d’une carte ou d’un schéma et extraction d’informations utiles | Une tâche observable est identifiée pour chaque type de représentation retenu | À vérifier |
+| CléA 2-5-1 à 2-5-3 — Communication | Reformulation fidèle ; transmission orale de calculs ou de consignes ; vocabulaire mathématique de base | Les trois compétences sont distinguées et associées à des tâches explicites | À vérifier |
 
 | Groupe de critères | Critères | État de vérification | Contrôle restant |
 |---|---|---|---|
