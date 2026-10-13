@@ -108,11 +108,6 @@ Une correspondance documentaire ne prouve ni que la fiche est finalisée ni que 
 | Compétence de travail à confronter à la source | Référence source régionale | Fiches à examiner | Statut |
 |---|---|---|---|
 | Dénombrer et organiser un comptage | `referentiel_prepa_cle.txt` — Domaine 1 — « Dénombrer au travers de tests logiques » | NUM-01 à NUM-06 | À vérifier |
-| Effectuer les quatre opérations | `referentiel_prepa_cle.txt` — Domaine 1 — « Les 4 opérations : addition, soustraction, multiplication, division » | CAL-01 à CAL-14 | À vérifier |
-| Contrôler la cohérence d’un résultat par un ordre de grandeur | `referentiel_prepa_cle.txt` — Domaine 1 — « Utiliser les ordres de grandeurs pour s’assurer de la cohérence des résultats » | CAL-08 à CAL-14 ; NUM-07 à NUM-12 | À vérifier |
-| Effectuer des calculs mentaux | `referentiel_prepa_cle.txt` — Domaine 1 — « Calculer mental » | CAL-01 à CAL-14 ; NUM-01 à NUM-12 | À vérifier |
-| Multiplier ou diviser par 10, 100 ou 1 000 | `referentiel_prepa_cle.txt` — Domaine 1 — « Multiplier, diviser par 10, 100, 1000 » | NUM-07 à NUM-12 ; CAL-01 à CAL-14 | À vérifier |
-| Arrondir un nombre | `referentiel_prepa_cle.txt` — Domaine 1 — « Arrondir un nombre » | NUM-07 à NUM-12 | À vérifier |
 | Comprendre les fractions | `referentiel_prepa_cle.txt` — Domaine 1 — « Notions de fraction » | FRA-01 à FRA-14 | À vérifier |
 | Résoudre une situation de proportionnalité | `referentiel_prepa_cle.txt` — Domaine 1 — « Situations de proportionnalité » | PROP-01 à PROP-09 ; PCT-01 à PCT-14 | À vérifier |
 | Lire et écrire les nombres entiers | `referentiel_prepa_cle.txt` — Domaine 1 — « Nombres entiers : lire et écrire » | NUM-01 à NUM-06 ; NUM-12 pour l’écriture en toutes lettres | À vérifier |
@@ -121,7 +116,11 @@ Une correspondance documentaire ne prouve ni que la fiche est finalisée ni que 
 | Utiliser les nombres relatifs pour repérer, comparer ou ranger des valeurs | `referentiel_prepa_cle.txt` — Domaine 1 — « Nombres relatifs : les découvrir pour ordonner et classer » | REL-01 à REL-05 ; REL-06 à REL-10 si les opérations sur les relatifs sont également travaillées | À vérifier |
 | Calculer avec les nombres relatifs : addition et soustraction | `referentiel_prepa_cle.txt` — Domaine 2 — « Addition des nombres relatifs » et « Soustraction de nombres relatifs » | REL-06 à REL-08 ; CAL-01 et CAL-02 uniquement si les opérations élémentaires sont effectivement mobilisées | À vérifier |
 | Calculer avec les nombres relatifs : multiplication et division | `referentiel_prepa_cle.txt` — Domaine 2 — « Multiplication et division de nombres relatifs » | REL-09 ; CAL-03 et CAL-04 uniquement si les opérations élémentaires sont effectivement mobilisées | À vérifier |
-
+| Effectuer les quatre opérations | `referentiel_prepa_cle.txt` — Domaine 1 — « Les 4 opérations : addition, soustraction, multiplication, division » | CAL-01 à CAL-07 ; CAL-10 uniquement pour les calculs par 10, 100 ou 1 000 lorsque cette compétence est effectivement visée | À vérifier |
+| Contrôler la cohérence d’un résultat par un ordre de grandeur | `referentiel_prepa_cle.txt` — Domaine 1 — « Utiliser les ordres de grandeurs pour s’assurer de la cohérence des résultats » | CAL-12, CAL-13 et PROB-07, selon que la tâche demande une estimation, une vérification par une autre méthode ou un contrôle en situation-problème | À vérifier |
+| Effectuer des calculs mentaux | `referentiel_prepa_cle.txt` — Domaine 1 — « Calculer mental » | CAL-09 et CAL-11 ; CAL-10 lorsque la tâche porte sur la multiplication ou la division par 10, 100 ou 1 000 | À vérifier |
+| Multiplier ou diviser par 10, 100 ou 1 000 | `referentiel_prepa_cle.txt` — Domaine 1 — « Multiplier, diviser par 10, 100, 1000 » | CAL-10 | À vérifier |
+| Arrondir un nombre | `referentiel_prepa_cle.txt` — Domaine 1 — « Arrondir un nombre » | DEC-09 pour l’arrondi d’un nombre décimal ; CAL-12 lorsque l’arrondi est utilisé pour estimer ou contrôler la plausibilité d’un résultat | À vérifier |
 
 ### 6.2 Domaine 2 — Résolution de problèmes
 

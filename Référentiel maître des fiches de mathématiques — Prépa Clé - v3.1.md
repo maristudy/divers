@@ -382,10 +382,9 @@ Les textes officiels fixent les attendus de leurs périmètres respectifs. Les f
 
 - **Catalogue maître** : source canonique des identifiants, familles et objectifs des fiches.
 - **Graphe des prérequis** : source canonique des dépendances entre les fiches.
-- **Matrice de traçabilité v0.2** : source de référence pour les correspondances entre les référentiels sources et les objectifs du catalogue ; correspondances en cours de vérification.
-- **Matrice maîtresse v1.0** : document distinct conservé pour comparaison historique jusqu’à vérification de son contenu ; ne pas l’utiliser comme source concurrente du catalogue ou de la matrice v0.2.
 - **Archive qualité** : document historique conservé sans modification ; les décisions et statuts courants sont consignés dans le référentiel maître.
-
+- **Matrice de traçabilité des référentiels — Prépa Clé, version 1.0** : document actif pour les correspondances entre les référentiels sources et les objectifs du catalogue ; correspondances en cours de vérification ligne par ligne.
+- **Matrice maîtresse historique v1.0** : document distinct conservé pour comparaison historique jusqu’à vérification de son contenu ; ne pas l’utiliser comme source concurrente du catalogue ou de la matrice de traçabilité active.
 
 ## 2. État actuel
 
