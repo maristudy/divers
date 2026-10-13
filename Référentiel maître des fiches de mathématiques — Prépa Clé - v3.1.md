@@ -115,7 +115,7 @@ Les résultats des contrôles sont consignés dans le Document F. Le présent r�
 | Code | Source | Usage |
 |---|---|---|
 | REG | Référentiel régional Prépa Clé transmis dans le projet | Périmètre principal et compétences visées |
-| CLEA21 | Référentiel CléA 2021, domaine 2 | Socle de numératie et critères d’évaluation |
+| CLEA17  | Référentiel CléA — version retravaillée et validée en septembre 2017, domaine 2 ; document hébergé dans un répertoire daté de 2021  | Socle de numératie et critères d’évaluation ; version de référence à conserver pour assurer la cohérence avec la matrice de traçabilité |
 | C2-2024 | Programme officiel de mathématiques du cycle 2 | Consolidation des fondamentaux |
 | C3-2025 | Programme officiel de mathématiques du cycle 3 | Nombres, calcul, proportionnalité, mesures, espace, données |
 | C4-2026 | Programme officiel de mathématiques du cycle 4 | Approfondissement collège ; application progressive |
