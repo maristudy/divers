@@ -280,21 +280,22 @@ Tant que les archives ne sont pas comparées ligne par ligne, la migration histo
 
 # Document F — Registre des contrôles et état de gel
 
-## F1. État des contrôles
+### État des contrôles au 13 octobre 2026
 
-### État des contrôles avant gel de structure
+### État des contrôles au 13 octobre 2026
 
 | Contrôle | État | Suite prévue |
 |---|---|---|
-| Unicité des identifiants du catalogue | Réussi — 287 identifiants distincts ; aucun doublon détecté par le contrôle automatisé | Preuve : `rapport_controle_integrite.md`, contrôle du 12/10/2026 à 21:19:20 (+02:00). |
-| Unicité des définitions du graphe | Réussi — 287 définitions distinctes ; aucune définition répétée détectée | Preuve : `rapport_controle_integrite.md`, contrôle du 12/10/2026 à 21:19:20 (+02:00). |
-| Validité des références du graphe | Réussi pour les références extraites — aucun identifiant du catalogue absent du graphe et aucune référence inconnue détectée | Preuve : `rapport_controle_integrite.md`, contrôle du 12/10/2026 à 21:19:20 (+02:00). |
-| Absence de cycles dans le graphe | Aucun cycle détecté par le contrôle automatisé | Conserver la réserve sur l’analyse manuelle des alternatives, dépendances conditionnelles et formulations descriptives. |
-| Cohérence catalogue–graphe | Réussi pour les contrôles structurels automatisés | Réexaminer le résultat après toute modification des identifiants, des définitions ou des dépendances. |
+| Unicité des identifiants du catalogue | Réussi — 287 identifiants distincts ; aucun doublon détecté | Preuve : `rapport_controle_integrite.md`, contrôle du 13/10/2026 à 21:22:03 (+02:00). |
+| Unicité des définitions du graphe | Réussi — 287 définitions distinctes ; aucune définition répétée détectée | Même rapport et même horodatage. |
+| Validité des références du graphe | Réussi pour les références extraites — aucun identifiant du catalogue absent du graphe et aucune référence inconnue détectée | Même rapport et même horodatage. |
+| Absence de cycles dans le graphe | Aucun cycle détecté dans le graphe extrait | Résultat automatisé ; conserver la revue manuelle des alternatives, dépendances conditionnelles et formulations descriptives. |
+| Cohérence structurelle catalogue–graphe | Réussi pour les contrôles couverts par le script | Rejouer le contrôle après toute modification des identifiants, objectifs ou dépendances. |
 | Matrice de traçabilité | Non finalisée ; correspondances à vérifier | Contrôler les libellés des sources, les objectifs et les tâches réelles, notamment CléA 2-3-7 et 2-5-2. |
-| Migration des anciennes versions | Non finalisée | Comparer les anciennes matrices et archives ligne par ligne ; documenter les conservations, scissions, fusions et retraits. |
-| Validation pédagogique en situation réelle | À réaliser | Tester les fiches avec les apprenants et consigner les résultats observables. |
-Le gel de structure porte sur l’organisation du référentiel et la stabilisation de ses documents de référence. Il ne vaut ni validation technique des contrôles non exécutés, ni validation exhaustive de la traçabilité, ni validation pédagogique.
+| Migration des anciennes versions | Non finalisée | Comparer les archives et le catalogue v3.0 ligne par ligne ; documenter les conservations, renommages, scissions, fusions, retraits et cas à arbitrer. |
+| Validation pédagogique en situation réelle | À réaliser | Tester les fiches avec les apprenants et consigner les résultats observables.
+
+
 ## F2. Critères de gel définitif
 
 Le catalogue et le graphe sont gelés au sens documentaire lorsqu’aucun changement de périmètre ou d’identifiant n’est en cours. Ils ne sont déclarés **entièrement vérifiés** qu’après obtention des preuves suivantes :
@@ -323,12 +324,11 @@ Les documents de référence sont :
 
 La matrice maîtresse v1.0 et les autres documents historiques sont conservés pour la traçabilité, sans constituer des sources concurrentes.
 
-Ce gel de structure ne vaut pas validation complète du référentiel. Le rapport `rapport_controle_integrite.md`, généré le 12/10/2026 à 21:19:20 (+02:00), indique 287 identifiants distincts dans le catalogue et 287 définitions distinctes dans le graphe. Le contrôle automatisé ne détecte aucun doublon, aucun identifiant du catalogue absent du graphe, aucune référence inconnue et aucun cycle dans le graphe extrait.
+Ce gel de structure ne vaut pas validation complète du référentiel. Le rapport `rapport_controle_integrite.md`, généré le 13/10/2026 à 21:22:03 (+02:00), indique 287 identifiants distincts dans le catalogue et 287 définitions distinctes dans le graphe. Le contrôle automatisé ne détecte aucun doublon, aucun identifiant du catalogue absent du graphe, aucune référence inconnue et aucun cycle dans le graphe extrait.
 
-Ces résultats valident les contrôles structurels couverts par le script, dans les limites de son extraction. Ils ne constituent pas une validation de la pertinence pédagogique des dépendances, de la couverture effective des critères CléA, de la conformité au référentiel régional, de la migration historique ni de la qualité des tâches proposées. Ces chantiers doivent être clôturés séparément avant toute déclaration de validation complète.
+Ces résultats valident les contrôles structurels couverts par le script, dans les limites de son extraction. Ils ne constituent pas une validation de la pertinence pédagogique des dépendances, de la couverture effective des critères CléA, de la conformité au référentiel régional, de la migration historique ni de la qualité des tâches proposées.
 
-La validation exhaustive de la matrice, la migration historique et la validation pédagogique en situation réelle demeurent des travaux distincts. Aucun gel définitif de l’ensemble du référentiel ne doit être prononcé avant la clôture de ces contrôles.
-
+La validation exhaustive de la matrice, la migration historique et la validation pédagogique en situation réelle demeurent des travaux distincts. Le gel de structure peut être maintenu ; la validation complète de l’ensemble du référentiel reste en attente de la clôture documentée de ces contrôles.
 Toute modification ultérieure touchant aux identifiants, aux familles, aux objectifs ou aux dépendances devra être justifiée, tracée et répercutée dans les documents canoniques concernés.
 
 ## F3. Contrôles métier et limites de couverture
@@ -408,7 +408,9 @@ Les textes officiels fixent les attendus de leurs périmètres respectifs. Les f
 
 | Élément | État documentaire |
 |---|---|
-| Matrice de traçabilité v0.2 | Document actif de référence pour les correspondances ; examen partiel, vérification à poursuivre |
+| Matrice de traçabilité des référentiels — Prépa Clé v1.0 | Document actif ; correspondances en cours de vérification ligne par ligne |
+| Matrice maîtresse historique v1.0 | Document distinct conservé pour comparaison historique ; ne constitue pas une source concurrente |
+| Validation pédagogique en situation réelle | À réaliser au fil des tests des fiches |
 | Périmètre pédagogique général | Défini ; la traçabilité exhaustive des référentiels reste à établir |
 | Familles complémentaires PUI, FONC, STAT, GEO3 et ALGO | Intégrées au catalogue maître et au graphe ; cohérence à confirmer par le contrôle automatisé après les dernières modifications |
 | Matrice de traçabilité des référentiels — Prépa Clé v1.0 | Document actif ; correspondances en cours de vérification ligne par ligne |
@@ -419,7 +421,16 @@ Les textes officiels fixent les attendus de leurs périmètres respectifs. Les f
 | Catalogue maître v3.0 | Structure stabilisée ; unicité précédemment contrôlée sur 287 identifiants distincts le 12/10/2026 |
 | Graphe des prérequis v3.0 | Contrôle initial sans cycle ni référence inconnue détectés ; nouveau contrôle requis après les dernières modifications |
 | Contrôles techniques | Rapport initial conservé dans `rapport_controle_integrite.md` ; relance du contrôle requise et résultats à actualiser |
-
+| Périmètre pédagogique général | Défini ; la traçabilité exhaustive des référentiels reste à établir |
+| Familles complémentaires PUI, FONC, STAT, GEO3 et ALGO | Intégrées au catalogue maître et au graphe ; cohérence à confirmer par le contrôle automatisé après les dernières modifications |
+| Matrice de traçabilité des référentiels — Prépa Clé v1.0 | Document actif ; correspondances en cours de vérification ligne par ligne |
+| Matrice maîtresse historique v1.0 | Document distinct conservé pour comparaison historique ; ne constitue pas une source concurrente |
+| Archive qualité | Conservée à titre historique ; les décisions et statuts courants sont consignés dans le référentiel maître |
+| Migration des anciennes versions | Non finalisée ; aucune équivalence historique n’est présumée sans comparaison |
+| Validation pédagogique en situation réelle | À réaliser au fil des tests des fiches |
+| Catalogue maître v3.0 | Structure stabilisée ; unicité précédemment contrôlée sur 287 identifiants distincts le 12/10/2026 |
+| Graphe des prérequis v3.0 | Contrôle initial sans cycle ni référence inconnue détectés ; nouveau contrôle requis après les dernières modifications |
+| Contrôles techniques | Rapport initial conservé dans `rapport_controle_integrite.md` ; relance du contrôle requise et résultats à actualiser |
 
 ## 3. Documents historiques et archives
 
