@@ -149,19 +149,19 @@ Une correspondance documentaire ne prouve ni que la fiche est finalisée ni que 
 
 | Compétence de travail à confronter à la source | Référence source régionale | Fiches à examiner | Statut |
 |---|---|---|---|
-| S’orienter et se repérer dans l’espace | `referentiel_prepa_cle.txt` — Domaine 4 — « S’orienter pour se repérer » | ESP-01 à ESP-14 ; GEO-01 à GEO-08 | À vérifier |
-| Comprendre et utiliser une échelle | `referentiel_prepa_cle.txt` — Domaine 4 — « Notion d’échelle » | ESP-01 à ESP-14 ; PROP-01 à PROP-09 | À vérifier |
-| Lire un plan et en extraire des informations utiles | `referentiel_prepa_cle.txt` — Domaine 4 — « Lire un plan et en extraire des informations utiles » | ESP-01 à ESP-14 ; GEO-01 à GEO-08 | À vérifier |
-| Lire une carte et en extraire des informations utiles | `referentiel_prepa_cle.txt` — Domaine 4 — « Lire une carte et en tirer des informations utiles » | ESP-01 à ESP-14 ; GEO-01 à GEO-08 | À vérifier |
-| Lire un schéma et en extraire des informations utiles | `referentiel_prepa_cle.txt` — Domaine 4 — « Lire un schéma et en extraire des informations utiles » | ESP-01 à ESP-14 ; GEO-01 à GEO-08 ; TRA-01 à TRA-11 | À vérifier |
+| S’orienter et se repérer dans l’espace | `referentiel_prepa_cle.txt` — Domaine 4 — « S’orienter pour se repérer » | ESP-01, ESP-04, ESP-05, ESP-12, ESP-14 selon la tâche d’orientation ou de déplacement | À vérifier |
+| Comprendre et utiliser une échelle | `referentiel_prepa_cle.txt` — Domaine 4 — « Notion d’échelle » | ESP-07 ; PROP-09 pour la relation de proportionnalité ; UNIT-01 uniquement si une conversion de longueur est nécessaire | À vérifier |
+| Lire un plan et en extraire des informations utiles | `referentiel_prepa_cle.txt` — Domaine 4 — « Lire un plan et en extraire des informations utiles » | ESP-02 ; ESP-10 ou ESP-11 si la tâche mobilise un quadrillage ou des coordonnées ; ESP-07 si une échelle doit être utilisée | À vérifier |
+| Lire une carte et en extraire des informations utiles | `referentiel_prepa_cle.txt` — Domaine 4 — « Lire une carte et en tirer des informations utiles » | ESP-08, ESP-09, ESP-13 ; ESP-14 si les informations servent à situer ou décrire un déplacement | À vérifier |
+| Lire un schéma et en extraire des informations utiles | `referentiel_prepa_cle.txt` — Domaine 4 — « Lire un schéma et en extraire des informations utiles » | ESP-03 pour une grille de coordonnées ; ESP-06 pour un plan de transport ou un schéma de réseau ; ESP-10 ou ESP-11 pour un quadrillage d’implantation | À vérifier |
 
 ### 6.5 Domaine 5 — Communication orale
 
 | Compétence de travail à confronter à la source | Référence source régionale | Fiches à examiner | Statut |
 |---|---|---|---|
-| Structurer les étapes de résolution d’un problème | `referentiel_prepa_cle.txt` — Domaine 5 — « Structurer les différentes étapes de la résolution du problème » | PROB-01 à PROB-09 ; COMM-01 à COMM-08 | À vérifier |
-| Utiliser correctement le langage mathématique | `referentiel_prepa_cle.txt` — Domaine 5 — « Utiliser à bon escient le langage mathématique » | COMM-01 à COMM-08 ; PLURI-01 à PLURI-08 | À vérifier |
-| Communiquer des résultats à l’oral et/ou à l’écrit | `referentiel_prepa_cle.txt` — Domaine 5 — « Communiquer des résultats à l’oral et/ou à l’écrit » | COMM-01 à COMM-08 ; PLURI-01 à PLURI-08 | À vérifier |
+| Structurer les étapes de résolution d’un problème | `referentiel_prepa_cle.txt` — Domaine 5 — « Structurer les différentes étapes de la résolution du problème » | PROB-01, PROB-03, PROB-04, PROB-05 ; COMM-02, COMM-03 et COMM-07 selon que la tâche demande d’expliquer, d’organiser ou de justifier le raisonnement | À vérifier |
+| Utiliser correctement le langage mathématique | `referentiel_prepa_cle.txt` — Domaine 5 — « Utiliser à bon escient le langage mathématique » | COMM-04 ; PLURI-01 à PLURI-04 selon le vocabulaire réellement mobilisé, comme supports complémentaires | À vérifier |
+| Communiquer des résultats à l’oral et/ou à l’écrit | `referentiel_prepa_cle.txt` — Domaine 5 — « Communiquer des résultats à l’oral et/ou à l’écrit » | COMM-02, COMM-03, COMM-05 et COMM-07 selon la production attendue ; COMM-08 si la tâche exige de transmettre oralement un calcul sur des nombres entiers ou une consigne de calcul | À vérifier |
 
 ### Conditions de validation des correspondances régionales
 
@@ -181,7 +181,7 @@ Les plages d’identifiants sont des listes de fiches à examiner. Elles ne sign
 2. Les correspondances héritées des anciennes matrices ne sont pas automatiquement validées : les objectifs et identifiants du catalogue v3.0 prévalent.
 3. Les codes E, P, A ou C doivent être confirmés fiche par fiche. Les plages d’identifiants doivent être réparties lorsque leurs objectifs diffèrent.
 4. Les tâches réelles des fiches doivent être contrôlées avant de conclure à une couverture pédagogique.
-5. Si la source exige la multiplication ou la division de fractions, la matrice actuelle ne permet pas de considérer cette couverture comme acquise : le besoin doit être inscrit comme lacune à arbitrer.
+5. Pour le référentiel régional actuellement transcrit dans `referentiel_prepa_cle.txt`, vérifier la couverture de la compréhension, de la simplification, de la comparaison, de l’addition et de la soustraction des fractions. Ne pas déclarer la multiplication ou la division de fractions comme une lacune régionale en l’absence d’une exigence explicite dans la source. Toute exigence supplémentaire provenant d’un autre référentiel doit être documentée séparément avec sa source et sa version.
 6. Les critères régionaux portant sur les conversions, les données, les figures, les mesures et les communications orales doivent rester « À vérifier » tant que les libellés sources exacts n’ont pas été contrôlés.
 7. Les programmes du collège, les programmes de CAP et les référentiels professionnels doivent faire l’objet de sections distinctes, fondées sur les textes applicables.
 8. Une application professionnelle ne constitue pas automatiquement une exigence réglementaire. Le référentiel concerné doit l’établir explicitement.
