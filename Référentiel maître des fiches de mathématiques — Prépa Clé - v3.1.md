@@ -195,20 +195,24 @@ Aucun ancien identifiant ne doit être transformé automatiquement à partir de 
 | GAV-01 | Calculer le périmètre d’un polygone | PER-03 | À vérifier |
 | GAV-02 | Calculer le périmètre d’un carré ou d’un rectangle | PER-02 | À vérifier |
 | GAV-03 | Calculer la circonférence d’un cercle | PER-04 | À vérifier |
-| GAV-04 | Calculer l’aire d’un carré ou d’un rectangle | AIR-02, AIR-03 | À vérifier |
+| GAV-04 | Calculer l’aire d’un carré ou d’un rectangle | AIR-02, AIR-03 | Scission probable — à confirmer par comparaison de l’ancienne fiche |
 | GAV-05 | Calculer l’aire d’un triangle | AIR-04 | À vérifier |
 | GAV-06 | Calculer l’aire d’un disque | AIR-09 | À vérifier |
 | GAV-07 | Décomposer une figure complexe en figures simples | AIR-05 | À vérifier |
-| GAV-08 | Calculer le volume d’un cube ou d’un pavé droit | VOL-02, VOL-03 | À vérifier |
+| GAV-08 | Calculer le volume d’un cube ou d’un pavé droit | VOL-02, VOL-03 | Scission probable — à confirmer par comparaison de l’ancienne fiche |
 | GAV-09 | Calculer le volume d’un cylindre | VOL-04 | À vérifier |
 | GAV-10 | Comprendre le volume d’une sphère | VOL-09 | À vérifier |
 | GAV-11 | Relier volume et capacité | VOL-06, UNIT-07 | À vérifier |
 | GAV-12 | Calculer une longueur, une aire ou un volume manquant | ALG-05 ou ALG-07 et famille géométrique concernée | Correspondance à décomposer |
-| GAV-13 | Estimer et contrôler un résultat géométrique | CAL-12, CAL-13, PROB-07 | À vérifier |
-| GAV-14 | Calculer des surfaces de terrain | AIR-02, AIR-03, AIR-05, AGR-09 | À vérifier |
+| GAV-13 | Estimer et contrôler un résultat géométrique | CAL-12, CAL-13, PROB-07 | Correspondance à décomposer : estimation, vérification du calcul et contrôle en situation-problème sont des fonctions distinctes |
+| GAV-14 | Calculer des surfaces de terrain | AGR-09 ; AIR-02, AIR-03 ou AIR-05 selon la figure ; AIR-07 si la tâche porte sur une surface à couvrir ou à traiter | Correspondance à préciser selon la figure, la tâche et l’objectif mathématique principal de l’ancienne fiche |
 | GAV-15 | Calculer des volumes de terre, de paillage ou de matériaux | AGR-14 et VOL-02 ou VOL-04 selon la forme | À vérifier |
 | GAV-16 | Calculer une longueur de clôture ou de bordure | PER-05, AGR-10 | À vérifier |
 | GAV-17 | Déterminer un nombre d’objets à répartir sur une longueur ou une surface | AGR-03 à AGR-08 selon la situation | À vérifier |
+
+
+
+
 
 ### Ancienne famille ESP de la matrice V1.0 — intervalles et implantation
 
@@ -223,7 +227,7 @@ Aucun ancien identifiant ne doit être transformé automatiquement à partir de 
 | ESP-05 | Comparer plusieurs écartements possibles | AGR-07, AGR-19 | Correspondance à confirmer |
 | ESP-06 | Répartir des piquets, lampes, bornes ou supports | AGR-03, AGR-04 ou AGR-07 selon la situation | Correspondance à confirmer |
 | ESP-07 | Calculer le nombre de rangées sur une parcelle | AGR-02 | À vérifier |
-| ESP-08 | Calculer le nombre de plants par rangée puis sur la parcelle | AGR-01, AGR-04 | Correspondance à confirmer |
+| ESP-08 | Calculer le nombre de plants par rangée puis sur la parcelle | AGR-01 ; AGR-02 ; AGR-03 ou AGR-04 selon le calcul du nombre de plants par rangée | Correspondance à confirmer : vérifier le calcul du nombre de rangs, le nombre de plants par rangée et le total de la parcelle |
 | ESP-09 | Calculer une densité de plantation | AGR-08 | À vérifier |
 | ESP-10 | Calculer une longueur de rangée ou une distance entre plants | AGR-03, AGR-07 | Correspondance à confirmer |
 | ESP-11 | Prévoir une quantité de plants avec marge | PCT-04, AGR-19 ou SIT-09 selon la situation | Correspondance à confirmer |
