@@ -196,7 +196,7 @@ Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, di
 - AIR-01 : GEO-01 ; comparaison ou pavage de surfaces possible sans formule.
 - AIR-02 : AIR-01, GEO-05, CAL-03.
 - AIR-03 : AIR-01, GEO-05, CAL-03.
-- AIR-04 : AIR-01, GEO-04, CAL-03, CAL-04.
+- AIR-04 : AIR-01, GEO-04 ; CAL-03 et CAL-04 selon les opérations effectivement nécessaires au calcul demandé. Une formule peut être fournie si l’objectif porte sur son utilisation plutôt que sur sa mémorisation.
 - AIR-05 : AIR-02 ou AIR-03 ; CAL-01 et CAL-02 pour additionner ou soustraire les aires.
 - AIR-06 : AIR-02 ou AIR-03, UNIT-04.
 - AIR-07 : AIR-02 ou AIR-03 ou AIR-05, UNIT-04, PROP-03 selon la commande.

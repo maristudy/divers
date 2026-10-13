@@ -119,6 +119,9 @@ Une correspondance documentaire ne prouve ni que la fiche est finalisée ni que 
 | Maîtriser les règles d’écriture en lettres des nombres | `referentiel_prepa_cle.txt` — Domaine 1 — « Ecriture des entiers : règles d’orthographe » | NUM-12 | À vérifier |
 | Lire, écrire, comparer et ranger les nombres décimaux | `referentiel_prepa_cle.txt` — Domaine 1 — « Nombres décimaux : lire et écrire, ordonner et comparer » | DEC-01 à DEC-11 | À vérifier |
 | Utiliser les nombres relatifs pour repérer, comparer ou ranger des valeurs | `referentiel_prepa_cle.txt` — Domaine 1 — « Nombres relatifs : les découvrir pour ordonner et classer » | REL-01 à REL-05 ; REL-06 à REL-10 si les opérations sur les relatifs sont également travaillées | À vérifier |
+| Calculer avec les nombres relatifs : addition et soustraction | `referentiel_prepa_cle.txt` — Domaine 2 — « Addition des nombres relatifs » et « Soustraction de nombres relatifs » | REL-06 à REL-08 ; CAL-01 et CAL-02 uniquement si les opérations élémentaires sont effectivement mobilisées | À vérifier |
+| Calculer avec les nombres relatifs : multiplication et division | `referentiel_prepa_cle.txt` — Domaine 2 — « Multiplication et division de nombres relatifs » | REL-09 ; CAL-03 et CAL-04 uniquement si les opérations élémentaires sont effectivement mobilisées | À vérifier |
+
 
 ### 6.2 Domaine 2 — Résolution de problèmes
 
@@ -129,6 +132,9 @@ Une correspondance documentaire ne prouve ni que la fiche est finalisée ni que 
 | Choisir l’opération adaptée à la situation | `referentiel_prepa_cle.txt` — Domaine 2 — « Choisir la bonne opération » | CAL-01 à CAL-14 ; PROB-01 à PROB-09 | À vérifier |
 | Résoudre des problèmes mobilisant les quatre opérations | `referentiel_prepa_cle.txt` — Domaine 2 — « Maîtriser les 4 opérations dans des situations problèmes » | CAL-01 à CAL-14 ; PROB-01 à PROB-09 | À vérifier |
 | Résoudre des problèmes issus de situations courantes | `referentiel_prepa_cle.txt` — Domaine 2 — « Les situations de la vie courante » | PROB-01 à PROB-09 ; GEST-01 à GEST-08 ; AGR-01 à AGR-24 | À vérifier |
+| Résoudre des problèmes mobilisant les nombres relatifs | `referentiel_prepa_cle.txt` — Domaine 2 — « Calculer avec les nombres relatifs » | REL-10 ; PROB-01 à PROB-09 uniquement lorsque la tâche demande effectivement de résoudre un problème contextualisé avec des relatifs | À vérifier |
+| Calculer avec des fractions : simplifier, comparer, ajouter ou soustraire | `referentiel_prepa_cle.txt` — Domaine 2 — « Simplification de fractions (critères de divisibilité, trouver les facteurs premiers, simplifier des fractions) » et « Résolution de problèmes (comparer, ajouter, soustraire) » | FRA-01 à FRA-14 et DIV-01 à DIV-05, à répartir selon les objectifs réels ; ne pas considérer la plage entière comme une couverture acquise | À vérifier |
+
 
 ### 6.3 Domaine 3 — Mesures, temps et quantité
 
@@ -225,8 +231,7 @@ Le répertoire d’hébergement porte une date de 2021 ; le document indique une
 | **2-3-4 — Utiliser les unités de mesure et les instruments de mesure** | MES-01 à MES-05 ; UNIT-01, UNIT-02, UNIT-03 et UNIT-06 selon la tâche | E proposée, à répartir fiche par fiche | À vérifier : contrôler les grandeurs, les unités, les instruments, la lecture des graduations et les conversions effectivement travaillées. |
 | **2-3-5 — Utiliser et comprendre tableaux, diagrammes et graphiques** | DATA-01 à DATA-05 | E proposée, à répartir fiche par fiche | À vérifier : contrôler la lecture, l’extraction, la comparaison et l’interprétation des données dans les représentations couvertes. |
 | **2-3-6 — Identifier les erreurs** | DATA-06 ; CAL-13 si une erreur de calcul est recherchée | E proposée, à répartir fiche par fiche | À vérifier : distinguer erreurs d’unité, d’opération, de résultat, de signification des données et de représentation. UNIT-06 ne doit être ajouté que si la tâche demande effectivement de détecter une erreur d’unité. |
-| **2-3-7 — Effectuer des calculs simples de périmètres, surfaces et volumes à partir d’une formule** | PER-02, PER-03, PER-04 ; AIR-02, AIR-03, AIR-04, AIR-09 ; VOL-02, VOL-03, VOL-04, VOL-09 | E proposée, à répartir par figure et opération | À vérifier : contrôler séparément les périmètres du carré, du rectangle, du triangle et du cercle ; les aires du carré, du rectangle, du triangle et du disque ; les volumes du cube, du pavé droit, du cylindre et de la sphère. Vérifier pour chaque cas la formule utilisée, les grandeurs, les unités et le calcul demandé. |
-
+| **2-3-7 — Effectuer des calculs simples de périmètres, surfaces et volumes à partir d’une formule** | PER-02, PER-03, PER-04 ; AIR-02, AIR-03, AIR-04, AIR-09 ; VOL-02, VOL-03, VOL-04, VOL-09 | E proposée, à répartir par figure et opération | À vérifier : contrôler séparément les périmètres du carré, du rectangle, du triangle et du cercle ; les aires du carré, du rectangle, du triangle et du disque ; les volumes du cube, du parallélépipède rectangle, du cylindre et de la sphère. Pour chaque cas, vérifier la tâche, la formule fournie ou attendue, les grandeurs, les unités et le calcul demandé. |
 **Précision sur le critère 2-3-7 :** le référentiel prévoit des calculs à partir d’une formule. La matrice ne doit donc pas imposer par défaut la mémorisation de toutes les formules. Les tâches doivent rendre explicites la formule disponible ou attendue, les grandeurs concernées, les unités et le calcul à réaliser. Si une figure ou une opération n’est pas couverte, la lacune doit être précisée avant de conclure à une couverture partielle.
 
 ### 8.4 Sous-domaine 2.4 — Se repérer dans l’espace

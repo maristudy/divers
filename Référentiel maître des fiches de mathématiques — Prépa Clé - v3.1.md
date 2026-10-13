@@ -229,6 +229,9 @@ Aucun ancien identifiant ne doit être transformé automatiquement à partir de 
 | ESP-11 | Prévoir une quantité de plants avec marge | PCT-04, AGR-19 ou SIT-09 selon la situation | Correspondance à confirmer |
 | ESP-12 | Lire un plan de plantation ou d’implantation | AGR-11, AGR-12 | À vérifier |
 
+**Réserve de périmètre de migration :** le document `Prépa Clé — Bloc 3 - migration des identifiants V1.1 vers V2.2.md` décrit une stratégie de migration entre les versions V1.1 et V2.2. Il ne constitue pas, à lui seul, une preuve de migration exhaustive vers le catalogue maître v3.0. Les correspondances vers v3.0 doivent être confirmées en comparant l’ancien identifiant, l’intitulé historique, l’objectif de la fiche actuelle et, lorsque nécessaire, son contenu. Les cas de scission, de fusion, de renommage ou de réaffectation doivent être documentés explicitement. En l’absence de preuve, le statut demeure « À arbitrer ».
+
+
 ### Conditions de validation
 
 Une correspondance ne devient « vérifiée » qu’après comparaison de l’objectif ancien avec l’objectif cible et contrôle des éléments suivants :
