@@ -1,7 +1,6 @@
 # Graphe des prérequis — v3.0
 
-Statut : gel de structure ; référence des dépendances entre les fiches du catalogue maître. La vérification technique exhaustive des références et des cycles reste à consigner.
-
+Statut : structure contrôlée automatiquement le 12 octobre 2026 ; 287 identifiants de catalogue et 287 définitions de graphe, sans doublon, référence inconnue ni cycle détecté lors du contrôle. Ce résultat ne vaut pas validation pédagogique ni gel définitif ; la traçabilité CléA et régionale ainsi que la migration historique vers v3.0 restent à finaliser.
 
 
 Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, diffable dans Git et exploitable pour construire des parcours individualisés. Une fiche indiquée comme « entrée possible » peut être proposée sans prérequis formel, notamment pour un diagnostic.
@@ -79,7 +78,7 @@ Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, di
 - CAL-09 : NUM-01 ; CAL-01 à CAL-04 selon les opérations effectivement travaillées. L’introduction du calcul mental sur des nombres simples ne suppose pas la maîtrise préalable de toutes les techniques opératoires posées.
 - CAL-10 : NUM-02, DEC-02.
 - CAL-11 : NUM-02, CAL-09.
-- CAL-12 : NUM-07, DEC-04, CAL-09.
+- CAL-12 : NUM-07 ; DEC-04 si la tâche porte sur des nombres décimaux ; CAL-09 utile selon la stratégie d’estimation, sans être obligatoire ; DEC-09 uniquement si la tâche exige un arrondi décimal à un rang déterminé.
 - CAL-13 : opération initiale correspondante parmi CAL-01 à CAL-07.
 - CAL-14 : CAL-01, CAL-03 ; utiliser CAL-04 si l’expression comporte une division.
 
@@ -91,9 +90,9 @@ Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, di
 - FRA-05 : FRA-01, FRA-03.
 - FRA-06 : FRA-02, FRA-03.
 - FRA-07 : FRA-02, DIV-01.
-- FRA-08 : FRA-02, FRA-06, CAL-03, CAL-04.
+- FRA-08 : FRA-02, FRA-06 ; CAL-03 selon la stratégie utilisée pour construire le dénominateur commun ; CAL-04 uniquement si cette stratégie mobilise une division.
 - FRA-09 : FRA-02, FRA-06.
-- FRA-10 : FRA-08, CAL-04.
+- FRA-10 : FRA-08 ; CAL-04 utile uniquement si la stratégie retenue pour obtenir le dénominateur commun mobilise une division, sans être un prérequis systématique.
 - FRA-11 : FRA-02, FRA-06.
 - FRA-12 : FRA-08, CAL-01, CAL-02.
 - FRA-13 : FRA-02, DEC-01.
@@ -268,7 +267,7 @@ Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, di
 - ESP-04 : ESP-02 ou ESP-06.
 - ESP-05 : ESP-04, COMM-01.
 - ESP-06 : ESP-02, lecture de légende.
-- ESP-07 : UNIT-01, PROP-01.
+- ESP-07 : interprétation de l’échelle fournie ; ESP-02 utile si la tâche exige de lire un plan ; UNIT-01 si une conversion de longueur est nécessaire ; PROP-01 utile si la relation de proportionnalité doit être explicitée, sans être un prérequis systématique.
 - ESP-08 : ESP-02, lecture de carte.
 - ESP-09 : ESP-02, ESP-06 ou ESP-08.
 - ESP-10 : ESP-02, ESP-03.
@@ -342,7 +341,7 @@ Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, di
 - AGR-07 : UNIT-01, CAL-04, PROP-03.
 - AGR-08 : AIR-02 ou AIR-03, UNIT-04, PROP-03.
 - AGR-09 : AIR-02 ou AIR-03 ou AIR-05, UNIT-04.
-- AGR-10 : PER-02 ou PER-03, UNIT-01.
+- AGR-10 : PER-02 ou PER-03 ou PER-04 selon la forme du contour ; UNIT-01 uniquement si une conversion d’unités est nécessaire.
 - AGR-11 : ESP-02, ESP-09.
 - AGR-12 : ESP-07, UNIT-01.
 - AGR-13 : PROP-05 ou PROP-06, UNIT-03 ; PCT-04 si le dosage est exprimé en pourcentage.
