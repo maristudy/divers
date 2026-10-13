@@ -127,27 +127,31 @@ Les résultats des contrôles sont consignés dans le Document F. Le présent r�
 
 | Domaine de compétence | Familles principales | Usage prioritaire |
 |---|---|---|
-| Divisibilité, facteurs et fractions | DIV, FRA | REG, collège, selon besoins |
-| Géométrie plane et tracés | GEO, TRA | REG, collège, CAP selon spécialité |
 | Plans, échelles et orientation | ESP | REG, CAP, agriculture et paysage |
+| Communication du raisonnement | COMM, ACT | REG, CLEA17 |
+| Domaine de compétence | Familles principales | Usage prioritaire |
+|---|---|---|
+| Nombres entiers, décimaux et relatifs | NUM, DEC, REL | REG, CLEA17, collège |
+| Opérations et contrôle du résultat | CAL, PROB | REG, CLEA17, CAP |
+| Divisibilité, facteurs et fractions | DIV, FRA | REG, collège, selon besoins |
+| Proportionnalité et pourcentages | PROP, PCT | REG, CLEA17, CAP, métiers |
+| Mesures, instruments et conversions | MES, UNIT | REG, CLEA17, CAP |
+| Temps et plannings | TEM | REG, CLEA17, CAP, métiers |
+| Géométrie plane et tracés | GEO, TRA | REG, collège, CAP selon spécialité |
+| Périmètres et aires | PER, AIR | REG, CLEA17, CAP, espaces verts |
+| Volumes et solides | VOL, GEO3 | REG, CLEA17, CAP selon spécialité |
+| Plans, échelles et orientation | ESP | REG, CAP, agriculture et paysage |
+| Tableaux, graphiques et données | DATA | REG, CLEA17, collège, CAP |
 | Calcul littéral et équations | ALG | Collège et parcours de formation pertinents |
 | Puissances et notation scientifique | PUI | Collège ; priorité à déterminer selon le parcours |
 | Fonctions | FONC | Collège ; priorité à déterminer selon le parcours |
 | Probabilités | STAT | Collège ; priorité à déterminer selon le parcours |
 | Algorithmique | ALGO | Collège ; priorité à déterminer selon le parcours |
 | Résolution de problèmes | PROB, SIT | Tous les domaines |
+| Communication du raisonnement | COMM, ACT | REG, CLEA17 |
 | Gestion et comptabilité | GEST | Réinvestissement professionnel ciblé |
 | Agriculture et espaces verts | AGR | Réinvestissement professionnel ciblé |
 | Langue et accessibilité | PLURI | Transversal à toutes les familles |
-| Nombres entiers, décimaux et relatifs | NUM, DEC, REL | REG, CLEA17, collège |
-| Opérations et contrôle du résultat | CAL, PROB | REG, CLEA17, CAP |
-| Proportionnalité et pourcentages | PROP, PCT | REG, CLEA17, CAP, métiers |
-| Mesures, instruments et conversions | MES, UNIT | REG, CLEA17, CAP |
-| Temps et plannings | TEM | REG, CLEA17, CAP, métiers |
-| Périmètres et aires | PER, AIR | REG, CLEA17, CAP, espaces verts |
-| Volumes et solides | VOL, GEO3 | REG, CLEA17, CAP selon spécialité |
-| Tableaux, graphiques et données | DATA | REG, CLEA17, collège, CAP |
-| Communication du raisonnement | COMM, ACT | REG, CLEA17 |
 |---|---|---|
 
 ## D3. Règles de traçabilité
@@ -353,9 +357,9 @@ Aucun contrôle automatique ne doit être déclaré réussi sans conserver son r
 La migration historique, la traçabilité officielle et la validation pédagogique en situation réelle restent des chantiers distincts du gel de structure.
 # Document G — Sources officielles et portée de leur usage
 
-1. **CléA 2021 — Référentiel du domaine 2**  
-   https://www.certificat-clea.fr/media/2021/07/Referentiel-Clea_2021.pdf  
-   Usage : critères de numératie et compétences de base.
+1. **CléA — Référentiel du domaine 2, version retravaillée et validée en septembre 2017**
+   https://www.certificat-clea.fr/media/2021/07/Referentiel-Clea_2021.pdf
+   Usage : critères de numératie et compétences de base. Le PDF est hébergé dans un répertoire daté de 2021 ; son titre identifie la version comme celle de septembre 2017.
 
 2. **Programme officiel de mathématiques du cycle 2 — BO 2024**  
    https://www.education.gouv.fr/bo/2024/Hebdo41/MENE2415135A  
@@ -404,17 +408,17 @@ Les textes officiels fixent les attendus de leurs périmètres respectifs. Les f
 
 | Élément | État documentaire |
 |---|---|
-| Périmètre pédagogique général | Défini ; la traçabilité exhaustive des référentiels reste à établir |
-| Familles complémentaires PUI, FONC, STAT, GEO3 et ALGO | Intégrées au catalogue maître et au graphe |
 | Matrice de traçabilité v0.2 | Document actif de référence pour les correspondances ; examen partiel, vérification à poursuivre |
-| Matrice de traçabilité des référentiels — Prépa Clé v1.0 | Version active ; correspondances documentaires et pédagogiques en cours de vérification, ligne par ligne |
-| Matrice maîtresse v1.0 | Document distinct conservé pour comparaison historique jusqu’à vérification de son contenu ; ne pas utiliser comme source concurrente |
-| Archive qualité | Conservée à titre historique ; ne pas modifier ni utiliser comme registre actif |
-| Migration historique vers le catalogue v3.0 | Non finalisée ; les correspondances GAV et ESP sont proposées, mais doivent être justifiées par comparaison avec les archives historiques |
+| Périmètre pédagogique général | Défini ; la traçabilité exhaustive des référentiels reste à établir |
+| Familles complémentaires PUI, FONC, STAT, GEO3 et ALGO | Intégrées au catalogue maître et au graphe ; cohérence à confirmer par le contrôle automatisé après les dernières modifications |
+| Matrice de traçabilité des référentiels — Prépa Clé v1.0 | Document actif ; correspondances en cours de vérification ligne par ligne |
+| Matrice maîtresse historique v1.0 | Document distinct conservé pour comparaison historique ; ne constitue pas une source concurrente |
+| Archive qualité | Conservée à titre historique ; les décisions et statuts courants sont consignés dans le référentiel maître |
+| Migration des anciennes versions | Non finalisée ; aucune équivalence historique n’est présumée sans comparaison |
 | Validation pédagogique en situation réelle | À réaliser au fil des tests des fiches |
-| Catalogue maître v3.0 | Structure stabilisée ; aucun doublon détecté dans les lignes d’identifiants analysées le 12/10/2026 |
-| Graphe des prérequis v3.0 | Aucun cycle ni référence inconnue détectés dans l’extraction initiale ; explicitation individuelle des fiches PLURI et relance du contrôle requises |
-| Contrôles techniques | Rapport initial conservé dans `rapport_controle_integrite.md` ; unicité du catalogue vérifiée sur les lignes analysées ; contrôle d’intégrité à relancer après correction des définitions PLURI |
+| Catalogue maître v3.0 | Structure stabilisée ; unicité précédemment contrôlée sur 287 identifiants distincts le 12/10/2026 |
+| Graphe des prérequis v3.0 | Contrôle initial sans cycle ni référence inconnue détectés ; nouveau contrôle requis après les dernières modifications |
+| Contrôles techniques | Rapport initial conservé dans `rapport_controle_integrite.md` ; relance du contrôle requise et résultats à actualiser |
 
 
 ## 3. Documents historiques et archives
@@ -429,7 +433,7 @@ Les documents suivants sont conservés pour préserver la traçabilité historiq
 - Archive qualité du catalogue et du graphe ;
 - Carte des prérequis V2.2.
 
-La matrice des référentiels v0.2 reste le document actif de traçabilité. Sa vérification n’est pas achevée.
+La matrice de traçabilité des référentiels — Prépa Clé v1.0 est le document actif pour les correspondances entre les sources et les objectifs du catalogue. Sa vérification documentaire et pédagogique reste en cours. Les matrices historiques, dont la matrice maîtresse v1.0, sont conservées séparément pour comparaison et traçabilité.
 
 L’archivage d’un document ne vaut pas validation de son contenu. Les informations historiques utiles doivent rester consultables et les correspondances entre anciens et nouveaux identifiants ne peuvent être déclarées validées qu’après comparaison.
 
