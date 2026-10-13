@@ -184,6 +184,10 @@ Aucun ancien identifiant ne doit être transformé automatiquement à partir de 
 | 2.2 | À relever dans l’archive | À comparer | À établir | Conservation / scission / fusion / retrait | À vérifier |
 | 2.3 | À relever dans l’archive | À comparer | À établir | Conservation / scission / fusion / retrait | À vérifier |
 
+| Version source | Ancien ID | Ancien intitulé exact | Objectif principal historique | ID cible v3.0 | Liens secondaires | Décision | Justification de la correspondance | Preuve consultée | État |
+|---|---|---|---|---|---|---|---|---|---|
+| À renseigner | À relever dans l’archive | À transcrire sans modification | À comparer au contenu historique | À établir | Selon la tâche | Conservation / renommage / scission / fusion / retrait / à arbitrer | À documenter | Nom du fichier, version et section ou page | À vérifier |
+
 ## E2 bis. Migration ciblée des anciennes familles GAV et ESP
 
 **Règle :** les identifiants de la matrice V1.0 ci-dessous sont des identifiants historiques. Ils ne doivent pas être utilisés comme identifiants canoniques du catalogue V3.0.
@@ -203,13 +207,12 @@ Aucun ancien identifiant ne doit être transformé automatiquement à partir de 
 | GAV-09 | Calculer le volume d’un cylindre | VOL-04 | À vérifier |
 | GAV-10 | Comprendre le volume d’une sphère | VOL-09 | À vérifier |
 | GAV-11 | Relier volume et capacité | VOL-06, UNIT-07 | À vérifier |
-| GAV-12 | Calculer une longueur, une aire ou un volume manquant | ALG-05 ou ALG-07 et famille géométrique concernée | Correspondance à décomposer |
+| GAV-12 | Calculer une longueur, une aire ou un volume manquant | ALG-05 ou ALG-07 selon le raisonnement nécessaire ; PER-02 à PER-04, AIR-02 à AIR-05 ou AIR-09, VOL-02 à VOL-04 ou VOL-09 selon la grandeur et la figure | Correspondance à décomposer : identifier la grandeur recherchée, la formule mobilisée et si l’exercice demande une égalité simple ou la réorganisation d’une formule |
 | GAV-13 | Estimer et contrôler un résultat géométrique | CAL-12, CAL-13, PROB-07 | Correspondance à décomposer : estimation, vérification du calcul et contrôle en situation-problème sont des fonctions distinctes |
 | GAV-14 | Calculer des surfaces de terrain | AGR-09 ; AIR-02, AIR-03 ou AIR-05 selon la figure ; AIR-07 si la tâche porte sur une surface à couvrir ou à traiter | Correspondance à préciser selon la figure, la tâche et l’objectif mathématique principal de l’ancienne fiche |
-| GAV-15 | Calculer des volumes de terre, de paillage ou de matériaux | AGR-14 et VOL-02 ou VOL-04 selon la forme | À vérifier |
+| GAV-15 | Calculer des volumes de terre, de paillage ou de matériaux | AGR-14 ; VOL-02 ou VOL-03 pour un pavé droit ou un cube, VOL-04 pour un cylindre ; VOL-05 ou UNIT-07 si une conversion de volume est nécessaire | Correspondance à confirmer selon la forme du contenant, les dimensions fournies, les unités et la quantité réellement demandée |
 | GAV-16 | Calculer une longueur de clôture ou de bordure | PER-05, AGR-10 | À vérifier |
-| GAV-17 | Déterminer un nombre d’objets à répartir sur une longueur ou une surface | AGR-03 à AGR-08 selon la situation | À vérifier |
-
+| GAV-17 | Déterminer un nombre d’objets à répartir sur une longueur ou une surface | AGR-01 pour une quantité de plants par rangée ; AGR-02 pour le nombre de rangées ; AGR-03 à AGR-06 pour les intervalles, les extrémités et les contours ; AGR-08 pour une densité de plantation | Correspondance à confirmer selon que la tâche porte sur une rangée, plusieurs rangées, un contour ou une densité surfacique |
 
 
 
@@ -224,14 +227,14 @@ Aucun ancien identifiant ne doit être transformé automatiquement à partir de 
 | ESP-02 | Déterminer le nombre d’arbres alignés, arbre aux deux extrémités | AGR-04 | À vérifier |
 | ESP-03 | Déterminer le nombre d’arbres avec retrait aux extrémités | AGR-06 | À vérifier |
 | ESP-04 | Planter autour d’un lac ou d’un contour fermé | AGR-05 | À vérifier |
-| ESP-05 | Comparer plusieurs écartements possibles | AGR-07, AGR-19 | Correspondance à confirmer |
-| ESP-06 | Répartir des piquets, lampes, bornes ou supports | AGR-03, AGR-04 ou AGR-07 selon la situation | Correspondance à confirmer |
+| ESP-05 | Comparer plusieurs écartements possibles | AGR-07 ; AGR-19 uniquement si la tâche comprend aussi une estimation ou un contrôle de la quantité de plants ou de matériaux | Correspondance à confirmer : vérifier si l’objectif porte sur la comparaison des espacements, sur le choix d’un espacement ou également sur l’estimation d’une quantité |
+| ESP-06 | Répartir des piquets, lampes, bornes ou supports | AGR-03 ou AGR-04 pour une ligne ouverte ; AGR-05 pour un contour fermé ; AGR-06 si un retrait est imposé aux extrémités ; AGR-07 si l’espacement est à calculer | Correspondance à confirmer selon la configuration, les extrémités, le nombre d’intervalles et l’espacement demandé |
 | ESP-07 | Calculer le nombre de rangées sur une parcelle | AGR-02 | À vérifier |
 | ESP-08 | Calculer le nombre de plants par rangée puis sur la parcelle | AGR-01 ; AGR-02 ; AGR-03 ou AGR-04 selon le calcul du nombre de plants par rangée | Correspondance à confirmer : vérifier le calcul du nombre de rangs, le nombre de plants par rangée et le total de la parcelle |
 | ESP-09 | Calculer une densité de plantation | AGR-08 | À vérifier |
-| ESP-10 | Calculer une longueur de rangée ou une distance entre plants | AGR-03, AGR-07 | Correspondance à confirmer |
-| ESP-11 | Prévoir une quantité de plants avec marge | PCT-04, AGR-19 ou SIT-09 selon la situation | Correspondance à confirmer |
-| ESP-12 | Lire un plan de plantation ou d’implantation | AGR-11, AGR-12 | À vérifier |
+| ESP-10 | Calculer une longueur de rangée ou une distance entre plants | AGR-07 pour calculer un espacement ; AGR-03 ou AGR-04 si la tâche mobilise aussi le nombre d’intervalles ou de plants sur une ligne ouverte | Correspondance à confirmer : distinguer la longueur totale de la rangée, la distance entre deux plants et le nombre d’intervalles |
+| ESP-11 | Interpréter des coordonnées ou un quadrillage dans un plan d’implantation | AGR-22 ; ESP-03 et ESP-10 selon que la tâche porte sur la lecture des coordonnées ou la localisation d’une zone de travail | Correspondance à confirmer : distinguer la lecture du quadrillage, le repérage de la position et le piquetage effectif sur le terrain |
+| ESP-12 | Lire un plan de plantation ou d’implantation | AGR-11 ; AGR-12 si la lecture du plan exige l’utilisation d’une échelle pour convertir les distances | Correspondance à confirmer : vérifier si la tâche porte sur l’extraction d’informations du plan, le repérage des éléments ou le calcul de distances à l’échelle |
 
 **Réserve de périmètre de migration :** le document `Prépa Clé — Bloc 3 - migration des identifiants V1.1 vers V2.2.md` décrit une stratégie de migration entre les versions V1.1 et V2.2. Il ne constitue pas, à lui seul, une preuve de migration exhaustive vers le catalogue maître v3.0. Les correspondances vers v3.0 doivent être confirmées en comparant l’ancien identifiant, l’intitulé historique, l’objectif de la fiche actuelle et, lorsque nécessaire, son contenu. Les cas de scission, de fusion, de renommage ou de réaffectation doivent être documentés explicitement. En l’absence de preuve, le statut demeure « À arbitrer ».
 
