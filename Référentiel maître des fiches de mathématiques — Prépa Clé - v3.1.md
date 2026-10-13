@@ -128,13 +128,10 @@ Les résultats des contrôles sont consignés dans le Document F. Le présent r�
 | Domaine de compétence | Familles principales | Usage prioritaire |
 |---|---|---|
 | Nombres entiers, décimaux et relatifs | NUM, DEC, REL | REG, CLEA21, collège |
-| Opérations et contrôle du résultat | CAL, PROB | REG, CLEA21, CAP |
 | Divisibilité, facteurs et fractions | DIV, FRA | REG, collège, selon besoins |
-| Proportionnalité et pourcentages | PROP, PCT | REG, CLEA21, CAP, métiers |
 | Mesures, instruments et conversions | MES, UNIT | REG, CLEA21, CAP |
 | Temps et plannings | TEM | REG, CLEA21, CAP, métiers |
 | Géométrie plane et tracés | GEO, TRA | REG, collège, CAP selon spécialité |
-| Périmètres et aires | PER, AIR | REG, CLEA21, CAP, espaces verts |
 | Volumes et solides | VOL, GEO3 | REG, CLEA21, CAP selon spécialité |
 | Plans, échelles et orientation | ESP | REG, CAP, agriculture et paysage |
 | Tableaux, graphiques et données | DATA | REG, CLEA21, collège, CAP |
@@ -144,10 +141,14 @@ Les résultats des contrôles sont consignés dans le Document F. Le présent r�
 | Probabilités | STAT | Collège ; priorité à déterminer selon le parcours |
 | Algorithmique | ALGO | Collège ; priorité à déterminer selon le parcours |
 | Résolution de problèmes | PROB, SIT | Tous les domaines |
-| Communication du raisonnement | COMM, ACT | REG, CLEA21 |
 | Gestion et comptabilité | GEST | Réinvestissement professionnel ciblé |
 | Agriculture et espaces verts | AGR | Réinvestissement professionnel ciblé |
 | Langue et accessibilité | PLURI | Transversal à toutes les familles |
+| Opérations et contrôle du résultat | CAL, PROB | REG, CLEA17, CAP |
+|---|---|---|
+| Proportionnalité et pourcentages | PROP, PCT | REG, CLEA17, CAP, métiers |
+| Périmètres et aires | PER, AIR | REG, CLEA17, CAP, espaces verts |
+| Communication du raisonnement | COMM, ACT | REG, CLEA17 |
 
 ## D3. Règles de traçabilité
 
@@ -175,7 +176,9 @@ Une fiche AGR qui mobilise une proportionnalité ne devient pas pour autant une 
 
 Aucun ancien identifiant ne doit être transformé automatiquement à partir de son seul préfixe. La migration est effectuée en comparant l’ancien objectif, le contenu de la fiche, ses prérequis et sa fonction pédagogique.
 
-## E2. Table à remplir à partir des archives
+**Organisation du registre :** la section E2 recense les versions historiques à examiner. Le tableau détaillé qui suit sert de registre des décisions individuelles : chaque ligne correspond à un ancien identifiant et doit conserver l’intitulé historique exact, l’objectif, l’identifiant cible v3.0, la décision, sa justification et la référence précise à l’archive consultée. La section E2 bis constitue un sous-ensemble prioritaire consacré aux anciennes familles GAV et ESP ; ses propositions sont reportées dans le registre détaillé lorsqu’elles ont été documentées à partir des archives. Le bilan de migration ne pourra être déclaré complet qu’après rapprochement de l’inventaire des anciens identifiants avec le registre des décisions individuelles.
+
+## E2. Inventaire des versions historiques à examiner
 
 | Version source | Ancien ID | Ancien objectif | ID cible v3.x | Type de migration | État |
 |---|---|---|---|---|---|
@@ -183,6 +186,8 @@ Aucun ancien identifiant ne doit être transformé automatiquement à partir de 
 | 2.1 | À relever dans l’archive | À comparer | À établir | Conservation / scission / fusion / retrait | À vérifier |
 | 2.2 | À relever dans l’archive | À comparer | À établir | Conservation / scission / fusion / retrait | À vérifier |
 | 2.3 | À relever dans l’archive | À comparer | À établir | Conservation / scission / fusion / retrait | À vérifier |
+
+### E2.1 Registre détaillé des décisions de migration
 
 | Version source | Ancien ID | Ancien intitulé exact | Objectif principal historique | ID cible v3.0 | Liens secondaires | Décision | Justification de la correspondance | Preuve consultée | État |
 |---|---|---|---|---|---|---|---|---|---|
@@ -400,9 +405,10 @@ Les textes officiels fixent les attendus de leurs périmètres respectifs. Les f
 | Périmètre pédagogique général | Défini ; la traçabilité exhaustive des référentiels reste à établir |
 | Familles complémentaires PUI, FONC, STAT, GEO3 et ALGO | Intégrées au catalogue maître et au graphe |
 | Matrice de traçabilité v0.2 | Document actif de référence pour les correspondances ; examen partiel, vérification à poursuivre |
+| Matrice de traçabilité des référentiels — Prépa Clé v1.0 | Version active ; correspondances documentaires et pédagogiques en cours de vérification, ligne par ligne |
 | Matrice maîtresse v1.0 | Document distinct conservé pour comparaison historique jusqu’à vérification de son contenu ; ne pas utiliser comme source concurrente |
 | Archive qualité | Conservée à titre historique ; ne pas modifier ni utiliser comme registre actif |
-| Migration des anciennes versions | Non finalisée ; aucune équivalence historique ne doit être présumée sans comparaison |
+| Migration historique vers le catalogue v3.0 | Non finalisée ; les correspondances GAV et ESP sont proposées, mais doivent être justifiées par comparaison avec les archives historiques |
 | Validation pédagogique en situation réelle | À réaliser au fil des tests des fiches |
 | Catalogue maître v3.0 | Structure stabilisée ; aucun doublon détecté dans les lignes d’identifiants analysées le 12/10/2026 |
 | Graphe des prérequis v3.0 | Aucun cycle ni référence inconnue détectés dans l’extraction initiale ; explicitation individuelle des fiches PLURI et relance du contrôle requises |
