@@ -225,9 +225,6 @@ Chaque ligne de ce tableau correspond à un ancien identifiant précis. Les donn
 | GAV-16 | Calculer une longueur de clôture ou de bordure | PER-05, AGR-10 | À vérifier |
 | GAV-17 | Déterminer un nombre d’objets à répartir sur une longueur ou une surface | AGR-01 pour une quantité de plants par rangée ; AGR-02 pour le nombre de rangées ; AGR-03 à AGR-06 pour les intervalles, les extrémités et les contours ; AGR-08 pour une densité de plantation | Correspondance à confirmer selon que la tâche porte sur une rangée, plusieurs rangées, un contour ou une densité surfacique |
 
-
-
-
 ### Ancienne famille ESP de la matrice V1.0 — intervalles et implantation
 
 **Attention :** cette famille ESP historique ne correspond pas à la famille `ESP` du catalogue actuel, qui concerne le repérage, les plans et les cartes.
@@ -279,8 +276,6 @@ Tant que les archives ne sont pas comparées ligne par ligne, la migration histo
 ---
 
 # Document F — Registre des contrôles et état de gel
-
-### État des contrôles au 13 octobre 2026
 
 ### État des contrôles au 13 octobre 2026
 
@@ -408,29 +403,16 @@ Les textes officiels fixent les attendus de leurs périmètres respectifs. Les f
 
 | Élément | État documentaire |
 |---|---|
-| Matrice de traçabilité des référentiels — Prépa Clé v1.0 | Document actif ; correspondances en cours de vérification ligne par ligne |
-| Matrice maîtresse historique v1.0 | Document distinct conservé pour comparaison historique ; ne constitue pas une source concurrente |
-| Validation pédagogique en situation réelle | À réaliser au fil des tests des fiches |
-| Périmètre pédagogique général | Défini ; la traçabilité exhaustive des référentiels reste à établir |
-| Familles complémentaires PUI, FONC, STAT, GEO3 et ALGO | Intégrées au catalogue maître et au graphe ; cohérence à confirmer par le contrôle automatisé après les dernières modifications |
-| Matrice de traçabilité des référentiels — Prépa Clé v1.0 | Document actif ; correspondances en cours de vérification ligne par ligne |
-| Matrice maîtresse historique v1.0 | Document distinct conservé pour comparaison historique ; ne constitue pas une source concurrente |
-| Archive qualité | Conservée à titre historique ; les décisions et statuts courants sont consignés dans le référentiel maître |
-| Migration des anciennes versions | Non finalisée ; aucune équivalence historique n’est présumée sans comparaison |
-| Validation pédagogique en situation réelle | À réaliser au fil des tests des fiches |
-| Catalogue maître v3.0 | Structure stabilisée ; unicité précédemment contrôlée sur 287 identifiants distincts le 12/10/2026 |
-| Graphe des prérequis v3.0 | Contrôle initial sans cycle ni référence inconnue détectés ; nouveau contrôle requis après les dernières modifications |
-| Contrôles techniques | Rapport initial conservé dans `rapport_controle_integrite.md` ; relance du contrôle requise et résultats à actualiser |
-| Périmètre pédagogique général | Défini ; la traçabilité exhaustive des référentiels reste à établir |
-| Familles complémentaires PUI, FONC, STAT, GEO3 et ALGO | Intégrées au catalogue maître et au graphe ; cohérence à confirmer par le contrôle automatisé après les dernières modifications |
-| Matrice de traçabilité des référentiels — Prépa Clé v1.0 | Document actif ; correspondances en cours de vérification ligne par ligne |
-| Matrice maîtresse historique v1.0 | Document distinct conservé pour comparaison historique ; ne constitue pas une source concurrente |
-| Archive qualité | Conservée à titre historique ; les décisions et statuts courants sont consignés dans le référentiel maître |
-| Migration des anciennes versions | Non finalisée ; aucune équivalence historique n’est présumée sans comparaison |
-| Validation pédagogique en situation réelle | À réaliser au fil des tests des fiches |
-| Catalogue maître v3.0 | Structure stabilisée ; unicité précédemment contrôlée sur 287 identifiants distincts le 12/10/2026 |
-| Graphe des prérequis v3.0 | Contrôle initial sans cycle ni référence inconnue détectés ; nouveau contrôle requis après les dernières modifications |
-| Contrôles techniques | Rapport initial conservé dans `rapport_controle_integrite.md` ; relance du contrôle requise et résultats à actualiser |
+| Périmètre pédagogique général | Défini ; traçabilité exhaustive encore à établir |
+| Familles complémentaires PUI, FONC, STAT, GEO3 et ALGO | Intégrées au catalogue et au graphe ; contrôle structurel actualisé le 13/10/2026 |
+| Matrice de traçabilité des référentiels — Prépa Clé v1.0 | Document actif ; correspondances à vérifier ligne par ligne |
+| Matrice maîtresse historique v1.0 | Archive distincte conservée pour comparaison |
+| Archive qualité | Conservée à titre historique |
+| Catalogue maître v3.0 | 287 identifiants distincts ; aucun doublon détecté au contrôle du 13/10/2026 à 21:22:03 (+02:00) |
+| Graphe des prérequis v3.0 | 287 définitions distinctes ; aucune référence inconnue ni aucun cycle détecté par le contrôle automatisé du 13/10/2026 à 21:22:03 (+02:00) |
+| Migration des anciennes versions | Non finalisée ; correspondances historiques à documenter |
+| Validation de la matrice CléA et du référentiel régional | En cours ; preuves documentaires à compléter |
+| Validation pédagogique en situation réelle | À réaliser et à consigner |
 
 ## 3. Documents historiques et archives
 
