@@ -221,7 +221,8 @@ Le répertoire d’hébergement porte une date de 2021 ; le document indique une
 
 ### 8.2 Sous-domaine 2.2 — Résoudre un problème mettant en jeu une ou plusieurs opérations
 
-|Critère CléA ou déclinaison de couverture  | Fiches du catalogue actuel  | Nature proposée  | État et contrôle restant|---|---|---|---|
+| Critère CléA ou déclinaison de couverture | Fiches du catalogue actuel | Nature proposée | État et contrôle restant |
+|---|---|---|---|
 | **2-2-1 — Résoudre un problème mettant en jeu une ou plusieurs opérations : apprentissage de la résolution** | PROB-01, PROB-03, PROB-04, PROB-05 ; PROB-06 et PROB-07 selon les tâches | E proposée | À vérifier : contrôler l’identification des données utiles, le choix de l’opération, les problèmes à une ou plusieurs opérations et, le cas échéant, la représentation et le contrôle de la réponse. |
 | **2-2-1 — Application contextualisée du critère 2-2-1 — Résolution de problèmes** | SIT-01 pour les problèmes de budget à plusieurs opérations ; autres SIT uniquement si leur objectif correspond au critère | A proposée | À vérifier : vérifier que la situation demande réellement de choisir et de mobiliser une ou plusieurs opérations. Les fiches CAL peuvent constituer des prérequis, mais ne prouvent pas à elles seules la maîtrise de la résolution de problème. |
 | **2-2-2 — Comprendre et utiliser les pourcentages : acquisition et calculs** | PCT-01 à PCT-06 ; PCT-08 et PCT-09 uniquement si leurs objectifs correspondent au critère source | E proposée, à répartir fiche par fiche | À vérifier : contrôler le sens du pourcentage, les écritures équivalentes, le calcul d’une partie ou d’un total et les évolutions lorsque celles-ci sont dans le périmètre du critère. |

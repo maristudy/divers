@@ -190,13 +190,10 @@ Aucun ancien identifiant ne doit être transformé automatiquement à partir de 
 
 Chaque ligne de ce tableau correspond à un ancien identifiant précis. Les données historiques sont transcrites depuis l’archive source ; la cible v3.0, la décision et sa justification sont renseignées après comparaison. La preuve doit identifier le fichier historique et, si possible, la section ou la page consultée.
 
+**État au 14 octobre 2026 : migration individuelle non finalisée.** Aucune ligne ne sera déclarée migrée tant que l’ancien identifiant, l’intitulé historique, l’objectif source, la cible v3.0, la décision et la preuve d’archive n’auront pas été établis. Chaque ancien identifiant recensé dans les archives fera l’objet d’une ligne distincte. Les correspondances GAV et ESP de la section E2 bis restent des propositions à confirmer, et non des décisions de migration validées.
+
 | Version source | Ancien ID | Ancien intitulé exact | Objectif principal historique | ID cible v3.0 | Liens secondaires | Décision | Justification de la correspondance | Preuve consultée | État |
 |---|---|---|---|---|---|---|---|---|---|
-| À renseigner | À relever dans l’archive | À transcrire sans modification | À comparer au contenu historique | À établir | Selon la tâche | Conservation / renommage / scission / fusion / retrait / à arbitrer | À documenter | Nom du fichier, version et section ou page | À vérifier |
-| 1.1 | À relever dans l’archive | À transcrire depuis l’archive | À comparer au contenu historique | À établir après comparaison | Selon la tâche | À arbitrer après examen | Comparer l’objectif et le contenu de la fiche historique avec les fiches candidates de la version 3.0 | Archive V1.1 : fichier, section ou page à renseigner | À vérifier |
-| 2.1 | À relever dans l’archive | À transcrire depuis l’archive | À comparer au contenu historique | À établir après comparaison | Selon la tâche | À arbitrer après examen | Comparer l’objectif et le contenu de la fiche historique avec les fiches candidates de la version 3.0 | Archive V2.1 : fichier, section ou page à renseigner | À vérifier |
-| 2.2 | À relever dans l’archive | À transcrire depuis l’archive | À comparer au contenu historique | À établir après comparaison | Selon la tâche | À arbitrer après examen | Comparer l’objectif et le contenu de la fiche historique avec les fiches candidates de la version 3.0 | Archive V2.2 : fichier, section ou page à renseigner | À vérifier |
-| 2.3 | À relever dans l’archive | À transcrire depuis l’archive | À comparer au contenu historique | À établir après comparaison | Selon la tâche | À arbitrer après examen | Comparer l’objectif et le contenu de la fiche historique avec les fiches candidates de la version 3.0 | Archive V2.3 : fichier, section ou page à renseigner | À vérifier |
 
 
 ## E2 bis. Migration ciblée des anciennes familles GAV et ESP
@@ -322,9 +319,9 @@ Ce gel de structure ne vaut pas validation complète du référentiel. Le rappor
 
 Ces résultats valident les contrôles structurels couverts par le script, dans les limites de son extraction. Ils ne constituent pas une validation de la pertinence pédagogique des dépendances, de la couverture effective des critères CléA, de la conformité au référentiel régional, de la migration historique ni de la qualité des tâches proposées.
 
-La validation exhaustive de la matrice, la migration historique et la validation pédagogique en situation réelle demeurent des travaux distincts. Le gel de structure peut être maintenu ; la validation complète de l’ensemble du référentiel reste en attente de la clôture documentée de ces contrôles. Toute modification ultérieure touchant aux identifiants, aux familles, aux objectifs ou aux dépendances devra être justifiée, tracée et répercutée dans les documents canoniques concernés.
-
+La validation exhaustive de la matrice, la migration historique et la validation pédagogique en situation réelle demeurent des travaux distincts. Le gel de structure peut être maintenu ; la validation complète de l’ensemble du référentiel reste en attente de la clôture documentée de ces contrôles. 
 Toute modification ultérieure touchant aux identifiants, aux familles, aux objectifs ou aux dépendances devra être justifiée, tracée et répercutée dans les documents canoniques concernés.
+
 
 ## F3. Contrôles métier et limites de couverture
 
@@ -404,15 +401,15 @@ Les textes officiels fixent les attendus de leurs périmètres respectifs. Les f
 | Élément | État documentaire |
 |---|---|
 | Périmètre pédagogique général | Défini ; traçabilité exhaustive des référentiels en cours |
-| Familles complémentaires PUI, FONC, STAT, GEO3 et ALGO | Présentes dans le catalogue et le graphe ; intégration structurelle contrôlée le 13/10/2026 |
 | Matrice de traçabilité des référentiels — Prépa Clé v1.0 | Document actif ; correspondances à vérifier ligne par ligne |
 | Matrice maîtresse historique v1.0 | Archive distincte conservée pour comparaison |
 | Archive qualité | Conservée à titre historique |
-| Catalogue maître v3.0 | 287 identifiants distincts ; aucun doublon détecté au contrôle du 13/10/2026 à 21:22:03 (+02:00) |
-| Graphe des prérequis v3.0 | 287 définitions distinctes ; aucune référence inconnue ni aucun cycle détecté par le contrôle automatisé du 13/10/2026 à 21:22:03 (+02:00) |
 | Migration des anciennes versions | Non finalisée ; correspondances historiques à documenter |
 | Validation de la matrice CléA et du référentiel régional | En cours ; preuves documentaires à compléter |
 | Validation pédagogique en situation réelle | À réaliser et à consigner |
+| Familles complémentaires PUI, FONC, STAT, GEO3 et ALGO | Présentes dans le catalogue et le graphe ; contrôle structurel automatisé confirmé le 14/10/2026 |
+| Catalogue maître v3.0 | 287 identifiants distincts ; aucun doublon détecté au contrôle du 14/10/2026 à 18:20:51 (+02:00) |
+| Graphe des prérequis v3.0 | 287 définitions distinctes ; aucune référence inconnue ni aucun cycle détecté par le contrôle automatisé du 14/10/2026 à 18:20:51 (+02:00) |
 
 ## 3. Documents historiques et archives
 

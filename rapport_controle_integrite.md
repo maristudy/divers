@@ -1,6 +1,6 @@
 # Rapport de contrôle d'intégrité
 
-- Date du contrôle : 2026-10-14T18:20:51+02:00
+- Date du contrôle : 2026-10-14T18:49:52+02:00
 - Catalogue contrôlé : `Catalogue maître des fiches — Prépa Clé Mathématiques - v3.0.md`
 - Graphe contrôlé : `Graphe des prérequis — v3.0.md`
 - Identifiants distincts du catalogue : 287
