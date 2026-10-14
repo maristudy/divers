@@ -1,0 +1,1144 @@
+Voici la version consolidée du kit de production des fiches Prépa Clé, avec les corrections intégrées :
+- Aucune notation ni aucun barème.
+- Les erreurs fréquentes et les stratégies d’aide figurent dans la fiche formateur.
+- Les badges RECTEC disposent d’une rubrique dédiée, avec traçabilité vers les sources officielles.
+- Les prérequis reprennent leur ID et leur intitulé officiel, extraits du graphe et du catalogue.
+- La dernière feuille est conçue pour être conservée par l’apprenant : ressources de révision, carte mentale et flashcards à découper.
+- Les données de cette maquette sont fictives ; les champs sont destinés à être remplacés par les données validées du dépôt.
+1. Composition du kit
+
+
+
+
+pictogrammes flashcard cours / exercices
+blob:https://chatgpt.com/0d089c47-42c1-4ef8-a110-97fd5fb5daea
+
+
+
+
+A — Fiche apprenant
+3 feuilles recto verso : identité et objectifs, cours et exemple guidé, exercices progressifs, problèmes, autoévaluation, ressources, carte mentale et flashcards.
+
+https://in.pinterest.com/pin/download-free-vector-of-open-book-minimal-design--422705115039151811/
+
+
+
+
+
+
+
+
+
+
+B — Fiche formateur
+Corrigés détaillés, démarches alternatives, erreurs fréquentes, indices de difficulté, aides à proposer, repères RECTEC et critères qualitatifs de progression.
+
+https://images.openai.com/static-rsc-4/8ZrAQYQykQkk1CNve_QFY1dV8ZT9YcvVJzAzaRmDOxJ6M17-DwuJvO0WPR1kkEK1DiHrezUBFlQEaxqswzaTv9LWFi1OEm6BzT0TONI2xZVHQht3Fy3C8owljLwCDxvaSHee7pwdy-60ymfYo3UozkWxcvw9KDMiS0Vo3FasPZF1mWMqzFT0WTlTCIMvyyvI?purpose=fullsize
+
+
+
+
+
+
+
+
+
+
+C — Fiche de remédiation
+Diagnostic pédagogique, prérequis à reprendre, étapes de reprise, exercices ciblés et liens vers les fiches associées.
+
+https://images.openai.com/static-rsc-4/7ZHp5LhFOhYvbDVlxauSkAEhlGexq66L24rB8Bnizc-MU15wDDwv76XOIONdgDONXcJMw4TDM9pxI1FqJ90-9dmOtL75UCX_0ypsNIokDkhCopN2p9VQA_0137YyWMqdnull3BbSo02iBpARKj-ICnDp__LtgAxFgT391-3zwpcy4U9t30CrIsNEioSTMX_S?purpose=fullsize
+
+
+
+
+
+
+
+
+
+
+D — Fiche des méthodes explicatives alternatives
+Explications verbales, visuelles, manipulatoires et procédurales, avec conditions d’utilisation et vérification de la compréhension.
+
+https://www.rawpixel.com/image/6685591/light-bulb-line-icon-minimal-design-psd
+
+
+
+
+
+
+
+
+
+
+E — Fiche adaptations et accessibilité
+Aménagements possibles selon les obstacles observés, notamment pour les troubles dys, sans présumer qu’un même aménagement convient à tous.
+
+https://sinfonicadimilano.org/it/eventi/2025-26/requiem-verdi
+
+
+
+
+
+
+
+
+
+
+F — Fiche ressources et traçabilité
+Ressources externes vérifiées, sources officielles, liens entre fiches, référentiels, compétences mathématiques et compétences RECTEC.
+
+https://www.iconfinder.com/icons/547718/css_html_hyperlink_link_nexus_page_web_icon
+
+2. Template A — Fiche apprenant
+Maquette fictive — six faces d’impression réparties sur trois feuilles. Les noms de champs entre crochets sont des zones à renseigner.
+[ID] — [Intitulé officiel de la fiche]
+Version du document : Lorem ipsum — maquette 0.1
+Statut : À valider
+Référentiel(s) : [Intitulé officiel, version et compétence ciblée]
+Domaine : [Domaine officiel]
+Chapitre : [Chapitre officiel]
+Sous-chapitre : [Sous-chapitre officiel]
+FEUILLE 1 — RECTO : IDENTITÉ ET OBJECTIFS
+1. Identification pédagogique
+- ID : NUM-XX
+- Intitulé officiel : Lorem ipsum dolor sit amet
+- Type dominant : PR
+- Public / niveau : [À préciser]
+- Durée indicative : [À préciser]
+- Matériel nécessaire : [À préciser]
+- Calculatrice : [Autorisée / non autorisée / selon l’exercice]
+2. Prérequis
+- [ID officiel] — [Intitulé exact issu du graphe et du catalogue]
+- [ID officiel] — [Intitulé exact issu du graphe et du catalogue]
+3. Objectif principal
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+4. Objectifs opérationnels
+À la fin de cette fiche, je suis capable de :
+- [Action observable 1]
+- [Action observable 2]
+- [Action observable 3]
+5. Critères de réussite
+- [Indicateur observable 1]
+- [Indicateur observable 2]
+- [Indicateur observable 3]
+6. Vocabulaire clé
+- [Terme 1] : Lorem ipsum.
+- [Terme 2] : Lorem ipsum.
+- [Terme 3] : Lorem ipsum.
+7. Repères RECTEC
+- Compétence(s) associée(s) : [Code et intitulé officiels, si association justifiée]
+- Situation mobilisant la compétence : Lorem ipsum.
+- Preuve observable : [Production ou démarche permettant de constater la compétence]
+
+FEUILLE 1 — VERSO : COURS ET EXEMPLE GUIDÉ
+8. L’essentiel du cours
+Définition
+Lorem ipsum dolor sit amet.
+Règle ou propriété
+Lorem ipsum dolor sit amet.
+Méthode
+1. Lorem ipsum.
+2. Lorem ipsum.
+3. Lorem ipsum.
+Exemple entièrement expliqué
+- Énoncé : Lorem ipsum.
+- Étape 1 : Lorem ipsum.
+- Étape 2 : Lorem ipsum.
+- Résultat : Lorem ipsum.
+- Vérification : Lorem ipsum.
+9. À retenir
+- Lorem ipsum.
+- Lorem ipsum.
+- Lorem ipsum.
+
+FEUILLE 2 — RECTO : EXERCICES PROGRESSIFS
+10. Exercices d’application directe
+Exercice [ID_EXERCICE_01] — Niveau : découverte
+Consigne : Lorem ipsum dolor sit amet.
+Réponse / espace de travail :
+....................................................................
+Exercice [ID_EXERCICE_02] — Niveau : entraînement
+Consigne : Lorem ipsum dolor sit amet.
+Réponse / espace de travail :
+....................................................................
+Exercice [ID_EXERCICE_03] — Niveau : consolidation
+Consigne : Lorem ipsum dolor sit amet.
+Réponse / espace de travail :
+....................................................................
+
+FEUILLE 2 — VERSO : PROBLÈMES ET AUTOÉVALUATION
+11. Mise en situation
+Exercice [ID_EXERCICE_04] — Situation contextualisée
+Contexte : Lorem ipsum dolor sit amet.
+Travail demandé : Lorem ipsum dolor sit amet.
+Démarche :
+....................................................................
+Réponse :
+....................................................................
+12. Autoévaluation
+Pour chaque proposition, je coche la case correspondante.
+- Je sais expliquer la notion avec mes mots.
+- Je sais appliquer la méthode sans aide.
+- Je sais vérifier mon résultat.
+- Je sais repérer une erreur fréquente.
+- Je sais dans quelle situation utiliser cette notion.
+Mon prochain objectif : Lorem ipsum.
+Fiche à reprendre si nécessaire : [ID + intitulé officiel].
+
+FEUILLE 3 — RECTO : RESSOURCES POUR RÉVISER
+13. Ressources externes
+Ressource 1 — Vidéo explicative
+- Titre : [Titre exact]
+- Auteur / organisme : [Nom]
+- URL : [Lien direct vérifié]
+- Notion travaillée : Lorem ipsum.
+- Date de vérification : [AAAA-MM-JJ]
+Ressource 2 — Exercices interactifs
+- Plateforme : [MathALÉA ou autre]
+- Titre / activité : [Titre exact]
+- URL : [Lien direct vérifié]
+- Notion travaillée : Lorem ipsum.
+- Date de vérification : [AAAA-MM-JJ]
+Ressource 3 — Manuel ou cours
+- Source : [Sésamath, Le Livre Scolaire ou autre]
+- Titre / chapitre / page : [Référence précise]
+- URL : [Lien direct vérifié]
+- Notion travaillée : Lorem ipsum.
+14. Pour continuer
+- Fiche prérequise : [ID + intitulé officiel]
+- Fiche de renforcement : [ID + intitulé officiel]
+- Fiche associée : [ID + intitulé officiel]
+
+FEUILLE 3 — VERSO : CARTE MENTALE ET FLASHCARDS
+15. Carte mentale
+Notion centrale : Lorem ipsum.
+Branche 1 — Définitions : Lorem ipsum.
+Branche 2 — Règles : Lorem ipsum.
+Branche 3 — Méthode : Lorem ipsum.
+Branche 4 — Vérification : Lorem ipsum.
+16. Flashcards à découper
+Pictogramme C — Cours / Théorie
+- Fiche : [ID] — [Intitulé officiel complet]
+- Question : Lorem ipsum ?
+- Réponse au verso : Lorem ipsum.
+Pictogramme E — Exercices / Application
+- Fiche : [ID] — [Intitulé officiel complet]
+- Question ou exercice : Lorem ipsum.
+- Réponse et méthode au verso : Lorem ipsum.
+Chaque carte porte l’ID et le titre complet de la fiche. Les pictogrammes sont en noir et blanc. Prévoir des traits de découpe et des marges suffisantes.
+
+
+
+
+3. Template B — Fiche formateur
+GUIDE FORMATEUR — [ID] — [Intitulé officiel de la fiche]
+Version : Lorem ipsum — maquette 0.1
+Fiche apprenant associée : [ID + intitulé officiel]
+Référentiel(s) : [Références officielles]
+Objectif principal : Lorem ipsum.
+1. Préparation de la séance
+- Acquis à vérifier : Lorem ipsum.
+- Prérequis : [ID + intitulé officiel pour chaque fiche concernée].
+- Matériel : Lorem ipsum.
+- Points de vigilance : Lorem ipsum.
+- Difficultés anticipées : Lorem ipsum.
+2. Corrigés détaillés
+Exercice [ID_EXERCICE_01]
+- Énoncé : Lorem ipsum.
+- Réponse attendue : Lorem ipsum.
+- Étapes de résolution : Lorem ipsum.
+- Justification mathématique : Lorem ipsum.
+- Vérification du résultat : Lorem ipsum.
+- Autre méthode acceptable : Lorem ipsum.
+Exercice [ID_EXERCICE_02]
+- Énoncé : Lorem ipsum.
+- Réponse attendue : Lorem ipsum.
+- Étapes de résolution : Lorem ipsum.
+- Justification mathématique : Lorem ipsum.
+- Vérification du résultat : Lorem ipsum.
+- Autre méthode acceptable : Lorem ipsum.
+3. Erreurs fréquentes et remédiation
+Erreur [ERREUR_01]
+- Manifestation : Lorem ipsum.
+- Origine possible : Lorem ipsum.
+- Question de diagnostic : Lorem ipsum.
+- Aide à proposer : Lorem ipsum.
+- Exercice de reprise : [ID + intitulé officiel].
+- Critère de progression : Lorem ipsum.
+Erreur [ERREUR_02]
+- Manifestation : Lorem ipsum.
+- Origine possible : Lorem ipsum.
+- Question de diagnostic : Lorem ipsum.
+- Aide à proposer : Lorem ipsum.
+- Exercice de reprise : [ID + intitulé officiel].
+- Critère de progression : Lorem ipsum.
+4. Déroulement pédagogique possible
+1. Rappel des prérequis : Lorem ipsum.
+2. Explication et démonstration : Lorem ipsum.
+3. Exemple guidé : Lorem ipsum.
+4. Entraînement autonome : Lorem ipsum.
+5. Vérification de la compréhension : Lorem ipsum.
+6. Décision pédagogique : poursuivre, reprendre un point ou orienter vers une remédiation.
+5. Traçabilité RECTEC
+- Référentiel RECTEC : [Titre, version et source officielle].
+- Code de compétence : [Code officiel].
+- Intitulé de compétence : [Intitulé officiel].
+- Niveau de maîtrise visé : [Niveau défini par le référentiel retenu].
+- Situation mobilisatrice : Lorem ipsum.
+- Comportements observables : Lorem ipsum.
+- Éléments de preuve : Lorem ipsum.
+- Conditions de réalisation : Lorem ipsum.
+- Pistes de progression : Lorem ipsum.
+- Source précise : [Document, version, page ou URL].
+L’association RECTEC doit être justifiée par une situation et des éléments observables. Elle ne vaut pas attribution automatique d’un badge ou certification.
+6. Orientation après la séance
+- Si la notion est comprise : [ID + titre de la fiche suivante].
+- Si une difficulté persiste : [ID + titre de la fiche de remédiation].
+- Si un prérequis manque : [ID + titre de la fiche prérequise].
+- Si un approfondissement est pertinent : [ID + titre de la fiche associée].
+7. Observations du formateur
+- Difficultés effectivement rencontrées : Lorem ipsum.
+- Aides efficaces : Lorem ipsum.
+- Méthodes à privilégier lors d’une prochaine séance : Lorem ipsum.
+- Points à revoir dans la fiche : Lorem ipsum.
+
+
+
+
+4. Template C — Fiche de remédiation
+REMÉDIATION — [ID_REMEDIATION] — [Intitulé officiel]
+Fiche principale concernée : [ID + intitulé officiel]
+Version : Lorem ipsum — maquette 0.1
+1. Difficulté ciblée
+- Compétence mathématique : Lorem ipsum.
+- Difficulté observée : Lorem ipsum.
+- Manifestation dans le travail : Lorem ipsum.
+- Hypothèses à vérifier : Lorem ipsum.
+2. Diagnostic court
+Question ou tâche de diagnostic 1 : Lorem ipsum.
+- Réponse ou démarche observée : Lorem ipsum.
+- Interprétation pédagogique : Lorem ipsum.
+Question ou tâche de diagnostic 2 : Lorem ipsum.
+- Réponse ou démarche observée : Lorem ipsum.
+- Interprétation pédagogique : Lorem ipsum.
+3. Retour aux prérequis
+- [ID + intitulé officiel] — objectif de reprise : Lorem ipsum.
+- [ID + intitulé officiel] — objectif de reprise : Lorem ipsum.
+4. Parcours de remédiation
+Étape 1 — Reprendre le sens
+Explication simplifiée : Lorem ipsum.
+Étape 2 — Visualiser ou manipuler
+Support proposé : Lorem ipsum.
+Étape 3 — Résoudre avec un guidage
+Exercice : Lorem ipsum.
+Étape 4 — S’entraîner sans guidage
+Exercice : Lorem ipsum.
+Étape 5 — Réinvestir
+Situation : Lorem ipsum.
+5. Vérification de la progression
+- Ce que l’apprenant sait désormais faire : Lorem ipsum.
+- Ce qui reste difficile : Lorem ipsum.
+- Prochaine étape : [ID + intitulé officiel].
+- Critère de sortie de remédiation : Lorem ipsum, formulé comme une capacité observable.
+6. Ressources associées
+- [ID + titre de la fiche de cours].
+- [ID + titre de la fiche d’exercices].
+- [Titre et URL d’une ressource externe vérifiée].
+
+
+
+
+5. Template D — Méthodes explicatives alternatives
+MÉTHODES EXPLICATIVES — [ID] — [Intitulé officiel de la fiche]
+Notion ciblée : Lorem ipsum.
+Objectif mathématique conservé : Lorem ipsum.
+1. Explication verbale
+- Principe : expliquer la notion avec des mots simples.
+- Formulation proposée : Lorem ipsum.
+- Exemple oral : Lorem ipsum.
+- Question de vérification : Lorem ipsum.
+- Point de vigilance : Lorem ipsum.
+2. Explication visuelle
+- Support : schéma, tableau, droite graduée ou représentation graphique.
+- Description du support : Lorem ipsum.
+- Lien entre représentation et notion : Lorem ipsum.
+- Question de vérification : Lorem ipsum.
+3. Explication manipulatoire
+- Matériel : Lorem ipsum.
+- Action demandée : Lorem ipsum.
+- Observation attendue : Lorem ipsum.
+- Lien vers l’écriture mathématique : Lorem ipsum.
+- Question de vérification : Lorem ipsum.
+4. Explication procédurale
+- Étape 1 — Le formateur montre : Lorem ipsum.
+- Étape 2 — L’apprenant réalise avec aide : Lorem ipsum.
+- Étape 3 — L’apprenant réalise seul : Lorem ipsum.
+- Étape 4 — L’apprenant explique sa démarche : Lorem ipsum.
+5. Choix de la méthode
+- Difficulté observée : Lorem ipsum.
+- Méthode à essayer en premier : Lorem ipsum.
+- Raison du choix : Lorem ipsum.
+- Indice montrant que la méthode fonctionne : Lorem ipsum.
+- Autre méthode à essayer si nécessaire : Lorem ipsum.
+6. Liens avec les autres fiches
+- Fiche principale : [ID + titre].
+- Prérequis : [ID + titre].
+- Remédiation : [ID + titre].
+- Exercices complémentaires : [ID + titre].
+
+
+
+
+6. Template E — Adaptations et accessibilité
+ADAPTATIONS ET ACCESSIBILITÉ — [ID] — [Intitulé officiel]
+Objectif mathématique de référence : Lorem ipsum.
+Principe : adapter l’accès à la tâche et les modalités de travail selon les besoins observés, sans modifier automatiquement la compétence mathématique visée.
+1. Analyse de l’obstacle
+- Besoin ou difficulté observée : Lorem ipsum.
+- Tâche concernée : Lorem ipsum.
+- Obstacle identifié : Lorem ipsum.
+- Effet sur l’apprentissage : Lorem ipsum.
+2. Aménagements envisageables
+Lisibilité et présentation
+- Police et taille adaptées aux besoins.
+- Espacement suffisant entre les lignes et les exercices.
+- Présentation aérée, marges et repères visuels cohérents.
+- Limitation des éléments décoratifs inutiles.
+Lecture et compréhension des consignes
+- Consignes courtes, segmentées et explicites.
+- Vocabulaire mathématique clarifié.
+- Exemple de format de réponse si nécessaire.
+- Lecture orale de la consigne lorsque cela est pertinent.
+Organisation et planification
+- Une action principale par étape.
+- Étapes numérotées et procédure visible.
+- Repérage clair des données utiles.
+- Temps de traitement et pauses adaptés aux besoins observés.
+Représentations mathématiques
+- Schémas, tableaux, couleurs si elles restent lisibles en noir et blanc.
+- Supports manipulatoires lorsque pertinents.
+- Verbalisation des étapes de calcul.
+- Repères visuels stables.
+Modalités de réponse
+- Réponse orale lorsque l’écriture n’est pas l’objet évalué.
+- Utilisation d’un outil adapté si autorisée.
+- Espace de calcul suffisant.
+- Temps supplémentaire si justifié par les besoins et le cadre applicable.
+3. Adaptations selon les obstacles rencontrés
+- Lecture et décodage : réduire la charge de lecture non nécessaire, expliciter le vocabulaire et segmenter la consigne.
+- Écriture et organisation spatiale : aérer les opérations, aligner les nombres et proposer des gabarits si utiles.
+- Numération et sens du nombre : utiliser des représentations, du matériel et des étapes explicites.
+- Attention et mémoire de travail : externaliser les étapes, limiter les informations simultanées et rendre les consignes accessibles pendant l’activité.
+Ces propositions sont des pistes à tester, pas des prescriptions automatiques associées à un diagnostic.
+4. Suivi de l’adaptation
+- Aménagement retenu : Lorem ipsum.
+- Raison du choix : Lorem ipsum.
+- Effet observé : Lorem ipsum.
+- Difficulté persistante : Lorem ipsum.
+- Adaptation à conserver ou modifier : Lorem ipsum.
+- Échange avec l’apprenant ou l’équipe concernée : Lorem ipsum.
+5. Ressources associées
+- Fiche de remédiation : [ID + titre].
+- Méthode explicative alternative : [ID + titre].
+- Ressource spécialisée : [Titre, organisme et URL vérifiés].
+
+
+
+
+7. Template F — Ressources et traçabilité
+RESSOURCES ET TRAÇABILITÉ — [ID] — [Intitulé officiel]
+1. Ressources pédagogiques externes
+Pour chaque ressource :
+- Type : vidéo / cours / manuel / exercice interactif / autre.
+- Titre exact : Lorem ipsum.
+- Auteur ou organisme : Lorem ipsum.
+- URL directe : [Lien vérifié].
+- Notion ciblée : Lorem ipsum.
+- Niveau ou public : [Information publiée par la source].
+- Intérêt pédagogique : Lorem ipsum.
+- Date de vérification du lien : [AAAA-MM-JJ].
+- Conditions de réutilisation : [Licence ou conditions applicables].
+2. Traçabilité du catalogue
+- ID de la fiche : [ID officiel].
+- Intitulé officiel : [Titre exact du catalogue maître].
+- Type dominant : [Code officiel].
+- Référentiel(s) associé(s) : [Références exactes].
+- Version de la source : [Version].
+- Source de référence : [Nom exact du fichier maître].
+3. Traçabilité des prérequis
+Pour chaque prérequis :
+- ID : [ID issu du graphe].
+- Intitulé officiel : [Intitulé exact du catalogue].
+- Lien dans le graphe : [Relation source → cible].
+- Justification pédagogique : Lorem ipsum.
+4. Traçabilité des compétences RECTEC
+- Référentiel RECTEC : [Titre et version].
+- Source officielle : [Document et URL].
+- Code de compétence : [Code exact].
+- Intitulé officiel : [Intitulé exact].
+- Niveau de maîtrise visé : [Selon le référentiel retenu].
+- Situation qui mobilise la compétence : Lorem ipsum.
+- Comportements observables : Lorem ipsum.
+- Éléments de preuve : Lorem ipsum.
+- Justification du rapprochement avec la fiche : Lorem ipsum.
+5. Relations avec les autres fiches
+Pour chaque relation :
+- ID de la fiche liée : [ID].
+- Intitulé officiel : [Titre exact].
+- Nature du lien : prérequis / remédiation / renforcement / prolongement / transversal.
+- Justification : Lorem ipsum.
+6. Historique de production
+- Version de la fiche : Lorem ipsum.
+- Date de création : [AAAA-MM-JJ].
+- Modifications apportées : Lorem ipsum.
+- Vérification des liens : [Date et résultat].
+- Validation pédagogique : [Statut].
+- Points restant à traiter : Lorem ipsum.
+
+
+
+
+8. Organisation proposée des fichiers
+fiches/
+├── templates/
+│   ├── template_fiche_apprenant.md
+│   ├── template_fiche_formateur.md
+│   ├── template_fiche_remediation.md
+│   ├── template_methodes_alternatives.md
+│   ├── template_adaptations_accessibilite.md
+│   └── template_ressources_tracabilite.md
+├── NUM-01/
+│   ├── NUM-01_apprenant.md
+│   ├── NUM-01_formateur.md
+│   ├── NUM-01_remediation.md
+│   ├── NUM-01_methodes_alternatives.md
+│   ├── NUM-01_adaptations_accessibilite.md
+│   └── NUM-01_ressources_tracabilite.md
+└── ...
+
+
+9. Règles communes à toutes les fiches
+1. Identité officielle : l’ID et l’intitulé viennent du catalogue maître.
+2. Prérequis : l’ID, le titre et la relation pédagogique sont vérifiés à partir du graphe et du catalogue.
+3. RECTEC : codes, intitulés et niveaux sont repris du référentiel source. Une association n’est faite que lorsqu’elle est justifiée.
+4. Pas de notation : pas de note, de barème ni de score. On utilise des critères qualitatifs et des comportements observables.
+5. Corrigés : chaque exercice dispose d’une réponse expliquée dans la fiche formateur.
+6. Erreurs fréquentes : elles sont documentées dans la fiche formateur, avec des pistes d’aide et de remédiation.
+7. Accessibilité : les adaptations sont proposées en fonction des obstacles observés et réévaluées.
+8. Ressources : chaque URL est vérifiée avant publication ; son titre et son auteur ou organisme sont renseignés.
+9. Impression : pictogrammes monochromes, marges adaptées, cartes découpables et recto verso contrôlé.
+10. Versionnement : chaque document indique sa version et son statut de validation.
+Ordre de production : valider d’abord ces six templates avec NUM-01, contrôler la mise en page imprimée, puis remplir les champs officiels depuis le dépôt et rédiger les contenus pédagogiques. Les six modèles ci-dessus sont des structures de travail : les données fictives, les codes d’exemple et les relations à compléter ne constituent pas des données validées du référentiel.
+
+********** version Markdown *******************
+
+# [ID] — [Intitulé officiel de la fiche]
+
+**Version du document :** Lorem ipsum — maquette 0.1  
+**Statut :** À valider  
+**Référentiel(s) :** [Intitulé officiel, version et compétence ciblée]  
+**Domaine :** [Domaine officiel]  
+**Chapitre :** [Chapitre officiel]  
+**Sous-chapitre :** [Sous-chapitre officiel]
+
+## FEUILLE 1 — RECTO : IDENTITÉ ET OBJECTIFS
+
+### 1. Identification pédagogique
+
+- **ID :** NUM-XX
+- **Intitulé officiel :** Lorem ipsum dolor sit amet
+- **Type dominant :** PR
+- **Public / niveau :** [À préciser]
+- **Durée indicative :** [À préciser]
+- **Matériel nécessaire :** [À préciser]
+- **Calculatrice :** [Autorisée / non autorisée / selon l’exercice]
+
+### 2. Prérequis
+
+- [ID officiel] — [Intitulé exact issu du graphe et du catalogue]
+- [ID officiel] — [Intitulé exact issu du graphe et du catalogue]
+
+### 3. Objectif principal
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+### 4. Objectifs opérationnels
+
+À la fin de cette fiche, je suis capable de :
+
+- [Action observable 1]
+- [Action observable 2]
+- [Action observable 3]
+
+### 5. Critères de réussite
+
+- [Indicateur observable 1]
+- [Indicateur observable 2]
+- [Indicateur observable 3]
+
+### 6. Vocabulaire clé
+
+- **[Terme 1] :** Lorem ipsum.
+- **[Terme 2] :** Lorem ipsum.
+- **[Terme 3] :** Lorem ipsum.
+
+### 7. Repères RECTEC
+
+- **Compétence(s) associée(s) :** [Code et intitulé officiels, si association justifiée]
+- **Situation mobilisant la compétence :** Lorem ipsum.
+- **Preuve observable :** [Production ou démarche permettant de constater la compétence]
+
+---
+
+## FEUILLE 1 — VERSO : COURS ET EXEMPLE GUIDÉ
+
+### 8. L’essentiel du cours
+
+**Définition**
+
+Lorem ipsum dolor sit amet.
+
+**Règle ou propriété**
+
+Lorem ipsum dolor sit amet.
+
+**Méthode**
+
+1. Lorem ipsum.
+2. Lorem ipsum.
+3. Lorem ipsum.
+
+**Exemple entièrement expliqué**
+
+- Énoncé : Lorem ipsum.
+- Étape 1 : Lorem ipsum.
+- Étape 2 : Lorem ipsum.
+- Résultat : Lorem ipsum.
+- Vérification : Lorem ipsum.
+
+### 9. À retenir
+
+- Lorem ipsum.
+- Lorem ipsum.
+- Lorem ipsum.
+
+---
+
+## FEUILLE 2 — RECTO : EXERCICES PROGRESSIFS
+
+### 10. Exercices d’application directe
+
+**Exercice [ID_EXERCICE_01] — Niveau : découverte**
+
+Consigne : Lorem ipsum dolor sit amet.
+
+Réponse / espace de travail :
+
+....................................................................
+
+**Exercice [ID_EXERCICE_02] — Niveau : entraînement**
+
+Consigne : Lorem ipsum dolor sit amet.
+
+Réponse / espace de travail :
+
+....................................................................
+
+**Exercice [ID_EXERCICE_03] — Niveau : consolidation**
+
+Consigne : Lorem ipsum dolor sit amet.
+
+Réponse / espace de travail :
+
+....................................................................
+
+---
+
+## FEUILLE 2 — VERSO : PROBLÈMES ET AUTOÉVALUATION
+
+### 11. Mise en situation
+
+**Exercice [ID_EXERCICE_04] — Situation contextualisée**
+
+Contexte : Lorem ipsum dolor sit amet.
+
+Travail demandé : Lorem ipsum dolor sit amet.
+
+Démarche :
+
+....................................................................
+
+Réponse :
+
+....................................................................
+
+### 12. Autoévaluation
+
+Pour chaque proposition, je coche la case correspondante.
+
+- [ ] Je sais expliquer la notion avec mes mots.
+- [ ] Je sais appliquer la méthode sans aide.
+- [ ] Je sais vérifier mon résultat.
+- [ ] Je sais repérer une erreur fréquente.
+- [ ] Je sais dans quelle situation utiliser cette notion.
+
+**Mon prochain objectif :** Lorem ipsum.
+
+**Fiche à reprendre si nécessaire :** [ID + intitulé officiel].
+
+---
+
+## FEUILLE 3 — RECTO : RESSOURCES POUR RÉVISER
+
+### 13. Ressources externes
+
+**Ressource 1 — Vidéo explicative**
+
+- Titre : [Titre exact]
+- Auteur / organisme : [Nom]
+- URL : [Lien direct vérifié]
+- Notion travaillée : Lorem ipsum.
+- Date de vérification : [AAAA-MM-JJ]
+
+**Ressource 2 — Exercices interactifs**
+
+- Plateforme : [MathALÉA ou autre]
+- Titre / activité : [Titre exact]
+- URL : [Lien direct vérifié]
+- Notion travaillée : Lorem ipsum.
+- Date de vérification : [AAAA-MM-JJ]
+
+**Ressource 3 — Manuel ou cours**
+
+- Source : [Sésamath, Le Livre Scolaire ou autre]
+- Titre / chapitre / page : [Référence précise]
+- URL : [Lien direct vérifié]
+- Notion travaillée : Lorem ipsum.
+
+### 14. Pour continuer
+
+- Fiche prérequise : [ID + intitulé officiel]
+- Fiche de renforcement : [ID + intitulé officiel]
+- Fiche associée : [ID + intitulé officiel]
+
+---
+
+## FEUILLE 3 — VERSO : CARTE MENTALE ET FLASHCARDS
+
+### 15. Carte mentale
+
+**Notion centrale :** Lorem ipsum.
+
+**Branche 1 — Définitions :** Lorem ipsum.
+
+**Branche 2 — Règles :** Lorem ipsum.
+
+**Branche 3 — Méthode :** Lorem ipsum.
+
+**Branche 4 — Vérification :** Lorem ipsum.
+
+### 16. Flashcards à découper
+
+**Pictogramme C — Cours / Théorie**
+
+- **Fiche :** [ID] — [Intitulé officiel complet]
+- **Question :** Lorem ipsum ?
+- **Réponse au verso :** Lorem ipsum.
+
+**Pictogramme E — Exercices / Application**
+
+- **Fiche :** [ID] — [Intitulé officiel complet]
+- **Question ou exercice :** Lorem ipsum.
+- **Réponse et méthode au verso :** Lorem ipsum.
+
+*Chaque carte porte l’ID et le titre complet de la fiche. Les pictogrammes sont en noir et blanc. Prévoir des traits de découpe et des marges suffisantes.*
+
+
+
+
+# GUIDE FORMATEUR — [ID] — [Intitulé officiel de la fiche]
+
+**Version :** Lorem ipsum — maquette 0.1  
+**Fiche apprenant associée :** [ID + intitulé officiel]  
+**Référentiel(s) :** [Références officielles]  
+**Objectif principal :** Lorem ipsum.
+
+## 1. Préparation de la séance
+
+- **Acquis à vérifier :** Lorem ipsum.
+- **Prérequis :** [ID + intitulé officiel pour chaque fiche concernée].
+- **Matériel :** Lorem ipsum.
+- **Points de vigilance :** Lorem ipsum.
+- **Difficultés anticipées :** Lorem ipsum.
+
+## 2. Corrigés détaillés
+
+### Exercice [ID_EXERCICE_01]
+
+- **Énoncé :** Lorem ipsum.
+- **Réponse attendue :** Lorem ipsum.
+- **Étapes de résolution :** Lorem ipsum.
+- **Justification mathématique :** Lorem ipsum.
+- **Vérification du résultat :** Lorem ipsum.
+- **Autre méthode acceptable :** Lorem ipsum.
+
+### Exercice [ID_EXERCICE_02]
+
+- **Énoncé :** Lorem ipsum.
+- **Réponse attendue :** Lorem ipsum.
+- **Étapes de résolution :** Lorem ipsum.
+- **Justification mathématique :** Lorem ipsum.
+- **Vérification du résultat :** Lorem ipsum.
+- **Autre méthode acceptable :** Lorem ipsum.
+
+## 3. Erreurs fréquentes et remédiation
+
+### Erreur [ERREUR_01]
+
+- **Manifestation :** Lorem ipsum.
+- **Origine possible :** Lorem ipsum.
+- **Question de diagnostic :** Lorem ipsum.
+- **Aide à proposer :** Lorem ipsum.
+- **Exercice de reprise :** [ID + intitulé officiel].
+- **Critère de progression :** Lorem ipsum.
+
+### Erreur [ERREUR_02]
+
+- **Manifestation :** Lorem ipsum.
+- **Origine possible :** Lorem ipsum.
+- **Question de diagnostic :** Lorem ipsum.
+- **Aide à proposer :** Lorem ipsum.
+- **Exercice de reprise :** [ID + intitulé officiel].
+- **Critère de progression :** Lorem ipsum.
+
+## 4. Déroulement pédagogique possible
+
+1. **Rappel des prérequis :** Lorem ipsum.
+2. **Explication et démonstration :** Lorem ipsum.
+3. **Exemple guidé :** Lorem ipsum.
+4. **Entraînement autonome :** Lorem ipsum.
+5. **Vérification de la compréhension :** Lorem ipsum.
+6. **Décision pédagogique :** poursuivre, reprendre un point ou orienter vers une remédiation.
+
+## 5. Traçabilité RECTEC
+
+- **Référentiel RECTEC :** [Titre, version et source officielle].
+- **Code de compétence :** [Code officiel].
+- **Intitulé de compétence :** [Intitulé officiel].
+- **Niveau de maîtrise visé :** [Niveau défini par le référentiel retenu].
+- **Situation mobilisatrice :** Lorem ipsum.
+- **Comportements observables :** Lorem ipsum.
+- **Éléments de preuve :** Lorem ipsum.
+- **Conditions de réalisation :** Lorem ipsum.
+- **Pistes de progression :** Lorem ipsum.
+- **Source précise :** [Document, version, page ou URL].
+
+L’association RECTEC doit être justifiée par une situation et des éléments observables. Elle ne vaut pas attribution automatique d’un badge ou certification.
+
+## 6. Orientation après la séance
+
+- **Si la notion est comprise :** [ID + titre de la fiche suivante].
+- **Si une difficulté persiste :** [ID + titre de la fiche de remédiation].
+- **Si un prérequis manque :** [ID + titre de la fiche prérequise].
+- **Si un approfondissement est pertinent :** [ID + titre de la fiche associée].
+
+## 7. Observations du formateur
+
+- **Difficultés effectivement rencontrées :** Lorem ipsum.
+- **Aides efficaces :** Lorem ipsum.
+- **Méthodes à privilégier lors d’une prochaine séance :** Lorem ipsum.
+- **Points à revoir dans la fiche :** Lorem ipsum.
+
+
+# REMÉDIATION — [ID_REMEDIATION] — [Intitulé officiel]
+
+**Fiche principale concernée :** [ID + intitulé officiel]  
+**Version :** Lorem ipsum — maquette 0.1
+
+## 1. Difficulté ciblée
+
+- **Compétence mathématique :** Lorem ipsum.
+- **Difficulté observée :** Lorem ipsum.
+- **Manifestation dans le travail :** Lorem ipsum.
+- **Hypothèses à vérifier :** Lorem ipsum.
+
+## 2. Diagnostic court
+
+**Question ou tâche de diagnostic 1 :** Lorem ipsum.
+
+- Réponse ou démarche observée : Lorem ipsum.
+- Interprétation pédagogique : Lorem ipsum.
+
+**Question ou tâche de diagnostic 2 :** Lorem ipsum.
+
+- Réponse ou démarche observée : Lorem ipsum.
+- Interprétation pédagogique : Lorem ipsum.
+
+## 3. Retour aux prérequis
+
+- [ID + intitulé officiel] — objectif de reprise : Lorem ipsum.
+- [ID + intitulé officiel] — objectif de reprise : Lorem ipsum.
+
+## 4. Parcours de remédiation
+
+**Étape 1 — Reprendre le sens**
+
+Explication simplifiée : Lorem ipsum.
+
+**Étape 2 — Visualiser ou manipuler**
+
+Support proposé : Lorem ipsum.
+
+**Étape 3 — Résoudre avec un guidage**
+
+Exercice : Lorem ipsum.
+
+**Étape 4 — S’entraîner sans guidage**
+
+Exercice : Lorem ipsum.
+
+**Étape 5 — Réinvestir**
+
+Situation : Lorem ipsum.
+
+## 5. Vérification de la progression
+
+- **Ce que l’apprenant sait désormais faire :** Lorem ipsum.
+- **Ce qui reste difficile :** Lorem ipsum.
+- **Prochaine étape :** [ID + intitulé officiel].
+- **Critère de sortie de remédiation :** Lorem ipsum, formulé comme une capacité observable.
+
+## 6. Ressources associées
+
+- [ID + titre de la fiche de cours].
+- [ID + titre de la fiche d’exercices].
+- [Titre et URL d’une ressource externe vérifiée].
+
+
+
+
+
+# MÉTHODES EXPLICATIVES — [ID] — [Intitulé officiel de la fiche]
+
+**Notion ciblée :** Lorem ipsum.  
+**Objectif mathématique conservé :** Lorem ipsum.
+
+## 1. Explication verbale
+
+- **Principe :** expliquer la notion avec des mots simples.
+- **Formulation proposée :** Lorem ipsum.
+- **Exemple oral :** Lorem ipsum.
+- **Question de vérification :** Lorem ipsum.
+- **Point de vigilance :** Lorem ipsum.
+
+## 2. Explication visuelle
+
+- **Support :** schéma, tableau, droite graduée ou représentation graphique.
+- **Description du support :** Lorem ipsum.
+- **Lien entre représentation et notion :** Lorem ipsum.
+- **Question de vérification :** Lorem ipsum.
+
+## 3. Explication manipulatoire
+
+- **Matériel :** Lorem ipsum.
+- **Action demandée :** Lorem ipsum.
+- **Observation attendue :** Lorem ipsum.
+- **Lien vers l’écriture mathématique :** Lorem ipsum.
+- **Question de vérification :** Lorem ipsum.
+
+## 4. Explication procédurale
+
+- **Étape 1 — Le formateur montre :** Lorem ipsum.
+- **Étape 2 — L’apprenant réalise avec aide :** Lorem ipsum.
+- **Étape 3 — L’apprenant réalise seul :** Lorem ipsum.
+- **Étape 4 — L’apprenant explique sa démarche :** Lorem ipsum.
+
+## 5. Choix de la méthode
+
+- **Difficulté observée :** Lorem ipsum.
+- **Méthode à essayer en premier :** Lorem ipsum.
+- **Raison du choix :** Lorem ipsum.
+- **Indice montrant que la méthode fonctionne :** Lorem ipsum.
+- **Autre méthode à essayer si nécessaire :** Lorem ipsum.
+
+## 6. Liens avec les autres fiches
+
+- Fiche principale : [ID + titre].
+- Prérequis : [ID + titre].
+- Remédiation : [ID + titre].
+- Exercices complémentaires : [ID + titre].
+
+
+
+# ADAPTATIONS ET ACCESSIBILITÉ — [ID] — [Intitulé officiel]
+
+**Objectif mathématique de référence :** Lorem ipsum.  
+**Principe :** adapter l’accès à la tâche et les modalités de travail selon les besoins observés, sans modifier automatiquement la compétence mathématique visée.
+
+## 1. Analyse de l’obstacle
+
+- **Besoin ou difficulté observée :** Lorem ipsum.
+- **Tâche concernée :** Lorem ipsum.
+- **Obstacle identifié :** Lorem ipsum.
+- **Effet sur l’apprentissage :** Lorem ipsum.
+
+## 2. Aménagements envisageables
+
+### Lisibilité et présentation
+
+- Police et taille adaptées aux besoins.
+- Espacement suffisant entre les lignes et les exercices.
+- Présentation aérée, marges et repères visuels cohérents.
+- Limitation des éléments décoratifs inutiles.
+
+### Lecture et compréhension des consignes
+
+- Consignes courtes, segmentées et explicites.
+- Vocabulaire mathématique clarifié.
+- Exemple de format de réponse si nécessaire.
+- Lecture orale de la consigne lorsque cela est pertinent.
+
+### Organisation et planification
+
+- Une action principale par étape.
+- Étapes numérotées et procédure visible.
+- Repérage clair des données utiles.
+- Temps de traitement et pauses adaptés aux besoins observés.
+
+### Représentations mathématiques
+
+- Schémas, tableaux, couleurs si elles restent lisibles en noir et blanc.
+- Supports manipulatoires lorsque pertinents.
+- Verbalisation des étapes de calcul.
+- Repères visuels stables.
+
+### Modalités de réponse
+
+- Réponse orale lorsque l’écriture n’est pas l’objet évalué.
+- Utilisation d’un outil adapté si autorisée.
+- Espace de calcul suffisant.
+- Temps supplémentaire si justifié par les besoins et le cadre applicable.
+
+## 3. Adaptations selon les obstacles rencontrés
+
+- **Lecture et décodage :** réduire la charge de lecture non nécessaire, expliciter le vocabulaire et segmenter la consigne.
+- **Écriture et organisation spatiale :** aérer les opérations, aligner les nombres et proposer des gabarits si utiles.
+- **Numération et sens du nombre :** utiliser des représentations, du matériel et des étapes explicites.
+- **Attention et mémoire de travail :** externaliser les étapes, limiter les informations simultanées et rendre les consignes accessibles pendant l’activité.
+
+Ces propositions sont des pistes à tester, pas des prescriptions automatiques associées à un diagnostic.
+
+## 4. Suivi de l’adaptation
+
+- **Aménagement retenu :** Lorem ipsum.
+- **Raison du choix :** Lorem ipsum.
+- **Effet observé :** Lorem ipsum.
+- **Difficulté persistante :** Lorem ipsum.
+- **Adaptation à conserver ou modifier :** Lorem ipsum.
+- **Échange avec l’apprenant ou l’équipe concernée :** Lorem ipsum.
+
+## 5. Ressources associées
+
+- Fiche de remédiation : [ID + titre].
+- Méthode explicative alternative : [ID + titre].
+- Ressource spécialisée : [Titre, organisme et URL vérifiés].
+
+
+
+# RESSOURCES ET TRAÇABILITÉ — [ID] — [Intitulé officiel]
+
+## 1. Ressources pédagogiques externes
+
+Pour chaque ressource :
+
+- **Type :** vidéo / cours / manuel / exercice interactif / autre.
+- **Titre exact :** Lorem ipsum.
+- **Auteur ou organisme :** Lorem ipsum.
+- **URL directe :** [Lien vérifié].
+- **Notion ciblée :** Lorem ipsum.
+- **Niveau ou public :** [Information publiée par la source].
+- **Intérêt pédagogique :** Lorem ipsum.
+- **Date de vérification du lien :** [AAAA-MM-JJ].
+- **Conditions de réutilisation :** [Licence ou conditions applicables].
+
+## 2. Traçabilité du catalogue
+
+- **ID de la fiche :** [ID officiel].
+- **Intitulé officiel :** [Titre exact du catalogue maître].
+- **Type dominant :** [Code officiel].
+- **Référentiel(s) associé(s) :** [Références exactes].
+- **Version de la source :** [Version].
+- **Source de référence :** [Nom exact du fichier maître].
+
+## 3. Traçabilité des prérequis
+
+Pour chaque prérequis :
+
+- **ID :** [ID issu du graphe].
+- **Intitulé officiel :** [Intitulé exact du catalogue].
+- **Lien dans le graphe :** [Relation source → cible].
+- **Justification pédagogique :** Lorem ipsum.
+
+## 4. Traçabilité des compétences RECTEC
+
+- **Référentiel RECTEC :** [Titre et version].
+- **Source officielle :** [Document et URL].
+- **Code de compétence :** [Code exact].
+- **Intitulé officiel :** [Intitulé exact].
+- **Niveau de maîtrise visé :** [Selon le référentiel retenu].
+- **Situation qui mobilise la compétence :** Lorem ipsum.
+- **Comportements observables :** Lorem ipsum.
+- **Éléments de preuve :** Lorem ipsum.
+- **Justification du rapprochement avec la fiche :** Lorem ipsum.
+
+## 5. Relations avec les autres fiches
+
+Pour chaque relation :
+
+- **ID de la fiche liée :** [ID].
+- **Intitulé officiel :** [Titre exact].
+- **Nature du lien :** prérequis / remédiation / renforcement / prolongement / transversal.
+- **Justification :** Lorem ipsum.
+
+## 6. Historique de production
+
+- **Version de la fiche :** Lorem ipsum.
+- **Date de création :** [AAAA-MM-JJ].
+- **Modifications apportées :** Lorem ipsum.
+- **Vérification des liens :** [Date et résultat].
+- **Validation pédagogique :** [Statut].
+- **Points restant à traiter :** Lorem ipsum.
+
+fiches/
+├── templates/
+│   ├── template_fiche_apprenant.md
+│   ├── template_fiche_formateur.md
+│   ├── template_fiche_remediation.md
+│   ├── template_methodes_alternatives.md
+│   ├── template_adaptations_accessibilite.md
+│   └── template_ressources_tracabilite.md
+├── NUM-01/
+│   ├── NUM-01_apprenant.md
+│   ├── NUM-01_formateur.md
+│   ├── NUM-01_remediation.md
+│   ├── NUM-01_methodes_alternatives.md
+│   ├── NUM-01_adaptations_accessibilite.md
+│   └── NUM-01_ressources_tracabilite.md
+└── ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
