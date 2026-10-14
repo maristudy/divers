@@ -127,32 +127,27 @@ Les résultats des contrôles sont consignés dans le Document F. Le présent r�
 
 | Domaine de compétence | Familles principales | Usage prioritaire |
 |---|---|---|
-| Plans, échelles et orientation | ESP | REG, CAP, agriculture et paysage |
-| Communication du raisonnement | COMM, ACT | REG, CLEA17 |
-| Domaine de compétence | Familles principales | Usage prioritaire |
-|---|---|---|
 | Nombres entiers, décimaux et relatifs | NUM, DEC, REL | REG, CLEA17, collège |
 | Opérations et contrôle du résultat | CAL, PROB | REG, CLEA17, CAP |
-| Divisibilité, facteurs et fractions | DIV, FRA | REG, collège, selon besoins |
+| Divisibilité, facteurs et fractions | DIV, FRA | REG, collège, selon les besoins |
 | Proportionnalité et pourcentages | PROP, PCT | REG, CLEA17, CAP, métiers |
 | Mesures, instruments et conversions | MES, UNIT | REG, CLEA17, CAP |
 | Temps et plannings | TEM | REG, CLEA17, CAP, métiers |
-| Géométrie plane et tracés | GEO, TRA | REG, collège, CAP selon spécialité |
+| Géométrie plane et tracés | GEO, TRA | REG, collège, CAP selon la spécialité |
 | Périmètres et aires | PER, AIR | REG, CLEA17, CAP, espaces verts |
-| Volumes et solides | VOL, GEO3 | REG, CLEA17, CAP selon spécialité |
+| Volumes et solides | VOL, GEO3 | REG, CLEA17, CAP selon la spécialité |
 | Plans, échelles et orientation | ESP | REG, CAP, agriculture et paysage |
 | Tableaux, graphiques et données | DATA | REG, CLEA17, collège, CAP |
 | Calcul littéral et équations | ALG | Collège et parcours de formation pertinents |
-| Puissances et notation scientifique | PUI | Collège ; priorité à déterminer selon le parcours |
-| Fonctions | FONC | Collège ; priorité à déterminer selon le parcours |
-| Probabilités | STAT | Collège ; priorité à déterminer selon le parcours |
-| Algorithmique | ALGO | Collège ; priorité à déterminer selon le parcours |
-| Résolution de problèmes | PROB, SIT | Tous les domaines |
+| Puissances et notation scientifique | PUI | Collège ; priorité selon le parcours |
+| Fonctions | FONC | Collège ; priorité selon le parcours |
+| Probabilités | STAT | Collège ; priorité selon le parcours |
+| Algorithmique | ALGO | Collège ; priorité selon le parcours |
+| Résolution de problèmes | PROB, SIT | Tous les domaines selon les besoins |
 | Communication du raisonnement | COMM, ACT | REG, CLEA17 |
 | Gestion et comptabilité | GEST | Réinvestissement professionnel ciblé |
 | Agriculture et espaces verts | AGR | Réinvestissement professionnel ciblé |
 | Langue et accessibilité | PLURI | Transversal à toutes les familles |
-|---|---|---|
 
 ## D3. Règles de traçabilité
 
@@ -403,8 +398,8 @@ Les textes officiels fixent les attendus de leurs périmètres respectifs. Les f
 
 | Élément | État documentaire |
 |---|---|
-| Périmètre pédagogique général | Défini ; traçabilité exhaustive encore à établir |
-| Familles complémentaires PUI, FONC, STAT, GEO3 et ALGO | Intégrées au catalogue et au graphe ; contrôle structurel actualisé le 13/10/2026 |
+| Périmètre pédagogique général | Défini ; traçabilité exhaustive des référentiels en cours |
+| Familles complémentaires PUI, FONC, STAT, GEO3 et ALGO | Présentes dans le catalogue et le graphe ; intégration structurelle contrôlée le 13/10/2026 |
 | Matrice de traçabilité des référentiels — Prépa Clé v1.0 | Document actif ; correspondances à vérifier ligne par ligne |
 | Matrice maîtresse historique v1.0 | Archive distincte conservée pour comparaison |
 | Archive qualité | Conservée à titre historique |
