@@ -193,6 +193,11 @@ Chaque ligne de ce tableau correspond à un ancien identifiant précis. Les donn
 | Version source | Ancien ID | Ancien intitulé exact | Objectif principal historique | ID cible v3.0 | Liens secondaires | Décision | Justification de la correspondance | Preuve consultée | État |
 |---|---|---|---|---|---|---|---|---|---|
 | À renseigner | À relever dans l’archive | À transcrire sans modification | À comparer au contenu historique | À établir | Selon la tâche | Conservation / renommage / scission / fusion / retrait / à arbitrer | À documenter | Nom du fichier, version et section ou page | À vérifier |
+| 1.1 | À relever dans l’archive | À transcrire depuis l’archive | À comparer au contenu historique | À établir après comparaison | Selon la tâche | À arbitrer après examen | Comparer l’objectif et le contenu de la fiche historique avec les fiches candidates de la version 3.0 | Archive V1.1 : fichier, section ou page à renseigner | À vérifier |
+| 2.1 | À relever dans l’archive | À transcrire depuis l’archive | À comparer au contenu historique | À établir après comparaison | Selon la tâche | À arbitrer après examen | Comparer l’objectif et le contenu de la fiche historique avec les fiches candidates de la version 3.0 | Archive V2.1 : fichier, section ou page à renseigner | À vérifier |
+| 2.2 | À relever dans l’archive | À transcrire depuis l’archive | À comparer au contenu historique | À établir après comparaison | Selon la tâche | À arbitrer après examen | Comparer l’objectif et le contenu de la fiche historique avec les fiches candidates de la version 3.0 | Archive V2.2 : fichier, section ou page à renseigner | À vérifier |
+| 2.3 | À relever dans l’archive | À transcrire depuis l’archive | À comparer au contenu historique | À établir après comparaison | Selon la tâche | À arbitrer après examen | Comparer l’objectif et le contenu de la fiche historique avec les fiches candidates de la version 3.0 | Archive V2.3 : fichier, section ou page à renseigner | À vérifier |
+
 
 ## E2 bis. Migration ciblée des anciennes familles GAV et ESP
 
@@ -272,11 +277,10 @@ Tant que les archives ne sont pas comparées ligne par ligne, la migration histo
 
 # Document F — Registre des contrôles et état de gel
 
-### État des contrôles au 13 octobre 2026
-
+### État des contrôles au 14 octobre 2026
 | Contrôle | État | Suite prévue |
 |---|---|---|
-| Unicité des identifiants du catalogue | Réussi — 287 identifiants distincts ; aucun doublon détecté | Preuve : `rapport_controle_integrite.md`, contrôle du 13/10/2026 à 21:22:03 (+02:00). |
+| Unicité des identifiants du catalogue | Réussi — 287 identifiants distincts ; aucun doublon détecté | Preuve : `rapport_controle_integrite.md`, contrôle du 14/10/2026 à 18:20:51 (+02:00). |
 | Unicité des définitions du graphe | Réussi — 287 définitions distinctes ; aucune définition répétée détectée | Même rapport et même horodatage. |
 | Validité des références du graphe | Réussi pour les références extraites — aucun identifiant du catalogue absent du graphe et aucune référence inconnue détectée | Même rapport et même horodatage. |
 | Absence de cycles dans le graphe | Aucun cycle détecté dans le graphe extrait | Résultat automatisé ; conserver la revue manuelle des alternatives, dépendances conditionnelles et formulations descriptives. |
@@ -314,11 +318,12 @@ Les documents de référence sont :
 
 La matrice maîtresse v1.0 et les autres documents historiques sont conservés pour la traçabilité, sans constituer des sources concurrentes.
 
-Ce gel de structure ne vaut pas validation complète du référentiel. Le rapport `rapport_controle_integrite.md`, généré le 13/10/2026 à 21:22:03 (+02:00), indique 287 identifiants distincts dans le catalogue et 287 définitions distinctes dans le graphe. Le contrôle automatisé ne détecte aucun doublon, aucun identifiant du catalogue absent du graphe, aucune référence inconnue et aucun cycle dans le graphe extrait.
+Ce gel de structure ne vaut pas validation complète du référentiel. Le rapport `rapport_controle_integrite.md`, généré le 14/10/2026 à 18:20:51 (+02:00), indique 287 identifiants distincts dans le catalogue et 287 définitions distinctes dans le graphe. Le contrôle automatisé ne détecte aucun doublon, aucun identifiant du catalogue absent du graphe, aucune référence inconnue et aucun cycle dans le graphe extrait.
 
 Ces résultats valident les contrôles structurels couverts par le script, dans les limites de son extraction. Ils ne constituent pas une validation de la pertinence pédagogique des dépendances, de la couverture effective des critères CléA, de la conformité au référentiel régional, de la migration historique ni de la qualité des tâches proposées.
 
-La validation exhaustive de la matrice, la migration historique et la validation pédagogique en situation réelle demeurent des travaux distincts. Le gel de structure peut être maintenu ; la validation complète de l’ensemble du référentiel reste en attente de la clôture documentée de ces contrôles.
+La validation exhaustive de la matrice, la migration historique et la validation pédagogique en situation réelle demeurent des travaux distincts. Le gel de structure peut être maintenu ; la validation complète de l’ensemble du référentiel reste en attente de la clôture documentée de ces contrôles. Toute modification ultérieure touchant aux identifiants, aux familles, aux objectifs ou aux dépendances devra être justifiée, tracée et répercutée dans les documents canoniques concernés.
+
 Toute modification ultérieure touchant aux identifiants, aux familles, aux objectifs ou aux dépendances devra être justifiée, tracée et répercutée dans les documents canoniques concernés.
 
 ## F3. Contrôles métier et limites de couverture

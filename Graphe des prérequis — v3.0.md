@@ -1,6 +1,6 @@
 # Graphe des prérequis — v3.0
 
-Statut : contrôle structurel automatisé effectué le 13 octobre 2026 à 21:22:03 (+02:00) ; 287 identifiants de catalogue et 287 définitions de graphe, sans doublon, référence inconnue ni cycle détecté lors du contrôle. Ce résultat ne vaut pas validation pédagogique ni validation exhaustive des référentiels. La traçabilité CléA et régionale ainsi que la migration historique vers v3.0 restent à finaliser.
+Statut : contrôle structurel automatisé effectué le 14 octobre 2026 à 18:20:51 (+02:00) ; 287 identifiants de catalogue et 287 définitions de graphe, sans doublon, référence inconnue ni cycle détecté lors du contrôle. Ce résultat ne vaut pas validation pédagogique ni validation exhaustive des référentiels. La traçabilité CléA et régionale ainsi que la migration historique vers v3.0 restent à finaliser.
 
 Le graphe est exprimé sous forme de liste d’adjacence pour rester lisible, diffable dans Git et exploitable pour construire des parcours individualisés. Une fiche indiquée comme « entrée possible » peut être proposée sans prérequis formel, notamment pour un diagnostic.
 

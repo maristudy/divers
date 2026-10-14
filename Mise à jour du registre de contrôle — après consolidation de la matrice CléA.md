@@ -2,7 +2,7 @@
 
 | Contrôle | État à enregistrer | Preuve attendue |
 |---|---|---|
-| Unicité des identifiants du catalogue | Réussi — 287 identifiants distincts, aucun doublon détecté | `rapport_controle_integrite.md` ; contrôle du 13/10/2026 à 21:22:03 (+02:00). |
+| Unicité des identifiants du catalogue | Réussi — 287 identifiants distincts, aucun doublon détecté | `rapport_controle_integrite.md` ; contrôle du 14 octobre à 18:20:51 (+02:00). |
 | Unicité des définitions du graphe | Réussi — 287 définitions distinctes, aucune définition répétée détectée | Même rapport et même horodatage. |
 | Existence des références du graphe | Réussi pour les références extraites — aucun identifiant absent ou inconnu détecté | Même rapport et même horodatage. |
 | Absence de cycles dans le graphe | Aucun cycle détecté par le contrôle automatisé | Même rapport ; revue manuelle des alternatives et dépendances conditionnelles à consigner. |
