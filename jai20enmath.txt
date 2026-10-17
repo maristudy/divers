@@ -1,0 +1,763 @@
+
+      <a href="https://www.youtube.com/watch?v=jlD7XdqMrt4"  aria-label="Suite arithmético-géométrique : l'exercice le PLUS DUR de Terminale Spé Maths (corrigé complet) 9 minutes et 8&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=5gCORcxtdkI"  aria-label="Suites auxiliaire arithmétique - Terminale Maths Spécialité 5 minutes et 43&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Or3vJGpfVag"  aria-label="Suite arithmético-géométrique : exercice type BAC corrigé | Terminale Spé Maths 7 minutes et 47&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=QYT7Ns9Ew5k&pp=0gcJCTsMAYcqIYzv"  aria-label="Équation du second degré à paramètre | Méthode + Exercice corrigé | 1ère Spé Maths (Exemple 2) 5 minutes et 39&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=B3IOZDcBRxE"  aria-label="Ces 8 LIMITES de suites tombent à chaque CONTRÔLE (fais-les) -Terminale Spé Maths 22 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=vmC3R_OiVdg"  aria-label="Résoudre un système avec la somme et le produit des racines | Second degré | Première Spé Maths 3 minutes et 23&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=dT7EbTFG_Js"  aria-label="Limites de suites : la méthode de la quantité conjuguée (forme conjuguée) | Terminale Spé Maths 4 minutes et 43&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=ATy3Mz9KCeQ"  aria-label="Équation du second degré à paramètre | Méthode + Exercice corrigé | 1ère Spé Maths (Exemple 1) 3 minutes et 40&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=JJa4ygGBh4o&pp=0gcJCTsMAYcqIYzv"  aria-label="EXERCICE type devoir : SECOND DEGRÉ–1ÈRE SPÉ–Choisir la forme adaptée d’une fonction du second degré 14 minutes et 54&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=OflKAk5iKU0"  aria-label="La 3ème RÉCURRENCE à savoir faire pour le BAC de maths 5 minutes et 38&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=VjF4_aeIDOA"  aria-label="BINÔME DE NEWTON : démonstration par RÉCURRENCE (de A à Z) 13 minutes et 41&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=hMw5K-sxuIw"  aria-label="Peux-tu résoudre ces 10 AUTOMATISMES ? (niveau première) Épisode 1 15 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=7VJRWSZSwUE"  aria-label="Mes PRONOSTICS BAC 2026 en SPÉ MATHS (à connaitre) 14 minutes et 18&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=H6uHaW_gRx4"  aria-label="On démontre cette croissance comparée. Limite de ln(x)/x quand X tend vers +♾️?Terminale spé maths.  3 minutes et 47&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=reqsY5QOpmc"  aria-label="Pourquoi racine carrée de 2 est un irrationnel 5 minutes et 32&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=c7XaN4fO0zk"  aria-label="À voir absolument ‼️‼️ Équations différentielles y’=ay+f Première situation 4 minutes et 48&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=LPiT7JMmQPs"  aria-label="Ce piège sur la vitesse moyenne trompe 90% des gens ! 4 minutes et 50&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=xzXTrSTIDd8"  aria-label="Pourquoi tu ne rattraperas jamais une tortue, le paradoxe de Zénon 1 minute et 47&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=i1X0Bfi3iEw"  aria-label="Pourquoi les meilleurs en maths ne sont pas les plus doués 2 minutes et 13&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=wwXKf8WuYow&pp=0gcJCTsMAYcqIYzv"  aria-label="Le ZÉRO a été interdit pendant des siècles (et voici pourquoi) 1 minute et 39&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=UDB_VIqQAqc"  aria-label="Pourquoi tes objectifs flous te bloquent en maths 1 minute et 55&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=KLiSlllMuQE"  aria-label="Comment ton bureau influence tes résultats scolaires 2 minutes et 11&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=H8ONHXOGmD0"  aria-label="La routine, ton super pouvoir 1 minute et 57&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=noISLag42AA"  aria-label="Ce que ta note ne dit pas sur ton niveau en Maths 2 minutes et 11&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=SbrFPvLZEnQ"  aria-label="Comment transformer tes erreurs en réussites en Maths 2 minutes et 10&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=-Nj4G4IpfhM"  aria-label="Le vrai secret pour COMPRENDRE les maths !!! 2 minutes et 22&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=viKsXadWN8U"  aria-label="Enigma : la machine N*ZIE que Turing a vaincue 1 minute et 55&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=z41MMylOM1U"  aria-label="Réussir en maths… en travaillant moins !!! 2 minutes et 10&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Odn5qUmoaeA"  aria-label="Quand les maths aident à prendre les plus grandes décisions 1 minute et 42&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=dq0vrpZoHxw"  aria-label="De la peste à la gravité : l'homme qui a changé la science 1 minute et 53&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=kqFyp5iprRM"  aria-label="Ce que Gauss a vu à 10 ans que personne d’autre ne voyait 1 minute et 58&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=_WXzIvCB8xo"  aria-label="Pourquoi tu n’es pas nul en maths (et comment changer ça) 2 minutes et 26&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=yJlyrotXrj0"  aria-label="Fonction exponentielle : les questions types bac à savoir 18 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=puxxC1iVJeU"  aria-label="Exercice Type Bac Variables Aléatoires et Inégalité de Bienaymé-Tchebychev 19 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=F0x6nIQPa-Y"  aria-label="Exercice Type BAC: Suites, Récurrence Théorème de comparaison et Python -Terminale Maths Spé 12 minutes et 44&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Zr6CyAacZeM&pp=0gcJCTsMAYcqIYzv"  aria-label="Les questions Types sur les suites - Terminale Maths Spécialité 14 minutes et 30&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=-HbtXB2GjXg"  aria-label="Les questions types au bac sur la fonction Logarithme Népérien - BAC 2026 Terminale Maths Spécialité 22 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=RTAmNwRbqXM"  aria-label="Bac Maths 2025 : les exercices qui devraient tomber 9 minutes et 1&nbsp;seconde">…</a>
+      <a href="https://www.youtube.com/watch?v=5vZqyLS9-cA&pp=0gcJCTsMAYcqIYzv"  aria-label="Tout ce qu’il faut savoir sur les intégrales et les primitives au bac - Terminale Maths Spé 23 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=OlYwllN7mEI"  aria-label="Les 7 questions types qui tombent au bac - Équations différentielles - Terminale Maths Spécialité 20 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=w16oiWe7xmw"  aria-label="Les limites de suites incontournables pour le bac - Terminale 25 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=Z4ZaWbPK73I"  aria-label="Savoir donner un encadrement en utilisant la fonction inverse - Fonctions de références - Seconde 3 minutes et 52&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=YsdesGDylm4"  aria-label="Relation entre la valeur absolue et distance - Seconde 3 minutes et 23&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=asUfzFLXA5s&pp=0gcJCTsMAYcqIYzv"  aria-label="Comment appliquer la relation de Chasles pour simplifier des écritures - Seconde 4 minutes et 52&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=3XHrgQZzfJM"  aria-label="Résoudre les équations de la forme x² = a - Seconde 3 minutes et 32&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=WOK3Pu6nlRY"  aria-label="Prix TTC, Prix HT et la TVA - Information chiffrée - Seconde 3 minutes et 23&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Snph-r0Nwao"  aria-label="Comment calculer un taux réciproque - Information chiffrée - Seconde 3 minutes et 6&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=fPdBWcQGp2M"  aria-label="Donner le pourcentage d’une augmentation/diminution correspondant à un coefficient multiplicateur 1 minute et 55&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=CZwb8gvfMIQ"  aria-label="Application des pourcentages - Information chiffrée - Seconde 3 minutes et 25&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=ANm2cPtnO2A"  aria-label="Résoudre une équation en utilisant la factorisation - Équations et inéquations - Seconde 7 minutes et 11&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=H76uUAXv0xo"  aria-label="Déterminer la forme canonique d'un trinôme du second degré, Méthode 2 - Première Spécialité 9 minutes et 23&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=B5zL1KleK7w"  aria-label="Savoir si une fonction admet une asymptote horizontale - Limites de fonctions - Terminale 4 minutes et 55&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=xyRQYqjQ4nI"  aria-label="Lever une forme indéterminée à l’aide de la factorisation (quotient) - Terminale 12 minutes et 22&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=NOexnruvvp0"  aria-label="Lever une forme indéterminée à l’aide de la factorisation - Limites de fonctions - Terminale 10 minutes et 56&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=C9KJGZ53JJg"  aria-label="Exercice type sur les ensembles de nombres - Seconde 8 minutes et 8&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=CS4xKwx6uXI"  aria-label="Tout savoir sur les ensembles de nombres - Seconde 11 minutes et 28&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=TgAJ4BjXNeU&pp=0gcJCTsMAYcqIYzv"  aria-label="Équations bicarrées et équations avec changement de variable - Second degré, Première Spécialité 7 minutes et 30&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=uo7LfcPMzWE"  aria-label="Comment résoudre les inéquations de la forme x ≤ a et x ≺ a - Valeurs absolues - Seconde 7 minutes et 13&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=GR-rf-K35wQ"  aria-label="Montrer que les représentations graphiques de deux fonctions affines sont parallèles ou sécantes 3 minutes et 4&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=UhSxdsvmG70"  aria-label="Comment résoudre les inéquations de la forme |x| ≥ a et |x| ≻ a - Valeurs absolues - Seconde 8 minutes et 13&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=VbfirmgoMpA"  aria-label="Comment déterminer une distance dans un repère orthonormé - Vecteurs du plan - Seconde 3 minutes et 47&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=oHici7qvKNk"  aria-label="Comment déterminer l’expression d’une fonction affine à l'aide de deux points - Seconde 4 minutes et 2&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=KdkdNbtme0o"  aria-label="Déterminer l’union de deux intervalles - Seconde 4 minutes et 53&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=wSxFYiR7CpY"  aria-label="Comment résoudre un système linéaire à l'aide de la méthode par combinaison - Seconde 8 minutes et 8&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=T8aeEIoMmak"  aria-label="Exercice classique second degré forme canonique - Second degré - Première Spécialité 5 minutes et 38&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=QeyQeS0LZ7o"  aria-label="Déterminer la forme factorisée d’un polynôme du second degré avec sa représentation graphique 2 minutes et 44&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=bjgtn0hbR00"  aria-label="Lien entre forme canonique d'un polynôme du second degré et sa représentation graphique 2 minutes et 46&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=R-dcJYJMbVE"  aria-label="Comment démontrer qu'un quadrilatère est un parallélogramme avec les vecteurs - Seconde 2 minutes et 48&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=KeXFT63QDrM"  aria-label="Comment déterminer le milieu d’un segment - Vecteurs du plan: Première partie - Seconde 4 minutes et 51&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Ifdu-iFtXv4"  aria-label="Comment calculer les coordonnées d’un vecteur - Vecteurs du plan et colinéarité - Seconde 1 minute et 54&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=xoMPdb2kjQ0"  aria-label="Comment résoudre une inéquation produit - Tableaux de signes - Seconde 8 minutes et 20&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=QQ77Lhv-G9A"  aria-label="Comment dresser le tableau de signe d’un quotient de la forme x → (ax+b) diviser par (cx+d), Seconde 8 minutes et 31&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=PgwP3-AQkoA"  aria-label="Comment dresser le tableau de signe d’un produit de la forme x → (ax + b)(cx + d) - Seconde 7 minutes et 7&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=YgqVQg5LP20"  aria-label="Montrer qu’une suite est géométrique - Première Spécialité 4 minutes et 38&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Ds1bWirFFg8"  aria-label="Étudier le sens de variation d’une suite géométrique - Première Spécialité 2 minutes et 16&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=itJAJCYSfU4"  aria-label="Résoudre une équation quotient de la forme (ax+b)/(cx+d)= k - Équations et inéquations - Seconde 6 minutes et 38&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=KYVVQcqpSBs"  aria-label="Résoudre une équation du premier degré dans C - Les nombres complexes - Terminale Maths Expertes 13 minutes et 14&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=_IuPBEwbvEI"  aria-label="Savoir factoriser à l’aide de facteur commun - Calcul littéral - Lycée 5 minutes et 44&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=UcaO6vD8I78"  aria-label="Comment résoudre une équation produit nul - Équations et inéquations - Lycée 2 minutes et 1&nbsp;seconde">…</a>
+      <a href="https://www.youtube.com/watch?v=ulNlxW3S5h8"  aria-label="Factoriser à l’aide des identités remarquables - Calcul littéral - Lycée 4 minutes et 23&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=0Qib6qLdp1I"  aria-label="Comment résoudre une équation produit nul - Équations et programme de calculs - Collège 4 minutes et 34&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=sZlH9eToN-k"  aria-label="Convertir en radians les mesures données en degrés - Fonctions Trigonométriques - Première Spé 3 minutes et 20&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=mAlUelWQC_8"  aria-label="Tout savoir sur les suites géométriques - Première Spécialité Maths 10 minutes et 45&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=MlhQiN8jrl8"  aria-label="Résoudre une équation quotient de la forme (ax+b)/(cx+d)= 0 - Équations et inéquations - Seconde 5 minutes et 28&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=OWt9NzHXDhw&pp=0gcJCTsMAYcqIYzv"  aria-label="Convertir en degrés les mesures données en radians - Fonctions Trigonométriques - Première Spé 2 minutes et 23&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=cI4qIdYrccY"  aria-label="Étudier la parité d'une fonction - Fonction Trigonométriques - Première Spécialité 5 minutes et 29&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=enrIC-W4p3s"  aria-label="Savoir développer à l’aide de l’identité remarquable (a + b)² - Calcul littéral - Lycée 3 minutes et 2&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=YBUj0npisfY"  aria-label="Déterminer les caractéristiques d'un cercle (centre, rayon) avec (ax^2 + by^2 + cx + dy + e = 0) 6 minutes et 14&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=lgG_17UeKAU"  aria-label="Déterminer une équation de cercle - Géométrie repérée - Première Spécialité 2 minutes et 31&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=r6pUJtwSkXo"  aria-label="Le mystère étonnant des nombres palindromes 3 minutes et 48&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=UnB8WwRLDnc"  aria-label="Savoir développer à l’aide de l’identité remarquable (a - b)² - Calcul littéral - Lycée 3 minutes et 18&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=WoxMw0TQwx0"  aria-label="Comment dériver une fonction de la forme x→ e^ax+b - Fonction exponentielle - Première Spécialité 2 minutes et 39&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=QeWseeu6KSY"  aria-label="Déterminer une valeur de cos(x) ou de sin(x) en utilisant la formule cos²(x) + sin²(x)=1 - Lycée 5 minutes et 7&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=_P8GGQWJ49M"  aria-label="Les 5 récurrences à savoir pour le bac exemple 5 - Terminale Maths Spécialité 10 minutes et 7&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=ZpQbrPmPWhk"  aria-label="Distributivité et double distributivité - Calcul littéral - Collège, Lycée 7 minutes et 24&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=ofPJoprpA2s"  aria-label="Les 5 récurrences à savoir pour le bac exemple 4 - Terminale Maths Spécialité 6 minutes et 13&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=DsYM_icjLcA&pp=0gcJCTsMAYcqIYzv"  aria-label="Démontrer que trois points définissent un plan - Terminale maths Spécialité 4 minutes et 30&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=jO_vftEAPMU&pp=0gcJCTsMAYcqIYzv"  aria-label="Lever une forme indéterminée à l’aide de la factorisation - Les suites - Terminale 7 minutes et 3&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=pbM3gYcjyi8"  aria-label="Les 5 récurrences à savoir pour le bac exemple 3 - Terminale Maths Spécialité 4 minutes et 14&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=-IfacIxo7cM"  aria-label="Déterminer les coefficients d'un trinôme du second degré - Première spécialité 5 minutes et 10&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=ylMjlmCsbMI"  aria-label="Les 5 récurrences à savoir pour le bac exemple 2 - Terminale Maths Spécialité 3 minutes et 57&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Mwb5YEB3Nec"  aria-label="Les 5 récurrences à savoir pour le bac exemple 1 - Terminale Maths Spécialité 3 minutes et 37&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=kzAFs0pUhPs"  aria-label="Déterminer une équation cartésienne d'une hauteur d'un triangle - Première Spécialité 2 minutes et 53&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=FmDTykrI1Os"  aria-label="Déterminer une équation cartésienne d'une médiane d'un triangle - Première Spécialité 3 minutes et 49&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=LdzvBeCmqng"  aria-label="Réussir l'oral de rattrapage Sujet 3 - Terminale Maths Spécialité 13 minutes et 52&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=XynN-56SPDA"  aria-label="Réussir l'oral de rattrapage Sujet 2 - Terminale Maths Spécialité 15 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=h5Q7ZBuJap0"  aria-label="Réussir l'oral de rattrapage Sujet 1 - Terminale Maths Spécialité 16 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=HBZ9gpAaRuY"  aria-label="Primitives et calcul Intégral - Exercice type bac -Terminale Maths Spécialité 15 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=FrQaM1V0YHg"  aria-label="Sujet type BAC STI2D- Épisode 2 - Fonction exponentielle - Terminale STI2D 6 minutes et 44&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=WrdV5WMi3Q0"  aria-label="Intégrales et Suites - Exercice Type Bac - Terminale Maths Spécialité 26 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=r_Y4IxbM9S0&pp=0gcJCTsMAYcqIYzv"  aria-label="Calcul Intégrale, logarithme népérien et suite - Exercice Type Bac - Terminale Maths Spécialité 16 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=DVuJq84BTlo"  aria-label="Sujet type BAC STI2D - Episode 1 - Fonction exponentielle - Terminale STI2D 14 minutes et 13&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=S48AEkpl6pQ"  aria-label="Équation différentielle et Intégrales - Exercice type bac - Terminale Maths Spécialité 20 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=NpTS_xBKP3I&pp=0gcJCTsMAYcqIYzv"  aria-label="Intégrales - Exercice Type Bac - Terminale Maths Spécialité 20 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=qYQiTR-zh1A"  aria-label="Sujet type Bac - Fonction logarithme népérien et continuité - Terminale Maths Spécialité 14 minutes et 27&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=CRgGxkwIgkc&pp=0gcJCTsMAYcqIYzv"  aria-label="Déterminer une équation cartésienne de la médiatrice d'un segment 3 minutes et 53&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=6n_auwhUBNY"  aria-label="Sujet type bac - Loi binomiale, Sommes de variables, concentration et lois des grands nombres 35 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=IUsmVFDhesc"  aria-label="Passer d'une équation cartésienne à l'expression réduite d'une droite - Seconde 2 minutes et 37&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=DV6o8P7wJF8"  aria-label="Montrer que deux droites sont parallèles - Seconde 3 minutes et 50&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=e1Pb24GRBSA"  aria-label="Déterminer l'équation cartésienne d'une droite à l'aide d'un vecteur directeur et d'un point 2 minutes et 41&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=2moOmZewBpY"  aria-label="Déterminer une équation cartésienne d’une droite à partir de deux points - Seconde 3 minutes et 13&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=FqBU4ajALlM"  aria-label="Déterminer un vecteur directeur de la droite d’équation cartésienne ax+by+c=0 - Seconde 3 minutes et 18&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=bDWcTrZ_nwE"  aria-label="Comment calculer un taux d'évolution - Information chiffrée - Seconde 2 minutes et 20&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=W7Jb6HPgzaE"  aria-label="Définition par le projeté orthogonal - Épisode 2 - Produit Scalaire - Première Spécialité Maths 4 minutes et 13&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=HYk3LCzQVAA"  aria-label="Définition par le projeté orthogonal - Épisode 1 - Produit Scalaire - Première Spé Maths 5 minutes et 1&nbsp;seconde">…</a>
+      <a href="https://www.youtube.com/watch?v=GDjpTja5vfc"  aria-label="Appliquer l'inégalité de Markov - Loi des grands nombres - Terminale Maths Spécialité 2 minutes et 15&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=FcTR2F_eLbE"  aria-label="Définition à l'aide des normes dans un parallélogramme - Produit Scalaire - Première Spé Maths 2 minutes et 49&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=FRaG7IE497Q"  aria-label="Appliquer l'inégalité de Bienaymé-Tchebychev - Loi des grands nombres - Terminale Maths Spécialité 5 minutes et 16&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=_L6WEH9j-wg"  aria-label="Définition analytique (à l'aide de coordonnées) - Produit Scalaire - Première Spé Maths 1 minute et 53&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=32ZGWUpxzKo"  aria-label="Définition avec le cosinus - Produit Scalaire - Première Spé Maths 2 minutes et 25&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=MEVxyAOYJlA"  aria-label="Expression du produit scalaire avec les longueurs dans un triangle - Première Spécialité Maths 2 minutes et 4&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Pz448nhyE8I"  aria-label="Forcer le sens d'évolution d'un système - Nickelage du cuivre métal - Terminale Spé Physique Chimie 12 minutes et 56&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Y56snMa-CIw&pp=0gcJCTsMAYcqIYzv"  aria-label="Résoudre un système linéaire à l'aide de la méthode par substitution - Seconde 7 minutes et 37&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=QyHjuQlZD6Q"  aria-label="Calculer la variance et l'écart type d'une variable aléatoire - Variables aléatoires - Lycée 4 minutes et 3&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=PncW4NZXM9Y"  aria-label="Comment calculer l'espérance d'une variable aléatoire - Variables aléatoires - Lycée 3 minutes et 5&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=-dxjOApKq90"  aria-label="Sujet type Bac - Fonction trigonométrique - Terminale Math Spécialité 26 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=D7o7I6hIcI4"  aria-label="Résoudre les inéquations de la forme √x ≥ k - Fonction de références - Seconde 3 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=CIWM7WEc0Fw"  aria-label="Mécanique céleste, loi de Képler - Vitesse et période de révolution d'un satellite - T Spé Physique 26 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=5-pX2e0MYTc"  aria-label="Résoudre les inéquations de la forme √x ≤ k - Fonction de références - Seconde 3 minutes et 50&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Zbn90DDlRog"  aria-label="Résoudre les inéquations de la forme x² ≥ k - Fonction de références - Seconde 3 minutes et 50&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=ohizhe4Om8I&pp=0gcJCTsMAYcqIYzv"  aria-label="Résoudre les inéquations de la forme x² ≤ k - Fonction de références - Seconde 3 minutes et 22&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=vTsgKea39dA"  aria-label="Comparer des fractions de mêmes numérateurs - Nombres en écriture fractionnaire - 5ème 2 minutes et 6&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=HMhydk03ZAU"  aria-label="Étudier les variations d’une fonction trigonométrique partie 3 - Première & Terminale Maths Spé 11 minutes et 3&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=4l4QovSD0yU"  aria-label="Simplifier une expression littérale en utilisant la notation du carré -  Calcul littéral - 5ème 3 minutes et 33&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=RNEvlcX-AgQ"  aria-label="Simplifier une expression littérale lorsque le signe multiplier est collé à une parenthèse -5ème 2 minutes et 1&nbsp;seconde">…</a>
+      <a href="https://www.youtube.com/watch?v=6bhPH1LYZF8"  aria-label="Etudier les variations d’une fonction trigonométrique partie 2 - Première & Terminale Maths Spé 11 minutes et 25&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=uDkFSehGda4"  aria-label="Simplifier une expression littérale en utilisant la notation du cube - Calcul littéral - 5ème 3 minutes et 41&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=i0cuqhahwuE"  aria-label="Etudier la périodicité d'une fonction trigonométrique - Première & Terminale Maths Spécialité 4 minutes et 57&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=yPxvL-q1Y2M"  aria-label="Dynamique d'un système électrique, Circuit RC, charge d'un condensateurTerminale Spé physique 17 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=5GGZocdJ3lc"  aria-label="Étudier les variations d’une fonction trigonométrique partie 1 - Première & Terminale Maths Spé 7 minutes et 54&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=eeXDTxUyQko"  aria-label="Simplifier une expression littérale lorsque le multiplier est situé entre un nombre et une lettre 2 minutes et 44&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=oTscs516BzI"  aria-label="Simplifier une expression littérale lorsque le signe multiplier est situé entre 2 lettres - 5ème 2 minutes et 28&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=9elt1KXdY9Y"  aria-label="Calculer une expression sans parenthèses composée d'additions et de soustractions - 5ème 2 minutes et 32&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Sh5cpuZhuoc"  aria-label="Calculer une expression sans parenthèses composée de divisions et de multiplications - 5ème 2 minutes et 26&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=vAO29lEauzI"  aria-label="Calculer une expression sans parenthèses en utilisant les 4 opérations - 5ème 4 minutes et 28&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=nRA2Bg8G8hU"  aria-label="Comparer des fractions de mêmes dénominateurs - Nombres en écriture fractionnaire - 5ème 2 minutes et 44&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=rZ3450eMoNM"  aria-label="Connaître les critères de divisibilité par 2 - Arithmétique - Collège 3 minutes et 3&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=khhn3-QlrEw"  aria-label="Calculer la somme des termes d'une suite géométrique - Les suites - Terminal Maths Spécialité 4 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=98LrE7sXzTs"  aria-label="Connaître les critères de divisibilité par 3 - Arithmétique - Collège 3 minutes et 59&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=S-YrUrai9ys"  aria-label="Prévoir l'évolution spontanée d'un système chimique, quotient de réaction - Terminale 11 minutes et 21&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=kmvygBTMHG8&pp=0gcJCTsMAYcqIYzv"  aria-label="Calculer la somme des termes d'une suite géométrique - Les suites -  Lycée 2 minutes et 58&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=X9UKkJ2Uu5s&pp=0gcJCTsMAYcqIYzv"  aria-label="Connaître les critères de divisibilité par 4 - Arithmétique - Collège 2 minutes et 58&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=PMpIm0Rg2fs"  aria-label="Calculer la somme des termes d'une suite arithmétique - Les suites - Lycée 3 minutes et 34&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=cL6HPe3C5MI"  aria-label="Connaître les critères de divisibilité par 5 - Arithmétique - Collège 2 minutes et 18&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=E_u5eGbDY5o"  aria-label="Exercice type Bac - Calcul intégral et suite - Terminale Maths Spécialité 19 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=HwlwUyNuyZs"  aria-label="Connaître les critères de divisibilité par 9 - Arithmétique - Collège 4 minutes et 4&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=V2ZapVWnj_E"  aria-label="Somme des angles dans un triangle particulier - Géométrie du triangle - 5ème 2 minutes et 29&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=gFZ9eRnb8RA"  aria-label="Quotient de réaction, sulfate de baryum - Terminale Spécialité physique-chimie 7 minutes et 52&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=n1aUkh6evYs"  aria-label="Questions type Bac n°2 - Les Nombres complexes - Terminal STI2D 5 minutes et 14&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=z0tdSkO9R5s"  aria-label="Calculer une expression avec parenthèses niveau 2 - Enchainement d'opérations - 5ème 4 minutes et 52&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=oZ3XqkhZlN8"  aria-label="Calcul d'intégrale n°2 - Terminale Maths Spécialité, Maths Complémentaire et STI2D 6 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=3GWaBI-dSo0"  aria-label="Calculer une expression avec parenthèses niveau 1 - Enchainement d'opérations - 5ème 3 minutes et 18&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=63Fz-vbXLSs"  aria-label="Exercice type Bac - Logarithme népérien et calcul d'intégral - Terminale STI2D 10 minutes et 39&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Jl-JLWArOyY"  aria-label="Somme des angles dans un triangle quelconque - Géométrie du triangle - 5ème 1 minute et 24&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=PRZxWljwEtA"  aria-label="Questions type Bac n°1 - Les Nombres complexes - Terminal STI2D 8 minutes et 12&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=ciU1xgdlT34"  aria-label="Questions type Bac - Fonction logarithme népérien - Terminale STI2D 11 minutes et 15&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=6u163RCCoCU"  aria-label="Les inéquations avec un exposant d'inconnue n  - Suite et logarithme népérien -Terminale Générale 5 minutes et 33&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=bHMCrySDggo"  aria-label="Comparer des fractions de dénominateurs différents - Nombres en écriture fractionnaire - 5ème 4 minutes et 9&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=ofcZ5m8vLJ4"  aria-label="Calcul d'intégrale n°1 - Terminale Maths Spécialité, Maths Complémentaire et STI2D 7 minutes et 34&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=etb_Rl5vNec"  aria-label="Exercice type Bac - Lecture graphique - Terminale STI2D 11 minutes et 16&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=VKliqhOZLyI"  aria-label="Reconnaître une situation de proportionnalité - Proportionnalité - 5ème 4 minutes et 39&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=P0Vqw1-l_A0"  aria-label="Exercice type Bac - Les équations différentielles - Terminale STI2D 7 minutes et 13&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=FYu8eNhtLHo"  aria-label="Calculer la valeur moyenne d'une fonction f sur un intervalle - Calcul intégral - Terminal Maths Spé 3 minutes et 35&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=wrJWQeovNzU"  aria-label="Exercice type Bac - Les équations différentielles - Terminale Maths Spécialité 11 minutes et 37&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Y28qGi6F8Eo"  aria-label="On vous prouve que  -1 = 1 2 minutes et 22&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=DABT-eAO-yI"  aria-label="Dérivées avec la fonction exponentielle - Fonction exponentielle - Première Spécialité 4 minutes et 29&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=jNdSMO67U6s&pp=0gcJCTsMAYcqIYzv"  aria-label="Déterminer une équation de la tangente Τ à la courbe au point d’abscisse a - Dérivation 4 minutes et 21&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Ise342SSCbM"  aria-label="Étudier les variations d’une fonction rationnelle de la forme f(x)=(ax^2+bx+c) sur (dx+e) Première 12 minutes et 31&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=ilEB-weQm7o"  aria-label="Résoudre des équations avec les exponentielles - Première Spécialité 8 minutes et 34&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Ils86ufrB4w"  aria-label="Étudier les variations d’une fonction de la forme f(x)=(ax^3+bx^2+cx+d) - Première Spécialité 8 minutes et 41&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=M86egWxG4ag&pp=0gcJCTsMAYcqIYzv"  aria-label="Étudier les variations d’une fonction exponentielle de la forme f(x)=(ax^2+bx+c) e^x - Première Spé 10 minutes et 25&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=QHbtBTOi8ZY"  aria-label="Étudier les variations d’une fonction exponentielle de la forme f(x)=(ax+b)e^x 7 minutes et 49&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=hRoT8aJGS68"  aria-label="Résoudre une inéquation avec valeur absolue de la forme |x - a| ≤ r  - Seconde 5 minutes et 28&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=GmZjQx4pej0"  aria-label="Résoudre une inéquation avec valeur absolue de la forme |x - a| ≥ r   - Seconde 6 minutes et 6&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Hr_kM_rl0cQ"  aria-label="Étudier les variations d’une fonction produit de la forme f(x)=(ax+b)(cx+d) - Première Spécialité 8 minutes et 27&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=jkNjoy8cbYg"  aria-label="Résoudre une équation avec valeur absolue de la forme |x - a| = r  - Seconde 7 minutes et 4&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=FUaVWJFGscU"  aria-label="Comment manipuler les puissances - Puissance - Seconde 7 minutes et 56&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=raCKlgR-9dA"  aria-label="Étudier les variations d’une fonction rationnelle de la forme f(x)=(ax+b) sur (cx+d) - Première 8 minutes et 14&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=aZbbYRqf46Q"  aria-label="Étudier les variations d'une fonction de la forme f(x)=ax^2+bx+c - Dérivation - Première Spé 8 minutes et 44&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=nVxSBlRSJUw"  aria-label="Montrer que f est dérivable en a - Dérivation - Première Spécialité 11 minutes et 52&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=XixjLYTJVho"  aria-label="Tout ce qu'il faut savoir sur le dénombrement (P-uplets, Permutations, arrangements & combinaisons) 18 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=D4hSHRJHprw"  aria-label="Factoriser un polynôme dans C[X] - Polynômes - Maths Sup, Licence, IUT 9 minutes et 20&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=8WEgFvHUkEI"  aria-label="Matrice inverse et polynôme annulateur - Calcul matriciel - Maths Sup, Licence, IUT 4 minutes et 24&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Lp-6wqLcRmg"  aria-label="Réduire une matrice à la forme échelonnée par la méthode du pivot - Maths Sup, Licence, IUT 5 minutes et 9&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=-US6h0BppgI"  aria-label="Calculer les expressions de la forme 𝐜𝐨𝐬(𝒏𝒙) ou 𝐬𝐢𝐧(𝒏𝒙) en fonction des puissances de 𝐜𝐨𝐬(𝒙)/𝐬𝐢𝐧(𝒙) 3 minutes et 41&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=nr5xWefyIP0"  aria-label="Calculer des proportions - Information chiffrée - Première 3 minutes et 17&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=1zFlpQrjmrM"  aria-label="Linéarisation et formules d'Euler - Les nombres complexes - Maths Sup, Licence, IUT 7 minutes et 46&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=igkPLHXXXVM"  aria-label="Calculer l’inverse d’une matrice à l’aide de méthode de Gauss - Maths Sup, Licence, IUT 7 minutes et 57&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=F6SF_9ZZ0ss"  aria-label="Puissances de matrices et binôme de Newton - Calcul Matriciel - Maths Sup, Licence, IUT 8 minutes et 22&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=9FmNZ9ZDLbM"  aria-label="Calculer des proportions - Phénomènes aléatoires: Probabilités conditionnelles - Première 8 minutes et 37&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=r9dgokp7AF0"  aria-label="Sommes doubles - Manipulations de sommes et de produits - Maths Sup, Licence, IUT 9 minutes et 7&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=EBuJGOebPvY"  aria-label="Résolution d’un système linéaire d'ordre 3 avec paramètre à l’aide de la méthode de Cramer 15 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=n1IuBjuToQM"  aria-label="Étudier le sens de variation d’une fonction polynôme de degré 3 - Première 14 minutes et 33&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Qyr7rvikOXs"  aria-label="Déterminer l'expression d'une fonction affine à l'aide des informations f(x_1 )=y_1 et f(x_2 )=y_2 5 minutes et 47&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=aGufcKybvLk"  aria-label="Déterminer l'expression d'une fonction affine à l'aide des points A(x_A;y_A) & B(x_B;y_B) 6 minutes et 4&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=nJ2ZVEGVX14"  aria-label="Justifier qu’une suite est arithmétique - Première Enseignement Scientifique 4 minutes et 22&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=gfjk4m07i6s&pp=0gcJCTsMAYcqIYzv"  aria-label="Justifier qu’une suite est géométrique - Première Enseignement Scientifique 3 minutes et 46&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=1v3e_AymE9o"  aria-label="Résoudre les équations de la forme x^a=b ou x est positif - Première Enseignement Scientifique 2 minutes et 24&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=3C8zeRpVcLo"  aria-label="Déterminer un coefficient multiplicateur - Information chiffré Première Enseignement Scientifique 2 minutes et 26&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=UzikziCoElY"  aria-label="Déterminer le sens de variation pour des suites arithmétiques - Première 3 minutes et 13&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=ge5nJIQqgss"  aria-label="Calculer les termes d’une suite arithmétique à l’aide de la relation de récurrence - Première 3 minutes et 8&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=0UPojtfWB0M"  aria-label="Déterminer le sens de variation d’une fonction affine - Première Enseignement scientifique 2 minutes et 52&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=MdMRB4qcB1U&pp=0gcJCTsMAYcqIYzv"  aria-label="Déterminer le sens de variation d'une suite géométrique à termes strictement positifs 5 minutes et 4&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=7MeHFluNC8Y&pp=0gcJCTsMAYcqIYzv"  aria-label="Montrer qu’une application f est bijective - Les applications - Maths Sup, Licence, IUT 3 minutes et 2&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=m5Nzen3b3-0"  aria-label="Montrer qu’une application f est injective - Les applications - Maths Sup, Licence, IUT 3 minutes et 26&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Y0vDR6PI-I4"  aria-label="Calculer les termes d’une suite géométrique à l’aide de la relation de récurrence - Première 3 minutes et 36&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=uNfmWi5VBAI&pp=0gcJCTsMAYcqIYzv"  aria-label="Montrer qu’une application f est surjective - Les applications - Maths Sup, Licence, IUT 6 minutes et 8&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=lg55K1gkKV4"  aria-label="Calculer les termes d'une suite géométrique à l'aide de l'expression du terme général de (Un) 3 minutes et 55&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=ezPnV3H_A0Q"  aria-label="Calculer les termes d'une suite arithmétique à l'aide de l'expression du terme général de (Un) 3 minutes et 37&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=CSqAamQKO8U"  aria-label="Factoriser un polynôme dans R[X] - Polynômes - Maths Sup, Licence, IUT 7 minutes et 6&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=AdM6hpeP8MQ"  aria-label="Changement de variables dans le calcul d'une somme - Maths Sup, Licence, IUT 5 minutes et 11&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=B4Ka5iQcgyA&pp=0gcJCTsMAYcqIYzv"  aria-label="Les sommes télescopiques - Manipulations de sommes et de produits - Maths Sup, Licence, IUT 7 minutes et 25&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=IYQLxzWSRbo"  aria-label="Exercice sur le Binôme de Newton - Manipulations de sommes et de produits - Maths Sup, Licence, IUT 10 minutes et 8&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Ph0-noFQf5Q"  aria-label="Déterminer une base du noyau d'une application linéaire - Espaces vectoriels - Maths Sup,  L1, IUT 3 minutes et 25&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=q0Q0usQ_lpM"  aria-label="Montrer qu’une famille est libre - Espaces vectoriels - Maths Sup, L1, IUT 4 minutes et 38&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=rD5wopVTV3o&pp=0gcJCTsMAYcqIYzv"  aria-label="Développement limités: Produit - Maths Sup, L1, IUT 2 minutes et 46&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=HI-EUIx8AXo"  aria-label="Montrer qu’une famille est liée - Espaces vectoriels - Maths Sup, L1, IUT 6 minutes et 34&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=AjbSg6wwvhY"  aria-label="Développement limités d'un combinaison linéaire - Maths Sup, L1, IUT 2 minutes et 45&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=5Nf7-D1V5Qc"  aria-label="Développement limités d'une fonction composée - Maths Sup, L1, IUT 3 minutes et 15&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=EyKIaEZEWaE"  aria-label="Résoudre cette équation du quatrième degré 6 minutes et 16&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=PARbrBABsrc"  aria-label="Développement limités: Quotient - Maths Sup, L1, IUT 5 minutes et 9&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=kus3AmypSvg"  aria-label="Cas d'un pôle simple - Fractions rationnelles et décomposition en éléments simple - Maths Sup 6 minutes et 14&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=dygFC6HWdT4&pp=0gcJCTsMAYcqIYzv"  aria-label="Division euclidienne ou encore division suivant les puissances décroissantes - L1, IUT, Maths sup 3 minutes et 56&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=85w6XAglfl4"  aria-label="Division suivant les puissances croissantes - Polynômes - Maths Sup, L1, IUT 4 minutes et 21&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=JXfOAdErmnU"  aria-label="Les règles de Bioche - Primitives & intégration - L1, Maths Sup, IUT 6 minutes et 24&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=7ZGHjgigelk"  aria-label="Primitives de fractions rationnelles en cos x et sin x, Primitives & intégration- L1, Maths Sup, IUT 4 minutes et 42&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=O2bIGrpFDlA"  aria-label="Intégrales abéliennes de premières espèces - Primitives & intégration - L1, IUT, Maths Sup 4 minutes et 38&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=PuD9SWq8WH4"  aria-label="La règle de l'hôpital - Dérivation - L1, Maths Sup, IUT 5 minutes et 6&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=uOLj4Z93_Pw"  aria-label="Méthode de la variation de la constante - Équations différentielles - L1 6 minutes et 19&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=8IEZ6WoO6_0"  aria-label="Quel est le nombre le plus grand ? 6 minutes et 30&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=LOaDRETl4IU&pp=0gcJCTsMAYcqIYzv"  aria-label="Les équations différentielles - les questions types au bac - Terminale STI2D 19 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=BlPjRuis7tc"  aria-label="Les nombres complexes - Les questions types au bac - Terminale STI2D 16 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=XVyAF75b_3U"  aria-label="Résoudre l’équation suivante du troisième degré 🤓 7 minutes et 25&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=QlEhmzkMEz8"  aria-label="Troisième   Brevet   Programme de calcul et équation   épisode 2 4 minutes et 49&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=TYNNTpogbIs"  aria-label="Résoudre l’équation racine carrée  suivante 7 minutes et 8&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=TVSdiqkJRFY"  aria-label="Résoudre cette équation 5 minutes et 37&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Z_fxXjE0Mfg"  aria-label="Résoudre cette équation du troisième degré . Olympiades 8 minutes et 32&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=k4l9uKVsvwM"  aria-label="Simplifier l’expression sans calculatrice 5 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=jfCrohrT6Dk"  aria-label="Tout savoir sur les équations cartésiennes - Géométrie Repérée - Première Spécialité 12 minutes et 4&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=y5lxVfJdQZA"  aria-label="Déterminer la valeur de x 6 minutes et 44&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=JOJz0T7m9cI"  aria-label="Que vaut cette somme ? 2 minutes et 37&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=oKjTYe-cJ4E"  aria-label="Programme de calcul et équation - Brevet - épisode 1 - Troisième 10 minutes et 36&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=GVWjHwxuc4k"  aria-label="Calculez cette racine carrée sans calculatrice 3 minutes et 44&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=VzJUBOKM4ug"  aria-label="Résoudre l’équation suivante 8 minutes et 44&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=LjyUOr7h4Qc"  aria-label="Trouvez l'erreur 4=5 1 minute et 38&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=ArfhiIjGYW8"  aria-label="L'identité d'Euler - Culture Générale e^(iπ) + 1 = 0 2 minutes et 56&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=gfTbekI-M1Y"  aria-label="Exercice: Les différentes expressions du produit scalaire - Première Maths spécialité 13 minutes et 3&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=r8meCwtjltU"  aria-label="Révision du bac Correction d'annales Partie 4 - Terminale STi2D/STL 18 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=njV5KDOxsNI"  aria-label="Révision du bac Correction d'annales Partie 3 - Terminale STi2D/STL 18 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=jFiS2evfr4M"  aria-label="Révision Bac Correction du Sujet 2 de Nouvelle-Calédonie Octobre 2022 - Terminale Maths Spécialité 21 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=WrXwvaeg7Ao&pp=0gcJCTsMAYcqIYzv"  aria-label="Révision du bac Correction d'annales Partie 2 - Terminale STi2D/STL 18 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=4F8JIivvH2E"  aria-label="Modélisation et étude du condensateur - Révise le bac - Terminale Spé physique-chimie 14 minutes et 54&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=R1zPOPmhlAU"  aria-label="Révision Bac Correction QCM Sujet 2 Métropole Antilles Guyane septembre 2022 -Terminale Maths Spé 16 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=-HzasHAG5zY"  aria-label="Révision du bac Correction d'annales Partie 1 - Terminale STi2D/STL 13 minutes et 13&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=-W83RaQI1HE"  aria-label="Exercice type - Fonction exponentielle - Terminale Maths Spécialité 31 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=3_3SHQ8ar6o"  aria-label="Révisions Bac - Métropole Mai 2022 Sujet 1 - Correction du QCM - Terminale Maths Spécialité 18 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=U-Qwx-ed7qA&pp=0gcJCTsMAYcqIYzv"  aria-label="Former des images, la lunette astronomique - Terminale Spécialité Physique Chimie 22 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=NwPuYuXId1c"  aria-label="Les questions types au bac - Logarithme Népérien - Terminale STI2D 18 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=szcnyda3yQs"  aria-label="Nos Pronostics pour le BAC 2023 - Terminale Maths Spécialité 10 minutes et 22&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=rtjc6nNUd7w"  aria-label="Prévoir le sens de l'évolution spontanée d'un système chimique - Révise le BAC - Terminale 13 minutes et 14&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=fAkky1k8h_4"  aria-label="Diagonaliser une matrice carrée d’ordre 3-Les racines du polynôme caractéristique sont distinctes 11 minutes et 38&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Aj5w0mREe8M"  aria-label="Comment diagonaliser une matrice carrée d'ordre 2 - Diagonalisation - L1, IUT, Maths Sup 10 minutes et 3&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=_b3Vn_A-Reo"  aria-label="Ordre de multiplicité d’une racine - Polynômes - L1, Maths Sup, IUT 2 minutes et 17&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Lr08IgyLlNk"  aria-label="La méthode de Cramer - Système Linéaire - L1, Math Sup, IUT 5 minutes et 58&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=ENbu8VKSyxc"  aria-label="La Méthode du pivot de Gauss - Système linéaire - L1, Maths Sup, IUT 8 minutes et 36&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=qdlPBt9PaFA"  aria-label="Calculer le déterminant d'une matrice 3x3 en développant selon une ligne ou une colonne - L1, IUT 8 minutes et 21&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=LbE5hi5EomE"  aria-label="La règle de Sarrus - Déterminant - L1, Math Sup,  IUT 3 minutes et 12&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=58rUoUnqckE"  aria-label="Partie entière d'une fraction rationnelle - Décomposition en éléments simples - Maths Sup, L1 3 minutes et 28&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=m0PJYO9sGuM"  aria-label="Décomposition en éléments simples d'une fraction rationnelle, Cas d'un pôle multiple - Maths sup 5 minutes et 33&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=lcIrJZvgUVA"  aria-label="Diagonaliser une matrice carrée d'ordre 3, 1er Cas - Diagonalisation - Maths Sup, Licence, IUT 12 minutes et 34&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=XUUQfzNswGU"  aria-label="Diagonaliser une matrice carrée d'ordre 2 - Diagonalisation - Maths Sup, Licence, DUT 9 minutes et 47&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=L3AydvfUaXo"  aria-label="Equations différentielles linéaires du 2ème ordre avec un second membre 𝒕↦𝑨(𝒕)𝐜𝐨𝐬(𝝎𝒕)+𝑩(𝒕)𝐬𝐢𝐧(𝝎𝒕) 5 minutes et 3&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=aR6OmiY3biQ"  aria-label="Equations différentielles linéaires du 2ème ordre avec un second membre de la forme 𝒕↦𝐞^𝒎𝒕 𝑷(𝒕) 6 minutes et 34&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=wO7pIS8pO2Y"  aria-label="Équations différentielles linéaires du 2ème ordre à coefficients constants sans second membre 5 minutes et 51&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=8H-T6xdsWmQ"  aria-label="Déterminer les racines nièmes d’un nombre complexe - Les nombres complexes - Maths Sup, L1, DUT 3 minutes et 54&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Fdr_jfC8yr4"  aria-label="Notre passage dans LE GRAND JT DE L'ÉDUCATION de SQOOL TV 25 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=dy3655I7VNg"  aria-label="Déterminer les racines carrées d’un nombre complexe - Les nombres complexes - Maths Sup, L1, DUT 5 minutes et 28&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Ut8Kg9L6uEA"  aria-label="Résoudre une équation trigonométrique - Trigonométrie - Première, Terminale 5 minutes et 14&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Mof7lqhYw68"  aria-label="Électron dans un condensateur et équation cartésienne de la trajectoire - Terminale Spé PC 10 minutes et 5&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=YqIlnLvqVHY"  aria-label="Période de révolution d'un satellite et force d'attraction de la Terre - Terminale Spé PC 7 minutes et 31&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=HwOxXO29kGM"  aria-label="Force de poussée, vitesse et altitude d'une fusée - Cinématique, deuxième loi de Newton 6 minutes et 55&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=W7wwdZhFKb8"  aria-label="Énergie interne, équilibre thermodynamique & température finale Thermodynamique, premier principe 9 minutes et 52&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=r5UrJ-1p4n4"  aria-label="Niveau sonore de deux sources & intensités sonores - Phénomènes ondulatoires - Terminale 5 minutes et 27&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=kv3GQgpnQug"  aria-label="Dipôle RC, équation différentielle du circuit et solution de l'équation - Terminale Spé Physique 10 minutes et 4&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=gjv5sss-9BE"  aria-label="Dipôle RC, condensateur et charge électrique sur armature - Dynamique d'un système électrique 3 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=wV_5MpGgE7o"  aria-label="Comment calculer le troisième quartile - Statistiques - Seconde 4 minutes et 6&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=r0eS73v685Q"  aria-label="Comment calculer la médiane - Statistiques - Seconde 6 minutes et 3&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=X-0St9ypS38"  aria-label="Comment calculer le premier quartile - Statistiques - Seconde 4 minutes et 48&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=NORZgczL-BE"  aria-label="Diagramme en boîte à moustaches - Statistiques - Seconde 3 minutes et 56&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=03i2Xp_IVUo"  aria-label="Déterminer le point d'intersection entre deux droites - Lycée 8 minutes et 28&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=HJ5cNi9KjEY"  aria-label="Évolutions successives - Information chiffrée - Seconde 4 minutes et 24&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=hy_KUpopF_c"  aria-label="Étudier les variations de la forme exp(ax+b) - Fonction exponentielle - Première spécialité 3 minutes et 36&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=nNQ57JABBJ0&pp=0gcJCTsMAYcqIYzv"  aria-label="Réussir l'oral de rattrapage du bac de mathématiques - Terminale math spécialité 57 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=_5arWQFk9tM"  aria-label="Correction du brevet de métropole du 30 juin 2022 - Troisième 30 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=g_y7KCa245Q"  aria-label="Tout ce qu'il faut savoir pour le brevet - Troisième 50 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=2W1AMLYBvHA&pp=0gcJCTsMAYcqIYzv"  aria-label="Montrer qu'une suite est arithmétique - Les suites  - Première 9 minutes et 49&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Q12bnnvYVh4"  aria-label="Tout savoir sur les suites arithmétiques - Les suites - Première 16 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=xQ7U0L4cplQ"  aria-label="Sujet du brevet d'Amérique du nord 3 juin 2022 - Troisième 46 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=geQxd5h2yPg"  aria-label="Exercice type brevet: Programme de calcul - Calcul littéral - Troisième 15 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=uZh0DHnF5bg&pp=0gcJCTsMAYcqIYzv"  aria-label="Exercice type brevet: Les triangles semblables - Troisième 13 minutes et 20&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=H9JjCNbkZow"  aria-label="Comment reconnaître une homothéties - Les homothéties - Troisième 6 minutes et 37&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Zf9pMOrRc_U"  aria-label="Distributivité et double distributivité - Calcul littéral - Troisième 5 minutes et 6&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=SgOFuQuOx-4"  aria-label="Calculer le volume d'une sphère ou d'une boule - Géométrie dans l'espace et section - Troisième 2 minutes et 12&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=ew_98K1zIk0"  aria-label="Écriture scientifique - Les puissances - Troisième 14 minutes et 41&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=TfJGB1l9UNE&pp=0gcJCTsMAYcqIYzv"  aria-label="Les fractions type au brevet - Les Fractions - Troisième 12 minutes et 50&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=7LAQXpR1CDw"  aria-label="Suite arithmético-géométrique -  Les suites -  Terminale 5 minutes et 37&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=NjFFcTj2GOA"  aria-label="Révision Bac 2022 - Sujet 2 Polynésie mai 2022  Excercice A Capteur - Terminale Spé Physique-Chimie 27 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=IppR0RGHT74"  aria-label="Mécanique au bac 2022 - Terminale Spécialité Physique-Chimie 37 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=6RUpHw7EbW8"  aria-label="Révisions du brevet 2022 - Fractions, double distributivité et écriture scientifique - Troisième 41 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=DYZTuH3VLMw"  aria-label="Sujet type bac - Fonction logarithme népérien - Terminale Maths Spécialité 16 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=a9zjtFgrRgE"  aria-label="Notre passage dans l'émission OnVousDitTout - France 3 Île-de-France 6 minutes et 45&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=MPAfS7YJiok"  aria-label="Sujet type bac - Les suites - Terminale Maths Spécialité 18 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=_DhMMyYkrag"  aria-label="Géométrie dans l'espace, produit scalaire et orthogonalité - Sujet Type Bac - Terminale Maths Spé 16 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=HUW4eqDdVXs"  aria-label="Présentation jai20enmaths.com 3 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=eoU3F1TbwcM"  aria-label="Multiplier deux nombres en écriture fractionnaire - Multiplier des nombres rationnels - Collège 3 minutes et 22&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=aiyRxB8c0-M"  aria-label="Diviser deux nombres en écriture fractionnaire - Diviser des nombres rationnels - Collège 4 minutes et 2&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=W42oY4u2luY&pp=0gcJCTsMAYcqIYzv"  aria-label="Multiplier plusieurs nombres en écriture fractionnaire - Multiplier des nombres rationnels - Collège 9 minutes et 54&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=0jtkxIqoAlE"  aria-label="Multiplier deux nombres en écriture fractionnaire partie 2 - Collège 6 minutes et 40&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=S-vpYglUfK8&pp=0gcJCTsMAYcqIYzv"  aria-label="Dérivée et variations - Exercice - Première 11 minutes et 29&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=5ROIA737-Ro"  aria-label="Calculs sur les puissances, racines carrées et fractions - Exercice - Seconde 6 minutes et 12&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=3kCr4feHRp4"  aria-label="Les inéquations quotients - Exercice - Seconde 7 minutes et 37&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=l2G_nmmiCkk"  aria-label="La dérivée d’un produit - Exercice - Première 2 minutes et 46&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=dvJt_8UULus"  aria-label="Les fonctions affines - Exercice - Seconde 11 minutes et 15&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=WAcr9zyxRis"  aria-label="Loi de probabilité - Exercice - Première 1 minute et 33&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=yBbDZnARNMI"  aria-label="Suite arithmétique - Exercice - Première 3 minutes et 6&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=y7SYiK4suxI"  aria-label="Dérivées de la forme exp(ax+b) - Exercice - Première 6 minutes et 27&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=y0Q4kcpbaCI"  aria-label="Le second degré et le discriminant - Exercice - Première 5 minutes et 54&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=xY0TvBnLq1Q"  aria-label="Les probabilités, Problème n°2 - Exercice - Seconde 6 minutes et 18&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=wVtYlEKV49A"  aria-label="Les équations quotients - Exercice - Seconde 6 minutes et 33&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=svC9t0xqLIA"  aria-label="Inéquations et tableaux de signes - Exercice - Seconde 12 minutes et 11&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=qGfXYBJv2wQ"  aria-label="Discriminant et factorisation - Exercice - Première 6 minutes et 13&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=pKeJdcIiPOU"  aria-label="Équations cartésiennes et géométrie repérée - Exercice - Première 9 minutes et 5&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=oj-y411_gm0"  aria-label="Variation et fonction exponentielle - Exercice - Première 10 minutes et 55&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=lMAYwzDlauc&pp=0gcJCTsMAYcqIYzv"  aria-label="Double distributivité et identités remarquables - Exercice - Seconde 3 minutes et 53&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=jUGW_e6vpDU"  aria-label="Équations cartésiennes d'une droite - Exercice - Seconde 1 minute et 56&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=jQLIhD5wJu8"  aria-label="Inéquations et exponentielle - Exercice - Première 3 minutes et 23&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=jKSXPP6oR7E"  aria-label="Exercices sur les puissances - Troisième 6 minutes et 44&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=itATAAh8R6o"  aria-label="Vecteurs du plan: milieu et parallélogramme - Exercice - Seconde 4 minutes et 34&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=iIPlqZRYTaM"  aria-label="Les équations - Exercice - Seconde 7 minutes et 52&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=fuPmm6xwaiw"  aria-label="Inéquations et tableaux de signes - Exercice - Première 15 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=fHHSYzwJQ34"  aria-label="Exercices sur le développement - Troisième 11 minutes et 9&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=ePVMbTtxqD4"  aria-label="La factorisation - Exercice - Seconde 3 minutes et 36&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=cRKCsb3EIF8"  aria-label="Équations et exponentielle - Exercice - Première 6 minutes et 43&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=TKYrd1eMfSQ"  aria-label="La forme canonique en calculant alpha et beta les coordonnées du sommet - Exercice - Première 6 minutes et 2&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=RjAsP4f7tLw"  aria-label="La dérivée d’un quotient - Exercice - Première 2 minutes et 44&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=PA2J0zhK0V8"  aria-label="Les statistiques - Exercice - Seconde 12 minutes et 31&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Kv2It8ZakkM&pp=0gcJCTsMAYcqIYzv"  aria-label="Formules de dérivées usuelles - Exercice - Première 4 minutes et 19&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=JTBHLIDvraI"  aria-label="Dérivées et fonction exponentielle - Exercice - Première 8 minutes et 15&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=HJMSDnsH7iE"  aria-label="Les fonctions de référence et équations - Exercice - Seconde 6 minutes et 56&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=GxaHstrn738"  aria-label="Exercices sur le calcul numérique - Troisième 6 minutes et 22&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=GvqhwNX4SHA"  aria-label="Systèmes linéaires  Méthode par substitution et méthode par combinaison - Exercice - Seconde 8 minutes et 41&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=FB_aOX7SQMQ"  aria-label="Équations de tangentes - Exercice - Première 2 minutes et 10&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=D3drDnXWY0Y"  aria-label="Équations cartésiennes d'une droite et systèmes linéaires - Exercice - Seconde 8 minutes et 50&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=8P5glBdOiyA"  aria-label="Les probabilités - Exercice - Seconde 7 minutes et 44&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=5oP9rsFTbsQ"  aria-label="Équations cartésiennes d'une droite, Problème n°2 - Exercice - Seconde 8 minutes et 17&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=2Hp-1_e841k"  aria-label="Calculer la somme des termes d'une suite arithmétique - Les suites - Première Spécialité 3 minutes et 51&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=0mhY-zAfKew"  aria-label="Calculer la somme des termes d'une suite géométrique - Les suites - Première Spécialité 2 minutes et 58&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=0ZXW_Kef-Lk"  aria-label="Propriétés algébriques et fonction exponentielle - Exercice - Première 4 minutes et 51&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=-F2Ubs_dOaU"  aria-label="La dérivée des fonctions composées - Exercice - Première 4 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=9SaIA8Kqiyw"  aria-label="Loi de probabilité partie 2 - Variable aléatoire - Lycée 5 minutes et 58&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=ds5zVrPGYhA"  aria-label="Déterminer une fonction linéaire avec un nombre et son image - Fonction linéaire - Collège Lycée 2 minutes et 38&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=azO0mTN_iAc"  aria-label="Déterminer une fonction affine avec deux nombres et leurs images - Fonction affine - Collège Lycée 5 minutes et 17&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=k4X4lsItq8E"  aria-label="Déterminer l'expression affine d'une fonction à l'aide de 2 points - Notion de fonction-CollègeLycée 5 minutes et 13&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=hobYtVYFbzM"  aria-label="Déterminer une image et un antécédent à l'aide d'un tableau - Notion de fonction - Collège 5 minutes et 35&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=gVU-FxsNEqg"  aria-label="Calculer une image par une fonction - Notion de fonction - Collège 3 minutes et 39&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=LkThfRlukv0"  aria-label="Calculer un antécédent par une fonction - Notion de fonction - Collège 3 minutes et 48&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Wo_OmP6rutk&pp=0gcJCTsMAYcqIYzv"  aria-label="Calculer le déterminant de deux vecteurs - Vecteur du plan et colinéarité - Seconde 3 minutes et 4&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=y4sTYeVMFjM"  aria-label="Montrer que deux droites sont parallèles en utilisant la colinéarité -  Seconde 3 minutes et 4&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=ddOj_ryk8xM"  aria-label="Linéarité de l’espérance et additivité de la variance - Somme de variables aléatoires - Terminale 4 minutes et 55&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Ho4V4LHbLGk"  aria-label="Montrer que trois points sont alignés en utilisant la colinéarité - Seconde 3 minutes et 11&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=JZyPY-JxFMs"  aria-label="Déterminer les coordonnées d'un point à l'aide d'une relation vectorielle - Seconde 5 minutes et 8&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=0KI_-LMbpwQ"  aria-label="Révision du brevet épisode 2 - Troisième 16 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=8u920WDCtf8"  aria-label="Révision du brevet - Troisième 15 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=7dl_K2531IY"  aria-label="Déterminer la droite d'intersection de 2 plans - Plan, produit scalaire.. Terminale Maths Spécialité 9 minutes et 14&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=mLb04Bcb8Pc"  aria-label="Tout savoir sur le calcul intégral - Calcul Intégral - Terminale Maths Spécialité & Complémentaires 30 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=_5qtSKdR_NQ"  aria-label="Géométrie dans l'espace - Sujet Type Bac - Terminale Maths Spécialité 10 minutes et 57&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=59zZ9eTUouc"  aria-label="Sujet Type Bac - Probabilités conditionnelles et loi binomiale - Terminale Maths Spécialité 16 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=pMSZoD-_UjU"  aria-label="Caractéristiques d'un condensateur - Étude dynamique d'un système électrique - Terminale 9 minutes et 27&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=gVkCMNNhnSU"  aria-label="Intensité d'un courant électrique en régime variable - Étude dynamique d'un système électrique 11 minutes et 30&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=aAMLU1oQ50A"  aria-label="Sujet bac session 15 mars 2021- Fonction Logarithme - Terminale Maths Spécialité 21 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=M8BYfhFYJV8"  aria-label="Sujet Type Bac: Les équations différentielles - Terminale Maths Spécialité 11 minutes et 45&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=GWvJ9CwQo7Y"  aria-label="Déterminer le nombre de solution d'un système linéaire deux équations à deux inconnues 5 minutes et 31&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=XjYpqiaSV8w"  aria-label="Sujet zéro bac 2021 - Terminale STI2D 29 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=WJRNUUEACw4"  aria-label="Sujet d'épreuve commune - La dérivation - Première Spécialité 15 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=7gaC8zxgIAw"  aria-label="Exercice type devoir : Les suites arithmétiques - Première Spécialité 8 minutes et 41&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=HuAe6RS7uXo"  aria-label="Notre passage sur ENSEMBLE C'EST MIEUX ! - France 3 Bretagne 7 minutes et 56&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=nQGYFbmD6TA"  aria-label="Comment savoir si un plan et une droite sont parallèles ou orthogonaux ou sécants ? Maths Spécialité 11 minutes et 4&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=qaSIQ1F6f54"  aria-label="Tout savoir sur les équations cartésiennes de plans - Terminale Maths Spécialité 9 minutes et 21&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=KIxxFPIm6DY"  aria-label="Tout savoir sur les équations paramétriques de droites - Terminale Maths Spécialité 16 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=pHwbRHe6HUA"  aria-label="Additionner des fractions de dénominateurs différents - Additionner & Soustraire des fractions 6 minutes et 30&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=YLbuz0jimL4"  aria-label="Soustraire des fractions de dénominateurs différents - Additionner & Soustraire des fractions 5 minutes et 33&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=6c_0XPN6zTQ"  aria-label="Additionner des fractions de même dénominateur - Additionner & Soustraire des fractions - Collège 7 minutes et 24&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Gl-4p4H3LBQ"  aria-label="Soustraire des fractions de même dénominateur - Additionner & Soustraire des fractions - Collège 5 minutes et 12&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Gh9wogr2Lmc&pp=0gcJCTsMAYcqIYzv"  aria-label="Tout savoir sur les dérivées avec la fonction exponentielle - Fonction exponentielle - Terminale 11 minutes et 22&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Fimn_GIcvgU"  aria-label="Tout savoir sur les variations avec la fonction exponentielle - Fonction exponentielle - Terminale 15 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=XSWVALRVAgs"  aria-label="Additionner deux nombres relatifs de même signe - Les nombres relatifs - Collège 5 minutes et 57&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=RytJ40FJme8"  aria-label="Additionner des nombres relatifs de même signe - Les nombres relatifs - Collège 3 minutes et 58&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Hfd3enICOaY"  aria-label="Additionner deux nombres relatifs de signes contraires - Les nombres relatifs - Collège 4 minutes et 30&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=0LuX19GkNag"  aria-label="Qu'est ce qu'un nombre relatif - Les nombres relatifs - Collège 6 minutes et 11&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=0g_E0r0a-oA"  aria-label="Soustraire deux nombres relatifs - Les nombres relatifs - Collège 9 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=x3-whFgIqJU"  aria-label="Tout savoir sur les limites avec la fonction exponentielle - Fonction exponentielle - Terminale 14 minutes et 18&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=rH2JwwshqMo"  aria-label="Sujet ZÉRO Exercice 2 Géométrie dans l'espace - Terminale Maths Spécialité 23 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=eKuCr74_SnQ"  aria-label="Sujet ZÉRO Exercice A Logarithme népérien - Terminale  Maths Spécialité 26 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=ZeNn-OjOD0E"  aria-label="Comparer des réels à l'aide de la fonction cube - Fonction de référence - Seconde 2 minutes et 42&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=UyT-H6QJBRw"  aria-label="Comparer des réels à l'aide de la fonction racine carrée - Fonction de référence - Seconde 2 minutes et 21&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=EsiFNnDIHRs"  aria-label="Comparer des réels à l'aide de la fonction carrée - Fonction de référence - Seconde 6 minutes et 15&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=6GSvjCUrzpc&pp=0gcJCTsMAYcqIYzv"  aria-label="Comparer des réels à l'aide de la fonction inverse - Fonction de référence - Seconde 5 minutes et 4&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=LmH_nLhGRM0&pp=0gcJCTsMAYcqIYzv"  aria-label="Tout savoir sur les dérivées de la fonction logarithme népérien - Logarithme népérien - Terminale 7 minutes et 33&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=j3nIbpXgopM"  aria-label="Tout savoir sur les variations avec la fonction logarithme népérien - Logarithme Népérien -Terminale 24 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=N3Q96K_aZzc"  aria-label="Tout savoir sur les limites avec la fonction logarithme népérien - Logarithme népérien - Terminale 13 minutes et 34&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=00tddpmCpSI"  aria-label="Tout savoir sur les limites des fonctions composées avec la fonction logarithme népérien - Terminale 10 minutes et 20&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=jWwJDg_5Mg4"  aria-label="Passer d'une équation cartésienne à l'expression réduite d'une droite - Géométrie repérée - Première 2 minutes et 5&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=jL1VKSZvpb0"  aria-label="Déterminer un vecteur normal d'une équation cartésienne d'une droite - Géométrie repérée - Première 2 minutes et 41&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=2cFHfP_eVGc&pp=0gcJCTsMAYcqIYzv"  aria-label="Déterminer l'équation cartésienne d'une droite à l'aide d'un vecteur normal & d'un point - Première 2 minutes et 58&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=hn1YdIH0Dto"  aria-label="Comment calculer une moyenne d'une série statistique dans un tableau - Les statistiques - Collège 1 minute et 48&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=7JItRIaRpJA"  aria-label="Déterminer une médiane lorsque l'effectif de la série est pair - Les statistiques - Collège 2 minutes et 22&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=_FHXeriwQAk"  aria-label="Déterminer une médiane lorsque l'effectif de la série est impair - Les statistiques - Collège 2 minutes et 4&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=NWS7vJikN8Q"  aria-label="Comment calculer une étendue - Les statistiques - Collège 1 minute et 36&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=DSpTfAVvK-A"  aria-label="Savoir résoudre une équation - Équations - Collège 4 minutes et 3&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=La3QZh_LHPI"  aria-label="Vérifier si un réel (nombre) est solution d'une équation - Équations - Collège 4 minutes et 58&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=lvwJVn2oajs"  aria-label="Déterminer le reste d'une division euclidienne à l'aide de la congruence - Terminale Maths Expertes 6 minutes et 34&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=odTeHPXaNak"  aria-label="Fonctions rationnelles Exercice Type - Continuité - Terminale Maths Spécialité et Complémentaires 19 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=KEXs-68lfVU"  aria-label="Comment déterminer graphiquement l’équation d’une droite dans un repère - Fonctions affines - Lycée 5 minutes et 22&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=4vWxsMFb3p8"  aria-label="Obtenir l’axe de symétrie d’une fonction polynôme de degré 2 à partir de sa représentation graphique 2 minutes et 23&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=s1WrfKpjpd0"  aria-label="Calculer les termes d'une suite récurrente avec la TI 83 Premium CE - Les suites numériques - Lycée 3 minutes et 15&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=RUdJVe54vtI"  aria-label="Calculer les termes d'une suite récurrente avec la Casio Graph 35+ - Les suites numériques - Lycée 2 minutes et 24&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=-IZYnXSaxYA"  aria-label="Calculer les termes d'une suite récurrente avec la Numworks - Les suites numériques - Lycée 2 minutes et 44&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=TTiZmmiDKqM&pp=0gcJCTsMAYcqIYzv"  aria-label="Calculer les termes d'une suite explicite avec la Numworks - Les suites numériques - Lycée 2 minutes et 29&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=GZXjzGaHpFs"  aria-label="Calculer les termes d'une suite explicite avec la Casio Graph 35+ - Les suites numériques - Lycée 2 minutes et 6&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=AcvdH6I-B9w"  aria-label="Calculer les termes d'une suite explicite avec la TI 83 Premium CE - Les suites numériques - Lycée 3 minutes et 12&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=oxeq29oyJcY"  aria-label="Exercice type Bac - Continuité et théorème des valeurs intermédiaires - Terminale 15 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=tsjHpLTyab0"  aria-label="Comment calculer l'inverse d'une matrice - Casio Graph 35+ - Calcul matriciel - Maths Expertes 3 minutes et 5&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=mI7B5a3IhrM&pp=0gcJCTsMAYcqIYzv"  aria-label="Comment calculer l'inverse d'une matrice - Numworks - Calcul matriciel - Maths Expertes 2 minutes et 40&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=643VVOtK-iY"  aria-label="Comment calculer l'inverse d'une matrice - TI 83 Premium CE - Calcul matriciel - Maths Expertes 2 minutes et 41&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=uTXw7ibs5Ag"  aria-label="Calculer le déterminant d’une matrice - Casio Graph 35+ - Calcul matriciel -Terminale Maths Expertes 2 minutes et 56&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=YMMv3ok1EH0"  aria-label="Calculer le déterminant d’une matrice - Numworks - Calcul matriciel -Terminale Maths Expertes 2 minutes et 25&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=HaZAAfcbZlE"  aria-label="Calculer le déterminant d’une matrice TI 83 Premium CE - Calcul matriciel -Terminale Maths Expertes 2 minutes et 42&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=cpltQS-sQ-Y"  aria-label="Calculer le produit de 2 matrices - Numworks - Calcul matriciel - Terminale Maths Expertes 2 minutes et 6&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=XQDUSk-3ju0"  aria-label="Calculer le produit de 2 matrices - Casio Graph 35+ - Calcul matriciel - Terminale Maths Expertes 3 minutes et 7&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=dEX_YtROYPg"  aria-label="Calculer le produit de 2 matrices - TI 83 Premium CE - Calcul matriciel - Terminale Maths Expertes 2 minutes et 37&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=cL0sWQLniFY"  aria-label="Déterminer un encadrement de la solution de l'équation - Casio Graph 35+ - Continuité - Terminale 5 minutes et 41&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=uZC4xJfqPNc"  aria-label="Déterminer un encadrement de la solution de l'équation - TI 83 Premium CE - Continuité - Terminale 4 minutes et 55&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=B8QbvxQBCLg"  aria-label="Déterminer un encadrement de la solution de l'équation - Numworks - Continuité - Terminale 6 minutes et 22&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=hVeBD86dJ9E"  aria-label="Résoudre un système d’équations linéaires - Calcul matriciel - Terminale Maths Expertes 4 minutes et 7&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=yh-WnDdUiMo"  aria-label="Calculer les probabilités de la forme P(X ≽ a) avec la Casio Graph 35+ - Loi Binomiale - Terminale 5 minutes et 3&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=v7PSTcXbUYY"  aria-label="Calculer les probabilités de la forme P(X ≽ a) avec la Numworks - Loi Binomiale - Terminale 2 minutes et 22&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=tVsSoZFnGzI"  aria-label="Calculer les probabilités de la forme P(X ≽ a) avec la TI 83 Premium CE - Loi Binomiale - Terminale 4 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=fNaxfGwqBF0"  aria-label="Calculer les probabilités de la forme P(X ≼ a) avec la TI 83 Premium CE - Loi Binomiale - Terminale 2 minutes et 7&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=T685RNToizc"  aria-label="Calculer les probabilités de la forme P(X ≼ a) avec la Numworks - Loi Binomiale - Terminale 2 minutes et 17&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=6DiFJcPk_0w"  aria-label="Calculer les probabilités de la forme P(X ≼ a) avec la Casio Graph 35+ - Loi Binomiale - Terminale 2 minutes et 27&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=qz2yUS-OvVk"  aria-label="Reconnaître une loi binomiale et la rédaction associée - Loi binomiale -Terminale 3 minutes et 2&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=d7OSrQprYcs"  aria-label="Calculer les probabilités de la forme P(X = a) avec la Casio Graph 35+ - Loi Binomiale - Terminale 1 minute et 53&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=DuQYD4Li45Y"  aria-label="Calculer les probabilités de la forme P(X = a) avec la TI 83 Premium CE - Loi Binomiale - Terminale 1 minute et 54&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=8MBim85wNDc"  aria-label="Calculer les probabilités de la forme P(X = a) avec la Numworks - Loi Binomiale - Terminale 2 minutes et 27&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=IVj5GMtqc5A"  aria-label="Sujet type bac - Combinatoire & dénombrement - Terminale 18 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=nupGtesQedI"  aria-label="Résoudre des inéquations - Équations & inéquations - Lycée 7 minutes et 14&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=uCJKmKay_Io"  aria-label="Résoudre des équations - Équations & inéquations - Lycée 7 minutes et 13&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=bDqElkM3Oxw"  aria-label="Résoudre des équations produit nul - Équations & inéquations - Lycée 6 minutes et 14&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=OL6poNf57hE"  aria-label="Exercice type  - Probabilités conditionnelles & indépendance - Première Spécialité 13 minutes et 45&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=qqiFZ47BFGk"  aria-label="Les dérivées composées: La forme √u - Dérivation - Terminale 3 minutes et 21&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=zXWLpRnJu-U"  aria-label="Les dérivées composées: La forme uⁿ - Dérivation - Terminale 4 minutes et 9&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=sUoLkyMbIVE"  aria-label="Les dérivées composées: La forme eᵘ - Dérivation - Terminale 5 minutes et 39&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=SrUBV0Kzakw"  aria-label="Les dérivées composées: La forme sin(u) - Dérivation - Terminale 2 minutes et 49&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=ki6BD51Kxy4"  aria-label="Les dérivées composées: La forme cos(u) - Dérivation - Terminale 3 minutes et 40&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=ltebgGwh1Qg"  aria-label="Étudier le sens de variation d’une suite Un à l'aide de U(n+1)-Un - Suites numériques - Première 8 minutes et 59&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=WJ0wMfgnc9s"  aria-label="Étudier le sens de variation d’une suite Un à l'aide de U(n+1)/Un - Suites numériques - Première 5 minutes et 24&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=i5UsdDigpwc"  aria-label="Le théorème des valeurs intermédiaires (TVI) - Continuité - Terminale Maths Spécialité 6 minutes et 33&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=TZ8Na2Nk08Q"  aria-label="Différencier une suite explicite d'une suite définie par récurrence - Suites numériques - Première 4 minutes et 41&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=QKPfMZ2EVPQ"  aria-label="Calculer les termes d'une suite explicite - Premières notions sur les suites numériques - Première 3 minutes et 17&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=OMkhKmY2HR4&pp=0gcJCTsMAYcqIYzv"  aria-label="PGCD & Algorithme d'Euclide - PGCD, Théorèmes de Bezout et Gauss - Maths Expertes 4 minutes et 57&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=F2AEO_eWsx8"  aria-label="Caractériser la divisibilité Question type devoir et BAC Partie 2 Divisibilité dans Z Maths Expertes 3 minutes et 35&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=6MOQeWzJhAg"  aria-label="Calculer les termes d'une suite définie par récurrence - Premières notions sur les suites numériques 6 minutes et 12&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=tLvKAJPsrSQ&pp=0gcJCTsMAYcqIYzv"  aria-label="Les combinaisons - Combinatoire et dénombrement - Terminale Maths Spécialité 4 minutes et 30&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=ZkvfV0YysMM"  aria-label="Dénombrer les k-uplets d'un ensemble à n éléments - Combinatoire et dénombrement - Maths Spécialité 3 minutes et 49&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=SRUKJTfiMNI"  aria-label="Permutations d'un ensemble à n éléments - Combinatoire et dénombrement - Maths Spécialité 4 minutes et 30&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Kf9Q2KsaFns"  aria-label="Dénombrer les k-uplets distincts d'un ensemble à n éléments, arrangement Combinatoire & dénombrement 4 minutes et 52&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=mVeOpymBzJc"  aria-label="Montrer que trois nombres sont les termes consécutifs d'une suite géométrique -Les Suites- Terminale 2 minutes et 26&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=WssyCnRXBvQ"  aria-label="Lien entre les graphes probabilistes et matrices-Suites & matrices: chaînes de Markov-Maths Expertes 3 minutes et 27&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=RRRgLDcXKLE&pp=0gcJCTsMAYcqIYzv"  aria-label="Résoudre une équation bicarrée - Nombres complexes: point de vue algébrique - Maths Expertes 2 minutes et 27&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Jm01s4s5RSA"  aria-label="Équation du premier degré dans C - Nombres complexes, point de vue algébrique - Maths Expertes 3 minutes et 36&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=DimJ1hYSvpY"  aria-label="Exprimer la partie réelle et la partie imaginaire d'un nombre complexe en fonction de x&y partie 2 8 minutes et 13&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=389tY1dc1hU&pp=0gcJCTsMAYcqIYzv"  aria-label="Exprimer la partie réelle et la partie imaginaire d'un nombre complexe en fonction de x&y Terminale 5 minutes et 51&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Qjc9F1Lmq4w"  aria-label="Comment démontrer qu'un nombre est premier-Nombres entiers et nombres premiers, arithmétique-Seconde 4 minutes et 11&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=na5JQ6YQIdU"  aria-label="Savoir décomposer en produit de facteurs premiers - Nombres entiers et nombres premiers... - Seconde 3 minutes et 38&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=0QIGx4Wg7j4"  aria-label="France 2 : J'ai 20 en maths dans Télématin 34&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=g_AJwH4guec"  aria-label="Type DS: Montrer qu'un quadrilatère est un parallélogramme -Vecteur du plan première partie- Seconde 3 minutes et 16&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=hCBK9N9MigY"  aria-label="Les dérivées usuelles partie 2 - la dérivation - Première 4 minutes et 12&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=NAoI02CypbY"  aria-label="La dérivée du produit u x v - La dérivation - Première 3 minutes et 15&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=92qybvjenbI"  aria-label="Les dérivées des fonctions composées de la forme (ax+b)ⁿ - La dérivation - Première 2 minutes et 53&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=2U0Q2xDRu4k"  aria-label="Les dérivées des fonctions composées de la forme √(ax+b) - La dérivation - Première 2 minutes et 45&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=lobV-hjIMME"  aria-label="Vérifier si 2 évènements sont indépendants - Probabilités conditionnelles et indépendance - Première 2 minutes et 41&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=MDOFRJtJaZE&pp=0gcJCTsMAYcqIYzv"  aria-label="La dérivée du quotient u/v - La dérivation - Première 4 minutes et 2&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=_YYQ2S5hHUA"  aria-label="Les dérivées usuelles -  La dérivation - Première 7 minutes et 52&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=U0xWSF_jr0Q"  aria-label="Étudier la convexité d'une fonction f à l'aide du signe de la dérivée seconde de f -Convexité - Term 4 minutes et 59&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=PduXi1TILoQ"  aria-label="Reconnaitre graphiquement la convexité d'une fonction - Convexité - Terminale 7 minutes et 17&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=IvnD9u98-Ec"  aria-label="Calculer les probabilités, cas d'une loi uniforme sur [0;1] - Maths Complémentaires 5 minutes et 2&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=G0VA7x0rpH8"  aria-label="Déterminer les variations des fonctions polynômes du second degré - Dérivation - Première 8 minutes et 5&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=7-2oYsMxlzA"  aria-label="La forme canonique - Second degré - Première Spécialité 8 minutes et 34&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=mpH7fZocQCY"  aria-label="Résoudre une équation de la forme a^x = b - Logarithme décimal - Terminale Séries Technologiques 1 minute et 53&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=o-jJQwydrNc"  aria-label="Résoudre une équation de la forme x^a = b - Logarithme décimal - Terminale Séries Technologiques 2 minutes et 23&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=_HtJXDS_Zbo"  aria-label="Résoudre une inéquation de la forme x^a=b ou de la forme x^a=b - Log décimal - Term Séries Techno 5 minutes et 4&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=A4QZITVZUPY"  aria-label="Résoudre une inéquation de la forme a^x ≽ b - Logarithme décimal - Terminale Séries Technologiques 4 minutes et 15&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=9vlY1D0l1tc"  aria-label="Résoudre une inéquation de la forme a^x ≼ b - Logarithme décimal - Terminale Séries Technologiques 5 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=YcDHiH5OO0M"  aria-label="Limites et croissances comparées partie 1 - Logarithme Népérien - Terminale 5 minutes et 38&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=xcrtPmsjqHE"  aria-label="Étudier les variations de la fonction logarithme népérien partie 2 - Logarithme Népérien - Terminale 3 minutes et 40&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=w_Dfn_W7R50"  aria-label="Résoudre une équation avec la fonction logarithme népérien partie 1-Logarithme Népérien - Terminale 4 minutes et 56&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=j08zteLbCVk"  aria-label="Résoudre une équation avec la fonction logarithme népérien partie 3-Logarithme Népérien - Terminale 3 minutes et 33&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=fzVBlPm-9SQ"  aria-label="Limites et croissances comparées partie 2 - Logarithme Népérien - Terminale 3 minutes et 16&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=cO-RZCS2kxI"  aria-label="Résoudre une inéquation avec la fonction logarithme népérien partie 2-Logarithme Népérien- Terminale 2 minutes et 40&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=WjnwSwMVUDY"  aria-label="Résoudre une inéquation avec la fonction logarithme népérien partie 1-Logarithme Népérien- Terminale 4 minutes et 58&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=KEai6La8-KI"  aria-label="Étudier les variations de la fonction logarithme népérien partie 1 - Logarithme Népérien - Terminale 3 minutes et 51&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=JjZUefpYNIM"  aria-label="Les limites usuelles de la fonction logarithme népérien - Logarithme Népérien - Terminale 3 minutes et 3&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=GrgZUoqlIqE"  aria-label="Résoudre une équation avec la fonction logarithme népérien partie 2 -Logarithme Népérien - Terminale 7 minutes et 10&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Dl453Qnbc5o"  aria-label="Limites et composition avec la fonction logarithme népérien - Logarithme Népérien - Terminale 4 minutes et 39&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=BQCH0kyjzc8"  aria-label="Les propriétés algébriques de la fonction logarithme népérien - Logarithme Népérien - Terminale 4 minutes et 16&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=YoDDWN7rxGQ"  aria-label="Calculer une primitive de la forme u'u^n - Primitives - Terminale 4 minutes et 36&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=S6IjowufXkY"  aria-label="Calculer une primitive de la forme u'sinu - Primitives - Terminale 3 minutes et 13&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=MyqujePZt0g"  aria-label="Calculer une primitive de la forme u'/u^n - Primitives - Terminale 4 minutes et 2&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=FQ5IeqogePk"  aria-label="Calculer une primitive de la forme x ⟼ e^(ax+b) - Primitives - Terminale 2 minutes et 36&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Dwl7oFz12qg&pp=0gcJCTsMAYcqIYzv"  aria-label="Calculer une primitive de la forme u'cos(u) - Primitives - Terminale 3 minutes et 49&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=7hdZ0csPkOU"  aria-label="Calculer une primitive de la forme u'/u - Primitives - Terminale 3 minutes et 26&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=7_ufyNb_U4M"  aria-label="Calculer une primitive de la forme u'e^u - Primitives - Terminale 4 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=ziHI09ZVU6Y"  aria-label="Les primitives usuelles partie 3 - Primitives - Terminale 3 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=eSUydRsxKzE"  aria-label="Les primitives usuelles partie 2 - Primitives - Terminale 3 minutes et 11&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=fnjLc31zLS4"  aria-label="Les primitives usuelles partie 1 - Primitives - Terminale 6 minutes et 19&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=ci0x_eQrDT8"  aria-label="Exercice bilan sur les intervalles - Ensembles de nombres, intervalles et valeurs absolues - Seconde 5 minutes et 35&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=P-Cum9NjAr4"  aria-label="Utiliser la notion valeur absolue pour traduire un intervalle-Intervalles & valeurs absolues-Seconde 3 minutes et 25&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=82QsyVPzWE4"  aria-label="Déterminer l'intersection entre 2 intervalles-Ensembles de nombres, intervalles & valeurs... Seconde 5 minutes et 44&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=ikw5jjzsv44"  aria-label="Interpréter une inégalité en intervalle-Ensembles de nombres, intervalles & valeurs absolues-Seconde 7 minutes et 39&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=j64v6YVcCa0"  aria-label="Déterminer le domaine de définition avec le logarithme népérien - logarithme népérien - Terminale 5 minutes et 16&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=roxj_fknEus"  aria-label="Montrer que quatre points sont coplanaires - Géométrie vectorielle, ... - Maths Spécialité 4 minutes et 50&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=P6msvGRJN4o"  aria-label="Limites usuelles - Les suites - Maths Spécialité & Maths Complémentaires 6 minutes et 46&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=kexnvNqb_LE"  aria-label="Limites usuelles en +∞ ou en -∞ - Limites de fonctions - Maths Spécialité & Complémentaires 6 minutes et 42&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=1njnuyOHu08&pp=0gcJCTsMAYcqIYzv"  aria-label="Comment calculer l'affixe d'un vecteur - Nombres complexes: point de vue géométrique Maths Expertes 2 minutes et 17&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=_UuwZfDXtps"  aria-label="Mise en situation&utilisation des affixes-Nombres complexes: point de vue géométrique-Maths Expertes 2 minutes et 7&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=7v_HXRt7ggI"  aria-label="Probabilité conditionnelle - Les Probabilités - Première 6 minutes et 27&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=gvgvYZAxnlo&pp=0gcJCTsMAYcqIYzv"  aria-label="Lecture graphique et convexité - Convexité - Maths Spécialité & Maths Complémentaires 8 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=gm8IKwvWkvA"  aria-label="Lectures graphique et nombres dérivés - Dérivation - Première 5 minutes et 11&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=XR1lQhioms4"  aria-label="Exercice type DS - Les Probabilités - Seconde 6 minutes et 44&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=SdA8LqqIZkI"  aria-label="Calculer P(A U B) - Les Probabilités - Seconde 2 minutes et 26&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=VQDamoxYrjc&pp=0gcJCTsMAYcqIYzv"  aria-label="Loi de probabilité - Probabilités - Seconde, Première et Terminale - Lycée 2 minutes et 49&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=yfNBTwGlaXk"  aria-label="Déterminer les primitives de la forme sin (ax+b) - Primitives - Terminale 4 minutes et 25&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=tIZSE9KYO6s"  aria-label="Déterminer les primitives de la forme cos (ax+b) - Primitives - Terminale 4 minutes et 3&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=p6tzdjZzkSc"  aria-label="Savoir effectuer des calculs numériques utilisant des racines carrées - Calcul numérique - Seconde 9 minutes et 1&nbsp;seconde">…</a>
+      <a href="https://www.youtube.com/watch?v=TT_X3-XlbZc"  aria-label="Calculer les limites en -ꝏ ou en +ꝏ - La fonction inverse - Terminale Séries Technologiques 2 minutes et 33&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=ATDcEMbBdFE"  aria-label="Calculer les limites en 0 - La fonction inverse - Terminale Séries Technologiques 3 minutes et 34&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=LRQE-nj59sA&pp=0gcJCTsMAYcqIYzv"  aria-label="Fonctions composées: calculer (u o v) (x) - Compléments sur la dérivation et convexité - Terminale 5 minutes et 10&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Eh-xSeXiwA8"  aria-label="Étudier le sens de variation quand x ⟼ a^x - Fonctions exponentielles de base a - Terminale Techno 1 minute et 45&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=L910Lx-JYjs&pp=0gcJCTsMAYcqIYzv"  aria-label="Schéma de composition - Compléments sur la dérivation et convexité - Terminale 5 minutes et 5&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=7LlIV9YSFDE"  aria-label="Étudier du signe d'un quotient - La fonction inverse - Terminale Séries Technologiques 6 minutes et 58&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=YF7zwvq8SUQ"  aria-label="Donner le sens de variation des fonctions polynômes de degré 3 - Première Séries Technologiques 2 minutes et 26&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=1xRIh9RbrI8"  aria-label="Passer de la forme exponentielle à algébrique - Les Nombres Complexes - Terminale 2 minutes et 52&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Q1LHQe6c9FU"  aria-label="Résoudre une équation du second degré sans utiliser le discriminant - Première Spécialité 7 minutes et 59&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=1IZwbCyy4mk"  aria-label="Montrer qu'une suite est majorée (sans la récurrence) - Les suites et récurrence - Maths spécialité 3 minutes et 42&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=TSaiVB1zcBw"  aria-label="Manipuler les formules des puissances de 10 - Les puissances - Troisième 4 minutes et 14&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=vJW99c8rGQ8"  aria-label="Les formules d'Euler & linéarisation -Les nombres complexes: point de vue géométrique Maths Expertes 6 minutes et 1&nbsp;seconde">…</a>
+      <a href="https://www.youtube.com/watch?v=fjqMHTmdf9I"  aria-label="Étudier le sens de variation quand x ⟼ ka^x - Fonctions exponentielles de base a - Terminale Techno 3 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=LL81ClY_ciQ"  aria-label="Décomposer un entier en produit de facteurs premiers - Nombres premiers - Maths Expertes 2 minutes et 58&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Ie46A8jULcE&pp=0gcJCTsMAYcqIYzv"  aria-label="Caractériser la divisibilité - Question type devoir et BAC - Divisibilité dans Z - Maths Expertes 2 minutes et 51&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=64PVrireDf4"  aria-label="Reconnaitre si un entier est un nombre premier - Nombres premiers - Maths Expertes 4 minutes et 16&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=8Fg7M-yH6kQ"  aria-label="Déterminer la forme trigonométrique - Les nombres complexes: point de vue géométrique Maths Expertes 2 minutes et 50&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=ysRi23pWhuY"  aria-label="Déterminer le nombre de diviseurs d'un entier naturel - Nombres premiers - Maths Expertes 2 minutes et 47&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=qhGvM4BWllM&pp=0gcJCTsMAYcqIYzv"  aria-label="Caractériser la divisibilité: Utiliser une combinaison linéaire-Divisibilité dans Z - Maths Expertes 4 minutes et 35&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=f3aDRv-H0KY"  aria-label="Étudier le signe des fonctions polynômes de degré 3 - Première Séries Technologiques 9 minutes et 6&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=ekt9mBFuWrI&pp=0gcJCTsMAYcqIYzv"  aria-label="Rendre rationnel le dénominateur des expressions ayant des racines carrées Calcul numérique- Seconde 5 minutes et 59&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=NAp7HHazBC4"  aria-label="Déterminer tous les diviseurs d'un entier naturel - Nombres premiers - Maths Expertes 3 minutes et 19&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=IdOBEPSx4bs"  aria-label="Limites rencontrées en examen - La fonction inverse - Terminale Séries Technologiques 3 minutes et 24&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=FNY8fRg1AC8"  aria-label="Déterminer une solution de l'équation au + bv = 1- PGCD, théorèmes de Bézout & gauss -Maths Expertes 6 minutes et 38&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=6xpRzIe3vBA"  aria-label="Écrire sous la forme a√(b) + c - Calcul numérique - Seconde 6 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=eSZ6zvRQtxc&pp=0gcJCTsMAYcqIYzv"  aria-label="Étudier la continuité d'une fonction en un réel - Les limites - Maths Spécialité et Complémentaire 7 minutes et 8&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=zhTuVect5gk"  aria-label="Écrire sous forme développée l'expression d'une SOMME - Les suites - Terminale Séries Technologiques 5 minutes et 6&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=xpwK5ltbWW0"  aria-label="Calculer les dérivées - La fonction inverse - Terminale Séries Technologiques 5 minutes et 14&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=xVF7rXxVkN8"  aria-label="Déterminer un argument - Les nombres complexes: point de vue géométrique - Maths Expertes 6 minutes et 31&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=vQuU3Gxt5YA&pp=0gcJCTsMAYcqIYzv"  aria-label="Calculer le module d'un nombre complexe - Nombres complexes: point de vue géométrique-Maths Expertes 5 minutes et 59&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=vB0XKmRkiWo"  aria-label="Théorème des gendarmes - Les Limites - Maths Spécialité et Complémentaire 4 minutes et 37&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=uU5Gn-1LqJg"  aria-label="Lever une forme indéterminée à l'aide de la factorisation(cas d'un quotient)- Les suites - Terminale 6 minutes et 52&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=su1IuiPjsbo"  aria-label="Montrer qu'une suite est minorée (sans la récurrence) - Les suites et récurrence - Maths spécialité 2 minutes et 33&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=sdaJ0jAG6uk"  aria-label="Effectuer des calculs numériques utilisant des écritures fractionnaires - Calcul numérique - Seconde 6 minutes et 46&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=n7c_oVxQnaE"  aria-label="Ensemble U des complexes de module 1-Les nombres complexes: point de vue géométrique- Maths Expertes 2 minutes et 23&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=kkuPDP01bLI"  aria-label="Comment déterminer la moyenne arithmétique de 2 nombres - Les suites Terminale Séries Technologiques 1 minute et 20&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=ispv35IZLSE"  aria-label="Résoudre une équation de degré 3 - Les nombres complexes: les équations polynomiales -Maths Expertes 11 minutes et 18&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=iU8xKYFCHS8"  aria-label="Transformer l'expression - Les nombres complexes - Terminale Séries Technologiques 3 minutes et 51&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=XuWKAifw80Q"  aria-label="Déterminer la forme exponentielle d'un nombre complexe -  Les Nombres Complexes - Terminale 2 minutes et 15&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=WFWpdQ3-Qxg"  aria-label="Déterminer la moyenne géométrique de 2 nombres - Les suites - Terminale Séries Technologiques 1 minute et 49&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=UdxlYH1FCXI"  aria-label="Les propriétés algébriques - Fonctions exponentielles de base a - Terminale Séries Technologiques 4 minutes et 45&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=TuS7R2Ne0YQ"  aria-label="Le raisonnement par récurrence - Les suites et récurrence - Maths Spécialité 8 minutes et 46&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=TndAzDCUTeo"  aria-label="Étudier du signe d'un produit - La fonction inverse - Terminale Séries Technologiques 11 minutes et 34&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=L8b7sknA6qo"  aria-label="Montrer que 3 nombres sont les termes consécutifs d'une suite arithmétique - Terminale Séries Techno 2 minutes et 31&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=GSmKlQBrjjE"  aria-label="Le raisonnement par récurrence partie 2 - Les suites et récurrence - Maths Spécialité 4 minutes et 5&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=8ETZ--0v4po"  aria-label="Écrire à l'aide du symbole SOMME - Les suites - Terminale Séries Technologiques 4 minutes et 1&nbsp;seconde">…</a>
+      <a href="https://www.youtube.com/watch?v=85ZX1qbxw7E"  aria-label="Savoir si une fonction admet une asymptote horizontale-Les Limites-Maths Spécialité & Complémentaire 6 minutes et 44&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=4iUkBD59C5U"  aria-label="Résoudre les équations des fonctions polynômes de degré 3 - Première Séries Technologiques 2 minutes et 50&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=3dOsMRZY8rQ"  aria-label="Théorème de comparaison - Les Limites - Maths Spécialité et Complémentaire 6 minutes et 58&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=ghP7u2jAo0o"  aria-label="Savoir si une équation diophantienne admet des solutions - PGCD et application - Maths Expertes 2 minutes et 20&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=f70rgn_bkF4"  aria-label="Résoudre une équation diophantienne - PGCD et application - Maths Expertes 7 minutes et 23&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=veeWAQmmJSk"  aria-label="La multiplication - Calcul matriciel - Maths Expertes 7 minutes et 24&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=HLiFkbDXFxA"  aria-label="Le déterminant d'une matrice carrée d'ordre 2 - Calcul matriciel - Maths Expertes 2 minutes et 57&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=mMfjF1vqPdc"  aria-label="Le principe multiplicatif - Combinatoire et dénombrement - Maths Spécialité 2 minutes et 54&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=llzH0vbg61I"  aria-label="Matrice d'adjacence d'un graphe non orienté - Les Graphes - Maths Expertes 3 minutes et 11&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=jMefQ2a-pso"  aria-label="Les asymptotes verticales - Limites de fonctions - Maths Spécialité et Complémentaire 3 minutes et 38&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=FJZUD-A_Wf4"  aria-label="Factoriser un trinôme du second degré quand delta est strictement négatif - Première Spécialité 1 minute et 20&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=aQHAezHbK7o"  aria-label="Équation différentielle de la forme y'=ay+b avec une condition - Primitives - Terminale 4 minutes et 27&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=svGo_jEgGqI"  aria-label="Limites et fonctions composées - Limites de fonctions - Maths Spécialité & Maths Complémentaire 4 minutes et 4&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=7yDsJkvALJc"  aria-label="Factoriser un trinôme du second degré quand delta égale à zéro - Première Spécialité 2 minutes et 19&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=rBDsBK2rlfQ"  aria-label="Inéquation du second degré avec delta strictement positif - Première Spécialité 3 minutes et 23&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=KZFt_slAp9Q"  aria-label="Écrire un nombre complexe sous forme algébrique - Les nombres complexes - Maths Expertes 5 minutes et 10&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=pawIeasXZBI"  aria-label="Équation du second degré avec delta strictement positif - Première Spécialité 7 minutes et 8&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=gLf3QBuGi-8"  aria-label="Déterminer le nombre d'arêtes - Les Graphes - Maths Expertes 2 minutes et 6&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=6z68AN3zo7I"  aria-label="Résoudre une équation du second degré dans C - Les nombres complexes - Maths Expertes 7 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=vxazWLjBO74"  aria-label="Factoriser un trinôme du second degré avec delta strictement positif - Première Spécialité 3 minutes et 11&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=cdx6U7EhOwM"  aria-label="Calculer une intégrale à l'aide d'une intégration par parties - Calcul intégral - Maths Spécialité 10 minutes et 26&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=vCiddPN5lmM"  aria-label="Le binôme de Newton - Les Nombres Complexes - Maths Expertes 8 minutes et 21&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Hmrznq3414o"  aria-label="Équation différentielle de la forme y'=ay+b - Primitives - Terminale 4 minutes et 31&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=pdeVaAIerWE"  aria-label="Étudier le signe d’un trinôme du second degré avec delta strictement négatif - Première Spécialité 2 minutes et 58&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=mKyC026S360"  aria-label="Équation du second degré avec delta égale à zéro - Première Spécialité 4 minutes et 11&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=YQCMbNEh2oE&pp=0gcJCTsMAYcqIYzv"  aria-label="Multiplier une matrice par un nombre réel - Calcul matriciel - Maths Expertes 2 minutes et 23&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=GabuxSkrAt0"  aria-label="Limites quand n tend vers plus l'infinie de a*q^n - Les Suites - Maths Complémentaires 4 minutes et 11&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=sC_VIhvJ5l8"  aria-label="Inéquation du second degré avec delta égale à zéro - Première Spécialité 3 minutes et 8&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=o3l_-2xlvzE"  aria-label="Équation différentielle de la forme y'=ay - Primitives - Terminale 2 minutes et 42&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=wKA3eBpXxrA"  aria-label="Lever une forme indéterminée avec la multiplication par le conjugué - Limites - Maths Spécialité 4 minutes et 27&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=XMeyjj7eTK8"  aria-label="L'ordre d'un graphe et le degré des sommets - Les Graphes - Maths Expertes 3 minutes et 36&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=JFoM1lK0CP0"  aria-label="Calculs de limites quand x tend vers un réel - Limites de fonctions - Terminale 7 minutes et 30&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=9lMziyb3HTQ"  aria-label="Limites quand n tend vers plus l'infinie de a*q^n + b - Les Suites - Maths Spécialité 3 minutes et 34&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=3Ygsfi9Ja8g"  aria-label="Étudier le signe d’un trinôme du second degré avec delta strictement positif - Première Spécialité 4 minutes et 29&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=ZEK-4fa3zIE"  aria-label="Addition & Soustraction - Calcul matriciel - Maths Expertes 4 minutes et 53&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=92rts86JmkE"  aria-label="Inverse et quotient de deux nombres complexes - Les nombres complexes - Maths Expertes 4 minutes et 29&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Ib2qPAEanDI"  aria-label="Déterminer la taille, la dimension ou le format d'une matrice - Calcul matriciel - Maths Expertes 4 minutes et 49&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=qRQgZmJmTeM"  aria-label="Théorème des gendarmes - Les suites - Maths Spécialité & Maths Complémentaires 10 minutes et 27&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=owd7pBufgHA"  aria-label="Inéquation du second degré avec delta strictement négatif - Première spécialité 2 minutes et 24&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=muwrmWAh8rY"  aria-label="Les propriétés algébriques de la fonction exponentielle - Terminale 4 minutes et 13&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=m-52OTgYL9Y"  aria-label="Chaîne Eulérienne - Les Graphes - Maths Expertes 3 minutes et 8&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=hcUBegaPIlw"  aria-label="Équation différentielle de la forme y'=ay avec une condition - Primitives - Terminale 3 minutes et 37&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=bsVM8y3dTLQ"  aria-label="Graphe connexe, simple et complet - Les Graphes - Maths Expertes 2 minutes et 50&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=W0ga6TRP2RA"  aria-label="Théorème de comparaison - Les suites - Maths Spécialité & Maths Complémentaires 8 minutes et 28&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=U8kt83SkImE"  aria-label="Matrice d'adjacence d'un graphe orienté - Les Graphes - Maths Expertes 3 minutes et 11&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=DtTJvJEN-3Q"  aria-label="Les propriétés algébriques de la fonction exponentielle - Première Spécialité 4 minutes et 13&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=65x1C7R_GB4"  aria-label="Équation du second degré avec delta strictement négatif - Première Spécialité 1 minute et 31&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=44nSth6gBhU"  aria-label="Étudier le signe d’un trinôme du second degré avec delta égale à zéro - Première Spécialité 3 minutes et 52&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=241rMBgUdr0"  aria-label="Le triangle de Pascal - Les nombres complexes - Maths Expertes 4 minutes et 20&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=0rCwU1XBFz0"  aria-label="Live - Terminale ES -  Oral de rattrapage Mathématiques - Épisode 3 - 08/07/2020 |Jai20enmaths 40 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=97oCSDd3feI"  aria-label="Terminale S - Réussir l'oral de rattrapage - Épisode 3 |Jai20enmaths 18 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=5Est7OlXAds"  aria-label="Terminale S -  Réussir l'oral de rattrapage en Mathématiques - Épisode 1 |Jai20enmaths 21 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=rWWQz7GuGp0"  aria-label="Terminale ES Spécialité - Algorithme de Dijkstra |Jai20enmaths 8 minutes et 18&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=MFab5a17QoA"  aria-label="Terminale ES Spécialité - Graphes Probabilistes - Déterminer l'état stable |Jai20enmaths 5 minutes et 34&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=kmklnv7SB14"  aria-label="Terminale ES Spécialité - Graphes & Dijkstra - Exercice type BAC |Jai20enmaths 13 minutes et 18&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=_aI2SLp9NcE"  aria-label="Terminale S - Nombres complexes - Exercice Type BAC |Jai20enmaths 14 minutes et 31&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Kx7e-MGsfUQ&pp=0gcJCTsMAYcqIYzv"  aria-label="Section d'un cube par un plan - Exemple 3 - Géométrie dans l'espace - Terminale 4 minutes et 6&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=1tn0KN9k2Kg&pp=0gcJCTsMAYcqIYzv"  aria-label="Section d'un cube par un plan - Exemple 2 - Géométrie dans l'espace - Terminale 4 minutes et 15&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=iS0lpoAvS5I"  aria-label="Section d'un cube par un plan - Exemple 1 - Géométrie dans l'espace - Terminale 3 minutes et 54&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=4cG-uIRvJE4"  aria-label="Terminale STMG - Probabilité conditionnelle - Exercice Type BAC |Jai20enmaths 11 minutes et 3&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=JDRGGSod1ko"  aria-label="Terminale STMG - Probabilité conditionnelle - Cours + Exemple |Jai20enmaths 15 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=bT0kgYrs-bI"  aria-label="Jai20enmaths résume Mr BLANQUER en 3 min 3 minutes et 2&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=FlOpShFXl4Y&pp=0gcJCTsMAYcqIYzv"  aria-label="Seconde - Factoriser avec un facteur commun |Jai20enmaths 6 minutes et 43&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=LFsEPf4ff_k"  aria-label="Terminale STMG-Statistique à deux variables-Méthode des moindres carrés-Casio Graph 35+|Jai20enmaths 3 minutes et 3&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=yzS6aoukPsU"  aria-label="Terminale STMG-Statistique à deux Variables-Méthode des moindres carrés-TI 83 PremiumCE|Jai20enmaths 4 minutes et 4&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=yBWYW_iysmA"  aria-label="Terminale STMG - Étudier les variations d'une fonction - Exercice Type Bac |Jai20enmaths 11 minutes et 31&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=CzUbtxhqNOI"  aria-label="Terminale STMG - Étudier les variations d'une fonction - Partie 2 |Jai20enmaths 8 minutes et 1&nbsp;seconde">…</a>
+      <a href="https://www.youtube.com/watch?v=0udwNzdwrMA"  aria-label="Terminale STMG - Étudier les variations d'une fonction - Partie 1 |Jai20enmaths 6 minutes et 54&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=kIWXXZQyOB8"  aria-label="Terminale STMG - Étudier le signe d'un trinôme du second degré - Partie 3 |Jai20enmaths 3 minutes et 35&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=zyaIoblYC_w"  aria-label="Terminale STMG - Étudier le signe d'un trinôme du second degré - Partie 2 |Jai20enmaths 4 minutes et 27&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=R3Po7ZhL0Ks"  aria-label="Terminale STMG - Étudier le signe d'un trinôme du second degré - Partie 1 |Jai20enmaths 6 minutes et 38&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Zc7MN2ZarI4"  aria-label="Terminale STMG   Les dérivées usuelles |Jai20enmaths 6 minutes et 50&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=37pf8aEd8SM"  aria-label="Terminale STMG - La dérivée d'un quotient |Jai20enmaths 4 minutes et 43&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=AADfUMyqJKA&pp=0gcJCTsMAYcqIYzv"  aria-label="Seconde - Les Statistiques - Moyenne, Variance & Écart-type |Jai20enmaths 5 minutes et 9&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=AhMzEjQuRug"  aria-label="Live - Terminale S - Géométrie dans l'espace - Exercice Type BAC - 22/03/2020 |Jai20enmaths 29 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=Se3hSC8T8iY"  aria-label="Corrigé du live - Terminale ES - Les Primitives & Calculs d'intégrales 18/03/2020 |Jai20enmaths 4 minutes et 56&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=NxwgVPynqXU"  aria-label="Corrigé du live - Terminale S - Calculs d'intégrales - 18/03/2020 |Jai20enmaths 12 minutes et 1&nbsp;seconde">…</a>
+      <a href="https://www.youtube.com/watch?v=EboygFmwjpM"  aria-label="Corrigé du live - Terminale S - Les primitives - 17/03/2020 |Jai20enmaths 7 minutes et 20&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=lgBrd0MLNLc"  aria-label="ANNONCE : Nos Lives du lundi 16 mars |Jai20enmaths 23&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=sVVVjKySEnI"  aria-label="Trouver des coordonnées à l'aide d'un repère - Géométrie dans l'espace - Terminale 5 minutes et 34&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=0BEmpDJllnI"  aria-label="Terminale ES - Calculs d'intégrales | J'ai 20 en maths 4 minutes et 7&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=SqNMgHQjkI0"  aria-label="Représentation paramétrique d'une droite Partie 2 - Géométrie dans l'espace - Terminale 3 minutes et 45&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=O7TyqNpwnc0"  aria-label="Terminale - Calculs d'intégrales | J'ai 20 en maths 3 minutes et 32&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=OiWG7u1JWsU"  aria-label="Terminale ES - Les Suites - Calculer les limites d'une suite | J'ai 20 en maths 2 minutes et 12&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=hPNAZxU7bSE"  aria-label="Représentation paramétrique d'une droite - Géométrie dans l'espace - Terminale 3 minutes et 40&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=6uM4HXPScgE"  aria-label="Trouver le point d'intersection entre un plan & une droite - Géométrie dans l'espace - Terminale 3 minutes et 46&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=JoYEDJiyfVs"  aria-label="Montrer qu'une droite est incluse dans un plan - Géométrie dans l'espace - Terminale 3 minutes et 37&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=ZTRcsPSAAow"  aria-label="Montrer qu'un vecteur est normal à un plan - Géométrie dans l'espace - Terminale 2 minutes et 47&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Ep-r6AjEo1E"  aria-label="Déterminer l'équation cartésienne d'un plan - Géométrie dans l'espace - Terminale 2 minutes et 35&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=-o4WgSXqtZ0"  aria-label="Montrer que deux droites sont coplanaires - Géométrie dans l'espace - Terminale 6 minutes et 3&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=DMZrDJHMu9w"  aria-label="Plans Parallèles ou Orthogonaux - Géométrie dans l'espace - Terminale 4 minutes et 17&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=m5k21MMe_JU"  aria-label="Droites Parallèles ou Orthogonales - Géométrie dans l'espace - Terminale 3 minutes et 28&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=BL-s8iZ0b2I"  aria-label="Terminale S - Les suites - Positivité de l'intégrale | J'ai 20 en maths 3 minutes et 30&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=OTahyVfEpDs"  aria-label="Terminale S - Les suites - Récurrence & Utilisation d'une fonction croissante | J'ai 20 en maths 7 minutes et 42&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=hmaTcCHeeW0"  aria-label="jai20enmaths.com - Présentation 59&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=_TlEiK7exio"  aria-label="Terminale S - Les Suites - La récurrence | J'ai 20 en maths 3 minutes et 36&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=VGsLYFogZ1A"  aria-label="Terminale S - Les Probabilités - Proba & Suites | J'ai 20 en maths 5 minutes et 36&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=QZgeycZb-10"  aria-label="Des complexes et des suites - Nombres complexes: point de vue géométrique - Maths Expertes 3 minutes et 14&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=mmxAkmD_KeU"  aria-label="Calculer x+iy puissance n - Nombres complexes&nbsp;: point de vue géométrique - Maths Expertes 6 minutes et 24&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=z1KJzwMBw5A"  aria-label="Lien entre une équation et la nature d'un triangle - Nombres complexes - Maths Expertes 5 minutes et 8&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=wmvC7ZM564I"  aria-label="Ensembles de points: Cercle ou médiatrice Nombres complexes: point de vue géométrique Maths Expertes 5 minutes et 7&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=8rFPd-edhyE"  aria-label="Terminale - La Fonction exponentielle - Étudier les variations - Partie 3 | J'ai 20 en maths 5 minutes et 42&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=meupJMfTbz4"  aria-label="Terminale - La Fonction exponentielle - Étudier les variations - Partie 2 | J'ai 20 en maths 3 minutes et 7&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Xn7o3wKCKn0"  aria-label="Terminale - La Fonction exponentielle - Étudier les variations - Partie 1 | J'ai 20 en maths 6 minutes et 46&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=km8tfEGSxCs"  aria-label="Terminale - Les Primitives usuelles - Partie 3 | J'ai 20 en maths 1 minute et 47&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=EMoP0c73FRQ"  aria-label="Terminale - Les Primitives usuelles - Partie 2 | J'ai 20 en maths 2 minutes et 16&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=fa1dSOkv2GU"  aria-label="Terminale - Les Primitives usuelles - Partie 1 | J'ai 20 en maths 5 minutes et 10&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=JHqDhF_VsKE"  aria-label="3ème - Les équations - Produit nul | J'ai 20 en maths 1 minute et 47&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=dpExaDIjk38"  aria-label="3ème - Les équations - Type DS & Brevet | J'ai 20 en maths 3 minutes et 38&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=IsIXJrRwVXk"  aria-label="3ème - Les équations - Maîtriser la base | J'ai 20 en maths 3 minutes et 57&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=ufVCHMI0Ng4&pp=0gcJCTsMAYcqIYzv"  aria-label="Terminale - Fonction Logarithme - Étudier les variations - Partie 2 | J'ai 20 en maths 3 minutes et 52&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=IHHUcMrIHb4&pp=0gcJCTsMAYcqIYzv"  aria-label="Terminale - Fonction Logarithme - Étudier les variations - Partie 1 | J'ai 20 en maths 6 minutes et 36&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=MW2lwV9IwV8"  aria-label="Terminale - Les suites - Résoudre les inéquations | J'ai 20 en maths 5 minutes">…</a>
+      <a href="https://www.youtube.com/watch?v=ofdM2kUSCao"  aria-label="Déterminer graphiquement un antécédent - Notions de fonction - Troisième 2 minutes et 37&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=eXWALjO-NUI&pp=0gcJCTsMAYcqIYzv"  aria-label="Déterminer graphiquement une image - Notions de fonction - Troisième 2 minutes et 30&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=iDZnVzbfw0Y"  aria-label="Terminale ES - Loi Uniforme | J'ai 20 en maths 4 minutes et 22&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=OA3CMmuylCU&pp=0gcJCTsMAYcqIYzv"  aria-label="Terminale - Échantillonnage & estimation - Amplitude d'un intervalle de fluctuation|J'ai 20 en maths 3 minutes et 15&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=0sBtU3H58Bo"  aria-label="Terminale - Échantillonnage & estimation - Intervalle de fluctuation | J'ai 20 en maths 3 minutes et 47&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=lzFcHbCOtXY"  aria-label="Terminale - Échantillonnage & estimation - Amplitude d'un intervalle de confiance | J'ai 20 en maths 2 minutes et 39&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=lzrfhWoFu0U&pp=0gcJCTsMAYcqIYzv"  aria-label="Terminale - Échantillonnage et estimation - Intervalle de confiance | J'ai 20 en maths 3 minutes et 35&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=6_ATLBzyuw8"  aria-label="3ème - Fonction linéaire - Calculer un antécédent | J'ai 20 en maths 2 minutes et 22&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=OS9-RZgqNR0&pp=0gcJCTsMAYcqIYzv"  aria-label="3ème - Fonction linéaire - Déterminer graphiquement un antécédent | J'ai 20 en maths 3 minutes et 9&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=05pJWPSQb5Y"  aria-label="3ème - Fonction linéaire - Calculer une image | J'ai 20 en maths 2 minutes et 21&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=U6j7e-QY1PE"  aria-label="3ème - Fonction linéaire - Déterminer graphiquement une image | J'ai 20 en maths 2 minutes et 28&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=rsI4eeYN_cA"  aria-label="3ème - Fonction affine - Calculer un antécédent | J'ai 20 en maths 3 minutes et 12&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=2WbQhPUotw4"  aria-label="3ème - Fonction affine - Déterminer graphiquement un antécédent | J'ai 20 en maths 2 minutes et 50&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=jiDBfKnKCnM"  aria-label="3ème - Fonction affine - Calculer une image | J'ai 20 en maths 3 minutes et 13&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=cM4RouML_gs"  aria-label="3ème - Fonction affine - Déterminer graphiquement une image | J'ai 20 en maths 2 minutes et 54&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=bAjxj-zGi38"  aria-label="3ème - Les Triangles semblables - 2ème définition | J'ai 20 en maths 2 minutes et 3&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=xZAf1JFDaf0"  aria-label="3ème - Les Triangles semblables - 1ère définition | J'ai 20 en maths 2 minutes et 59&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=mdxjV2rAlQ0"  aria-label="3ème - Trigonométrie - Mesure d'un côté avec la tangente | J'ai 20 en maths 3 minutes et 6&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=hPJ-Uq5Oi-g"  aria-label="3ème - Trigonométrie - Mesure d'un côté avec le sinus | J'ai 20 en maths 2 minutes et 37&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=xmeE-MTX0ho"  aria-label="Mesure d'un côté avec le cosinus - Trigonométrie - Troisième 2 minutes et 45&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=ofSklHtQkyc"  aria-label="Mesure d'un angle avec la tangente - Trigonométrie - Troisième 3 minutes et 16&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=znxErOCfbxk"  aria-label="Mesure d'un angle avec le sinus - Trigonométrie - Troisième 2 minutes et 46&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=aG-u3YwaLtc"  aria-label="Mesure d'un angle avec le cosinus - Trigonométrie - Troisième 3 minutes et 13&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=h_4S3btyWX0"  aria-label="Terminale S - Loi de Densité | J'ai 20 en maths 5 minutes et 31&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=AXvHj73noQ4"  aria-label="Terminale S - Loi Exponentielle | J'ai 20 en maths 5 minutes et 21&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=PXPOSKdPvIk&pp=0gcJCTsMAYcqIYzv"  aria-label="Terminale S - Loi Uniforme | J'ai 20 en maths 4 minutes et 16&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Z-Yy8z7oOfw&pp=0gcJCTsMAYcqIYzv"  aria-label="Terminale S - Quand utiliser la Loi Normale ? - Partie 2 | J'ai 20 en maths 4 minutes et 9&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=unZUlc7mTMA&pp=0gcJCTsMAYcqIYzv"  aria-label="Terminale S - Quand utiliser la Loi Normale ? - Partie 1 | J'ai 20 en maths 7 minutes et 48&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=mZkcrV8cnek"  aria-label="Somme et produit des racines - Le second degré - Première Spécialité 3 minutes et 45&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=wPyvguDsI2w"  aria-label="3ème - Le Théorème de Thalès - Triangles en papillons  | J'ai 20 en maths 3 minutes et 54&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Rsy9A3x-MYM"  aria-label="3ème - La Contraposée du Théorème de Thalès | J'ai 20 en maths 2 minutes et 38&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=qu1JwoxXa7Q"  aria-label="3ème - La Réciproque du Théorème de Thalès | J'ai 20 en maths 2 minutes et 23&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=Bi0NvOYmLrI"  aria-label="3ème - Le Théorème de Thalès | J'ai 20 en maths 3 minutes et 52&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=6rZUZKSXklE&pp=0gcJCTsMAYcqIYzv"  aria-label="Première Spécialité - Formule d'Al-Kashi - Calculer un côté | J'ai 20 en maths 4 minutes et 52&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=LF5jxyvwQYQ"  aria-label="Première Spécialité - Formule d'Al-Kashi - Calculer un angle | J'ai 20 en maths 4 minutes et 49&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=EgOzrORSrrw"  aria-label="La Réciproque du Théorème de Pythagore - Partie 2 - Troisième 3 minutes et 16&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=hLmPrgCDxFE"  aria-label="La Réciproque du Théorème de Pythagore - Partie 1 - Troisième 2 minutes et 47&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=fwQPVsHv0wg"  aria-label="Calculer la longueur d'un côté de l'angle droit dans un triangle rectangle - Pythagore - Troisième 2 minutes et 52&nbsp;secondes">…</a>
+      <a href="https://www.youtube.com/watch?v=DW5lzLeo2Bs"  aria-label="Théorème de Pythagore calculer la longueur de l'hypoténuse dans un triangle rectangle - Troisième 2 minutes et 59&nbsp;secondes">…</a>

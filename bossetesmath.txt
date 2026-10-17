@@ -1,0 +1,469 @@
+
+     <a href="https://www.youtube.com/watch?v=O_mElnJqreY"  aria-label= "COMMENT RÉUSSIR EN SPÉCIALITÉ MATHS :  LE TÉMOIGNAGE D'ÉLIAN 7 minutes et 37&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=uS_5xQzPk3E"  aria-label= "EXERCICE MODÈLE :  LOI BINOMIALE 10 minutes et 3&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=vH7cMpA--_A"  aria-label= "TERMINALE :  LOI BINOMIALE 9 minutes et 17&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=X5FIYIkZ22A"  aria-label= "EXERCICE MODÈLE :  LOGARITHME DÉCIMAL ET INÉGALITÉS 13 minutes et 26&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=NMNSXJk3Ico&pp=0gcJCTsMAYcqIYzv"  aria-label= "TERMINALE :  LOGARITHME DÉCIMAL ET INÉGALITÉS 15 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=j-06WDo6mc0"  aria-label= "SECTION PLANE D'UN SOLIDE DE L'ESPACE 4 minutes et 54&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=ZcQ87u5_x3c"  aria-label= "ANGLES 8 minutes et 19&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=xyR_rdWnIgo&pp=0gcJCTsMAYcqIYzv"  aria-label= "REPÉRAGE SUR UNE DROITE GRADUÉE ET DANS UN PLAN 4 minutes et 41&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=UsC07a99M3E"  aria-label= "PROGRAMME DE CALCUL 6 minutes et 16&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=3TdZpJ230Qo"  aria-label= "EXERCICE MODÈLE :  ESPÉRANCE D'UNE VARIABLE ALÉATOIRE 6 minutes et 47&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=8ToO0YBCbQk"  aria-label= "STATISTIQUES :  BOITE À MOUSTACHES 12 minutes et 57&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=yHzgBxHmn9Q"  aria-label= "INÉQUATION DU 1ER DEGRÉ 8 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=lNguy-2GDOQ"  aria-label= "EXPRESSIONS LITTÉRALES 9 minutes et 32&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=VZ-INEvQNm4"  aria-label= "PUISSANCES DE 10 11 minutes et 9&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=ukOqG7xJ5Pc"  aria-label= "SIMPLIFIER ET COMPARER DES FRACTIONS 10 minutes et 26&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=7AVyM2pOn6U&pp=0gcJCTsMAYcqIYzv"  aria-label= "CALCULER AVEC DES NOMBRES RELATIFS 7 minutes et 22&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=ZhL_R5SWamQ"  aria-label= "TERMINALE :  ESPÉRANCE D'UNE VARIABLE ALÉATOIRE 9 minutes et 59&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=w0AM83c8t4g"  aria-label= "EXERCICE MODÈLE :  LOGARITHME DÉCIMAL ET ÉGALITÉS 14 minutes et 9&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=7HsDcYpfZ_Y"  aria-label= "TERMINALE :  LOGARITHME DÉCIMAL ET ÉGALITÉS 16 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=woDaGXV1f3c"  aria-label= "EXERCICE MODÈLE :   COEFFICIENTS BINOMIAUX 6 minutes et 46&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Fedhmo2g1UM"  aria-label= "TERMINALE :  COEFFICIENTS BINOMIAUX 11 minutes et 28&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=-eBoDJ7ukZk"  aria-label= "EXERCICE MODÈLE :  FONCTION INVERSE 11 minutes et 59&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=huuQ-S4D3Xc"  aria-label= "TERMINALE :  FONCTION INVERSE 23 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=3gE2X6b2KOQ"  aria-label= "EXERCICE MODÈLE :  PROBABILITÉS CONDITIONNELLES ET INDÉPENDANCE 17 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=VTEDqRPnSSU"  aria-label= "TERMINALE :  PROBABILITÉS CONDITIONNELLES ET INDÉPENDANCE 21 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=5y_Hv4AKVF8"  aria-label= "EXERCICE MODÈLE :  FONCTIONS EXPONENTIELLES 17 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=sWz6gr__z30"  aria-label= "TERMINALE :  FONCTIONS EXPONENTIELLES 22 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=x7vdBRVBuw8"  aria-label= "EXERCICE MODÈLE :  SÉRIES STATISTIQUES À 2 VARIABLES 14 minutes et 43&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=ntRVxKC3ZT8"  aria-label= "POINT D'INFLEXION 9 minutes et 5&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=wQyEimARM-0&pp=0gcJCTsMAYcqIYzv"  aria-label= "CONVEXITÉ D'UNE FONCTION 10 minutes et 54&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=u2d0sQGdj4o"  aria-label= "SCRATCH ET PROBABILITÉS (partie 3)  9 minutes et 49&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=a8Xeu4_Jtlg"  aria-label= "SCRATCH ET GÉOMÉTRIE (partie 2)  9 minutes et 17&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=xOZ-GKvn9M4"  aria-label= "SCRATCH, PROGRAMME DE CALCUL ET INSTRUCTION CONDITIONNELLE "SI" (partie 1)  10 minutes et 19&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=ofioSEHSm0I"  aria-label= "TABLEUR - PARTIE 2 8 minutes et 56&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=VaAXKGBESD4"  aria-label= "TERMINALE :  STATISTIQUES À 2 VARIABLES 24 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=yLi_1MMgGEo"  aria-label= "TABLEUR - PARTIE 1 11 minutes et 3&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=4yhMyIlI8r8"  aria-label= "TRANSFORMATIONS DU PLAN - PARTIE 2 (rotation, homothétie)  8 minutes et 59&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=CQ9lwr4woq0"  aria-label= "TRANSFORMATIONS DU PLAN - PARTIE 1 (symétrie axiale, symétrie centrale, translation)  6 minutes et 45&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=95qpmCYm7Ig"  aria-label= "TRIANGLES SEMBLABLES 13 minutes et 9&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=b9jVQXPzwW8"  aria-label= "3 THÉORÈMES DE GÉOMÉTRIE À CONNAITRE ABSOLUMENT POUR LE BREVET 5 minutes et 59&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=5VECDdPRLxU"  aria-label= "AGRANDISSEMENT ET RÉDUCTION 7 minutes et 13&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=1ejW7rku6Hg"  aria-label= "COORDONNÉES GÉOGRAPHIQUES 6 minutes et 5&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=8RlKkJ6uMvg"  aria-label= "EXERCICE MODÈLE :  SUITES ARITHMÉTIQUES ET GÉOMÉTRIQUES 17 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=k3CZiPt7pIQ"  aria-label= "VOLUMES DES SOLIDES DE L'ESPACE 14 minutes et 38&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Gw3SqWgWjO0"  aria-label= "PÉRIMÈTRES ET AIRES 8 minutes et 24&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=TYTeAPUlAh4"  aria-label= "GRANDEURS SIMPLES ET COMPOSÉES 8 minutes et 32&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=dG65Qm1_yQU&pp=0gcJCTsMAYcqIYzv"  aria-label= "FONCTIONS LINÉAIRES ET PROPORTIONNALITÉ 15 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=9wOowvHZf38"  aria-label= "RATIOS 7 minutes et 28&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=AaRdtQ948MY"  aria-label= "STATISTIQUES :  DIAGRAMME EN BATONS, DIAGRAMME CIRCULAIRE 8 minutes et 2&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=dzKRNv-p7KA"  aria-label= "STATISTIQUES :  EFFECTIF, FRÉQUENCE, ÉTENDUE 4 minutes et 40&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=vtO0Ipj-G24"  aria-label= "MISE EN ÉQUATION D'UN PROBLÈME :  4 ÉTAPES 6 minutes et 44&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=s5loDztk5Jk&pp=0gcJCTsMAYcqIYzv"  aria-label= "TERMINALE :  SUITES ARITHMÉTIQUES ET GÉOMÉTRIQUES 22 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=tNDc1H7GRDc"  aria-label= "PGCD DE 2 ENTIERS 9 minutes et 51&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Vic8rT6K_fk"  aria-label= "DIVISION EUCLIDIENNE 11 minutes et 33&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=6kp6IMal3bU"  aria-label= "RACINES CARRÉES 8 minutes et 20&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Pkr9zObt7k0"  aria-label= "JULES (SECONDE BACHIBAC)  A CHOISI LA 1ÈRE SPÉ MATHS 8 minutes et 14&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=ZAIvEJLf24c"  aria-label= "SPÉ MATHS EN VUE :  LE PARCOURS D'ÉVA EN SECONDE BACHIBAC 8 minutes et 54&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=U8YjbE0Q-Tw"  aria-label= "PACK COMPLET :  1ÈRE SPÉCIALITÉ MATHS 28&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=QA6W8zLqX2Q"  aria-label= "ANAÏS EN TERMINALE SPÉ MATHS VEUT DEVENIR PROF DES ÉCOLES 10 minutes et 10&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=UhoqRQglaY4"  aria-label= "SPÉ MATHS :  SACHA TE DIT TOUT (VRAIMENT)  7 minutes et 19&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=bWhXNIk5vas"  aria-label= "ELLE ENTRE À HENRI IV :  LISE, UNE DES MEILLEURES LYCÉENNES DE FRANCE 13 minutes et 10&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=7iZeArykbvk&pp=0gcJCTsMAYcqIYzv"  aria-label= "Calculer une intégrale par IPP (intégration par parties) . #shorts #terminale #spémaths #bac #2007 3 minutes et 23&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=QBo4dR0s5j0"  aria-label= "Exo d’arithmétique sur le PGCD (niveau Terminale maths expertes) . #shorts #maths #prof #pgcd 3 minutes et 1&nbsp; seconde"> … </a> 
+     <a href="https://www.youtube.com/watch?v=SstTNtu_OwA"  aria-label= "Résoudre une inéquation-produit ! #shorts #maths #mathématiques #tableaudesignes #lycée #prof 3 minutes et 19&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=vi2D-wSM9MU"  aria-label= "Étude de fonction exponentielle (1ère spé maths) . #shorts #maths #mathématiques #spémaths #prof 3 minutes et 20&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=EJZrJoa7Lfg&pp=0gcJCTsMAYcqIYzv"  aria-label= "Étude d’une fonction trigonométrique. #shorts #maths #sin #cos #trigo #bac #spémaths #terminale 4 minutes et 36&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Va4CWUIkJa0"  aria-label= "Arithmétique :  le théorème de Bézout. #shorts #maths #mathématiques #gauss #mathsexpertes #prof 4 minutes et 21&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=SoFVG367gKw"  aria-label= "Espérance d’une variable aléatoire. #shorts #maths #mathématiques #spémaths #probabilité #première 3 minutes et 6&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Xt9oCIsBPJk"  aria-label= "Obtenir cos(5π/ 12)  avec les nombres complexes. #shorts #maths #mathématiques #mathsexpertes #trigo 4 minutes et 41&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=ziYbQQyPBLg"  aria-label= "As-tu le niveau lycée en maths ? 16 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=hHTAjELOJlo&pp=0gcJCTsMAYcqIYzv"  aria-label= "Un problème d’optimisation niveau 1ère spé maths. #shorts #maths #mathématiques #dérivée #fonction 3 minutes et 36&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=mgnUwQ-wkSk"  aria-label= "Forme trigonométrique d’un nombre complexe. #maths #shorts #mathématiques #mathsexpertes #prof 3 minutes et 57&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=9PXky5jbZAo"  aria-label= "Obtenir le projeté orthogonal d’un point sur un plan (Terminale spé maths) . #shorts #bac #maths 3 minutes et 28&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=t1qE_pF-NtQ"  aria-label= "Étude de fonction exponentielle. #shorts #maths #mathématiques #fonction #exp #spémaths #bac #prof 3 minutes et 5&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=yQl0utthTSk"  aria-label= "Vecteurs colinéaires dans l’espace. #shorts #maths #mathématiques #géométrie #prof #spémaths #bac 3 minutes et 29&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=A8I60CIEWLY&pp=0gcJCTsMAYcqIYzv"  aria-label= "Représentation paramétrique d’une droite. 4 minutes et 32&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=1Ju4xHKdqsI"  aria-label= "GÉOMÉTRIE DANS L'ESPACE 5 :  POINT D'INTERSECTION DE 2 DROITES SÉCANTES 9 minutes et 56&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=fAOEyQfh4Rg"  aria-label= "Limites d’une fonction (avec 0+ et 0-) . 3 minutes et 54&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=7WnxD9DrLfs"  aria-label= "Résoudre une équation dans C avec z et z barre. 3 minutes et 37&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=yfzv6QE19h4"  aria-label= "Comment résoudre une inéquation du second degré ? (Première spé maths)  2 minutes et 3&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=gY2IxQ3sW1s"  aria-label= "Comment enlever des parenthèses dans une expression littérale ? #maths #mathématiques #collège #dnb 2 minutes et 23&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=54QhYYYfkao"  aria-label= "Symétries centrale et axiale. 1 minute et 19&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=16SuoTbWHXQ"  aria-label= "La relation de Chasles (niveau Seconde) . 1 minute et 24&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=jzsCXsQh9RA"  aria-label= "Le théorème de Thalès pour mesurer un arbre. #shorts #mathématiques #maths #géométrie #collège #prof 1 minute et 6&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=9cgCzP1kimw"  aria-label= "Limite d’une suite par point fixe. 2 minutes et 14&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=E4cEGJFSpFw"  aria-label= "La formule du binôme de Newton pour développer (2 + 3i) ⁴ :  niveau Terminale maths expertes. 5 minutes et 30&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=wbI3wyDmYkI"  aria-label= "Les pourcentages sont réversibles ! 1 minute et 1&nbsp; seconde"> … </a> 
+     <a href="https://www.youtube.com/watch?v=e6m-8qDkbP8&pp=0gcJCTsMAYcqIYzv"  aria-label= "En haut ou en bas du paquet de copies ? 1 minute et 9&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=0Ql4e8x2VjY"  aria-label= "Valeur absolue et intervalle (niveau Seconde) . 2 minutes et 57&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=ZgqrwDUTDH0"  aria-label= "LA BOUCLE NON BORNÉE "WHILE" EN PYTHON 9 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=NU_gSIINBbo"  aria-label= "Réunion et intersection de deux intervalles ! 2 minutes et 53&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=ZJMsdDUvtfk"  aria-label= "EXERCICES SUR LA BOUCLE BORNÉE "FOR" EN PYTHON 8 minutes et 25&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=5YpM0EYo1nE"  aria-label= "Forme algébrique des nombres complexes pour les Terminales Maths Expertes. 3 minutes et 42&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=qI23BBGUPTo"  aria-label= "LA BOUCLE BORNÉE "FOR" EN PYTHON 2 minutes et 14&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=OJkoIFZ7Ye8"  aria-label= "EXERCICES SUR L'INSTRUCTION CONDITIONNELLE "IF" EN PYTHON 8 minutes et 12&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=zXoEEmRu7D4"  aria-label= "L'INSTRUCTION CONDITIONNELLE "IF" EN PYTHON 2 minutes et 25&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=PdsdPP5Ucpo"  aria-label= "La réciproque du théorème de Pythagore (niveau 3ème) . #shorts #mathématiques #maths #prof #brevet 2 minutes et 36&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=9NjyKsoHjVA"  aria-label= "EXERCICES SUR LES FONCTIONS EN PYTHON 6 minutes et 11&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=rFRHCIFdVC4"  aria-label= "Comment lever une indétermination dans la limite d’une suite ? #mathématiques #maths #prof #bac 3 minutes et 36&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=ScEZjYFcGTU"  aria-label= "LES FONCTIONS EN PYTHON 3 minutes et 31&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Fj3oRb9joQI"  aria-label= "Arithmétique de 3ème. #shorts #mathématiques #maths #prof #collège #brevet #enseignement #diviseur 1 minute et 26&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=-61Z5AR-h1k&pp=0gcJCTsMAYcqIYzv"  aria-label= "EXERCICES BASIQUES EN PYTHON 8 minutes et 10&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=x8q7qtrXv68"  aria-label= "PREMIÈRES NOTIONS DE PROGRAMMATION EN PYTHON 8 minutes et 12&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=19d7PBmBAv8"  aria-label= "Les intervalles en Seconde ! #shorts #mathématiques #maths #lycée #collège #spémaths #révision #prof 1 minute et 26&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=1WdxImtLEVE&pp=0gcJCTsMAYcqIYzv"  aria-label= "LA BOUCLE NON BORNÉE "TANT QUE" EN ALGORITHMIQUE 9 minutes et 13&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=XFHtfxtFmlA"  aria-label= "LA BOUCLE BORNÉE "POUR" EN ALGORITHMIQUE 7 minutes et 57&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=-1EcVyQnOz4"  aria-label= "L'INSTRUCTION CONDITIONNELLE "SI ALORS SINON" EN ALGORITHMIQUE 5 minutes et 38&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=rOUPQgErlqA&pp=0gcJCTsMAYcqIYzv"  aria-label= "Exo sur les ensembles de nombres (niveau 2nde) . #shorts #mathématiques #maths #lycée #prof #seconde 1 minute et 40&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=haJTBvXedMo&pp=0gcJCTsMAYcqIYzv"  aria-label= "ALGORITHMIQUE :  PREMIÈRES NOTIONS 7 minutes et 29&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=YuCge2jaTZU"  aria-label= "Raisonnement par récurrence. #mathématiques #maths #terminale #bac #suites #récurrence 3 minutes et 56&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=WgE9Oqoz3G0"  aria-label= "TABLEAU À DOUBLE ENTRÉE OU ARBRE DE PROBABILITÉS 9 minutes et 14&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=FVrKCWHfJbg"  aria-label= "Exercice sur la forme canonique d’un polynôme du second degré niveau 1ère spé maths. #mathématiques 2 minutes et 22&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=SNTMDwatAlE"  aria-label= "PROBABILITÉS :  OPÉRATIONS SUR LES ÉVÈNEMENTS 11 minutes et 35&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Np4LZVx0Dcs"  aria-label= "ÉVÈNEMENTS ET LOI DE PROBABILITÉ 9 minutes et 14&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=8vXR60bcwa0"  aria-label= "La Terminale spé maths en 10 questions ! #shorts #mathématiques #maths #bac #spémaths #prof #2007 1 minute et 7&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=mfde5ZbKXcM"  aria-label= "PREMIÈRES NOTIONS DE PROBABILITÉ 10 minutes et 37&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=w48OOrWSDIQ"  aria-label= "STATISTIQUES :  MÉDIANE, QUARTILES, ÉCART INTERQUARTILE 10 minutes et 57&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=4CV6gaeVkaM"  aria-label= "STATISTIQUES ;  MOYENNE, VARIANCE, ÉCART-TYPE 12 minutes et 10&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Wu0fVZlzLWA"  aria-label= "Les ensembles de nombres :  N, Z, D, Q et R. #shorts #maths #mathématiques #seconde #2009 #exercice 2 minutes et 7&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=C4GIKfTIXZM"  aria-label= "STATISTIQUES :  ÉTENDUE, MOYENNE, MÉDIANE 12 minutes et 17&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Sc57bMY9MRY"  aria-label= "TAUX D'ÉVOLUTION RÉCIPROQUE 9 minutes et 31&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Djb9HuqL6iY"  aria-label= "ÉVOLUTIONS SUCCESSIVES :  POURCENTAGE GLOBAL D'ÉVOLUTION 8 minutes et 45&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=sAQMdeHPSg4"  aria-label= "Simule déjà ta moyenne au Bac ! #mathématiques #maths #math #terminale #2007 #bac #parcoursup 1 minute et 35&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=d5CSqHowqPA"  aria-label= "POURCENTAGE DE POURCENTAGE 3 minutes et 20&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=1TLSZTxXkpw"  aria-label= "La rentrée et Terminale Maths Expertes. #shorts #mathématiques #maths #math #prof #terminale #bac 1 minute et 58&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=bUZdDY1u1sk"  aria-label= "COMMENT RÉUSSIR EN MATHS EN SECONDE :  VOICI CHLOÉ 5 minutes et 4&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=8KbHPqzLHs4&pp=0gcJCTsMAYcqIYzv"  aria-label= "18/ 20 EN MATHS EN SECONDE :  ÉTHAN, UN ÉLÈVE DOUÉ 9 minutes et 41&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=0z3OccNqkxQ"  aria-label= "Les maths en Seconde en 10 questions ! #shorts #mathématiques #maths #lycée #seconde 1 minute et 12&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=cEVQM9NlyWs"  aria-label= "Masterclass de rentrée:  https: / / creators.wooskill.com/ bossetesmaths-le-calcul-litteral-et-numerique/  1 minute et 10&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=k_AS9iMWU9U"  aria-label= "Défi corrigé ! #shorts #mathématiques #maths #prof #collège #lycée 2 minutes et 5&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=sgtC4UhMKjE"  aria-label= "Combien vaut √80 − √20 ? #maths #mathématiques #collège #lycée #racinecarrée #calcul #révisions 1 minute et 5&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=ub3wA8Asd3A&pp=0gcJCTsMAYcqIYzv"  aria-label= "Combien vaut 3⁸−1 sans calculatrice ? #shorts #mathématiques #maths #calcul #exposant #révisions 1 minute et 31&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=S0cghBrtzLE"  aria-label= "Brevet question flash :  développer une identité remarquable. #maths #mathématiques #brevet #collège 1 minute et 11&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=LVGGumDg92I"  aria-label= "Mon avis sur le bac de spé maths 2024. #math #maths #mathématiques #bac #spémaths #terminale #2006 3 minutes et 24&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=MFuxCL_MI4o"  aria-label= "#Quiz bac #7. #mathématiques #maths #bac #spémaths #terminale #2006 1 minute et 16&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=LFt-9W1czOw"  aria-label= "Pronostics bac spé maths 2024. #mathématiques #maths #bac #spémaths #2006 2 minutes et 21&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=b6b2JcmkeY8"  aria-label= "ÉCHELLES 5 minutes et 42&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=pbvIU3la_0A"  aria-label= "Quiz Bac #6. #mathématiques #maths #prof #bac #spémaths #2006 1 minute et 19&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=bHWhYXR_UF4"  aria-label= "Quiz Bac #5. #mathématiques #maths #bac #spémaths #prof #2006 1 minute et 21&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=0xTDTQFFjUw"  aria-label= "VITESSE MOYENNE 5 minutes et 56&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Wg0f1M9RNcM"  aria-label= "PROPORTIONNALITÉ 8 minutes et 3&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=ifL-AFDCF9Q"  aria-label= "Quiz bac #4. #mathématiques #maths #bac #spémaths #2006 1 minute et 3&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=ZL2TxMVqda4"  aria-label= "POINT D'INTERSECTION DE 2 DROITES SÉCANTES 14 minutes et 33&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=cQ92jRoOm4g"  aria-label= "Quiz bac #3. #mathématiques #maths #bac #spémaths #2006 1 minute et 29&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=bYf9dhFkGkM"  aria-label= "POSITION RELATIVE DE 2 DROITES DU PLAN 14 minutes et 29&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=t4btRkbH1SU"  aria-label= "Quiz bac #2. #mathématiques #maths #bac #spémaths #2006 1 minute et 4&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=xQ6M7MDc_og"  aria-label= "ÉQUATION CARTÉSIENNE D'UNE DROITE 12 minutes et 11&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=QnXEwdf13Lk"  aria-label= "NOMBRES PREMIERS (ARITHMÉTIQUE - PARTIE 3)  11 minutes et 10&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Wkc48XTuYq8"  aria-label= "NOMBRE PAIR/ IMPAIR (ARITHMÉTIQUE - PARTIE 2)  10 minutes et 45&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=bsYemmGxD-g"  aria-label= "DIVISEURS ET MULTIPLES D'UN ENTIER (ARITHMÉTIQUE - PARTIE 1)  7 minutes et 45&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=9rK53Cd8JNc"  aria-label= "APPLICATIONS DE LA COLINÉARITÉ DE 2 VECTEURS 7 minutes et 35&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=s5ndCfix3Z8"  aria-label= "VECTEURS COLINÉAIRES 10 minutes et 50&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=ES3Ml3KlWuc"  aria-label= "COORDONNÉES D'UN VECTEUR 13 minutes et 34&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=By-NQVpqUW8"  aria-label= "LA RELATION DE CHASLES 3 minutes et 53&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Z3FyMvLPW_U"  aria-label= "COMPRENDRE LES VECTEURS 9 minutes et 22&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=fRE3x0sah4s"  aria-label= "REPÈRES DU PLAN 10 minutes et 5&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=rkn-Ou3DToM"  aria-label= "Racines carrées au dénominateur d’une fraction. #shorts #mathématiques #maths #prof #lycée #élève 2 minutes et 12&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=mjJggjE33QU"  aria-label= "TRIGONOMÉTRIE DANS UN TRIANGLE RECTANGLE :  COSINUS, SINUS ET TANGENTE 8 minutes et 25&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=-TwtNFYK9SU"  aria-label= "Quel nombre est le plus grand ? #shorts #mathématiques #maths #prof #lycée #élève #collège 1 minute et 28&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=j19ALVsEhuo"  aria-label= "Division euclidienne de polynômes (partie 1) . #shorts #mathématiques #maths #prof #lycée #prépa 3 minutes et 13&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=3uW0um_Y7jU"  aria-label= "LA RÉCIPROQUE DU THÉORÈME DE THALÈS 5 minutes et 24&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=nZ3537g3Ne0"  aria-label= "Une double intégration par parties ! #shorts #mathématiques #maths #prof #lycée #integrales #prépa 5 minutes et 8&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=McDJntmL-hc"  aria-label= "LE THÉORÈME DE THALÈS 7 minutes et 8&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=x37Qi9fgE1Y"  aria-label= "LES 3 THÉORÈMES DES MILIEUX 7 minutes et 33&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=NORMt4ZA1sQ"  aria-label= "LA RÉCIPROQUE DU THÉORÈME DE PYTHAGORE 4 minutes et 58&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=29KxQd9p2Rc"  aria-label= "Quantifier un énoncé mathématique ! #shorts #mathématiques #maths #lycée #prépa #prof 1 minute et 24&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=vLl49xT2v40"  aria-label= "LE THÉORÈME DE PYTHAGORE 5 minutes et 31&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=NE9BuWQyhvY"  aria-label= "Quantifier des énoncés mathématiques. #shorts #math #maths #lycée #prépa #mpsi #mathématiques 1 minute et 24&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=4yXXcFEwsfU"  aria-label= "TRIANGLE INSCRIT DANS UN CERCLE 8 minutes et 4&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=F9xSUPhSLAA"  aria-label= "Matrice A puissance n (exercice de prépa) . #shorts #mathématiques #maths #prof #lycée #prépa 4 minutes et 7&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=U9D9B1JiL-s"  aria-label= "PARITÉ D'UNE FONCTION 7 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=5FowQ2ofia4"  aria-label= "TABLEAU DE SIGNES GRAPHIQUEMENT 6 minutes et 29&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=I0-lR9brKS4"  aria-label= "ÇA TOMBE AU BAC :  PRIMITIVE D'UNE FONCTION ET DÉRIVÉE 1 minute et 59&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=7C0_vDj4iqw"  aria-label= "Module des nombres complexes. #shorts #mathématiques #maths #lycée #élève #prof 2 minutes et 39&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=MKTuQyY4bxE&pp=0gcJCTsMAYcqIYzv"  aria-label= "Suite et racines carrées ! #shorts #mathématiques #maths #prof #lycée #élève #prèpa 3 minutes et 31&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=t_qMNVJNcaU"  aria-label= "ÇA TOMBE AU BAC :  LIMITE D'UNE SUITE AVEC q^n 2 minutes et 20&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=soTDkEEXrwk"  aria-label= "ÇA TOMBE AU BAC :  PRIMITIVE QUI PREND LA VALEUR 5 EN 0 2 minutes et 28&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=To60JM2JclY"  aria-label= "ÇA TOMBE AU BAC :  PRIMITIVES 1 minute et 45&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=ednylw8CN00"  aria-label= "ÇA TOMBE AU BAC :  ÉQUATION AVEC EXPONENTIELLES 1 minute et 16&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=lpBZqfcQGik"  aria-label= "Congruences ! #shorts #mathématiques #maths #prof #lycée #prépa #mathsexpert 2 minutes et 16&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=GJrT9qoHyEc"  aria-label= "ÇA TOMBE AU CONTRÔLE :  PRODUIT SCALAIRE 5 minutes et 6&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=kpZcFkp5Epw"  aria-label= "ÇA TOMBE AU BAC :  ln(x)  ET DÉRIVÉE 59&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=W0TxxnmFpNM"  aria-label= "Équations niveau Terminale ! #shorts #mathématiques #maths #prof #lycée #collège #équation 1 minute et 25&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=JwjcpnIZ3l4"  aria-label= "Une question sur le Grand Oral posée à David Louapre de la chaîne YouTube «&nbsp; ScienceEtonnante&nbsp; » 1 minute et 17&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=hSlElpdj6RY"  aria-label= "ÇA TOMBE AU CONTRÔLE :  VECTEURS ET PARALLÉLOGRAMME 2 minutes et 13&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=FzQRaTJDToU"  aria-label= "Addition de deux fractions ! #shorts #maths #mathématiques #prof #lycée #collège #fraction 2 minutes et 14&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=TBAEn2HhFKo"  aria-label= "ÇA TOMBE AU CONTRÔLE :  ÉQUATIONS AVEC EXPONENTIELLE 1 minute et 31&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=eOgSWa4T6ho"  aria-label= "ÇA TOMBE AU CONTRÔLE :  FORMULES AVEC L'EXPONENTIELLE 1 minute et 52&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=NelmUWHDtxU"  aria-label= "FONCTION RACINE CARRÉE 8 minutes et 44&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=N1lQgTCJC0Y"  aria-label= "COMPARER x;  x² ET x³ 4 minutes et 22&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=nCRni5mkMzs"  aria-label= "Défi ABCDx4=DCBA 5 minutes et 13&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=1ReyYPmQKTA"  aria-label= "Equation du 4e degré :  (x+1) (x+2) (x+3) (x+4) =360 6 minutes et 4&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=vOw0LxXSNLI"  aria-label= "Un test niveau 6e - partie 2 3 minutes et 32&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=ojqDPWVvc6E"  aria-label= "Un test niveau 6e - partie 1 2 minutes et 32&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=3Q3i5Q4n6Zw"  aria-label= "Suite d’intégrales ! #shorts #mathématiques #maths #prof #lycée #élève 2 minutes et 6&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Jc8u14ilv7o"  aria-label= "i^i est un réel ! #shorts #mathématiques #maths #prof #lycée #prépa #nombrecomplexe 1 minute et 7&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=gvD9D-cKp04"  aria-label= "Symboles mathématiques 2 minutes et 22&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=RQKkvAsvv34"  aria-label= "FONCTION CUBE 9 minutes et 35&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=DrgPscTQquM"  aria-label= "EXTREMUMS D'UNE FONCTION 6 minutes et 19&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=0YzowGn1_dE"  aria-label= "RÉSOLUTIONS GRAPHIQUES D'ÉQUATIONS ET D'INÉQUATIONS 9 minutes et 59&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=FbhJQSIK4sw"  aria-label= "Le paradoxe de Simpson. #shorts #mathématiques #maths #prof #lycée #collège 1 minute et 13&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=hzt8r4AI6HE"  aria-label= "RÉSOUDRE DES PROBLÈMES AVEC DES FONCTIONS 11 minutes et 6&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=mhXjvOCtwlA"  aria-label= "Simuler sa moyenne au bac. #shorts #mathématiques #maths #prof #lycée #bac #parcoursup 1 minute et 20&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=2ysRAxeATms"  aria-label= "FONCTIONS AFFINES 10 minutes et 38&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=LaF0qubEC8w"  aria-label= "COURBE REPRÉSENTATIVE D'UNE FONCTION 8 minutes et 29&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=yyuHo7CSoow"  aria-label= "Remplir un bulletin scolaire ! #shorts #mathématiques #maths #prof #lycée #collège #bulletin 2 minutes et 40&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=B0iR-dYxkIY"  aria-label= "NOTION DE FONCTION 9 minutes et 38&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=M2mBSfJEsTY"  aria-label= "RÉSOUDRE UN SYSTÈME LINÉAIRE DE 2 ÉQUATIONS DU 1ER DEGRÉ 11 minutes et 23&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=TtaVK96Oe2U&pp=0gcJCTsMAYcqIYzv"  aria-label= "RÉSOUDRE UNE INÉQUATION DU 1ER DEGRÉ 14 minutes et 14&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=f-Mr4_F2Jz8"  aria-label= "Un exo de bac 2022 (spé maths) . #shorts #mathématiques #maths #prof #lycée #bac #exponentielle 1 minute et 31&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Fw0Fl2qkj10"  aria-label= "La relation de Chasles. #shorts #mathématiques #maths #prof #lycée #vecteur #chasles 1 minute et 22&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=8iBtHM4HLW8"  aria-label= "RÉSOUDRE UNE ÉQUATION DU 2ND DEGRÉ :  x²=a 5 minutes et 36&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=zz_bRAwpeuo"  aria-label= "RÉSOUDRE UNE ÉQUATION PRODUIT NUL 3 minutes et 8&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=moADf3tJc0k&pp=0gcJCTsMAYcqIYzv"  aria-label= "DÉVELOPPER UNE IDENTITÉ REMARQUABLE 6 minutes et 50&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=GHLBYRj5PlA&pp=0gcJCTsMAYcqIYzv"  aria-label= "DÉVELOPPER UNE EXPRESSION AVEC LA DISTRIBUTIVITÉ SIMPLE OU DOUBLE 5 minutes et 34&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=J3Fzer2EB78&pp=0gcJCTsMAYcqIYzv"  aria-label= "Parcoursup :  3 conseils ultimes ! #shorts #maths #mathématiques #prof #lycée #parcoursup #spémaths 1 minute et 17&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=VakhT8pym-A&pp=0gcJCTsMAYcqIYzv"  aria-label= "RÉDUIRE ET ORDONNER UNE EXPRESSION LITTÉRALE 12 minutes et 53&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=k3RabGGM-lE"  aria-label= "LES ENSEMBLES DE NOMBRES N, Z, D, Q ET R 11 minutes et 6&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=hWHrhXiWJKk"  aria-label= "NOTATION SCIENTIFIQUE D'UN NOMBRE 5 minutes et 51&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=BNDns48cUUY&pp=0gcJCTsMAYcqIYzv"  aria-label= "Calculs avec des racines carrées. #shorts #mathématiques #maths #prof #lycée #collège 1 minute et 3&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=gtPEMK2gt4s"  aria-label= "CALCULER AVEC DES PUISSANCES 5 minutes et 18&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=4dYW87n5HWc"  aria-label= "Système de 2 équations. #shorts #mathématiques #maths #prof #equations #systeme 1 minute et 13&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=pabFhTUMry0"  aria-label= "Équation avec fractions. #shorts #mathématiques #maths #prof #lycée #equations #fraction 1 minute et 10&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=tm5LujO-D6c&pp=0gcJCTsMAYcqIYzv"  aria-label= "CALCULS MÉLANGÉS AVEC DES FRACTIONS 4 minutes et 52&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=kAv48mkTJ_4"  aria-label= "DIVISER 2 FRACTIONS 3 minutes et 57&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=YvkYyWgyqwI"  aria-label= "PRIORITÉS DES OPÉRATIONS 5 minutes et 53&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Nl4PIuXeLHg"  aria-label= "NOMBRES RELATIFS :  ADDITION, SOUSTRACTION, MULTIPLICATION ET DIVISION 9 minutes et 21&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=5rMBCah6Ehk"  aria-label= "Un défi sur des volumes de cylindres ! 1 minute et 41&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=dngo3tT9U8g"  aria-label= "Développer (3 + √7) ².  #shorts #mathématiques #maths #lycée #prof #collège #calcul 1 minute et 14&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=uw0Q3oQfAPk"  aria-label= "Combien vaut cette racine carrée ? 3 minutes et 58&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=xuN5ZvLPE9A"  aria-label= "Une double équation du second degré 3 minutes et 24&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=A_EPAxuVFRQ"  aria-label= "Astuce division ! #shorts #lycée #mathématiques #maths #prof #division #astuce 1 minute et 2&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=sppZeR62yvY"  aria-label= "Ecoute cette fonction et devine le morceau ! 1 minute et 41&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=AN28MpHJzmM"  aria-label= "Défi de géométrie captivant :  vas-tu trouver le rayon du petit cercle dans ce triangle équilatéral ? 4 minutes et 54&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=AtFdMyDIvKk"  aria-label= "Nombres premiers :  j'ai découvert une pépite ! 5 minutes et 27&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=6d2vvDdKKV4"  aria-label= "1 = 0 la démonstration ! 1 minute et 5&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=CzsXywPCm-I"  aria-label= "Pythagore ! #shorts #mathématiques #maths #lycée #collège #prof #géométrie #triangle 1 minute et 9&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=LCZDk8GMKug"  aria-label= "Une équation avec 3 racines carrées ! #shorts #mathématiques #maths #équation #prof #lycée 1 minute et 7&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=o9TpTseBrfQ"  aria-label= "Un enfant en école primaire peut résoudre cette énigme de géométrie ! 2 minutes et 12&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=ZAS_Tqj3A5I"  aria-label= "GÉOMÉTRIE DANS L'ESPACE 4 :  REPRÉSENTATION PARAMÉTRIQUE D'UNE DROITE 9 minutes et 38&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=I_1yUNeReac"  aria-label= "Quelle est la hauteur de la table ? #shorts #mathématiques #maths #chine #école #défi 1 minute et 32&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Q9rJKHdyWQE"  aria-label= "Sais-tu résoudre l'équation x^x^2024=2024 ? 3 minutes et 22&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=69Jt-fZCtOM"  aria-label= "Quel est le chiffre des unités de 2023^2024 ? 7 minutes et 3&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=pHQa-2QeTYs"  aria-label= "DISTANCE ENTRE 2 POINTS 12 minutes et 8&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=zWUdMNSELOY"  aria-label= "Top 5 des erreurs de maths les plus courantes au lycée 2 minutes et 45&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=R3wd5qOCatM"  aria-label= "Qui est plus grand :  2024^2023 ou 2023^2024 ? 7 minutes et 2&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=fZ408TJKklE"  aria-label= "Sais-tu résoudre l'équation x^x^4=64 ? 3 minutes et 1&nbsp; seconde"> … </a> 
+     <a href="https://www.youtube.com/watch?v=_s0u63lTDIw"  aria-label= "Des alliances mathématiques 1 minute et 42&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=rJly8h04OWA"  aria-label= "Combien vaut le nombre d'or à la puissance 12 ? (sans calculatrice !)  6 minutes et 49&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=y3uV9AsvdhA"  aria-label= "Combien mesure l'élastique rouge autour des 3 cercles ? 7 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=eIvLsI-KHjg"  aria-label= "Comment trouver x et y dans cette triple équation ? 2 minutes et 17&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=0wmwqc2Ipmg"  aria-label= "Comment calculer √(80x81x82x83+1)  sans calculatrice ? 3 minutes et 44&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=8XW4cr84EAw&pp=0gcJCTsMAYcqIYzv"  aria-label= "Quelle est l'aire rouge ? 3 minutes et 29&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Sc1aqV1brGk"  aria-label= "Qui est plus grand :  333^444 et 444^333 ? 4 minutes et 51&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Oa--e3VS9vc"  aria-label= "Peux-tu trouver le périmètre et l'aire du triangle rectangle ? 5 minutes et 45&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=GffL3YpeJDY"  aria-label= "Quelle est la bonne réponse à ce défi sur des calculs de puissances ? 1 minute et 1&nbsp; seconde"> … </a> 
+     <a href="https://www.youtube.com/watch?v=P3iakfGoy7Q"  aria-label= "Peux-tu calculer cette racine sans calculatrice ? 4 minutes et 21&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=6EJ7hQtYzE8"  aria-label= "Quel est le rayon du petit cercle vert ? 11 minutes et 42&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=ORBIeDfmLN8"  aria-label= "Quelle est l'aire du disque jaune ? 6 minutes et 11&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=j8vwmiJi_EA"  aria-label= "Maths et confiture ! 2 minutes et 25&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=h_V3v3lJ4XI"  aria-label= "Sais-tu résoudre sans calculatrice l’équation :  x³ = 303³ + 404³ + 505³ ? 1 minute et 29&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=JbTAQD3bjtU"  aria-label= "Un résultat bluffant ! Explique-moi pourquoi un tel résultat à chaque fois ? 49&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=-hZ0x05qekY"  aria-label= "Un problème trompeur :  entre ces 2 triangles isocèles, qui a la plus grande aire ? 4 minutes et 34&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=9aefzqP7_xg"  aria-label= "Un problème impossible ? Les 10€ manquants ! 1 minute et 12&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=6NnAdxUEQe0"  aria-label= "Vrai ou faux :  2¹⁵ − 2¹⁴ = 2¹⁴ ? 1 minute et 15&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=T6hmGSZzo_w&pp=0gcJCTsMAYcqIYzv"  aria-label= "Un problème effrayant :  comparer 3,14^π et π^3,14 ! 9 minutes et 22&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=uA7m5mgkaQk"  aria-label= "Je lis dans tes pensées (partie 4)  ! 1 minute et 25&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=gQPM9xiuNqQ"  aria-label= "Combien vaut x dans ce triangle rectangle de mesures x, x² et x³ ? 5 minutes et 53&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=H4c7qbRRmiY&pp=0gcJCTsMAYcqIYzv"  aria-label= "Peux-tu résoudre ce casse-tête mathématique ? 3 minutes et 47&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=EK8WZGRzOfw&pp=0gcJCTsMAYcqIYzv"  aria-label= "Vecteurs et coordonnées :  montrer que 4 points forment un rectangle 5 minutes et 21&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=qBb_o_XO_NE"  aria-label= "Soroban - Partie 4 :  additions et soustractions simples 2 minutes et 48&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=WpWzxz_rISw"  aria-label= "Soroban - Partie 3 :  lire un nombre sur un soroban 2 minutes et 9&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=-NlOrj7Im3c"  aria-label= "Soroban - Partie 2 :  écrire un nombre sur le soroban 2 minutes et 45&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=V6v2GzGsYYc"  aria-label= "Soroban - Partie 1 :  compter jusqu'à 100 4 minutes et 47&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=fLLgnYira3Y"  aria-label= "Le résultat est étonnant ! #shorts #mathématiques #maths #collège #lycée #calcul 3 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=adpzQ2HV-v8"  aria-label= "Les angles :  nul, aigu, droit, obtus, plat, plein. 43&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=zMhnMKOVlwc"  aria-label= "Reconnaître une suite arithmétique. 2 minutes et 41&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=rgMR2drDT2g"  aria-label= "Un quotient toujours = 37. 1 minute et 5&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=yUxshO8dz7Y&pp=0gcJCTsMAYcqIYzv"  aria-label= "Pourquoi ce quotient donne toujours 37 ?! #shorts  #mathématiques #maths #collège #lycée #quotient 1 minute et 5&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=EBnILB5C5R8"  aria-label= "1 euro en centimes 💶! #shorts #mathématiques #maths #collège #euro #école 2 minutes et 17&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=23429uO3B2k"  aria-label= "Lancer de 2 dés et probabilités ! 1 minute et 54&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=O0vJSoptdgo"  aria-label= "Application du second degré :  un problème d’aire. 3 minutes et 18&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=B7tk-TiLHSU"  aria-label= "Je lis dans tes pensées (partie 3)  ! 1 minute et 16&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=i997OFnMNOw&pp=0gcJCTsMAYcqIYzv"  aria-label= "Les ensembles de nombres 2 minutes et 46&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=8m9obesMXV0"  aria-label= "Maths et football :  combien de temps va mettre le ballon tiré par Mbappé pour atteindre le but ? 1 minute et 25&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=OWokAlnFNLw"  aria-label= "Je lis dans tes pensées et ce ne sont pas des maths (partie2)  ! #shorts #mathématiques #maths 1 minute et 16&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=9Jfslx4NB_k"  aria-label= "La multiplication chinoise ! #shorts #maths #mathématiques #collège #lycée #multiplication #prof 1 minute et 36&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=1h8v9TntzR8"  aria-label= "Un raisonnement par récurrence. 2 minutes et 53&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=eUx9S1j8pqo"  aria-label= "MULTIPLIER 2 FRACTIONS 3 minutes et 20&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=pXU-WCeWyV4"  aria-label= "Le nombre 142 857 est magique ! #shorts #maths #mathématiques #collège #lycée #numworks 1 minute et 1&nbsp; seconde"> … </a> 
+     <a href="https://www.youtube.com/watch?v=vF8oKIUhiKo"  aria-label= "Comment résoudre cette équation rationnelle ? 1 minute et 29&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=is1vSof7uaw"  aria-label= "Trigonométrie dans un triangle rectangle ! #shorts #mathématiques #maths #collège #lycée #cosinus 1 minute et 9&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=ih06ci3NOfI"  aria-label= "Le programme en Terminale spécialité maths :  attention les épreuves de bac sont désormais en juin ! 2 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=lrRaz5AiFM4"  aria-label= "Le programme en 1ère spécialité maths 1 minute et 42&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=AiS0wKdUnak"  aria-label= "Le programme de maths en Seconde ! #shorts #mathématiques #maths #lycée #collège #programme #prof 2 minutes et 13&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=gppYANWBE_E"  aria-label= "Je lis dans tes pensées et ce ne sont pas des maths ! #shorts #mathématiques #mental #collège #lycée 1 minute et 11&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=b5v6cyPNzuw"  aria-label= "Jouer aux maths avec son enfant - partie 5 ! #shorts #maths #mathématiques #enfance #parents #jeux 2 minutes et 41&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=XSI4yzTeBV4"  aria-label= "Jouer aux maths avec son enfant - partie 4 ! #shorts #maths #mathématiques #enfance #parents #jeux 2 minutes et 19&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Ed4uHwPdLdY"  aria-label= "Jouer aux maths avec son enfant - partie 3 ! #shorts #maths #mathématiques #enfance #parents #jeux 2 minutes et 4&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=W7KKfxsPLqE"  aria-label= "Jouer aux maths avec son enfant - partie 2 ! #shorts #maths #mathématiques #enfance #parents #jeux 1 minute et 33&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=s7io3XDH_BQ"  aria-label= "Jouer aux maths avec son enfant - partie 1 ! #shorts #maths #mathématiques #enfance #parents #jeux 2 minutes et 2&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=EWRv9a_iXO0"  aria-label= "Jouer aux maths ! #maths #mathématiques #jeux #enfants #parents 3 minutes et 15&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=iBkzwqXRiZ0"  aria-label= "Puissances et parenthèses ! #shorts #mathématiques #maths #lycée #collège #études #puissance #prof 1 minute et 5&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=XeKMYeoEpwY"  aria-label= "Conversions faciles :  heures, minutes, secondes ! #shorts #maths #mathématiques #lycée #collège 1 minute et 20&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=UznVcdsUHQQ"  aria-label= "Cercle trigonométrique ! #shorts #mathématiques #maths #lycée #collège #prof #trigonométrie #etude 2 minutes et 45&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Axr7h34eQ34"  aria-label= "Moyenne et médiane ! #shorts #statistiques #mathématiques #maths #collège #lycée #calculs #prof 1 minute et 37&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=BqEI94gXbg4"  aria-label= "Un défi de géométrie ! #shorts #mathématiques #maths #lycée #collège #prof #aire #equation #geometry 2 minutes et 23&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=uFM6dZrnWQM"  aria-label= "Produit scalaire et projeté orthogonal ! #shorts #mathématiques #maths #lycée #collège #vecteurs 4 minutes et 2&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=paCYHKZLvXk"  aria-label= "Cosinus de 7π/ 12 ! #shorts #mathématiques #maths #lycée #collège #trigonométrie #cosinus #prof 1 minute et 30&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=yp0VVU6SI3A&pp=0gcJCTsMAYcqIYzv"  aria-label= "Oral de rattrapage du bac :  comment s’en sortir en spé maths ? 3 minutes et 56&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=uci9T2CpzEE"  aria-label= "PARCOURSUP :  8 CAS D'ÉLÈVES 15 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=lsFCPjJm9IE"  aria-label= "Produit scalaire et norme ! #shorts #mathématiques #maths #lycée #prof #collège #vecteurs 3 minutes et 36&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Gk95DrTfeAo"  aria-label= "Probabilités :  intersection et réunion ! #shorts #mathématiques #maths #lycée #prof #collège 1 minute et 36&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=aqMHkahEHRk"  aria-label= "Norme et produit scalaire de vecteurs (niveau Première)  ! #shorts #mathématiques #lycée #maths #prof 2 minutes et 12&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=SF9fFC3Fx2c"  aria-label= "Fonction affine et droite (niveau Seconde)  ! #shorts #mathématiques #maths #lycée #droite #prof 2 minutes et 8&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=CiBInihFAu4"  aria-label= "Diagramme en bâtons niveau Seconde ! #shorts #mathématiques #maths #lycée #collège #statistiques 2 minutes et 43&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=HMrS8gzeDkw"  aria-label= "Variations d’une fonction niveau Seconde ! #shorts #mathématiques #maths #lycée #collège #prof 2 minutes et 21&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=j5hzTVkhjac"  aria-label= "Calculs avec x :  stop aux erreurs ! #shorts #lycée #mathématiques #maths #collège #prof #erreur 1 minute et 7&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=WYtZCQ9370A"  aria-label= "Probabilités conditionnelles et tableau ! #shorts #mathématiques #maths #lycée #probabilité #collège 2 minutes et 48&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=PeqjcxkUh-c"  aria-label= "Equations produit nul et quotient nul ! #shorts #lycée #mathématiques #maths #collège #équations 2 minutes et 52&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=dJaBotN0H7o"  aria-label= "Defi étoilé #15 ! #shorts #mathématiques #maths #lycée #prof #collège #courbe #graphique #desmos 1 minute et 28&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=wJLhRbMHgqI&pp=0gcJCTsMAYcqIYzv"  aria-label= "Quiz de maths nº2 :  teste ton niveau ! #shorts #mathématiques #maths #lycée #collège #prof #quiz 1 minute et 30&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=GpurPqkhrgs"  aria-label= "Comment économiser 2 milliards d’Euros en 1 mois grâce aux #maths ! #shorts #mathématiques #lycée 2 minutes et 5&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=IOEgK5tWgpo"  aria-label= "Équation avec l’exponentielle ! #shorts #mathématiques #maths #lycée #exponentielle #prof #équation 1 minute et 26&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=NBtUTSrRWIk"  aria-label= "Équation du second degré avec Delta ! #shorts #mathématiques #maths #lycée #équations #delta #racine 2 minutes et 28&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=b66E1VU3tBs"  aria-label= "Equations du premier degré niveau Seconde ! #shorts #maths #mathématiques #lycée #equations #prof 1 minute et 44&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=4v0GcudCPfE"  aria-label= "Atteindre la lune en pliant une feuille ! Correctif :  0,1mm = 0,0001m. #shorts #mathématiques #maths 2 minutes et 36&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=2hhvDtaA7UU"  aria-label= "Le vocabulaire dans un cercle ! #shorts #mathématiques #maths #lycée #collège #cercle #prof #rayon 1 minute et 1&nbsp; seconde"> … </a> 
+     <a href="https://www.youtube.com/watch?v=XmW0N5Y_jUw&pp=0gcJCTsMAYcqIYzv"  aria-label= "Une équation compliquée ! #shorts #mathématiques #maths #lycée #collège #équation #prof 1 minute et 25&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=BLQutOTChXM"  aria-label= "On révise le théorème de Thalès ? #shorts #mathématiques #maths #lycée #collège #pythagore #thales 2 minutes et 28&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=cN3a4SytY7Q"  aria-label= "Les tableaux de proportionnalité ! #shorts #mathématiques #maths #lycée #collège #prof #tableau 1 minute et 7&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=fmlWW-PNmtA"  aria-label= "Defi étoilé #13 ! #shorts #mathématiques #maths #lycée #prof #collège #courbe #graphique #desmos 1 minute et 1&nbsp; seconde"> … </a> 
+     <a href="https://www.youtube.com/watch?v=sGnEG_UAUyM"  aria-label= "Defi étoilé #12 ! #shorts #mathématiques #maths #lycée #prof #collège #courbe #graphique #desmos 2 minutes et 48&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=qJgbNljISgA"  aria-label= "Une histoire d’heure ! #shorts #mathématiques #maths #lycée #collège #conversion #temps #prof 1 minute et 1&nbsp; seconde"> … </a> 
+     <a href="https://www.youtube.com/watch?v=-wCk1VrzlFY"  aria-label= "Defi étoilé #11 ! #shorts #mathématiques #maths #lycée #prof #collège #courbe #graphique #desmos 3 minutes et 25&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=qgE-dSQsv-s"  aria-label= "Defi étoilé #9 ! #shorts #mathématiques #maths #lycée #prof #collège #courbe #graphique #desmos 1 minute et 5&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=6LJAXxhkbrQ&pp=0gcJCTsMAYcqIYzv"  aria-label= "Multiplier 96×97 à l’indienne ! #shorts #maths #mathématiques #multiplication #lycée #collège #prof 1 minute et 3&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=QwK4hf_ii7s"  aria-label= "Simplifier une fraction avec x ! #shorts #maths #mathématiques #fraction #lycée #collège #prof 1 minute et 9&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Ijevf4m2Z8w"  aria-label= "Bac spécialité maths J−1 ! Mon booster de révisions ici :  https: / / bossetesmaths.systeme.io/ bacmaths 1 minute et 27&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=yBbSresVWdA"  aria-label= "Booster de révisions du bac spécialité maths :  https: / / bossetesmaths.systeme.io/ bacmaths 1 minute et 12&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=fGAlLsdYOis"  aria-label= "Prof de maths :  les copies ! #shorts #maths #mathématiques #lycée #collège #prof #baccalauréat 1 minute et 12&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=pQ9zoSiP4UM"  aria-label= "Site à connaître pour les Terminales spé maths :  APMEP! #shorts #mathématiques #maths #baccalauréat 1 minute et 34&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=DpQ8u_xpM8U"  aria-label= "Calcul littéral à connaître ! #shorts #mathématiques #maths #lycée #collège #calculs #prof 1 minute et 38&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=_KF2ZcAnv0o"  aria-label= "Bac de spécialité maths :  booster de révisions ICI :  https: / / bossetesmaths.systeme.io/ bacmaths 1 minute et 9&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Bs87EfjXqZg&pp=0gcJCTsMAYcqIYzv"  aria-label= "Quiz bac spé maths nº6 ! #shorts #mathématiques #maths #lycée #terminale #baccalauréat #prof 2 minutes et 2&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Cyt-cld89hM&pp=0gcJCTsMAYcqIYzv"  aria-label= "Quiz bac spé maths nº5 ! #shorts #mathématiques #maths #lycée #terminale #baccalauréat #prof 2 minutes et 16&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=okc1kPWd3FM"  aria-label= "Quiz bac spé maths nº4 ! #shorts #mathématiques #maths #lycée #terminale #baccalauréat #prof 1 minute et 37&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=POVEpa0ZI8c"  aria-label= "Quiz bac spé maths nº3 ! #shorts #mathématiques #maths #lycée #terminale #baccalauréat #prof 1 minute et 52&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=KjwzNSIiBnw"  aria-label= "Quiz bac spé maths nº2 ! #shorts #mathématiques #maths #lycée #terminale #baccalauréat #prof 1 minute et 35&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=jDDdOydxEuY"  aria-label= "Quiz bac spé maths nº1 ! #shorts #mathématiques #maths #lycée #terminale #baccalauréat #prof 1 minute et 41&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=pRLp0mw0yPI"  aria-label= "Defi étoilé #8 ! #shorts #mathématiques #maths #lycée #prof #collège #courbe #graphique #desmos 1 minute et 54&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=e9uy91bgb90"  aria-label= "Une méthode de multiplication efficace ! #shorts #mathématiques #maths #lycée #collège #prof 1 minute et 9&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=-4_Yfv7Tlks"  aria-label= "Défi étoilé #7 ! #shorts #mathématiques #maths #lycée #graphique #desmos #courbe #prof #collège 1 minute et 10&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=ru0h8qSnoD0"  aria-label= "Défi de géométrie :  trouver le périmètre du triangle ! #shorts #mathématiques #maths #lycée #prof 3 minutes et 9&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=1FGgvBRClUQ"  aria-label= "Division par 5 :  une méthode très efficace ! #shorts #mathématiques #maths #lycée #collège #division 1 minute et 12&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=O9WSITgEW8I"  aria-label= "Un problème avec des puissances de 10 ! #shorts #mathématiques #maths #lycée #collège #équations 1 minute et 6&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=auRlnH-_Szg"  aria-label= "Défi étoilé #6 ! #shorts #maths #mathématiques #lycée #graphique #courbe #fonction #prof #desmos 1 minute et 21&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=HZBZR6ol_E4&pp=0gcJCTsMAYcqIYzv"  aria-label= "Tables de multiplication de 6, 7, 8 et 9! #shorts #maths #mathématiques #collège #multiplication 3 minutes et 12&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=ICPcDlDWUEs"  aria-label= "Tables de multiplication de 1, 2, 3, 4, 5 et 10 ! #shorts #maths #mathématiques #lycée #collège 1 minute et 36&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=lv-m0uCWa4Q"  aria-label= "Des divisions simples et rapides! #shorts #maths #mathématiques #lycée #collège #division #fraction 1 minute et 8&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=HSHu4iKJsW8"  aria-label= "Une addition impossible ?! #shorts #maths #mathématiques #lycée #collège #addition #prof #equation 1 minute et 15&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=tSBBiz2T3Fk"  aria-label= "Défi étoilé #4 ! #shorts #maths #mathématiques #lycée #prof #graphique #courbe #fonction #desmos 1 minute et 38&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=VP-E2CXB17k"  aria-label= "Trigonométrie dans le triangle rectangle ! #shorts #maths #mathématiques #collège #lycée #cosinus 1 minute et 35&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=UBMondjyCJI"  aria-label= "Quiz de maths :  10 questions ! #shorts #maths #mathématiques #lycée #collège #prof #qcm #défi 1 minute et 39&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=WUCeR3pgPa4"  aria-label= "Un vrai problème de géométrie ! #shorts #maths #mathématiques #lycée #rayon #géométrie #collège 3 minutes et 17&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=zLo_PuFi9bs"  aria-label= "Pourquoi √x = x^(1/ 2)  ? #shorts #maths #mathématiques #équations #prof #lycée #racine #baccalauréat 1 minute et 32&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=6feX45Ipt7s"  aria-label= "GÉOMÉTRIE DANS L'ESPACE 3 :  MONTRER QUE 3 VECTEURS FORMENT UNE BASE DE L'ESPACE 15 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=ykHmlVhMLuU&pp=0gcJCTsMAYcqIYzv"  aria-label= "Arbre de probabilité ! #shorts #maths #mathématiques #lycée #probabilité #prof #première #terminale 2 minutes et 39&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=ceTt7GreJu8"  aria-label= "Enlever une racine carrée au dénominateur d’une fraction! #shorts #maths #mathématiques #lycée #prof 2 minutes et 26&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=VJK0lAKC6uk"  aria-label= "Défi étoilé #2 ! #shorts #maths #mathématiques #lycée #équations #desmos #prof #graphique #géométrie 1 minute et 32&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=O_q5r8hDPvE"  aria-label= "Équation de la bouteille et sa capsule ! #shorts #maths #mathématiques #lycée #collège #équations 1 minute et 37&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=TxFjDMcAM-k"  aria-label= "Défi étoilé #1 ! #shorts #maths #mathématiques #lycée #prof #desmos #fonction #graphique #equation 1 minute et 18&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=sXAwSL1zjgQ"  aria-label= "Multiplication japonaise ! #shorts #maths #mathématiques #lycée #college #multiplication #prof 1 minute et 58&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=450D4x0dt7o"  aria-label= "Le nombre 1089 est magique ? #shorts #maths #mathématiques #1089 #lycée #college #prof #calculs 1 minute et 17&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Iv7SDTv8EDE"  aria-label= "ADDITIONNER OU SOUSTRAIRE 2 FRACTIONS 4 minutes et 12&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=zEIz08scqoY"  aria-label= "Prix HT, TVA, prix TTC et pourcentages ! #shorts #maths #mathématiques #tva #lycée #college #prof 1 minute et 14&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Dv7Dxcwojrg"  aria-label= "GÉOMÉTRIE DANS L'ESPACE 2 :  MONTRER QUE 3 VECTEURS SONT COPLANAIRES (SANS COORDONNÉES)  12 minutes et 59&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Qni2oUfb60c"  aria-label= "SIMPLIFIER UNE FRACTION 5 minutes et 6&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=1Or8lv9CBII&pp=0gcJCTsMAYcqIYzv"  aria-label= "Comment dériver un polynôme ? #shorts #maths #mathématiques #fonction #lycée #premiere #terminale 1 minute et 14&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=brVAeet1oL4"  aria-label= "Calculer f(−1)  avec f un polynôme ! #shorts #maths #mathématiques #lycée #prof #fonction #calculs 1 minute et 26&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=D0lTRUTF4WY"  aria-label= "GÉOMÉTRIE DANS L'ESPACE 1 :  MONTRER QUE 3 POINTS SONT ALIGNÉS (SANS COORDONNÉES)  8 minutes et 51&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=sxqXlGxQTps"  aria-label= "Comment simplifier une fraction avec une racine carrée ? #shorts #maths #mathématiques #prof #lycée 1 minute et 8&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=NGNjBEoPG8Q"  aria-label= "Voici un problème de géométrie assez compliqué, tu es un génie si tu as la réponse ! #shorts #maths 1 minute et 55&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=OQa8GoYd94g"  aria-label= "Dessiner un sapin de Noël sur la calculatrice NUMWORKS 9 minutes et 42&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=vrDKzbf5CDE"  aria-label= "Dessiner un cœur sur la calculatrice NUMWORKS 1 minute et 47&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=x1UN4irK0VI"  aria-label= "C'EST QUOI UNE FRACTION ? 1 minute et 24&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=9wKoqDoqDTU"  aria-label= "ÉQUATIONS DU 1ER DEGRÉ 10 minutes et 8&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=dCfeZvDhs-Q"  aria-label= "Calculatrice NUMWORKS :  pourquoi tu dois ABSOLUMENT la choisir au lycée ! 6 minutes et 44&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=_DB-JGNlPUU"  aria-label= "POSITION D'UNE COURBE ET D'UNE TANGENTE 8 minutes et 44&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=t_exg7hRgDo"  aria-label= "POSITION RELATIVE DE 2 COURBES 12 minutes et 45&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=uPycyNNdDwo"  aria-label= "COEFFICIENT DIRECTEUR D'UNE DROITE :  COMMENT L'OBTENIR GRAPHIQUEMENT ? (PARTIE 3)  2 minutes et 35&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=ODk6adGlh1c"  aria-label= "COEFFICIENT DIRECTEUR D'UNE DROITE :  COMMENT LE CALCULER ? (PARTIE 2)  7 minutes et 24&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=VeEtgcwRlk8"  aria-label= "COEFFICIENT DIRECTEUR D'UNE DROITE :  C'EST QUOI ? (PARTIE 1)  3 minutes et 30&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=R1GzZi7pvFI"  aria-label= "ALGORITHME :  MESURE PRINCIPALE D'UN ANGLE ORIENTÉ 16 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=pnGHb1H5948"  aria-label= "Rubik's Cube 21 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=vccgpDKx5U4"  aria-label= "Loi normale inverse et calculatrice 5 minutes et 32&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=_Ug0CA1dNX8"  aria-label= "Probabilités :  loi normale 8 minutes et 45&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=vOjJp5A1E1k"  aria-label= "MESURE PRINCIPALE D'UN ANGLE ORIENTÉ NÉGATIF 3 minutes et 39&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=89TFgpUJDYM&pp=0gcJCTsMAYcqIYzv"  aria-label= "MESURE PRINCIPALE D'UN ANGLE ORIENTÉ POSITIF 5 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=gJqcwS9Hd_k"  aria-label= "ANGLES ORIENTÉS - PARTIE 2 12 minutes et 4&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=fVmOBaYVkCY"  aria-label= "ANGLES ORIENTÉS - PARTIE 1 8 minutes et 14&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=UO36e2khCNc&pp=0gcJCTsMAYcqIYzv"  aria-label= "COMPARER 2 NOMBRES DANS UN TABLEAU DE VARIATIONS 12 minutes et 21&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=0kNdAl4G9x8"  aria-label= "CONJUGUÉ D'UN NOMBRE COMPLEXE - PARTIE 1 9 minutes et 59&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=sqSdVSRN2JA"  aria-label= "CONJUGUÉ D'UN NOMBRE COMPLEXE - PARTIE 2 14 minutes et 44&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=aY1hRrZkn1w"  aria-label= "CALCULER LES COORDONNÉES D'UN POINT DANS UNE ÉGALITÉ DE VECTEURS 8 minutes et 24&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=DJeJOQwZVUw"  aria-label= "LES NOMBRES COMPLEXES - PARTIE 4 12 minutes et 16&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=o5acoBjKOh0"  aria-label= "LES NOMBRES COMPLEXES - PARTIE 3 9 minutes et 29&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=6oo7WLEoZDw"  aria-label= "RÉSOUDRE UNE INÉQUATION-QUOTIENT 12 minutes et 29&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Kw0z999LU_E"  aria-label= "FONCTION INVERSE 10 minutes et 33&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=4HZ4PvM5kaA"  aria-label= "FONCTION CARRÉ 8 minutes et 55&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=EaR1uk8XQD8"  aria-label= "PREMIERS TERMES D'UNE SUITE 10 minutes et 22&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=RPKsyLTFDwA"  aria-label= "RÉSOUDRE UNE INÉQUATION-PRODUIT 10 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=9VaZdToykKg&pp=0gcJCTsMAYcqIYzv"  aria-label= "TABLEAU DE SIGNES D'UNE FONCTION AFFINE 5 minutes et 44&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=GUiRNxyFJDE"  aria-label= "VALEUR ABSOLUE 10 minutes et 43&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=RbYGA7IwEFU"  aria-label= "Algorithmique - Partie 5 20 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=47CToECm3EY"  aria-label= "Algorithmique - Partie 4 13 minutes et 8&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=rpOAwVv8NS4"  aria-label= "NOMBRE DÉRIVÉ AVEC UNE RACINE CARRÉE 6 minutes et 46&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=p8pZyqdP_kg"  aria-label= "NOMBRE DÉRIVÉ 12 minutes et 28&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=nx_xs9R7sK0"  aria-label= "FONCTION EXPONENTIELLE (BAC)  25 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=W_VrVQxCNjc"  aria-label= "FONCTION TRIGONOMÉTRIQUE 26 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=VD_hkHNY3so"  aria-label= "RÉSOUDRE ln a = ln b GRÂCE À L'EXPONENTIELLE 7 minutes et 19&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=dwajP_24iTA"  aria-label= "ÉQUATION LOGARITHMIQUE :  ln a = ln b 13 minutes et 49&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=f075tgqGV8E"  aria-label= "ENSEMBLE DE DÉFINITION D'UNE FONCTION 11 minutes et 1&nbsp; seconde"> … </a> 
+     <a href="https://www.youtube.com/watch?v=zUzK-rHZEJM"  aria-label= "INÉQUATIONS DU SECOND DEGRÉ 12 minutes et 51&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=0COlExkBDU4"  aria-label= "FORME CANONIQUE 13 minutes et 11&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=2EKgbd6WCeA"  aria-label= "RAISONNEMENT PAR RÉCURRENCE 8 minutes et 55&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=3s4nIpvXg9M"  aria-label= "MILIEU D'UN SEGMENT 9 minutes et 11&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=rrUI1bIjOdY"  aria-label= "TAUX D'ÉVOLUTION 5 minutes et 52&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=OSBIFfVoHUQ"  aria-label= "TAUX D'ÉVOLUTION :  VALEUR AVANT ÉVOLUTION 4 minutes et 46&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=0a8pkSCXOy0"  aria-label= "TAUX D'ÉVOLUTION :  VALEUR APRÈS ÉVOLUTION 3 minutes et 57&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=HqDXiGSy0Jk"  aria-label= "TAUX D'ÉVOLUTION ET COEFFICIENT MULTIPLICATEUR 8 minutes et 2&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=MShp0LLr2kc"  aria-label= "SIMPLIFIER UNE RACINE CARRÉE 11 minutes et 37&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Qzyl8eqOjfI"  aria-label= "PRODUIT SCALAIRE :  EXERCICES CORRIGÉS 14 minutes et 15&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=xaRaauQeqpY"  aria-label= "LES NOMBRES COMPLEXES - PARTIE 2 9 minutes et 57&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=bdO3i6F2NYo"  aria-label= "LES NOMBRES COMPLEXES - PARTIE 1 10 minutes et 9&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=dxZiNHyvqBE"  aria-label= "PRODUIT SCALAIRE 12 minutes et 31&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=EeQnLhb7-Yo"  aria-label= "LOI BINOMIALE - PARTIE 2 17 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=fxeyjOC_6xg"  aria-label= "LOI BINOMIALE - PARTIE 1 4 minutes et 40&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=a2etOgPtV0I&pp=0gcJCTsMAYcqIYzv"  aria-label= "PROBABILITÉS CONDITIONNELLES - SPÉCIAL BAC ! 13 minutes et 17&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=fJAEqy64yh4"  aria-label= "FACTORISATION AVEC IDENTITÉS REMARQUABLES - PARTIE 2 14 minutes et 11&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=cGXtqtRX1UI"  aria-label= "FACTORISATION AVEC FACTEUR COMMUN - PARTIE 1 11 minutes et 40&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=iUy298GUSbQ"  aria-label= "THÉORÈME DES VALEURS INTERMÉDIAIRES 18 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=UtNbw3-eeT4"  aria-label= "MÉDIANE ET QUARTILES D'UNE SÉRIE STATISTIQUE 22 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=jT05aVwU684"  aria-label= "LE CERCLE TRIGONOMÉTRIQUE 15 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=t3CnRSOD-UY"  aria-label= "Algorithmique - Partie 3 23 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=0juEPApMEMc"  aria-label= "ÉQUATION RÉDUITE D'UNE DROITE 10 minutes et 48&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=L3ITz2epI68"  aria-label= "MOYENNE, VARIANCE, ÉCART-TYPE D'UNE SÉRIE STATISTIQUES 16 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Us0IFcXksKk"  aria-label= "ÉQUATION D'UN CERCLE - PARTIE 2 6 minutes et 36&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=AHPMf4a7Sek"  aria-label= "ÉQUATION D'UN CERCLE - PARTIE 1 21 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=fleCLgXKvY4"  aria-label= "Algorithmique - Partie 2 20 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=yYs0Vn5X40k"  aria-label= "Algorithmique - Partie 1 23 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=_fHs_5lVjyY"  aria-label= "ÉQUATION RÉDUITE ET ÉQUATION CARTÉSIENNE D'UNE DROITE 22 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=7xYl3xdI4Yo"  aria-label= "TANGENTE À UNE COURBE 22 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=ISMVNoun9Wc"  aria-label= "SENS DE VARIATION D'UNE FONCTION 16 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=ESThty1WcMw"  aria-label= "SOMME DE 2 VECTEURS ET PRODUIT D'UN VECTEUR PAR UN RÉEL 18 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=1MUKiltc6uM"  aria-label= "ÉQUATIONS DU SECOND DEGRÉ 21 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Tj59yMrooL8"  aria-label= "LES FONCTIONS :  IMAGE ET ANTÉCÉDENT 22 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=LQupZZ2FjF8"  aria-label= "ASYMPTOTE HORIZONTALE OU VERTICALE 22 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=y7jRbsUOsw4"  aria-label= "REPRÉSENTATION GRAPHIQUE D'UNE FONCTION 15 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Lkol-1gI7wk"  aria-label= "SUITES GÉOMÉTRIQUES - PARTIE 3 22 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Hp8TuCPAkK0"  aria-label= "SUITES GÉOMÉTRIQUES - PARTIE 1 14 minutes et 1&nbsp; seconde"> … </a> 
+     <a href="https://www.youtube.com/watch?v=Rwsb962-wXk"  aria-label= "SUITES ARITHMÉTIQUES - PARTIE 1 19 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=X72R2oFR4ew&pp=0gcJCTsMAYcqIYzv"  aria-label= "POURCENTAGES ET PROPORTIONS :  LA FORMULE MAGIQUE 10 minutes et 48&nbsp; secondes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=S3ekL42fGEc"  aria-label= "VECTEURS COLINÉAIRES ET RELATION DE CHASLES 18 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=qVjy9mOwLpQ"  aria-label= "RÉUNION ET INTERSECTION D'INTERVALLES 17 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=kKeHAgQuAfI"  aria-label= "LES INTERVALLES DE R 25 minutes"> … </a> 
+     <a href="https://www.youtube.com/watch?v=f8nXdKG2Kk0"  aria-label= "LES ENSEMBLES DE NOMBRES 25 minutes"> … </a> <span class= "ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap" dir= "auto" role= "text" style> LES ENSEMBLES DE NOMBRES </span> </a> 
+undefined
