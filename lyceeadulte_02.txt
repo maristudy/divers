@@ -1,0 +1,250 @@
+
+<h2>Etude continue : l'analyse</h2>
+<h3>Chapitre 3 : Limites de fonctions et continuité</h3>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/03_limites_et_continuite/03_Cours_limites_et_continuite.pdf">03
+Cours : Limites de fonctions et continuité (2021)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/03_limites_et_continuite/03_exos_limites_et_continuite.pdf">03
+Exercices : Limites de fonctions et continuité (2021)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/03_limites_fonctions/03_limites_radicaux.pdf">03
+Limites indéterminées avec des radicaux</a>
+<h3>Chapitre 4 : Dérivabilité et convexité</h3>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/04_derivabilite_convexite/04_Cours_derivabilite_convexite.pdf">04
+Cours : Rappels sur la dérivabilité. Compléments et convexité (2021)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/04_derivabilite_convexite/04_exos_derivabilite_convexite.pdf">04
+Exercices : Rappels sur la dérivabilité. Compléments et convexité (2021)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/04_derivabilite_convexite/04_exos_qcm_convexite.pdf">04 QCM sur la dérivée et la convexité (2022)</a>
+<h3>Chapitre 5 : Rappels sur la fonction exponentielle. Fonction logarithme népérien </h3>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/05_rappels_exp_fnt_ln/05_cours_rappels_exp_fnt_ln.pdf">05
+Cours : Rappels sur la fonction exponentielle. Fonction logarithme (2021)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/05_rappels_exp_fnt_ln/05_exos_rappels_exp_fnt_ln.pdf">05
+Exercices : Rappels sur la fonction exponentielle. Fonction logarithme (2021)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/05_rappels_exp_fnt_ln/05_exos_rappels_exp_fnt_ln_bis.pdf">05
+Exercices : Exercices type Bac : fonction ln (2023)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/05_rappels_exp_fnt_ln/05_algorithme_neper_briggs.pdf">05
+Algorithme Neper-Briggs (2020)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/05_rappels_exp_fnt_ln/05_cours_algorithme_cordic.pdf">05
+Algorithme de CORDIC (2020)</a>
+<h3>Chapitre 6 : Les fonctions sinus et cosinus </h3>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/06_fnts_sinus_cosinus/06_cours_fnts_sinus_cosinus.pdf">06
+Cours : Fonctions sinus et cosinus (2021)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/06_fnts_sinus_cosinus/06_exos_fnts_sinus_cosinus.pdf">06
+Exercices : Fonctions sinus et cosinus (2021)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/06_fnts_sinus_cosinus/06_resume_equations_trigo.pdf">06
+Résumé sur les équations trigonométriques (2020)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/06_fnts_sinus_cosinus/06_resume_sinus_cosinus.pdf">06
+Résumé sur les fonctions sinus et cosinus (2020)</a>
+<h3>Chapitre 7 : Primitives et équation différentielle</h3>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/07_primitives-eq_diff/07_cours_primitives_eq_diff.pdf">07
+Cours : Primitives et équations différentielles (2021)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/07_primitives-eq_diff/07_exos_primitives_eq_diff.pdf">07
+Exercices : Primitives et équations différentielles (2021)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/07_primitives-eq_diff/07_tableau_primitives.pdf">07
+Tableaux des primitives (2020)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/07_primitives-eq_diff/07_resume_genealogie_fonctionnelle.pdf">07 Schéma : Généalogie fonctionnelle (2020)</a>
+<h3>Chapitre 8 : Calcul intégral</h3>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/08_calcul_integral/08_cours_calcul_integral.pdf">08 Cours : Calcul intégral (2021)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/08_calcul_integral/08_exos_calcul_integral.pdf">08 Exercices : Calcul intégral (2021)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/08_calcul_integral/08_algorithme_integrale_trapeze.pdf">08 Algorithme : Méthode des trapèze (2020)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/08_calcul_integral/08_volume_solide.pdf">08 Calcul du volume d'un solide de révolution (2020)</a>
+<!--p>1<sup>er</sup> Bac Blanc</p-->
+<h2>Dénombrement et probabilité</h2>
+<h3>Chapitre 9 : Dénombrement</h3>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/09_denombrement/09_cours_denombrement.pdf">09 Cours : Dénombrement (2021)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/09_denombrement/09_exos_denombrement.pdf">09 Exercices : Dénombrement (2021)</a>
+<!--li><a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/10_proba_cond_loi_binomiale/10_Les_comb_poker.pdf">Les combinaisons au poker</a></li-->
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/10_proba_cond_loi_binomiale/Vocabulaire_de_la_logique_et_theorie_des_ensembles.pdf"> Vocabulaire de la logique et theorie des ensembles</a>
+<h3>Chapitre 10 : Rappels sur les probabilités. Loi binomiale</h3>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/10_rappels_probabilite_loi_binomiale/10_cours_rappels_probabilite_loi_binomiale.pdf">10 Cours : Rappels de probabilité. Loi binomiale (2021)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/10_rappels_probabilite_loi_binomiale/10_exos_rappels_probabilite_loi_binomiale.pdf">10 Exercices : Rappels de probabilité. Loi binomiale (2024)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/10_rappels_probabilite_loi_binomiale/10_autres_exos_proba.pdf">10 Autres exercices sur les probas conditionnelles et la loi binomiale (2026)</a>
+<!--li><a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/ctrle_2022_2023/10_ctrle_23_01_2023.pdf">10 Contrôle sur les probabilités du 23 01 2023</a></li-->
+<!--li><a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/10_proba_cond_loi_binomiale/10_cours_planche_galton.pdf">10 Algorithme : Simulation de la planche Galton</a></li-->
+<h3>Chapitre 11 : Variables aléatoire, concentration et loi des grands nombres </h3>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/11_somme_VA_concentration_grands_nbres/11_cours_somme_VA_concentration_grands_nbres.pdf">11 Cours : Somme de variables aléatoires, concentration et loi des grands nombres (2021)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/11_somme_VA_concentration_grands_nbres/11_exos_somme_VA_concentration_grands_nbres.pdf">11 Exercices : Somme de variables aléatoires, concentration et loi des grands nombres (2021)</a>
+<h2>Géométrie dans l'espace</h2>
+<h3>Chapitre 12 : Vecteurs, droites et plans dans l'espace</h3>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/12_vecteurs_droites_et_plans_dans_l_espace/12_cours_vecteurs_droites_et_plans_dans_l_espace.pdf">12 Cours : Vecteurs, droites et plans dans l'espace (2021)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/12_vecteurs_droites_et_plans_dans_l_espace/12_exos_vecteurs_droites_et_plans_dans_l_espace.pdf">12 Exercices : Vecteurs, droites et plans dans l'espace (2021)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/12_vecteurs_droites_et_plans_dans_l_espace/12_exos_vecteurs_droites_et_plans_dans_l_espace_autres.pdf">12 Exercices et QCM</a>
+<h3>Chapitre 13 : Produit scalaire et équation cartésienne d'un plan</h3>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/13_produit_scalaire_plans_espace/13_cours_produit_scalaire_plans_espace.pdf">13 Cours : Vecteurs, droites et plans dans l'espace (2021)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/13_produit_scalaire_plans_espace/13_exos_produit_scalaire_plans_espace.pdf">13 Exercices : Vecteurs, droites et plans dans l'espace (2021)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/13_produit_scalaire_plans_espace/13_exos_produit_scalaire_plans_espace_annales.pdf">13 Annales 2021 : géométrie dans l'espace</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/13_produit_scalaire_plans_espace/13_exos_produit_scalaire_plans_espace_annales_2022.pdf">13 Annales 2022 : géométrie dans l'espace</a>
+<h2>Révisions</h2>
+<h3>Séances de révisions 2026</h3>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/16_revision/2026_seance_03_06.pdf">Séance du 03 06 2026 : Géométrie dans l'espace, intégration par parties</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/16_revision/2026_seance_01_06.pdf">Séance du 01 06 2026 : Fonctions et suites</a>
+<h3>Séances de révisions 2025</h3>
+	 <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/16_revision/2025_seance_19_05.pdf">Séance du 19 05 2025 : Dénombrement</a>
+	 <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/16_revision/2025_seance_21_05.pdf">Séance du 21 05 2025 : Fonctions ln et exp, suites, équa diff, intégration </a>
+	 <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/16_revision/2025_seance_26_05.pdf">Séance du 26 05 2025 : Géo dans l'espace, suite et proba </a>
+<h3>Séances de révisions 2023</h3>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/16_revision/2023_seance_06_03.pdf">Séance du 06 03 2023 : Suites </a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/16_revision/2023_seance_08_03.pdf">Séance du 08 03 2023 : Fonctions </a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/16_revision/2023_seance_13_03.pdf">Séance du 13 03 2023 : Géométrie dans l'espace</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/16_revision/2023_seance_15_03.pdf">Séance du 15 03 2023 : QCM, Géométrie dans l'espace, probabilité</a>
+<h3>Séances de révisions 2022</h3>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/16_revision/2022_seance_06_04.pdf">Séance du 06 04 2022 : probabilité </a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/16_revision/2022_seance_11_04.pdf">Séance du 11 04 2022 : suites </a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/16_revision/2022_seance_13_04.pdf">Séance du 13 04 2022 : fonctions </a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/16_revision/2022_seance_20_04.pdf">Séance du 20 04 2022 : géométrie dans l'espace </a>
+<h3>Séances de révisions 2021</h3>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/16_revision/2021_seance_25_05.pdf">Séance du 25 05 2021 : fonction exp, suite et probabilité </a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSpe/16_revision/2021_seance_31_05.pdf">Séance du 31 05 2021 : Probabilité et géométrie dans l'espace</a>
+ 	</div>
+</div>
+<div id="sidebar">
+	<section>Page mise à jour le 01/10/26</section>
+	<section id="last-actus">
+ <!--p>	Pr&eacute;parer le Bac &agrave; tout &acirc;ge !</p-->
+	<p><a target="_blank" href="https://www.lyceedadultes.fr/sitepedagogique/documents/adm/CV_Paul_Milan_site.pdf">Votre webmaster</a></p>
+	<p> </p>
+	</section>
+	<section></section>
+	<section id="last-actus">
+	<p><a href="https://portablepython.com/wiki/PortablePython3.2.5.1">Téléchargement Python<br> <img style="border: 0px solid ; width: 50px; " src="../images/logo-python.png" hspace="10"></a></p>
+	<p><a href="https://www.lyceedadultes.fr/sitepedagogique/documents/adm/Tle_Maths_Specialite.pdf">BO Programme 2020</a></p>
+	<p><a href="https://www.education.gouv.fr/bo/21/Hebdo30/MENE2121273N.htm">BO Épreuve 2022</a></p>
+	<p><a href="https://www.lyceedadultes.fr/sitepedagogique/documents/adm/Grand_oral_mathematiques.pdf">BO Grand oral maths 2021</a></p>
+	<p><a href="https://www.apmep.fr/Annales-Terminale-Generale#Enseignement-de-specialite">Annales spécialité (APMEP) <br> </a></p>
+	<p><a href="mathTermSpe_controlesdevoirs.html">Contrôles, devoirs et bacs blancs</a></p>
+	<p><a href="mathTermS_plus_CPGE_L1math.html">Préparer son année de supérieur</a></p>
+	<p><a href="mathTermS.html">Archives cours TermS</a></p>
+	<p><a href="mathTermS_controlesdevoirs.html">Archives contrôles Term S </a></p>
+	<p><a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/autres_documents/Termes_mathematiques.pdf">Termes mathématiques</a></p>
+ </section>
+</div>
+</section>
+<section id="content">
+ <div>
+	<div>
+ <br>
+ <h1> Maths 1ère spé</h1>
+<br>
+<br>
+<h2>Publications</h2>
+<h2>Programmation</h2>
+ <a href="https://www.numworks.com/fr/simulateur/">Emulateur NumWorks</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/00_algorithmes/prise_en main_python_ti_83_ce.pdf">Prise en main Python sur TI 83 CE</a>
+<span style="color: navy;font-size:10pt" ;=""> (Delphine Ducroux - Lycée Gustave Effel)</span>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/01_rappels_suites_algorithme/rappels_programmation_ti_82.pdf">Programmation TI-Basic</a>
+<h2>Traductions des termes mathématiques</h2>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/autres_documents/cours_traduction_anglais_termes_mathematiques.pdf">Traduction français-anglais des termes mathématiques</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/autres_documents/cours_translating_french_mathematics_terms.pdf">Traduction anglais-français des termes mathématiques</a>
+<h2>Pour bien démarrer</h2>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/00_Referentiel/conseils_pour_etudier_mathematiques.pdf">Conseils pour étudier les mathématiques</a>
+<br>
+<h2>Epreuve anticipée de mathématiques du 12 juin 2026 (sans calculatrice - coef 2)</h2>
+<!--li>Epreuves pour les non spécialistes : <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/sujet-non_spe-1.pdf">Sujet 1</a> - <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/sujet-non_spe-2.pdf">Sujet 2</a> - <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/sujet-non_spe-3.pdf">Sujet 3</a></li-->
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/Ctrle_devoir_25_26/2026_12_06.pdf">Epreuve pour les spécialistes du 12 juin 2026</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/Ctrle_devoir_25_26/2026_12_06_correction.pdf">Epreuve pour les spécialistes du 12 juin 2026 - correction</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/Ctrle_devoir_25_26/2026_12_06_non_spe.pdf">Epreuve pour les non spécialistes du 12 juin 2026</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/Ctrle_devoir_25_26/2026_12_06_non_spe_correction.pdf">Epreuve pour les non spécialistes du 12 juin 2026 - correction</a>
+ <br>
+<h2>Epreuve du bac 2026 pour la spé maths abandonnée en terminale</h2>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/Ctrle_devoir_25_26/2026_sujet_bac.pdf">Sujet du 27 mai 2026</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/Ctrle_devoir_25_26/2026_sujet_bac_correction.pdf">Correction du sujet du 27 mai 2026</a>
+<br>
+<h2>Epreuve bac blanc pour l'épreuve anticipée de la première spé</h2>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/Ctrle_devoir_25_26/2026_BB_06_03.pdf">Sujet du 06 03 2026</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/Ctrle_devoir_25_26/2026_BB_06_03_correction.pdf">Correction du sujet du 06 03 2026</a>
+<h2>Rappels de seconde</h2>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/00_rappels_seconde/00_cours_equation_inequation_seconde.pdf">00 Cours : Equations et inéquations du premier degré (version 2019) </a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/00_rappels_seconde/00_exos_equation_inequation_seconde.pdf">00 Exercices : Equations et inéquations du premier degré (version 2019)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/00_rappels_seconde/schema_eq_ineq_1_degre.pdf">00 Schémas : Equations et inéquations du premier degré </a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/Ctrle_devoir_26_27/00_ctrle_24_09_2026.pdf">00 Contrôle sur rappels du seconde du 24 09 2026 </a> <img style="width: 83px; height: 18px;" src="../images/Nouveau_animation.gif">
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/Ctrle_devoir_26_27/00_ctrle_24_09_2026_correction.pdf">00 Contrôle sur rappels du seconde du 24 09 2026 - Correction </a> <img style="width: 83px; height: 18px;" src="../images/Nouveau_animation.gif">
+<h2>Algèbre</h2>
+<h3>Chapitre 1 : Le second degré</h3>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/01_second_degre/01_cours_second_degre.pdf">01
+Cours : Le second degré (version 2019)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/01_second_degre/01_exos_second_degre.pdf">01 Exercices : Le second degré (version 2019)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/01_second_degre/01_cours_equation_irrationnelles.pdf">01 Pour aller plus loin : Equations irrationnelles (version 2019)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/01_second_degre/schema_second_degre.pdf">01 Schémas : Le second degré </a>
+<h3>Chapitre 2 : Les suites</h3>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/02_suites/02_cours_suites.pdf">02 Cours : Les suites (version 2019)</a>
+<!--li><a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/02_suites/02_exos_suites.pdf">02 Exercices : les suites (version 2019)</a></li-->
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/02_suites/02_exos_suites_2022.pdf">02 Exercices : les suites (version 2022)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/02_suites/02_exos_suites_problemes.pdf">02 Problèmes sur les suites</a>
+<li style="list-style-image: url(../images/icone_internet_projet.png);"><a href="https://youtu.be/nNcUD24xu7U">Une vidéo sur la programmation d'une suite - Skol matematik</a>
+<li style="list-style-image: url(../images/icone_internet_projet.png);"><a href="https://www.youtube.com/watch?v=Su3T43PenMY">Une vidéo sur la somme des termes d'une suite arithmétique - Skol matematik</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/02_suites/02_cours_calcul_interets.pdf">02 Suite géométrique et calculs d'intérêts (version 2019)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/02_suites/02_cours_suite_fibonacci.pdf">02 La suite de Fibonacci (version 2019)</a>
+<!--li><a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/04_suites/04_cours_suite_fibonacci_correction.pdf">02 La suite de Fibonacci : correction</a></li-->
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/04_suites/schema_suites_1S.pdf">02 Schéma sur les suites arithmétique et géométrique. Etude d'une suite. Somme de termes</a>
+<h2>Analyse</h2>
+<h3>Chapitre 3 : Généralités sur les fonctions.</h3>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/03_generalites_fonctions/03_cours_generalites_fonctions.pdf">03 Cours : Fonctions généralités et fonctions de référence (version 2019)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/03_generalites_fonctions/03_exos_generalites_fonctions.pdf">03 Exercices : Fonctions généralités et fonctions de référence (version 2019)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/02_fctns_fctn_reference_variation_fctn_associees/02_schema_fctns_ref_variation_fctn_associees_degre.pdf">03 Schéma résumé sur les fonctions de référence et variation des fonctions associées (1S)</a>
+<!--li><a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/Ctrle_devoir_24_25/02_ctrle_28_11_2024_correction.pdf">03 Devoir pour le du 06 01 2025 sur les fonctions : correction</a> <img style="width: 83px; height: 18px;" src="../images/Nouveau_animation.gif" /></li-->
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/03_generalites_fonctions/03_cours_complement_valeur_absolue.pdf">03 Pour aller plus loin : Equations et inéquations avec des valeurs absolues (version 2019)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/02_fctns_fctn_reference_variation_fctn_associees/02_cours_methode_horner.pdf">03 Algorithme : Méthode de Horner pour calculer l'image d'un polynôme</a>
+<h3>Chapitre 4 : La fonction dérivée</h3>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/04_fonction_derivee/04_cours_fonction_derivee.pdf">04 cours : La fonction dérivée (version 2019)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/04_fonction_derivee/04_exos_fonction_derivee.pdf">04 Exercices :
+La fonction dérivée (version 2019)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/04_fonction_derivee/04_exos_revision_fonction_derivee.pdf">04 Exercices de révision sur la fonction dérivée</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/04_fonction_derivee/04_fiche_derivee_elementaire_regle.pdf">04 Tableau des dérivées des fonctions élémentaires et règles de dérivation (version 2019)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/03_derivation/03_schema_fctn_derivee.pdf">04 Schéma résumé sur la fonction dérivée (1S)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/03_derivation/03_bonus_07_01_2019.pdf">04 Bonus sur la fonction dérivée</a>
+<h3>Chapitre 5 : La fonction exponentielle</h3>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/05_fonction_exponentielle/05_Cours_fonction_exponentielle.pdf">05 Cours : La fonction exponentielle (version 2019)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/05_fonction_exponentielle/05_exos_fonction_exponentielle.pdf">05 Exercices : La fonction exponentielle (version 2019)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/05_fonction_exponentielle/05_exos_fonction_exponentielle_pb_exp.pdf">05 Problèmes sur la fonction exponentielle</a>
+<h3>Chapitre 6 : Trigonométrie et fonctions sinus et cosinus</h3>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/06_Trigo_fonctions_sin_cos/06_cours_trigo_sin_cos.pdf">06
+Cours : Les fonctions sinus et cosinus (version 2019)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/06_Trigo_fonctions_sin_cos/06_exos_trigo_sin_cos.pdf">06
+Exercices : Les fonctions sinus et cosinus (version 2019)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/01_rappels_suites_algorithme/fiche_trigonometrie.pdf">06 Formulaire de trigonométrie (1S)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/06_produit_scalaire/schema_angles_trigo_1S.pdf">06 Schéma angles orientés et trigonométrie (1S)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/05_vecteurs_colinearite/resume_equations_trigo_1S.pdf">06
+Schéma résumé sur les équations trigonométrique (1S)</a>
+<h2>Géométrie</h2>
+<h3>Pour bien démarrer la géométrie</h3>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math2S/06_configurations/06_geometrie_eucl_methode_tikz.pdf">Schémas géométrie euclidienne</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math2S/07_geometrie_vectorielle_et_analytique/07_geometrie_vectorielle_methode_tikz.pdf">Schémas géométrie vectorielle</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/05_vecteurs_colinearite/schema_vecteurs_geometrie_1S.pdf">05
+Schéma résumé sur les vecteurs - le point de vue géométrique</a>
+<h3>Chapitre 7 : Le produit scalaire et géométrie repérée</h3>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/07_produit_scalaire_geo_reperees/07_cours_prod_scalaire_geo_reperee.pdf">07 cours : Le produit scalaire et géométrie repérée (version 2019)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/07_produit_scalaire_geo_reperees/07_exos_prod_scalaire_geo_reperee.pdf">07 Exercices : Le produit scalaire et géométrie repérée (version 2019)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/05_vecteurs_colinearite/schema_droites_1S_2S.pdf">07
+Schéma résumé sur les droites du plan</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/05_vecteurs_colinearite/schema_vecteurs_analytique_1S.pdf">07
+Schéma résumé sur les vecteurs - le point de vue analytique</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/06_produit_scalaire/schema_produit_scalaire_1S.pdf">07 Schéma résumé sur le produit scalaire (1S)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/07_produit_scalaire_geo_reperees/07_cours_barycentre.pdf">07
+Pour aller plus loin : Notion de barycentre (version 2019)</a>
+<h2>Probabilité</h2>
+<h3>Chapitre 8 : Rappels de probabilité, probabilité conditionnelle et variable aléatoire</h3>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/08_proba_conditionnelle_variable_aleatoire/08_cours_probabilite_cond_var_aleatoire.pdf">08 cours : Probabilité conditionnelle et variable aléatoire (version 2019)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/08_proba_conditionnelle_variable_aleatoire/08_exos_proba_conditionnelle_variable_aleatoire.pdf">08 Exercices : Probabilité conditionnelle et variable aléatoire (version 2019)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/Ctrle_devoir_25_26/08_devoir_04_05_2026.pdf">08 Devoir : proba conditionnelle et v.a. pour le 04 04 2026</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/08_probabilite/08_cours_paradoxe_duc_toscane.pdf">08 : Le paradoxe du grand duc de Toscane</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/08_proba_conditionnelle_variable_aleatoire/08_cours_tirages.pdf">08 : Les trois sortes de tirages (version 2019)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/08_probabilite/resume_proba_discrete_loi_binomiale.pdf">08 Schémas résumés probabilité discrête (1S)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/08_probabilite/08_carte_bataille.pdf">08 La bataille au casino</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/08_probabilite/08_paris_en_ligne.pdf">08 Paris sportifs</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/08_probabilite/08_coup_de_poker.pdf">08 Poker et stratégie</a>
+<h2>Séances de révision</h2>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/09_revision/2021_seance_27_05.pdf">Séance du 27 05 2021 : Suite, fonction exponentielle et probabilité</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/09_revision/2021_seance_31_05.pdf">Séance du 27 05 2021 : Probabilité et variable aléatoire</a>
+<br>
+<h2>Epreuve du bac 2023 pour la spé maths abandonnée en terminale</h2>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/Ctrle_devoir_22_23/2023_sujet_bac.pdf">Sujet du 30 05 2023</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/Ctrle_devoir_22_23/2023_sujet_bac_correction.pdf">Correction du sujet du 30 05 2023</a>
+<h2>Documents Jérémy Klein et Patrice Guerut</h2>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/documents_jeremy_klein/01_equations_du_premier_degre.pdf">Equation du premier degré</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/documents_jeremy_klein/02_quelques_exercices_de_base_sur_le_second_degre.pdf">Quelques exercices de base sur le second degre</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/documents_jeremy_klein/03_ctrle_oct_2023_second_degre_correction.pdf">Contrôle sur le second degré 19 10 23 </a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/documents_patrice_guerut/01_Correction_DST_1_spe_Maths.pdf">DST 1 sur les suite (patrice Guerut)</a>
+ <a href="https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/documents_jeremy_klein/04_derivees_lycee_adultes_exercices_corriges.pdf">Exercices sur les dérivées avec correction</a>
+</div>
+</div>
+<div id="sidebar">
+	<section>Page mise à jour le 01/10/26</section>
+	<section id="last-actus">
